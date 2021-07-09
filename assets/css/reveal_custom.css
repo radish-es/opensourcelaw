@@ -1,0 +1,56 @@
+.reveal {
+    font-family: Cardo;
+}
+
+.reveal h1, .reveal h2, .reveal h3 {
+    color: #ffffff;
+    font-family: 'Jost', sans-serif;
+}
+
+.reveal h1 {
+    font-weight: 800;
+}
+
+.reveal h2 {
+    font-weight: 600;
+}
+
+.reveal ul {
+    list-style-type: square;
+}
+
+/** Title Slide **/
+
+section#title_slide h2 {
+    color: gray;
+}
+
+/** Agenda Slide **/
+
+section#agenda_slide h2 {
+    color: gray;
+}
+
+section#agenda_slide ol li {
+    padding-left: 20px;
+}
+
+section#agenda_slide ol li:first-child {
+    list-style: outside url('/media/one.png');
+}
+
+section#agenda_slide ol li:nth-child(2) {
+    list-style: outside url('/media/two.png');
+}
+
+section#agenda_slide ol li:nth-child(3) {
+    list-style: outside url('/media/three.png');
+}
+
+section#agenda_slide ol li:nth-child(4) {
+    list-style: outside url('/media/four.png');
+}
+
+section#agenda_slide ol li:nth-child(5) {
+    list-style: outside url('/media/five.png');
+}

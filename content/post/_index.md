@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Posts
 
 # View.
 #   1 = List
