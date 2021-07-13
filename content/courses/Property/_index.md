@@ -4,10 +4,8 @@ type: book  # Do not modify.
 summary: A course situating property law in Canada in its legal-historical context.
 ---
 
-Welcome to *Property in its Historical Context* at the Schulich School of Law, Dalhousie University. This first year course explores the political economy of property law in Canada from a legal-historical perspective. 
+Welcome to *Property in its Historical Context* at the Schulich School of Law, Dalhousie University. In this first year course, you will develop tools and skills for critically analyzing property as one key dimension of political economy in Canada. This course is built on the idea that these tools and skills can be usefully developed from a legal-historical perspective on patterns and structures of legal reasoning.
 
 ## Getting Started
 
-- Review the [Course Syllabus](./admin/syllabus) for basic information about the course.
-- Keep on track using the [Course Schedule](./admin/schedule) and [Reading List](./admin/reading-list).
-- Find all the [course reading materials](./readings/) in one place.
+A good starting point is to read the [Course Syllabus](./admin/syllabus) carefully, before turning to the reading materials for [Week 1](./readings/week1).

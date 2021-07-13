@@ -1,7 +1,7 @@
 ---
 linktitle: Admin
 summary: Admin
-weight: 10
+weight: 30
 icon: cogs
 icon_pack: fas
 title: Course Administration

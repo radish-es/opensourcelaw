@@ -1,8 +1,8 @@
 ---
-title: "Week 2 - Analyzing (Common Law) Legal Arguments"
+title: "Week 2 - Analyzing Common Law Arguments"
 linktitle: "Week 2"
 type: book
-date: "2021-05-11"
+date: "2021-07-13"
 weight: 3
 ---
 
@@ -10,11 +10,11 @@ weight: 3
 
 At the end of Week 1, I asked you to consider the *similarities* in the judges' arguments in *Harrison v Carswell*, rather than focus only on their disagreements. This week, we delve into those similarities in order to see how the deeper patterns of common law argument structure and constrain how judges and other legal actors think, write and speak.
 
-{{% callout note %}} 
+{{% callout warning %}} 
 
-### Key point for this week:
+### Key point this week
 
-**Common law arguments are highly patterned, and the structure of those arguments — though not necessarily the outcome of arguing — is predictable. These patterns of argument recur again and again in the cases we will read this year. Becoming proficient in legal arguments means being able to recognize and make use of these patterns.**
+Common law arguments are highly patterned, and the structure of those arguments — though not necessarily the outcome of arguing — is predictable. These patterns of argument recur again and again in the cases we will read this year. Becoming proficient in legal arguments means being able to recognize and make use of these patterns.
 {{% /callout %}}
 
 The patterns I am talking about here occur at two different levels. One level is the specific forms of argument and counter-argument we commonly see in all judicial decisions (e.g., "the plaintiff has a right to do X" vs "these facts justify a limitation on plaintiff's right to do X in the circumstances"). At another level are the broader currents in legal thought that determine which forms of argument and counter-argument are more likely to be seen as persuasive in any give context.
@@ -25,7 +25,7 @@ The recurring forms of legal argument and counter-argument we will study — wha
 
 Next, in Unit 2, we will start to uncover the deeper "grammatical" structure of common law property by studying how changing ideas about the market and the state influence and constrain the legal vocabulary of judges and lawyers during different historical eras. But for now, you can set aside this idea of legal grammar and focus on the new vocabulary you need to learn first. 
 
-### Argument Bites and Argument Types
+### Argument Bites
 
 To reiterate: the basic units of legal argument in common law property are limited to a small number of stereotypical "argument bites" that always come together in opposing pairs that we call "legal arguments" (argument bite and counter-argument bite).[^kennedy1991] Our task this week is to describe some of the main argument types that you'll encounter most frequently in property law and then to practice identifying these argument types in judicial decisions.
 
@@ -39,7 +39,7 @@ Here is a list of the argument types we will be working with this week, followed
 
 - Mediation
 
-#### Denial of Premise
+### Denial of Premise
 
 Denying the premise of an opposing argument bite is an attempt to undermine the factual or normative basis of that opposing bite. Denying a factual premise might look something like this:
 
@@ -57,7 +57,7 @@ Alternatively, denying a normative premise is a type of argument that addresses 
 
 In this second example, the question of who owns the land is not in dispute—instead, the parties are taking opposing positions on the property rights associated with ownership of land. 
 
-#### Symmetrical Opposition
+### Symmetrical Opposition
 
 In denial of premise-type arguments, both argument bites are in direct conflict; it seems that for one to be true, the other must be false. Each argument bite directly attacks a factual or normative premise of its opponent. Symmetric opposition works somewhat differently. Here, neither argument bite works to undermine the its opponent directly. Instead, in symmetric opposition each party appeals to the respective interests of plaintiff and defendant. The result, in many cases, is the appearance of talking past one another, as in this example:
 
@@ -65,7 +65,7 @@ In denial of premise-type arguments, both argument bites are in direct conflict;
 
 > Defendant: I have a right to freely express myself wherever I choose.  
 
-#### Counter-Theory 
+### Counter-Theory 
 
 Like in denial of premise-type arguments, counter-theories present a direct conflict between plaintiff and defendants' positions. But rather than attacking an underlying premise of the opposing argument bite, counter-theory-type arguments present directly conflicting theories that favour the preferred outcomes on opposing sides. Here is a common example of this argument type about the institutional role of common law courts:
 
@@ -79,7 +79,7 @@ Or, to give another example:
 
 > Defendant: formal title, backed by the authority of the state, is the basis of property in land. 
 
-#### Mediation 
+### Mediation 
 
 Mediation offers a sharp contrast to both symmetrical opposition and counter-theory because, in this form of argument, the opposing parties explicitly acknowledge a conflict between plaintiff's and defendant's claims, and offer different ways to resolve that conflict in their favour:
 
@@ -91,7 +91,7 @@ Mediation offers a sharp contrast to both symmetrical opposition and counter-the
 
 
 
-{{% callout note %}} 
+{{% callout exercise %}} 
 
 ### Exercise
 
@@ -99,7 +99,7 @@ Last week you encountered our first case, the Supreme Court of Canada's decision
 
 Your key task this week is to read *Harrison* again — closely — with a different goal in mind. Each of the different argument types described above appear in *Harrison*. I have colour-coded each of the argument bites as they appear in the text. Each colour corresponds to one argument type above. For each argument bite, you can jump to the related counter-argument of the opposing judge by clicking the drop-down link.
 
-Read each set of colour-coded argument/counter-argument together, then locate the correct answer on this {{< newtabref  href="https://opensourcelaw.limesurvey.net/695789?newtest=Y&lang=en" title="worksheet" >}}. 
+Read each set of colour-coded argument/counter-argument together, then try to figure out the argument type for the pair using this {{< newtabref  href="https://opensourcelaw.limesurvey.net/695789?newtest=Y&lang=en" title="worksheet" >}}. 
 
 Your goal in this exercise is to learn how the abstract argument types I described earlier are actually applied by the judges in practice. The actual arguments made by the judges are clearly much more complex than the simplified examples given above, but the basic patterns of argument and counter-argument are undoubtedly there. These patterns will become easier for you to recognize with practice. 
 

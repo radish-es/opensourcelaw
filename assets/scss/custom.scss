@@ -18,7 +18,7 @@ h2 {
 }
 
 h3 {
-    font-weight: 400;
+    font-weight: 500;
     font-size: 1.10em;
 }
 
@@ -31,6 +31,16 @@ ul {
     list-style-type: square;
 }
 
+main li {
+  margin-bottom: 1rem;
+}
+
+/* Audio controls */
+
+audio {
+  margin-bottom: 5px;
+}
+
 /* BUTTONS and SPOILER*/
 
 .btn {
@@ -38,18 +48,26 @@ ul {
 }
 
 .btn-primary {
-    background-color: #2c3e50;
-   margin: auto;
+  background-color: white;
+  margin: auto;
+  border-color: black;
+  color: black;
+  width: 100%;
 }
 
 .btn-primary:hover {
-    background-color: #1c2733;
+  background-color: black;
+  border-color: black;
+}
+
+.btn-primary:active {
+  background-color: black;
 }
 
 .card-body p {
     font-family: 'Jost';
     font-weight: 300;
-    font-size: 0.9em;
+    font-size: 1em;
     line-height: 1.5em;
 }
 
@@ -65,15 +83,54 @@ ul {
 
 /* CALLOUT */
 
-.alert-note {
-    background-color: white;
-    color: black;
-    border-color: #2c3e50;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+.alert {
+  padding-right: 2.5rem;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
 }
 
+.alert-note, .alert-exercise, .alert-warning {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
 
+.alert-note, .alert-exercise {
+    color: black;
+    border-color: black;
+}
+
+.alert-note {
+  background-color: white;
+}
+
+div.alert h3 {
+  margin-top: 5px;
+  margin-bottom: 20px;
+  padding-top: 2px;
+  font-family: Inter;;
+  font-weight: 600;
+}
+
+div.alert-exercise > div:first-child::before {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: #000;
+  content: '\f14b';
+}
+
+div.alert-exercise {
+  background-color: rgb(233, 239, 248);
+}
+
+div.alert-warning {
+  color: black;
+  background-color: #fffef5;
+  border-color: #fee400;
+}
+
+div.alert-warning > div:first-child::before {
+  color: #fee400;
+}
 
 /* Tooltip container */
 
@@ -112,7 +169,7 @@ ul {
   display:block;
 }
 
-/*Custom tweaks for quiz shotcode to make it work with academic -- see /layouts/shortcodes/quiz.html*/
+/*Custom tweaks for quiz shortcode to make it work with academic -- see /layouts/shortcodes/quiz.html
 
 fieldset {
     border: solid;
@@ -122,8 +179,6 @@ legend {
     width:auto;
 }
 
-/* Additional styling for quizes */
-
 .quiz label {
     margin-left: 20px;  
 }
@@ -131,8 +186,11 @@ legend {
 h2#quiz-header {
     font-size: 1.3em;
 }
+*/
 
 /* For colour-coding sections of text */
+
+#red .btn-primary, #orange .btn-primary, #green .btn-primary, #purple .btn-primary, #lightpurple .btn-primary {color:white;}
 
 #red, #red blockquote, #red .comment, #red .comment h4  {color:#800000;}
 

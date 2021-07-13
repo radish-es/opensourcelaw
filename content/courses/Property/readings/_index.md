@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Weekly Readings
 summary: Weekly readings for the course
-weight: 20
+weight: 40
 icon: book
 icon_pack: fas
 
