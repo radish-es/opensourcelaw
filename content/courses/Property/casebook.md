@@ -9,7 +9,7 @@ This casebook is part of an experimental project to the develop a fully open sou
 
 ## What is an "open source" casebook?
 
-Post-secondary teachers and institutions are increasingly interested in making learning materials more accessible to students and and to each other. Momentum has been building around the the development of "open educational resources" (OER) that are free to access in various digital formats online and make it possible for teachers to adapt and remix content to suit their own goals, needs and styles.
+Post-secondary teachers and institutions are increasingly interested in making learning materials more accessible to students and to each other. Momentum has been building around the development of "open educational resources" (OER) that are free to access in various digital formats online and make it possible for teachers to adapt and remix content to suit their own goals, needs and styles.
 
 One limitation of current OER models is that, while the *content* may be open and freely accessible, the various *platforms* used to host and publish that content are proprietary or difficult to set up, and they normally store content in formats that are incompatible with--or difficult to translate to--other platforms. 
 
