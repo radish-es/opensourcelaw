@@ -132,6 +132,7 @@ div.alert-warning > div:first-child::before {
   color: #fee400;
 }
 
+
 /* Tooltip container */
 
 .tooltip {
@@ -264,8 +265,7 @@ iframe {min-width: 100%;}
   background-color: #b4c4d1;
   color: black;
   transform: rotateY(180deg);
-  padding: 0px 10px 0px 10px;
-    line-height: 1.2em;
+  padding: 10px 10px 0px 10px;
 }
 
 
