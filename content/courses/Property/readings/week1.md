@@ -2,40 +2,173 @@
 title: "Week 1 - Introduction to the Course"
 linktitle: "Week 1"
 type: book
-date: "2020-12-19"
+date: "2021-09-08"
 weight: 2
 ---
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week1" target="_blank" rel="noopener">SLIDES</a>
+[{{< figure src="/media/kaleidoscope.jpg" caption="Source: Malcolm Lightbody on Unsplash">}}](https://unsplash.com/photos/TC2f02Iq8lE)
 
-## Course Overview ##
+For first-year law students, property law can be a kaleidoscopic subject: fragmentary, blinkered, sometimes disorienting. Property spans multiple legal traditions and offers up a disorderly patchwork of principles, rules and norms. It is full of apparent contradictions. 
 
-Before you read anything else this week, please read carefully through the [Course Syllabus](../../admin/syllabus).
+The are many possible ways to teach and learn about property, to make sense of and bring some order within the kaleidoscope. In this course, we will take a critical historical approach that may look different from your other first-year courses. More specifically, we will use the following question about law, history and political economy to thread the material together:
 
-The overall goal this course is to help you become proficient in analyzing legal arguments in their legal-historical context.
+> *How have legal rules about property produced Canada's liberal market economy over the past few hundred years and who benefits from the result?* 
 
-## Our First Case, and How to Read It ##
+In other words, we will take a social concept—*the market*—and try to develop a story about how law has realized one actual and particular version of that concept over time in the Canadian context.
 
-The first case we’ll read in this course — the Supreme Court of Canada’s decision in *Harrison v Carswell* — is about a labour dispute at a shopping mall in Winnipeg in the mid-1970s. That setting may not strike you as obviously important or exciting, but *Harrison* is arguably one of the most signifiant decisions ever issued by the Supreme Court for what it can tell us about the central problems and debates in property law, and — maybe more important still — about *how* judges and lawyers engage in those debates using the patterns and practices of legal argument.
+That Canada has a certain kind of market economy, along with that economy's particular distribution of benefits and burdens, is not predestined. Nor is it an accident. Legal rules—property foremost among them—are the product of choices that create background conditions for both market exchange and its regulation by the state. By taking a critical look at those choices and what constrains them, we have a better chance of understanding our current economic conditions and their potential for change. 
 
-There are several layers here that you’ll need to peel back in order to fully understand *Harrison*. We will do this one step at a time, and I will ask you to read the case more than once over the next few weeks. To start, watch the short screencast below. This will introduce you to the case and demonstrate a few strategies to help you quickly grasp the basics of the case before you delve more deeply into the judges’ reasons. 
+These are big ideas and I will have much more to say about this overarching frame in a few weeks. For now, simply be aware that such a frame exists and that we will return to it as a touchstone again and again throughout the course. 
 
-[Record screencase]
+## Course Syllabus ##
+
+Before you start to read the course materials, please familiarize yourself with the procedures and expectations for our course this year. Start by reading the [Course Syllabus](../../admin/syllabus) and reviewing the [Course Schedule](../../admin/schedule). These are the key documents you'll need to use throughout the year to understand the course logistics, expectations, policies and schedule for assigned readings.
+
+Ensure that you begin this week with a good understanding of:
+
+- [Course procedures](../../admin/syllabus#general-information) for communicating with me and arranging appointments outside of class meetings;
+
+- How to access the [course website and assigned materials](../../admin/syllabus#course-website-and-course-materials);
+
+- [Goals and expectations](../../admin/syllabus#course-goals-and-expectations) for class preparation and participation in class meetings;
+
+- How you will be [evaluated](../../admin/syllabus#evaluation) in the course; and
+
+- Your rights and responsibilities related to [accommodations, plagiarism and maintaining an inclusive classroom](../../admin/syllabus#accommodations).
+
+I will highlight some key points from these materials at the beginning of this week's class meeting and make time for your questions about the syllabus. If questions arise as you read the syllabus for the first time, you can submit them to me (anonymously) ahead of time using the form below. 
+
+{{% callout exercise %}} 
+
+### Syllabus Questions
+
+Ask your questions about the Course Syllabus here. I will review these before our first class and give answers to the class as a whole when we meet. Your submissions are anonymous.
+<iframe src="https://opensourcelaw.limesurvey.net/723337" height="300"frameBorder="0"></iframe>{{% /callout %}}
+
+## Learning in Mi'kmaw Territory ##
+
+Our class meetings take place in Mi'kmaw territory, and a big part of our course will be about laws that govern or otherwise affect Indigenous lands. 
+
+Many of you will be familiar with the concept of a *land acknowledgement* — the practice of acknowledging the Indigenous territory on which a class, event or meeting is taking place and recognizing or reaffirming the treaty relationships in that territory. A land acknowledgement often used at Dalhousie looks similar to or builds on this statement:
+
+> *Dalhousie University is located in Mi'kma'ki, the ancestral and unceded territory of the Mi'kmaq. We are all Treaty people.*
+
+Statements like these play a crucial role in building awareness and renewing ongoing relationships between settler and Indigenous communities. They are especially important for our course, where we will aim for a deeper understanding of legal concepts like "unceded territory" and "Treaty".
+
+One challenge associated with land acknowledgements is that they do not always give the impression of being meaningful or genuine—especially if they come across as formulaic or fail to address the ongoing injustices faced by Indigenous people. That is not a criticism of the practice of land acknowledgements—it is motivation to reflect on the question: *what does acknowledging Mi'kmaw territory mean to you?*
+
+{{% callout exercise %}} 
+
+### Draft a Land Acknowledgement
+
+<iframe src="https://native-land.ca/wp-content/themes/Native-Land-Theme/embed/embed.html?maps=territories,treaties&name=mi-kmaq" height="400" width="400"></iframe>
+
+Beginning in 1725, the Mi'kmaq and British entered into and periodically renewed a series of nation-to-nation agreements—treaties—that are still in force today. We will look at these treaty relationships in detail in Week 7. This week we want to highlight one aspect of how these treaty relationships have been interpreted—namely that, in entering these relationships, the Mi'kmaq did not agreed or purport to give up, sell or otherwise "cede" their legal authority over or rights in their lands.
+
+As individuals, you likely come to this course with a range of different understandings and experiences about what else these treaty relationships mean and how they do or should impact your lives. One way to build and communicate this understanding is to try to create your own land acknowledgement. 
+
+**In a few sentences (no more than a paragraph), draft a land acknowledgement that you might use to introduce a meeting or presentation at the law school.** As you do so, consider the following questions:
+
+- What are the purposes and functions of this land acknowledgement? What do you hope to achieve with it?
+
+- What questions does the process of drafting this land acknowledgement raise for you? What more do you want or need to learn about the relationships that underpin this acknowledgement?
+
+- Sometimes a land acknowledgement contains a statement "welcoming" participants to the territory. When might such a statement be appropriate or inappropriate?
+
+Please bring your written acknowledgement to our first class — we will take some time to discuss these together.
+{{% /callout %}}
+
+## "Law" in this Course ##
+
+Property law in Canada is comprised of multiple legal orders—Canada is a "multi-juridical" country. Those multiple orders include the Anglo-Canadian common law order, the Franco-Canadian civil law order, and the many diverse Indigenous legal orders that preceded colonial settlement by the British and French and which in many communities persist and continue to thrive. Indigenous legal orders are often not afforded the same respect as other legal orders by settlers and settler institutions, and they have been—in some cases continue to be—violently suppressed or ignored.
+
+We will not study civil law in this course. We will address both common law (including common law doctrines *about* Indigenous peoples) and aspects of some Indigenous legal orders, as well as their points of intersection. We will also delve into general principles that recognize the legal authority of Indigenous nations and their inherent right to self-governance. 
+
+It is important to acknowledge, however, that most of the material we read and analyze in the course is based in the Anglo-Canadian common law tradition. We will aim to be careful to recognize when and how that emphasis risks—even implicitly—reinforcing certain stereotypes about what counts as law and legal reasoning, and we will try to ask the critical question of how the course might better reflect Canada as a multi-juridical country.
+
+{{% callout warning %}} 
+
+### A Note on Terminology
+
+I will try to use the general term "law" in this course to mean any operative system of law but not to refer to any particular legal tradition, as in "law helps us to resolve our disputes and live together in a political community." When talking about a specific legal tradition I will try to label it with as much detail as possible, e.g. "(Anglo-Canadian) common law", "Mi'kmaw law". This practice will aim to reinforce the point that, while these legal orders may look different, they should each be afforded respect and critical attention. 
+{{% /callout %}}
+
+## Patterns of Common Law Argument ##
+
+In our first unit of the course, [Weeks 1 to 3,](../../admin/schedule) we will begin to examine certain patterns of common law legal arguments. By this I mean the expected patterns of argument and counter-argument that we tend to get from common law lawyers and judges in courtroom settings, legal decisions, lawyers' briefs and the like. As we will see, these patterns are the basic building blocks of legal argument in the common law tradition and, once you learn to recognize them, you will see that they tend to repeat and reproduce themselves again and again, in case after case.
+
+But before we begin to study the arguments that common law lawyers and judges make, I would like you to think about what kinds of everyday arguments *you* would make or expect to see when confronted with a problem about property. By starting here, we will be able to see some of the similarities and differences between the patterns arguments typically made by lawyers and by non-lawyers.
+
+{{% callout exercise %}} 
+
+### Property in Your Cells
+
+![](/media/hela_cells02.jpg)
+
+Various legal rules aim to protect a person's bodily integrity. But in some cases, a person's biological cells might be removed from their body. Consider the following question:
+
+> *Should people continue to have ownership of their biological cells once those cells are removed from their body?*
+
+Listen to the *Radiolab* podcast below as you think about how you would answer this question and the *arguments* you would use to support that answer. You may also want to think about how you would define "ownership" in this context.
+
+Write down your answer and bring it to class. 
+
+<audio controls><source src="https://www.dropbox.com/s/e1riae58o4h67ys/radiolab_henriettalacks.mp3?raw=1" type="audio/mpeg"></audio>
+
+Source and transcript: <i class="fas fa-podcast"></i> [*Radiolab Extra: Henrietta Lacks*](https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-extra-henrietta-lacks)
+{{% /callout %}}
+
+We will discuss your answers when we meet this week, but we won't look at a "legal" answer to this problem just yet. Instead, for the remainder of this week and next, we will develop a method for identifying common patterns of legal argument. We'll return to the problem of property in human cells and practice applying this method in Week 3. 
+
+{{% callout warning %}} 
+
+### Pause!
+
+Normally, I suggested that you read the full material for each week before attending the first class for that week. Week 1 is an exception. I suggest that you pause here, and return to the next section after our first class meeting (but before the second meeting).
+{{% /callout %}}
+
+## Reading Our First Case ##
+
+The first case we’ll read in this course — the Supreme Court of Canada’s decision in *Harrison v Carswell* — is about a labour dispute at a shopping mall in Winnipeg in the mid-1970s. That setting may not strike you as obviously important or exciting, but *Harrison* is arguably one of the Supreme Court's most important decisions for what it reveals about the central problems and debates in property law, and — more important still — for what it shows us about *how* judges and lawyers engage in those debates using the patterns and practices of common law legal argument.
+
+There are several layers here that we will peel away in order to fully appreciate *Harrison*. We will undertake this project one step at a time, and I will ask you to read the case more than once — from a few different perspectives — over the next two weeks. 
+
+Before you jump into the case as a whole, watch the short screencast below to start building a few essential strategies for reading *Harrison* and other complex cases in our course.
+
+{{% callout exercise %}} 
+
+### Exercise: Quick Case Review
+
+A simple strategy for quickly reviewing a case:
+
+1. Read the facts closely.
+
+2. Skip ahead to find out where each judge lands in their final decision.
+
+3. Work through the case text in detail, paragraph by paragraph, stopping at after each main point or issue to reflect on what you've learned.
+
+{{< vimeo 600322605 >}}
+{{% /callout %}}
+
+{{% callout exercise %}} 
+
+### Quiz
+
+
+<iframe src="https://opensourcelaw.limesurvey.net/666313" height="650"frameBorder="0"></iframe>{{% /callout %}}
+
+Once you've completed the quiz above, move on to step 3 of the case review strategy: read the full case as closely as possible. You will likely find some terms and concepts a little confusing; others you might find totally incomprehensible. This is completely normal. Try not to get too discouraged if you find that reading cases is frustrating at first. Keep going — this will get easier as you practice, even if it feels like treading water for now. I encourage you to take the case in chunks, using the prompts along the way to pause your reading and take stock of what you're learning or finding it hard to understand.
 
 ## *Harrison v Carswell*, [1976] 2 SCR 200 ##
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/harrison.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/harrison.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/harrison.pdf" target="_blank" rel="noopener">PDF</a>
 
 **Dickson J.** (Martland, Judson, Ritchie, Pigeon, and de Grandpré JJ. concurring) —
 
-[1] The respondent, Sophie Carswell, was charged under <span data-text="The relevant provision reads: 1(1) … (b) who enters or in any way trespasses upon lands or premises that are the property of another and are not wholly enclosed, after being requested by the owner, tenant or occupier not to do so, or who, having entered the lands or premises or committed the trespass, refuses to leave upon being requested by the owner, tenant or occupier to do so; is guilty of an offence, whether or not any damage has been occasioned by the entry or trespass, and is liable on summary conviction to a fine of not more than $5,000." class="tooltip">*The Petty Trespasses Act*, R.S.M. 1970, c. P50</span>, with four offences (one on each of four days) of unlawfully trespassing upon the premises of the Fairview Corporation Limited, trading under the firm name and style of Polo Park Shopping Centre, located in the City of Winnipeg, after having been requested by the owner not to enter on or come upon the premises. The appellant, Peter Harrison, manager of Polo Park Shopping Centre, swore the informations. The charges were dismissed by the Provincial Judge but on a trial de novo in the County Court Mrs. Carswell was convicted and fined $10 on each of the charges. The convictions were set aside by the Manitoba Court of Appeal [1974] 4 W.W.R. 394 (Freedman C.J.M. and Matas J.A., with Guy J.A. dissenting) and the present appeal followed by leave of this Court.
+[1] The respondent, Sophie Carswell, was charged under *The Petty Trespasses Act*, R.S.M. 1970, c. P50, with four offences (one on each of four days) of unlawfully trespassing upon the premises of the Fairview Corporation Limited, trading under the firm name and style of Polo Park Shopping Centre, located in the City of Winnipeg, after having been requested by the owner not to enter on or come upon the premises. The appellant, Peter Harrison, manager of Polo Park Shopping Centre, swore the informations. The charges were dismissed by the Provincial Judge but on a trial de novo in the County Court Mrs. Carswell was convicted and fined $10 on each of the charges. The convictions were set aside by the Manitoba Court of Appeal [1974] 4 W.W.R. 394 (Freedman C.J.M. and Matas J.A., with Guy J.A. dissenting) and the present appeal followed by leave of this Court.
 
-{{< spoiler text="Justice Dickson's first set of arguments: role of precedent." >}}
+{{< spoiler text="Justice Dickson's first group of arguments: applying past cases." >}}After briefly reciting the key facts (as he sees them), Justice Dickson jumps right into his first group of arguments in favour of upholding the charges in trespass against Sophie Carswell.
 
-After briefly reciting the key facts (as he sees them), Justice Dickson jumps right into his first group of arguments — arguments which support the majority’s position that Sophie Carswell ought to lose this case. 
-
-The unifying theme behind these the arguments in paragraphs [2] - [8] concerns the proper role of *judicial precedent*, that is, of past cases — especially those decided by the Supreme Court. Unusually, there was another case on similar facts called *Peters* that came before the Supreme Court just a few years before *Harrison*. Justice Dickson’s arguments focuses on how *Peters* should be applied here.
-
-{{< /spoiler >}}
+The focus of Justice Dickson's arguments here is an earlier case decided by the Supreme Court called *Peters v the Queen*, which had some very similar facts to the current dispute. As you read paragraphs [2] to [8], consider: **Why does Justice Dickson bring up the *Peters* case here? How does *Peters* support his preferred outcome in the current case?**{{< /spoiler >}}
 
 [2] With great respect, I am unable to agree with the majority reasons, delivered in the Court of Appeal by Freedman C.J.M., for I find it difficult, indeed impossible, to make any well-founded distinction between this case and *Peters v. The Queen* (1971), 2 C.C.C. (2d) 339n, 17 D.L.R. (3d) 128, decided by this Court four years ago in a unanimous decision of the full bench. The constitutional issue raised in *Peters* no longer concerns us; the only other issue was whether the owner of a shopping plaza had sufficient control or possession of the common areas, having regard to the unrestricted invitation to the public to enter upon the premises, as to enable it to invoke the remedy of trespass. The Court decided it did. That case and the present case came to us on much the same facts; picketing within a shopping centre in connection with a labour dispute. In *Peters* the picketing was carried out by the president of the Brampton Labour Council and seven other persons, carrying placards and distributing leaflets in front of a Safeway store, seeking a boycott of Safeway for selling California grapes. In the present case the picketing was carried out by Mrs. Carswell and 11 other persons carrying placards and distributing leaflets in front of the premises of their employer, Dominion Stores. In both instances the picketing was peaceful. Although the question posed in *Peters* did not recite the facts upon which the case rested, the question was worded thus:
 
@@ -63,13 +196,11 @@ The unifying theme behind these the arguments in paragraphs [2] - [8] concerns t
 
 > … while public authorities may, on behalf of the community, strike a reasonable balance between traffic and picketing on public sidewalks and streets, the shopping centre owner can hardly be expected to make such a choice; he has no authority to speak for the community; to grant picketing or parading privileges to all would invite chaos, while to do so selectively would invite commercial reprisals. He is thus driven to adopt a highly restrictive approach to granting permission to groups who wish to parade or picket in the shopping centre.
 
-{{< spoiler text="Justice Dickson's second set of arguments: balancing interests and values." >}}
+{{< spoiler text="Justice Dickson's second set of arguments: balancing interests." >}}To this point, Dickson has focused his attention on *Peters* as the key judicial precedent that resolves the current case. In paragraph [8], Justice Dickson dismisses any reasons for distinguishing this case from *Peters*: the mall’s rules against picketing and pamphleting were the same for members of the public and tenants of the mall, and the mall owner wasn’t acting capriciously or in bad faith against the picketers. Indeed, in Justice Dickson’s view, the mall owner was simply and quite legitimately acting in their own interests in governing the mall property. 
 
-To this point, Dickson has focused his attention on *Peters* as a key judicial precedent in resolving the current case. In paragraph [8], Justice Dickson dismissed any reasons for distinguishing this case from *Peters*: the mall’s rules against picketing and pamphleting were the same for members of the public and tenants of the mall, and the mall owner wasn’t acting capriciously or in bad faith against the picketers. Indeed, in Justice Dickson’s view, the mall owner was clearly and simply acting in their own legitimate interests in governing the mall property. 
+Next, beginning at paragraph [9], Justice Dickson flows—suddenly, but seamlessly—into a new set of arguments. Having identified the mall owner’s interests in governing the mall—namely, their economic interests in maintaining order and staying on good terms with the mall tenants—Justice Dickson is now engaging arguments about the further significance of those interests. Here, the question for Justice Dickson becomes whether or not the Court can and should balance the mall owner’s interests against those of Sophie Carswell and the other picketers in exercising their lawful labour rights. 
 
-Now, watch what happens next. Having identified the mall owner’s interests in governing the mall—namely, their economic interests in maintaining order and staying on good terms with the mall tenants—Justice Dickson’s reasoning then flows smoothly, almost seamlessly into a second set of arguments about the further significance of those interests. Here, the question for Justice Dickson becomes one about whether or not the Court can and should balance and weight the mall owner’s interests against those of Sophie Carswell and the other picketers in exercising their lawful labour rights. 
-
-{{< /spoiler >}}
+Notice that Justice Dickson never actually engages in such a balancing exercise—that is, he does not identify whose interests are more important here. Why not? What reasons does he offer for declining to weigh Carswell's interests against those of the mall owner?{{< /spoiler >}}
 
 [9] It is urged on behalf of Mrs. Carswell that the right of a person to picket peacefully in support of a lawful strike is of greater social significance than the proprietary rights of an owner of a shopping centre and that the rights of the owner must yield to those of the picketer. The American example has been cited but I cannot say that I find the American cases to which we have been referred of great help. The facts in *Schwartz-Torrance Investment Corpn. v. Bakery and Confectionery Workers' Union, Local 31* (1964), 394 P. 2d 921, 85 S. Ct. 888, decided by the Supreme Court of California, are almost identical with those in *Grosvenor Park* but I think it not unimportant to note that in *Schwartz-Torrance* Tobriner J., early in his judgment, drew attention to the fact that the Legislature of the State of California had expressly declared that the public policy of the state favoured concerted activities of employees for the purpose of collective bargaining and had enacted the policy into an exception to the criminal trespass law. Construing that exception, the California Supreme Court in a case antedating *Schwartz-Torrance* had concluded that the Legislature, in dealing with trespasses, had specifically subordinated the rights of the property owner to those of persons engaged in lawful labour activities. *Schwartz-Torrance* is, therefore, of small aid in this case and indeed can be said to support, in a negative sense, a position inimical to that of Mrs. Carswell. And one need only read *Amalgamated Food Employees' Union, Local 590 v. Logan Valley Plaza Inc.* (1968), 391 U.S. 308, and then read *Lloyd Corpn. v. Tanner* (1972), 407 U.S. 551, 92 S. Ct. 2219, to apprehend the uncertainties and very real difficulties which emerge when a court essays to legislate as to what is and what is not a permissible activity within a shopping centre.
 
@@ -99,11 +230,20 @@ Now, watch what happens next. Having identified the mall owner’s interests in 
 
 [16] I would be content to adopt the reasons of Freedman C.J.M. [1974] 4 W.W.R. 394 and, accordingly, to dismiss this appeal without more if I did not feel compelled, in view of the course of argument, to add some observations bearing on the decision of this Court in *Peters v. The Queen* (1971), 2 C.C.C. (2d) 339n, 17 D.L.R. (3d) 128, dismissing an appeal from the judgment of the Ontario Court of Appeal, [1971] 1 O.R. 597, 2 C.C.C. (2d) 336, 16 D.L.R. (3d) 143. The observations I am about to make about the *Peters* case carry into two areas of concern respecting the role of this Court as the final Court in this country in both civil and criminal causes. Those areas are, first, whether this Court must pay mechanical deference to stare decisis and, second, whether this Court has a balancing role to play, without yielding place to the Legislature, where an ancient doctrine, in this case trespass, is invoked in a new setting to suppress a lawful activity supported both by legislation and by a well-understood legislative policy.
 
+{{< spoiler text="Introducing Chief Justice Laskin's responding arguments." >}}Like Justice Dickson, Chief Justice Laskin identifies *Peters* as the central focus of his arguments. Here, Laskin nicely maps his response, first, to Dickson's arguments about judicial precedent and, second, to the issue of balancing competing interests. 
+
+Notice that Chief Justice Laskin is a master at framing these two issues in ways that presage and clearly favour the conclusions he wants to reach.
+{{< /spoiler >}}
+
 [17] The factual setting for these issues in the present case needs no great elaboration. The locale is a shopping centre in which a large number of tenants carry on a wide variety of businesses. The shopping centre has the usual public amenities such as access roads, parking lots and sidewalks which are open for use by members of the public who may or may not be buyers at the time they come to the shopping centre.
 
 [18] There can be no doubt that at least where a shopping centre is freely accessible to the public, as is the one involved in the present case, the private owner has invested members of the public with a right of entry during the business hours of his tenants and with a right to remain there subject to lawful behaviour. Counsel for the appellant owner in this case stated that members of the public entered and remained in the shopping centre at the owner's whim, under what may be called a revocable licence, and were subject to liability for trespass if they did not leave when requested regardless of how proper their conduct was at the time. This is an extravagant position. It is a sufficient demonstration of its hollowness to point out that a member of the public who came to the shopping centre at the express invitation of a tenant for business reasons could not lawfully be excluded by the private owner. I need not pursue the extreme of the appellant's submission but put it to one side to deal with the specific trespass claim that arose here.
 
 [19] An employee of a tenant in the shopping centre participated in a lawful strike and then proceeded to picket peacefully on the sidewalk in front of the tenant's premises. The struck employer took no action to prohibit the picketing and, on the record, an action by the employer would probably have been unsuccessful. The owner of the shopping centre introduced himself into the situation and told the picketer, the respondent in this appeal, that picketing was not permitted in any area of the shopping centre and if she did not leave she would be charged with trespass. He advised her to move to a public sidewalk which was some distance away. She continued to picket on the shopping centre sidewalk and charges against her under The Petty Trespasses Act, R.S.M. 1970, c. P50, followed.
+
+{{< spoiler text="Chief Justice Laskin's view on applying past cases." >}}Laskin offers at least *four* distinctive arguments about why the Court's decision in *Peters* should not be determinative in this case. 
+
+Can you identify one or more of these arguments in paragraphs [20] to [28]?{{< /spoiler >}}
 
 [20] The *Peters* case, supra, also involved picketing in a shopping centre. However, the picketing there arose not out of a labour dispute with an employer tenant of premises in the shopping centre but was by way of a boycott appeal against the selling of California grapes. The oral reasons of Gale C.J.O. for the Ontario Court of Appeal were undoubtedly geared to the specific facts before him and it is therefore unfair, in my view, to read, without that context, his general statement that [p. 146]:
 
@@ -126,6 +266,10 @@ Now, watch what happens next. Having identified the mall owner’s interests in 
 [27] I do not have to call upon pronouncements of members of this Court that we are free to depart from previous decisions in order to support the pressing need to examine the present case on its merits. Pressing, because there are probably many hundreds of shopping centres in this country where similar issues have arisen and will arise. The Saskatchewan Court of Appeal has dealt with a picketing situation in a shopping centre in a different way than did the Ontario Court of Appeal in the *Peters* case, albeit on different facts and in respect of civil action rather than in a penal proceeding: see *Grosvenor Park Shopping Centre Ltd. v. Waloshin* (1964), 49 W.W.R. 237, 46 D.L.R. (2d) 750 (Sask. C.A.). There are judgments in related cases, that were cited to us in argument, that need to be taken into consideration in order to enable this Court to begin to draw lines which courts are habitually called upon to do. There should be, at least, some indication that the Court has addressed itself to the difficult issues that reside in the competing contentions that were made in this case and to which I will refer later on in these reasons. But, above all, this Court has not shown itself to be timorous in tackling important issues where it could be said, with some justification, that an important consideration was absent from an earlier judgment, even a recent one, upon which reliance was placed to foreclose examination of a similar issue in a subsequent case.
 
 [28] I refer to the judgment of this Court in *Augustine's Farm Dairy v. Milk Commn. of Ont.*, [1973] S.C.R. 131, as evidence of the approach which I think is compelled in the present case. Of course, it was a different case and turned on the neglect of this Court to consider earlier conflicting decisions when deciding the case that was pressed as an authority to conclude the decision in the *Augustine's Farm Dairy* care itself. What is important, however, is not whether we have a previous decision involving a "brown horse" by which to judge a pending appeal involving a "brown horse", but rather what were the principles and, indeed, the facts, upon which the previous case, now urged as conclusive, was decided. I need only add that there can be no doubt on the question whether the present case provides a developed set of facts that raise the important issues of law that require decision here. It certainly does.
+
+{{< spoiler text="Chief Justice Laskin's view on balancing interests." >}}Having responded to Justice Dickson's arguments about applying *Peters*, the Chief Justice then moves on to Dickson's second set of arguments. Remember that Justice Dickson declined to engage in an attempt to balance the interests at stake. Clearly, Laskin thinks the Court should undertake such a balancing. 
+
+How does Chief Justice Laskin define those competing interests in the final paragraphs of his judgement? What principle does he offer as a means to achieve an appropriate balance?{{< /spoiler >}}
 
 [29] I come then to those issues, and they can only be understood if we look at the present case not only from the position asserted by the shopping centre owner but as well from the position asserted by the lawful picketer. An ancient legal concept, trespass, is urged here in all its pristine force by a shopping centre owner in respect of areas of the shopping centre which have been opened by him to public use, and necessarily so because of the commercial character of the enterprise based on tenancies by operators of a variety of businesses. To say in such circumstances that the shopping centre owner may, at his whim, order any member of the public out of the shopping centre on penalty or liability for trespass if he refuses to leave does not make sense if there is no proper reason in that member's conduct or activity to justify the order to leave.
 
@@ -161,8 +305,24 @@ Now, watch what happens next. Having identified the mall owner’s interests in 
 
 [41] I would dismiss the appeal.
 
-## Case Context ##
+## Why Are We Reading *Harrison*? ##
 
-We will return to *Harrison v Carswell* again next week in order to look more closely at the legal arguments deployed by the judges. 
+While fairly mundane on its facts, *Harrison v Carswell* is compelling because the issues and arguments seem to transcend those facts, speaking to much bigger questions about law and legal institutions. At this point, you might be wondering which judge — Dickson or Laskin — has marshalled the "better" set of arguments. Of course, Justice Dickson's reasoning wins out, insofar as the majority of judges on the Court agree with him. But this result is not necessarily a good justification for thinking that Justice Dickson's arguments are more *persuasive* — either to you as a new law student, to seasoned practicing lawyers, or to some future group of judges on the Supreme Court. 
 
-Our main focus in studying *Harrison* is to analyze the case’s *legal context*, i.e. the structure of the judges’ arguments. But in order to focus on that legal context, it is helpful to get a brief sense of the social and political contexts in which the case was taking place. 
+Next week, when we return to *Harrison v Carswell* for a second reading of the case, I will try to convince you that this question of who has the better or more persuasive arguments is not really an important question — or at least, it is not the *most* important question about *Harrison* — at this stage of your legal education. Rather than focusing on whether one or the other set of reasons are good or bad from a legal (or any other) standpoint, I will ask you to focus on the question of *how* the legal reasoning in *Harrison* actually works in practice. 
+
+Here is another way of posing this challenge for you to think about before Week 2. In spite of everything the judges in *Harrison* seem to disagree about, they actually agree about a great many things. Justices Laskin and Dickson share a tremendous amount in common when it comes to the underlying *structure* and *style* of their arguments. Our first task is to describe this underlying structure. Only once you have come to appreciate what the judges share in common can you begin to grapple with the consequences of their different points of view.
+
+## Check-out ##
+
+Before you move on to other work, ask yourself if you've absorbed key points from this week with the flip-cards below (cursor over for the answer).
+
+{{< flipcard front="How should ask your questions about the course materials?" >}}# In person
+
+([E-mail for appointment](../../admin/syllabus#general-information)).{{< /flipcard >}}
+
+{{< flipcard front="Which judicial **precedent** seems key to the outcome of *Harrison v Carswell*?" >}}# *Peters*  
+
+(Can you explain why?){{< /flipcard >}}
+
+{{< flipcard front="Which judge argues the common law should be responsive to social demands?" >}}# Laskin, CJ{{< /flipcard >}}
