@@ -2,7 +2,7 @@
 title: "Week 1 - Introduction to the Course"
 linktitle: "Week 1"
 type: book
-date: "2021-09-08"
+date: "2021-09-09"
 weight: 2
 ---
 
@@ -42,8 +42,12 @@ I will highlight some key points from these materials at the beginning of this w
 
 ### Syllabus Questions
 
-Ask your questions about the Course Syllabus here. I will review these before our first class and give answers to the class as a whole when we meet. Your submissions are anonymous.
-<iframe src="https://opensourcelaw.limesurvey.net/723337" height="300"frameBorder="0"></iframe>{{% /callout %}}
+
+<iframe src="https://opensourcelaw.limesurvey.net/723337" height="375"frameBorder="0"></iframe>
+
+<span class="not_working">Form not working? Try enabling cookies, or {{< newtabref  href="https://opensourcelaw.limesurvey.net/723337" title="open in a new tab" >}}.</span>
+
+{{% /callout %}}
 
 ## Learning in Mi'kmaw Territory ##
 
@@ -155,7 +159,11 @@ A simple strategy for quickly reviewing a case:
 ### Quiz
 
 
-<iframe src="https://opensourcelaw.limesurvey.net/666313" height="650"frameBorder="0"></iframe>{{% /callout %}}
+<iframe src="https://opensourcelaw.limesurvey.net/666313" height="650"frameBorder="0"></iframe>
+
+<span class="not_working">Form not working? Try enabling cookies, or {{< newtabref  href="https://opensourcelaw.limesurvey.net/666313" title="open in a new tab" >}}.</span>
+
+{{% /callout %}}
 
 Once you've completed the quiz above, move on to step 3 of the case review strategy: read the full case as closely as possible. You will likely find some terms and concepts a little confusing; others you might find totally incomprehensible. This is completely normal. Try not to get too discouraged if you find that reading cases is frustrating at first. Keep going — this will get easier as you practice, even if it feels like treading water for now. I encourage you to take the case in chunks, using the prompts along the way to pause your reading and take stock of what you're learning or finding it hard to understand.
 
