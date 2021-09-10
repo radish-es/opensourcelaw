@@ -3,7 +3,7 @@ title: Course Schedule
 linktitle: Schedule
 type: book
 weight: 2
-date: "2021-09-08"
+date: "2021-09-09"
 ---
 
 This document contains the weekly class meeting schedule with a brief description of each weekly topic and a list of assigned readings for that week.
@@ -18,7 +18,7 @@ We will meet in Weldon Room 207 throughout the year.
 
 ### [Week 2 (Sept 20/22)](../../readings/week2)
 
-**Analyzing Common Law Arguments** -  Having completed an initial read of *Harrison v Carswell* in Week 1, we will revisit this case using a more detailed framework for analyzing the typical patterns of common law argument. Notice that we're still working on understanding a single case. The aim at this point is to read deeply, not broadly.
+**Patterns of Common Law Argument** -  Having completed an initial read of *Harrison v Carswell* in Week 1, we will revisit this case using a more detailed framework for analyzing the typical patterns of common law argument. Notice that we're still working on understanding a single case. The aim at this point is to read deeply, not broadly.
 
 ### [Week 3 (Sept 27/29)](../../readings/week3)
 
