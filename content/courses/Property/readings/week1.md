@@ -2,7 +2,7 @@
 title: "Week 1 - Introduction to the Course"
 linktitle: "Week 1"
 type: book
-date: "2021-09-09"
+date: "2021-09-10"
 weight: 2
 ---
 
@@ -59,7 +59,7 @@ Many of you will be familiar with the concept of a *land acknowledgement* — th
 
 Statements like these play a crucial role in building awareness and renewing ongoing relationships between settler and Indigenous communities. They are especially important for our course, where we will aim for a deeper understanding of legal concepts like "unceded territory" and "Treaty".
 
-One challenge associated with land acknowledgements is that they do not always give the impression of being meaningful or genuine—especially if they come across as formulaic or fail to address the ongoing injustices faced by Indigenous people. That is not a criticism of the practice of land acknowledgements—it is motivation to reflect on the question: *what does acknowledging Mi'kmaw territory mean to you?*
+One challenge associated with land acknowledgements is that they do not always give the impression of being meaningful or genuine—especially if they come across as formulaic or fail to address the ongoing injustices faced by Indigenous people. That is not a criticism of the practice of land acknowledgements—it is motivation to reflect on the question: *what does acknowledging Mi'kmaw territory mean to you?*[^macdonald2021]
 
 {{% callout exercise %}} 
 
@@ -334,3 +334,5 @@ Before you move on to other work, ask yourself if you've absorbed key points fro
 (Can you explain why?){{< /flipcard >}}
 
 {{< flipcard front="Which judge argues the common law should be responsive to social demands?" >}}# Laskin, CJ{{< /flipcard >}}
+
+[^macdonald2021]: An excellent resource for thinking about and creating land acknowledgements is Chapter 3.5 in [Linda Macdonald, Building Relationships with Business Communication (Dalhousie Libraries Digital Editions Open Education Project](https://caul-cbua.pressbooks.pub/businesscommunication/chapter/indigenous-land-acknowledgments/)

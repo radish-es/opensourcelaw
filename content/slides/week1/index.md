@@ -1,6 +1,6 @@
 ---
 title: "Week 1"
-date: "April 20, 2021"
+date: "September 10, 2021"
 slides:
   theme: night
 ---
@@ -19,7 +19,13 @@ slides:
 
 1. Welcome and course overview
 
-2. Our first case
+2. Syllabus questions
+
+3. Land acknowledgements
+
+4. Property in your cells
+
+5. *Harrison v Carswell*
 
 ---
 
@@ -27,11 +33,11 @@ slides:
 
 ## Course Overview
 
-- Course website and materials[: everything in one place and open source.]
+- Course website and materials
 
-- Course procedures[: e-mail, meeting with me, etc. ]
+- Preparing for class
 
-- Preparing for class[: weekly readings; what to expect in class.]
+- Course procedures
 
 - Evaluation
 
@@ -45,27 +51,15 @@ slides:
 
 *To build a critical understanding of property's legal language in Canada.*
 
-[- "Legal language" = (vocabulary + grammar) and style
 
-- Unit 1: intro to vocabulary + grammar of common law of property in Canada
-
-- Units 2-4: key property doctrines through historical styles of legal argument (classical, modern, contemporary) -- story = making of Canadian liberalism 
-
-LITERARY EXAMPLE? 
-
-COMMENT ON LEGAL PLURALISM / MULTIJURIDICAL?
-]---
+---
 
 {{< slide id="">}}
 
 ## *Harrison v Carswell*
 
-[- purpose of reading this case
 
-- read paragraph 1 (Dickson's facts)
-
-- explain procedural history
-]---
+---
 
 {{< slide id="">}}
 
