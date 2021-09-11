@@ -3,7 +3,7 @@ title: Course Schedule
 linktitle: Schedule
 type: book
 weight: 2
-date: "2021-09-09"
+date: "2021-09-10"
 ---
 
 This document contains the weekly class meeting schedule with a brief description of each weekly topic and a list of assigned readings for that week.
@@ -22,6 +22,6 @@ We will meet in Weldon Room 207 throughout the year.
 
 ### [Week 3 (Sept 27/29)](../../readings/week3)
 
-**Practicing the Method** - In this final week of Unit 1, we will practice applying to method for analyzing common law arguments in previous weeks. Our case study here, a case called *Moore*, takes us back to an initial question about property and one's body from Week 1.
+**Practicing the Analysis** - In this final week of Unit 1, we will practice applying to method for analyzing common law arguments in previous weeks. Our case study here, a case called *Moore*, takes us back to an initial question about property and one's body from Week 1.
  
 
