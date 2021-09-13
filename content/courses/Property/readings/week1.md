@@ -2,9 +2,11 @@
 title: "Week 1 - Introduction to the Course"
 linktitle: "Week 1"
 type: book
-date: "2021-09-10"
+date: "2021-09-13"
 weight: 2
 ---
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week1" target="_blank" rel="noopener">SLIDES</a>
 
 [{{< figure src="/media/kaleidoscope.jpg" caption="Source: Malcolm Lightbody on Unsplash">}}](https://unsplash.com/photos/TC2f02Iq8lE)
 
@@ -94,7 +96,7 @@ It is important to acknowledge, however, that most of the material we read and a
 
 ### A Note on Terminology
 
-I will try to use the general term "law" in this course to mean any operative system of law but not to refer to any particular legal tradition, as in "law helps us to resolve our disputes and live together in a political community." When talking about a specific legal tradition I will try to label it with as much detail as possible, e.g. "(Anglo-Canadian) common law", "Mi'kmaw law". This practice will aim to reinforce the point that, while these legal orders may look different, they should each be afforded respect and critical attention. 
+I will try to use the general term "law" in this course to mean any operative system of law but not to refer to any particular legal tradition, as in "law helps us to resolve our disputes and live together in a political community."[Try to cite Napoleon here] When talking about a specific legal tradition I will try to label it with as much detail as possible, e.g. "(Anglo-Canadian) common law", "Mi'kmaw law". This practice will aim to reinforce the point that, while these legal orders may look different, they should each be afforded respect and critical attention. 
 {{% /callout %}}
 
 ## Patterns of Common Law Argument ##
