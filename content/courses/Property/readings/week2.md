@@ -2,7 +2,7 @@
 title: "Week 2 - Patterns of Common Law Argument"
 linktitle: "Week 2"
 type: book
-date: "2021-09-09"
+date: "2021-09-18"
 weight: 3
 ---
 
@@ -48,7 +48,7 @@ We are going to start off working with just four main argument types. Not every 
 
 This list of arguments types—and the broader analytical framework we are using this week—was developed by Duncan Kennedy in the early 1990s.[^kennedy1991] While Kennedy's approach has not been widely used in first-year legal education in Canada, I think it offers an invaluable tool for understanding the structure of legal arguments.
 
-The four key argument types we will be working with the week are:
+The four key argument types we will be working with this week are:
 
 - Denial of Premise 
 
@@ -80,9 +80,9 @@ In this second example, the question of who owns the land is not in dispute. Ins
 
 ### Symmetrical Opposition
 
-In denial-of-premise-type arguments, both argument bites are in direct conflict: it seems that for one to be true, the other must be false. Each argument bite directly attacks a factual or normative foundation of its opponent. Symmetric opposition works somewhat differently. Here, neither argument bite works to undermine the its opponent directly. Instead, in symmetric opposition each party appeals to their *own respective interests*, without directly attacking or undermining the interests of the other party. The result, in many cases, is the appearance of "talking past one another", as in this example:
+In denial-of-premise-type arguments, both argument bites are in direct conflict: it seems that for one to be true, the other must be false. Each argument bite directly attacks a factual or normative foundation of its opponent. Symmetric opposition works somewhat differently. Here, neither argument bite works to undermine its opponent directly. Instead, in symmetric opposition each party appeals to their *own respective interests*, without directly attacking or undermining the interests of the other party. The result, in many cases, is the appearance of "talking past one another", as in this example:
 
-> Plaintiff: I have a right to do what I want with my land.
+> Plaintiff: I have a right to do what I want on my land without interference from others. 
 
 > Defendant: I have a right to freely express myself wherever I choose.  
 
@@ -114,15 +114,15 @@ Mediation offers a sharp contrast to both symmetrical opposition and counter-the
 
 Here, unlike in denial-of-premise-type arguments, there is no attempt by defendant to undermine a factual or normative premise put forward by plaintiff. Instead, defendant extends or qualifies plaintiff's argument in a way that favour's their preferred outcome.
 
-Above, I have present each of the four argument types in terms of an exchange between two parties, plaintiff and defendant. This might in fact be the way you encounter these argument types in a courtroom setting where the parties put forward their positions. But these same argument types also underpin judicial decisions in which judges consider the different positions of the parties or offer their own reasons for reaching a result (sometimes leaving opposing argument bites implicit or available to be taken up by a dissenting judge).
+Above, I have presented each of the four argument types in terms of an exchange between two parties, plaintiff and defendant. This might in fact be the way you encounter these argument types in a courtroom setting where the parties put forward their positions. But these same argument types also underpin judicial decisions in which judges consider the different positions of the parties or offer their own reasons for reaching a result (sometimes leaving opposing argument bites implicit or available to be taken up by a dissenting judge).
 
 {{% callout exercise %}} 
 
 ### Spotting Argument Types
 
-Last week you encountered our first case, the Supreme Court of Canada's decision in *Harrison v Carswell*. You practiced quickly reviewing the case and then, after a deeper read, we discussed some of the case's main issues and themes.
+Last week you encountered our first case, the Supreme Court of Canada's decision in *Harrison v Carswell*. You practiced quickly reviewing the case and then, after a deeper read, we discussed the facts and some of the case's main issues.
 
-Your key task this week is to read *Harrison* again — closely — with a different goal in mind. Each of the different argument types described above appear in *Harrison*. I have colour-coded each argument bites as it appears in the text. Each colour corresponds to one argument type above. For each argument bite, you can jump to the related counter-argument of the opposing judge by clicking link at the end of that bite.
+Your key task this week is to read *Harrison* again — closely — with a different goal in mind. Each of the different argument types described above appear in *Harrison*. I have colour-coded each argument bite as it appears in the text. Each colour corresponds to one argument type above. For each argument bite, you can jump to the related counter-argument of the opposing judge by clicking the link at the end of that bite.
 
 Read each pair of colour-coded arguments and counter-arguments together, then try to identify which argument type is being used on this {{< newtabref  href="https://opensourcelaw.limesurvey.net/695789?newtest=Y&lang=en" title="worksheet" >}}. 
 
@@ -136,7 +136,7 @@ Your goal in this exercise is to learn how the abstract argument types I describ
 
 **Dickson J.** (Martland, Judson, Ritchie, Pigeon, and de Grandpré JJ. concurring) — 
 
-[1] The respondent, Sophie Carswell, was charged under <span data-text="The relevant provision reads: 1(1) … (b) who enters or in any way trespasses upon lands or premises that are the property of another and are not wholly enclosed, after being requested by the owner, tenant or occupier not to do so, or who, having entered the lands or premises or committed the trespass, refuses to leave upon being requested by the owner, tenant or occupier to do so; is guilty of an offence, whether or not any damage has been occasioned by the entry or trespass, and is liable on summary conviction to a fine of not more than $5,000." class="tooltip">*The Petty Trespasses Act*, R.S.M. 1970, c. P50</span>, with four offences (one on each of four days) of unlawfully trespassing upon the premises of the Fairview Corporation Limited, trading under the firm name and style of Polo Park Shopping Centre, located in the City of Winnipeg, after having been requested by the owner not to enter on or come upon the premises. The appellant, Peter Harrison, manager of Polo Park Shopping Centre, swore the informations. The charges were dismissed by the Provincial Judge but on a trial de novo in the County Court Mrs. Carswell was convicted and fined $10 on each of the charges. The convictions were set aside by the Manitoba Court of Appeal [1974] 4 W.W.R. 394 (Freedman C.J.M. and Matas J.A., with Guy J.A. dissenting) and the present appeal followed by leave of this Court.
+[1] The respondent, Sophie Carswell, was charged under <span data-text="" class="tooltip">*The Petty Trespasses Act*, R.S.M. 1970, c. P50</span>, with four offences (one on each of four days) of unlawfully trespassing upon the premises of the Fairview Corporation Limited, trading under the firm name and style of Polo Park Shopping Centre, located in the City of Winnipeg, after having been requested by the owner not to enter on or come upon the premises. The appellant, Peter Harrison, manager of Polo Park Shopping Centre, swore the informations. The charges were dismissed by the Provincial Judge but on a trial de novo in the County Court Mrs. Carswell was convicted and fined $10 on each of the charges. The convictions were set aside by the Manitoba Court of Appeal [1974] 4 W.W.R. 394 (Freedman C.J.M. and Matas J.A., with Guy J.A. dissenting) and the present appeal followed by leave of this Court.
 
 <div id="red"><span id="red_1"></span>
 
