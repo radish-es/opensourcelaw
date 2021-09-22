@@ -1,6 +1,6 @@
 ---
 title: "Week 2"
-date: "September 20, 2021"
+date: "September 22, 2021"
 slides:
   theme: night
 ---
@@ -30,7 +30,9 @@ slides:
 
 3. Argument Types and Argument Bites
 
-4. *Harrison v Carswell* (Revisited) 
+4. *Harrison v Carswell* (Revisited)
+
+5. Invalid Arguments
 
 
 
@@ -288,9 +290,39 @@ Write down an argument bite that attempts to mediate the following:
 
 ## *Harrison v Carswell*
 
-Re-read the argument bites coloured in **orange**. What argument type is formed by connecting these two arguments bites?
+The goal of this exercise is to practice applying the framework for identifying argument types to see the underlying structure of common law argument in the judgement.  
+
+Keep in mind that argument types are effectively ***heuristics*** to help us grasp the key insight that common law arguments are **highly patterned**.
+
+---
 
 
+
+
+
+{{< slide id="">}}
+
+### Issues
+
+1. Judicial precedent (*Peters*)
+
+2. Weighing and balancing interests
+
+
+
+
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## Invalid Arguments
 
 ---
 
