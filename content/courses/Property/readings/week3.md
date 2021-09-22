@@ -2,7 +2,7 @@
 title: "Week 3 - Practicing the Analysis"
 linktitle: "Week 3"
 type: book
-date: "2021-09-10"
+date: "2021-09-22"
 weight: 4
 ---
 
@@ -10,12 +10,12 @@ weight: 4
 
 ### Review
 
-This week, we will continue to practice analyzing the patters of common law arguments that we began to develop in Week 2. Before getting into the material for this week, it is worth taking a moment to refresh your memory of the different [argument types](../week2/#argument-types) we worked to identify last week in *Harrison v Carswell*.
+This week, we will continue to practice analyzing the patterns of common law argument that we began to develop in Week 2. Before getting into the material for this week, it is worth taking a moment to refresh your memory of the different [argument types](../week2/#argument-types) we worked to identify last week in *Harrison v Carswell*.
 {{% /callout %}}
 
 ## Property in Your Cells ##
 
-We will be using the same argument types from last week to practice analyzing the legal arguments in a case called *Moore v Regents of University of California*. This case addresses a very different set of facts and property issues than *Harrison v Carswell*. In fact, it brings us back to the question I asked you the consider at the beginning of Week 1:
+We will be using the same argument types from last week to practice analyzing the legal arguments in a case called *Moore v Regents of University of California*. This case addresses a very different set of facts and property issues than we found in *Harrison v Carswell*. In fact, it brings us back to the question I asked you the consider at the beginning of Week 1:
 
 > *Should people continue to have ownership of their biological cells once those cells are removed from their body?*
 
@@ -33,7 +33,7 @@ We are coming back to the question of property in cells at this point because it
 
 As we did in Week 2 with *Harrison v Carswell*, we will spend time in class this week linking the argument bites and identifying the various argument types in *Moore*. A good way for you to prepare for class is to colour-code or highlight the argument bites in *Moore* just as I did for you in *Harrison* in Week 2. You can download the case as a text file in order to do this on your own computer ([RTF](/cases/moore.rtf) or [DOCX](/cases/moore.docx)).
 
-Note that there are six different arguments in *Moore*. It is easiest to identify these different arguments in [Justice Mosk's decision](#mosk) because he conveniently enumerates each argument as he responds, point by point, to Justice Panelli. I suggest that you tackle the case as follows:
+Note that there are several different arguments in *Moore*. It is easiest to identify these different arguments in [Justice Mosk's decision](#mosk) because he conveniently enumerates each argument as he responds, point by point, to Justice Panelli. I suggest that you tackle the case as follows:
 
 - start by reading Justice Panelli's description of the facts and the cause of action in conversion (paragraphs 1-13 and 35-38);
 
@@ -442,7 +442,7 @@ The answer to that question will occupy us for the remainder of our course this 
 ### What makes a legal decision persuasive?
 
 
-<iframe src="https://opensourcelaw.limesurvey.net/654198" height="400"frameBorder="0"></iframe>
+<iframe src="https://opensourcelaw.limesurvey.net/654198" height="450"frameBorder="0"></iframe>
 
 <span class="not_working">Form not working? Try enabling cookies, or {{< newtabref  href="https://opensourcelaw.limesurvey.net/654198" title="open in a new tab" >}}.</span>
 
