@@ -2,7 +2,7 @@
 title: "Week 2 - Patterns of Common Law Argument"
 linktitle: "Week 2"
 type: book
-date: "2021-09-20"
+date: "2021-09-24"
 weight: 3
 ---
 
@@ -131,6 +131,10 @@ Read each pair of colour-coded arguments and counter-arguments together, then tr
 Your goal in this exercise is to learn how the abstract argument types I described earlier are actually applied by the judges in practice. The arguments made by the judges are clearly much more complex than the simplified examples given above, but the basic patterns of argument and counter-argument are undoubtedly there. These patterns will become easier for you to recognize with practice. 
 
 {{< cta cta_text="Worksheet: Spotting Argument Types" cta_link="https://opensourcelaw.limesurvey.net/695789?newtest=Y&lang=en" cta_new_tab="true" >}}
+
+{{< cta cta_text="Answer Sheet" cta_link="/uploads/week2_spotting_arguments_exercise_answer sheet.pdf" cta_new_tab="true" >}}
+
+
 {{% /callout %}}
 
 ## *Harrison v Carswell*, [1976] 2 SCR 200 (Revisited) ##
