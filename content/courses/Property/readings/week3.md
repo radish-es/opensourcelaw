@@ -2,9 +2,11 @@
 title: "Week 3 - Practicing the Analysis"
 linktitle: "Week 3"
 type: book
-date: "2021-09-23"
+date: "2021-09-27"
 weight: 4
 ---
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week3" target="_blank" rel="noopener">SLIDES</a>
 
 {{% callout warning %}} 
 
