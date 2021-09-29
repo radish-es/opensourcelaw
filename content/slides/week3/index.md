@@ -1,6 +1,6 @@
 ---
 title: "Week 3"
-date: "September 27, 2021"
+date: "September 29, 2021"
 slides:
   theme: night
 ---
@@ -84,9 +84,20 @@ slides:
 
 {{< slide id="">}}
 
-## Example: Counter-Theory
+## *Moore* (Arguments)
 
-*The legal question of whether or not we continue to own our cells once they leave our bodies has never been answered by the courts and should be resolved by the legislature.* (Justice Panelli, paragraph 41) 
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Example 1: Denial of Premise
+
+*Finding a conversion in this case will hinder biotech research by restricting access to cells/cell cultures whose exchange to date has been "free and efficient".* (Justice Panelli, paragraph 57) 
 
 
 
@@ -100,12 +111,29 @@ slides:
 
 {{< slide id="">}}
 
-## Example: Denial of Premise
+### Example 2: Counter-Theory
+
+*Legislatures are most competent to respond to complex social problems that haven't yet been addressed in law.* (Justice Panelli, paragraph 41, 62) 
+
+
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Example 3: Denial of Premise
 
 *California statute drastically limits a patient's control over excised cells, eliminating any concept of "property" or "ownership in those cells.* (Panelli, paragraphs 45-46)
 
 
 
+
 ---
 
 
@@ -114,10 +142,67 @@ slides:
 
 {{< slide id="">}}
 
-## Example: Denial of Premise (#2) 
+### Example 4: Denial of Premise
 
-*The Mo cell line—the subject matter of the university's patent—cannot be Moore's property.* (Panelli, paragraph 47)
+*The Mo cell line—i.e., the subject matter of the university's patent—cannot be Moore's property.* (Panelli, paragraph 47)
 
+
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Example 5: Symmetric Opposition
+
+*The protection and promotion of biotechnological research is a "socially useful activity".* (Panelli, para 50)
+
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Example 6: Mediation
+
+*The protection and promotion of biotechnological research is a "socially useful activity".* (Panelli, para 50)
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Example 7: ?
+
+*The Legislature has demonstrated their interest and competence in the area of human cells and biotech through past efforts to regulate the sale of blood and human organs (Panelli, para 62).*
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Example 8: Denial of Premise
+
+*The conversion cause of action in this case is unnecessary. An action for breach of the physician's fiduciary duty (need for informed consent) is sufficient to respond to harms experienced by the plaintiff.* (Panelli, para 63)
 
 
 
