@@ -2,9 +2,11 @@
 title: "Week 4 - Possession I"
 linktitle: "Week 4"
 type: book
-date: "2021-10-01"
+date: "2021-10-04"
 weight: 5
 ---
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week4" target="_blank" rel="noopener">SLIDES</a>
 
 [{{< figure src="/media/acorn.jpg" caption="Source: Katie Oh on Unsplash">}}](https://unsplash.com/photos/1SOSZE1Dops)
 
