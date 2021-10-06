@@ -1,6 +1,6 @@
 ---
 title: "Week 4"
-date: "October 4, 2021"
+date: "October 6, 2021"
 slides:
   theme: night
 ---
@@ -126,6 +126,22 @@ Three variables of legal liberalism:
 ## *Clift v Kane*
 
 
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Legal Posession
+
+There are two elements required to obtain legal possession:
+
+1. Intention to control
+
+2. Actual physical control 
 
 ---
 

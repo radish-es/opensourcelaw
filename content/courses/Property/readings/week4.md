@@ -104,7 +104,7 @@ One historical setting in which Locke's principle of first possession became inc
 
 In *Clift v Kane*, we encounter our first case study examining how judicial decisions about common law property rules created the foundations for Canada's liberal market economy. In the context of Newfoundland's nineteenth-century sealing economy, these rules established the terms of competition between sealers and determined the preconditions for bringing their "products" to market. While both judges in the case emphasize the importance of a freely competitive marketplace for Newfoundland's seal fishery, it seems quite clear that we cannot simply take that marketplace as a given. In fact, its fundamental rules are in the process of being determined by the very case before the court. 
 
-As you read *Clift v Kane*, start by trying to identify and describe the two different *rules* of first possession being advanced by Justice Hoyle and Robinson respectively. 
+As you read *Clift v Kane*, start by trying to identify and describe the two different *rules* of first possession being advanced by Chief Justice Hoyles and Justice Robinson respectively. 
 
 ## *Clift v Kane* (1870), 5 Nfld LR (en banc) ##
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/clift.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/clift.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/clift.pdf" target="_blank" rel="noopener">PDF</a>
