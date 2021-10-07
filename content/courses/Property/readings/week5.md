@@ -27,7 +27,7 @@ This week, we will explore a contemporary case study of possession and title to 
 
 > That has real implications for things like land ownership. Residents in African Nova Scotian communities are more likely to have unclear title to land on which they may have lived for many generations […]
 
-Some of the history behind Black Nova Scotians' unclear land title is outlined in *[Beals v Nova Scotia,](#beals-v-nova-scotia-attorney-general-2020-nssc-60)* below. Addressing this history and its current consequences helps us to understand how the interplay of possession and title to land matters. For African Nova Scotians who continue to be denied title to their lands, state demands for individuals to "prove" their possession have become both a tool of systemic racism and a means to deflect state responsibility for a long history of discrimination.
+Some of the history behind African Nova Scotians' unclear land title is outlined in *[Beals v Nova Scotia,](#beals-v-nova-scotia-attorney-general-2020-nssc-60)* below. Addressing this history and its current consequences helps us to understand how the interplay of possession and title to land matters. For African Nova Scotians who continue to be denied title to their lands, state demands for individuals to "prove" their possession have become both a tool of systemic racism and a means to deflect state responsibility for a long history of discrimination.
 
 Start by reading the included excerpts from the *Land Titles Clarification Act* and from *Beals v Nova Scotia* for background to this case study. We will then examine the following questions:
 
@@ -115,7 +115,7 @@ the Minister may refer the matter to a commissioner.
 ## Beals v Nova Scotia (Attorney General), 2020 NSSC 60 ##
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/beals.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/beals.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/beals.pdf" target="_blank" rel="noopener">PDF</a>
 
-[This case addresses the interpretation of the *Land Titles Clarification Act*, successor legislation to the *Community Land Titles Clarification Act*, which was enacted in 1964 to address the problem of unclear land titles in Black Nova Scotian communities. We will not address the specific facts in *Beals*, but read the case to understand some of the relevant historical background.]
+[This case addresses the interpretation of the *Land Titles Clarification Act*, successor legislation to the *Community Land Titles Clarification Act*, which was enacted in 1964 to address the problem of unclear land titles in African Nova Scotian communities. We will not address the specific facts in *Beals*, but read the case to understand some of the relevant historical background.]
 
 *Bodurtha J. —*
 
