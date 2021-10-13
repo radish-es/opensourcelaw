@@ -2,7 +2,7 @@
 title: "Week 1 - Introduction to the Course"
 linktitle: "Week 1"
 type: book
-date: "2021-10-12"
+date: "2021-10-13"
 weight: 2
 ---
 
@@ -337,4 +337,4 @@ Before you move on to other work, ask yourself if you've absorbed key points fro
 
 {{< flipcard front="Which judge argues the common law should be responsive to social demands?" >}}# Laskin, CJ{{< /flipcard >}}
 
-[^macdonald2021]: An excellent resource for thinking about and creating land acknowledgements is Chapter 3.5 in [Linda Macdonald, Building Relationships with Business Communication (Dalhousie Libraries Digital Editions Open Education Project](https://caul-cbua.pressbooks.pub/businesscommunication/chapter/indigenous-land-acknowledgments/)
+[^macdonald2021]: The "Land Acknowledgement" included in this week's readings is adapted from an excellent resource for thinking about and creating land acknowledgements: [Linda Macdonald, Building Relationships with Business Communication (Dalhousie Libraries Digital Editions Open Education Project, Chapter 3.5](https://caul-cbua.pressbooks.pub/businesscommunication/chapter/indigenous-land-acknowledgments/)
