@@ -1,6 +1,6 @@
 ---
 title: "Week 5"
-date: "October 18, 2021"
+date: "October 20, 2021"
 slides:
   theme: night
 ---
@@ -123,6 +123,8 @@ In what specific ways might unclear land title negatively impact African Nova Sc
 
 ## *Asher v Whitlock*
 
+{{< figure src="/media/asher.jpg" >}}
+
 
 
 
@@ -134,9 +136,51 @@ In what specific ways might unclear land title negatively impact African Nova Sc
 
 {{< slide id="">}}
 
-## Parking Chairs
+### Parking Chairs
 
 {{< figure src="/media/parking_chairs.jpg" >}}
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## What is adverse possession?
+
+*Possession by a non-owner that can result in the owner losing title* (or, more accurately, that results in a legal prohibition against the title holder bringing a claim to eject the adverse possessor). 
+
+In Nova Scotia, adverse possession must be "open, notorious, adverse, exclusive, peaceful, actual, and continuous" for a period of twenty years (*Downey*).
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## *Lawson v Whitman*
+
+{{< figure src="/media/soldiers_grant.jpg" height="500px" >}}
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## *Downey v Nova Scotia*
+
+
 
 ---
 
