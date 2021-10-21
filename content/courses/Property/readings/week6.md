@@ -2,13 +2,13 @@
 title: "Week 6 - Possession III"
 linktitle: "Week 6"
 type: book
-date: "2021-10-20"
+date: "2021-10-21"
 weight: 7
 ---
 
 In Weeks 4 and 5, we looked at the essential role that possession plays in common law thinking about property. We now turn to the doctrine of Aboriginal title and examine how the common law began to interpret Indigenous land rights in the classical style.
 
-Against the background of the material we have covered so far in the course, consider the following two problems — we will aim to address problems this week and next:
+In relationship to the other material we have covered so far in Unit 2 of the course, consider the following two problems regarding Indigenous land rights—set in the context of Mi'kmaw land rights and laws. We will aim to address both of these problems this week and next:
 
 {{% callout warning %}} 
 
