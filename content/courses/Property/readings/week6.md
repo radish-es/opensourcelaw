@@ -2,9 +2,11 @@
 title: "Week 6 - Possession III"
 linktitle: "Week 6"
 type: book
-date: "2021-10-21"
+date: "2021-10-25"
 weight: 7
 ---
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week6" target="_blank" rel="noopener">SLIDES</a>
 
 In Weeks 4 and 5, we looked at the essential role that possession plays in common law thinking about property. We now turn to the doctrine of Aboriginal title and examine how the common law began to interpret Indigenous land rights in the classical style.
 
@@ -14,7 +16,7 @@ In relationship to the other material we have covered so far in Unit 2 of the co
 
 ### Two Critical Problems
 
-- Mi'kmaw people have lived on and held established relationships with the lands that now comprise Eastern Canada for thousands of years. They did so long before colonial settlement. Because Mi'kma'ki is unceded territory, the common law principles of first possession we have learned about so far imply that the Mi'kmaq continue to hold title. Yet that title was effectively denied by the common law courts in the classical period.
+- Mi'kmaw people have lived on and held established relationships with the lands that now comprise Eastern Canada for thousands of years. They did so long before colonial settlement. Because Mi'kma'ki is unceded territory, if we apply the common law principles of first possession we have learned about so far, the Mi'kmaq continue to hold title. Yet that title was effectively denied by the common law courts in the classical period. Why?
 
 - Mi'kmaw people not only occupied Mi'kma'ki long before colonization, they also governed their relationships with the land according to Mi'kmaw law. They continue to do so. Why should Anglo-Canadian law be the system (or the only system) that determines questions of possession, title and other legal dimensions of lands governance, as the common law courts have long assumed?
 {{% /callout %}}
