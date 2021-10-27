@@ -1,6 +1,6 @@
 ---
 title: "Week 6"
-date: "October 25, 2021"
+date: "October 27, 2021"
 slides:
   theme: night
 ---
@@ -30,9 +30,9 @@ slides:
 
 - Royal Proclamation, 1763
 
-- *St. Catherine's Milling*: Context and Facts
+- *St. Catherine's Milling*
 
-- Locke and Indigenous Possession
+- *Terra Nullius*
 
 ---
 
@@ -151,9 +151,86 @@ slides:
 
 {{< slide id="">}}
 
-## *St. Catherine's Milling v R*
+### Issue in *St. Catherine's Milling*
 
-### Ontario High Court (1886)
+{{< figure src="/media/stcatherines.jpg" height="600px" >}}
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+Setting aside the reasoning in *St. Catherine's Milling* for a moment, what are the different possible sources of Indigenous rights in land? 
+
+How should we understand Aboriginal title as a legal right? 
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### *St. Catherine's* (HC)
+
+Much of Chancellor Boyd's judgement is premised on racist ideas about the racial and cultural inferiority of Indigenous peoples and societies. Some legal scholars have recently argued that these premises so thoroughly undermine the factual basis of the decision that courts should no longer treat *St. Catherine's Milling* as a valid legal precedent.
+
+As part of our historical study of the doctrine of Aboriginal title, we also want to see how the Court's use of these racial ideas is linked to the specific style of classical common law reasoning. What role do these ideas play in the decision? In what way does their perpetuation have "legal" as well as social causes?
+
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## *St. Catherine's* (SCC)
+
+Justice Strong rejects the assertion that Aboriginal title is necessarily less than a property right in land. On what basis does he say the Court should recognize Aboriginal title? 
+
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Key Doctrinal Outcomes (JCPC)
+
+1. Aboriginal title is a "personal and usufructuary right".
+
+2. Aboriginal title finds its source in the Royal Proclamation of 1763, making these rights "dependent on the goodwill of the sovereign".
+
+3. Aboriginal title is inalienable, except to the Crown (pre-emption).
+
+4. Aboriginal title can be "surrendered or otherwise extinguished".
+
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## *Terra Nullius*
 
 
 
