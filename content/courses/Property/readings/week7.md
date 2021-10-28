@@ -10,9 +10,9 @@ Last week we studied the historical roots of the common law doctrine of Aborigin
 
 The path charted by the courts at the end of the nineteenth century, however, was not the only possibility. An alternative to *terra nullius*, we might say, is *treaty*—a legal relationship between nations defining their scope of authority and mutual obligations. Such relationships are based on the shared recognition that each party to the treaty holds authority to govern according to their own systems of law.
 
-Treaty relationships between Indigenous nations and the Crown are widespread in Canada, but they are also diverse and difficult to generalize. This week we will focus on the treaty context in Mi'kma'ki / Atlantic Canada to understand how the Peace and Friendship Treaties were established in the mid-eighteenth century and then interpreted in the classical period. We will see that, with the Nova Scotia County Court's decision in *R v Syliboy*, common law treaty interpretation in the region reached a low point, echoing some of the same reasoning that pervaded *St. Catherine's Milling*. 
+Treaty relationships between Indigenous nations and the Crown are widespread in Canada, but they are also diverse and difficult to generalize. This week we will focus on the treaty context in Mi'kma'ki / Atlantic Canada to understand how the Peace and Friendship Treaties were established in the mid-eighteenth century and then interpreted in the classical period. We will see that, with the Nova Scotia County Court's decision in *R v Syliboy*, common law treaty interpretation in the region became highly restrictive and was based on a rejection of the idea of nation-to-nation relationships and of Mi'kmaw systems of law and governance. 
 
-Nevertheless, even in the face of such opposition, Mi'kmaq have continued to use and develop their systems of law and governance. We will look at one description of Mi'kmaw land tenure and ask how we might understand its differences and similarities in comparison to the structures of common law reasoning we have studied so far in the course. 
+Nevertheless, Mi'kmaq people have continued to use and develop these systems of law and governance. We will look at one description of Mi'kmaw land tenure and ask how we might understand this system in comparison to the structures of common law reasoning we have studied so far in the course. 
 
 
 
@@ -21,11 +21,11 @@ Nevertheless, even in the face of such opposition, Mi'kmaq have continued to use
 
 ## Peace and Friendship Treaties ##
 
-The early eighteenth-century in what is today Eastern Canada was characterized by political and military struggles between three powers in the region: the Wabanaki (a political alliance of Mi'kmaw, Wolastoqiyik, and Passamaquoddy peoples, and a separate loose alliance of communities sometimes called the Abenaki), the British, and the French. 1726 saw the end of a three-year war between New England and the Wabanaki, which had been grounded in concerns about colonial expansion northward (including incursions on Indigenous fishing territories and colonial land settlement). In turn, the British were becoming increasingly motivated to forge friendly relationships with the Wabanaki as counter-weight to French power. This culminated in the signing of the Treaty of 1725 by various parties between that year and 1726.
+The early eighteenth-century in what is today Eastern Canada was characterized by political and military struggles and alliances between three powers in the region: the Wabanaki (a political alliance of Mi'kmaw, Wolastoqiyik, and Passamaquoddy peoples, and a separate alliance of communities known as the Abenaki), the British, and the French. 1726 saw the end of a three-year war between New England and the Wabanaki, which had been grounded in concerns about colonial expansion northward (including incursions on Indigenous fishing territories and colonial land settlement). In turn, the British were becoming increasingly motivated to forge friendly relationships with the Wabanaki as counter-weight to French power. This period culminated in the signing of the Treaty of 1725 by various parties between that year and 1726.
 
-It is important to distinguish the 1725 treaty from what are sometimes called the "numbered treaties"—one of which was in issue in *St. Catherine's Milling*. While the latter have been interpreted by common law courts as "land cession" treaties in which First Nations ceded their land rights to the Crown, the 1725 treaty and subsequent treaties in Atlantic Canada have—in contemporary cases—been interpreted as treaties in which the Indigenous signatories did not cede any of their land rights or their authority to govern their lands.
+It is important to distinguish the 1725 treaty from what are sometimes called the "numbered treaties"—one of which was in issue in *St. Catherine's Milling*. While the latter treaties have been interpreted by common law courts as "land cession" treaties in which First Nations ceded their land rights to the Crown, the 1725 treaty and subsequent treaties in Atlantic Canada are understood as treaties in which the Indigenous signatories did not cede any of their land rights or their authority to govern their lands.
 
-A word of caution: the interpretation of historical treaties is a complex exercise. There can be several reasons for this, as described below.[^wicken2002]
+A general word of caution when reading these treaty documents: the interpretation of historical treaties is a complex exercise. There can be several reasons for this, as described below.[^wicken2002]
 
 {{% callout warning %}} 
 
@@ -48,7 +48,7 @@ Keep these points in mind as you read the treaty texts below, as well as the dec
 
 {{% /callout %}}
 
-As a starting point for this week's readings, please watch the following talk on the Peace and Friendship Treaties by Assembly of First Nations Regional Chief Paul J. Prosper, published by the National Centre for Truth and Reconciliation.
+As a starting point for this week's readings, please watch the following talk about the Peace and Friendship Treaties delivered by Assembly of First Nations Regional Chief Paul J. Prosper and published by the National Centre for Truth and Reconciliation.
 
 {{< youtube id="PLoKB4_-df8" >}}
 
@@ -196,7 +196,7 @@ Unlike in *St. Catherine's Milling*, the trial court in *Syliboy* had before it 
 
 ## Mi'kmaw Land Tenure ##
 
-If common law treaty interpretation reached something of a low point in the *Syliboy* decision, what are the possibilities for an alternative path forward for Indigenous-Crown relationships? Any answer to that question must start with engaging Indigenous legal orders as diverse systems of law forming part of Canada's multi-juridical landscape. Building a comparative understanding across legal systems is clearly a big undertaking (consider how much effort and energy you are currently expending to learn just the basics of the Anglo-Canadian common law). But it is just as clearly an achievable goal—and one that is increasingly within reach, led by a growing body of Indigenous legal scholarship, research and teaching. 
+If effective recognition for and implementation of the Peace and Friendship Treaties was set on poor footing in the *Syliboy* decision, how might we understand the possibilities for an alternative path forward for Indigenous-Crown relationships? Any answer to that question must start with engaging Indigenous legal orders as diverse systems of law forming part of Canada's multi-juridical landscape. Building an authentic, comparative understanding across legal systems is clearly a big undertaking (consider how much effort and energy you are currently expending to learn just the basics of the Anglo-Canadian common law). But it is just as clearly an achievable goal—and one that is increasingly within reach, led by a growing body of Indigenous legal scholarship, research and teaching. 
 
 James (Sa’ke’j) Youngblood Henderson explains Mi'kmaw law in the context of treaty in the following way:[^henderson1995]
 
