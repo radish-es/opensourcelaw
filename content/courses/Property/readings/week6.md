@@ -2,7 +2,7 @@
 title: "Week 6 - Possession III"
 linktitle: "Week 6"
 type: book
-date: "2021-10-25"
+date: "2021-10-28"
 weight: 7
 ---
 
@@ -87,7 +87,7 @@ As you read *St. Catherine's Milling*, keep in mind that there are crucial diffe
 {{% /callout %}}
 
 ## *St. Catherine's Milling  Co v R* (1886), 10 OR 196 (HC) ##
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.pdf" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/stcatherinesHC.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/stcatherinesHC.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/stcatherinesHC.pdf" target="_blank" rel="noopener">PDF</a>
 
 This was an action brought by Her Majesty the Queen, on the information of the Attorney General for the Province of Ontario against the St. Catharines Milling and Lumber Company, claiming amongst other things, an injunction restraining the cutting of timber by the defendants upon certain lands lying south of Wabigoon Lake, in the district of Algoma.
 
@@ -158,8 +158,8 @@ Again: the relations between the Government and the Indians change upon the esta
 
 […]
 
-## *St. Catherines Milling & Lumber Co. v R.*, 13 S.C.R. 577 ##
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.pdf" target="_blank" rel="noopener">PDF</a>
+## *St. Catherines Milling & Lumber Co. v R.*, [1887] 13 SCR 577 ##
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/stcatherinesSCC.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/stcatherinesSCC.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/stcatherinesSCC.pdf" target="_blank" rel="noopener">PDF</a>
 
 [*Chief Justice Ritchie, writing for a majority of the Supreme Court, affirmed Chancellor Boyd's decision at trial. Justice Strong, whose judgement is below, wrote a dissent from the majority, arguing that Chancellor Boyd's decision should be overturned.*]
 
@@ -218,7 +218,7 @@ To summarize these arguments, which appear to me to possess great force, we find
 
 
 ## *St. Catherine’s Milling & Lumber Co. v R*, [1888] UKPC 70 (JCPC)  ##
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.pdf" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/stcatherinesJCPC.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/stcatherinesJCPC.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/stcatherinesJCPC.pdf" target="_blank" rel="noopener">PDF</a>
 
 **Lord Watson** —
 
