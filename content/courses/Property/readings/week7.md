@@ -2,7 +2,7 @@
 title: "Week 7 - Treaties and Indigenous Legal Orders"
 linktitle: "Week 7"
 type: book
-date: "2021-10-27"
+date: "2021-10-28"
 weight: 8
 ---
 
@@ -47,7 +47,7 @@ Keep these points in mind as you read the treaty texts below, as well as the dec
 {{% /callout %}}
 
 ## Treaty of 1725 ##
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.pdf" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/treaty1725.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/treaty1725.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/treaty1725.pdf" target="_blank" rel="noopener">PDF</a>
 
 [*This treaty—the first in a line of treaties entered into by the British and Indigenous nations in the Atlantic region—was first signed in Boston in 1725. The same treaty was signed with different Indigenous parties one year later in 1726.*]
 
@@ -80,7 +80,7 @@ Britain's settlement of Halifax in 1749 was interposed between and closely linke
 Consider the following question: in what way(s) was the settlement of Halifax by the British likely understood to violate the terms of the 1725 treaty?
 
 ## 1752 Treaty of Peace and Friendship ##
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.pdf" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/treaty1752.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/treaty1752.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/treaty1752.pdf" target="_blank" rel="noopener">PDF</a>
 
 [*The following text is quoted in *R v Simon*, [1985] 2 SCR 387 at para 6.*]
 
@@ -119,7 +119,7 @@ In 1928, Grand Chief Gabriel Syliboy was charged and ultimately convicted of hun
 
 
 ## R v Syliboy, [1929] 1 DLR 307 ##
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.pdf" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/syliboy.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/syliboy.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/syliboy.pdf" target="_blank" rel="noopener">PDF</a>
 
 Patterson, (Acting) Co. Ct. J.: —
 
