@@ -44,7 +44,13 @@ Consider the following challenges related to the interpretation of historical tr
 - the diversity of interests, perspectives and alliances among Indigenous communities.
 
 Keep these points in mind as you read the treaty texts below, as well as the decision in *R v Syliboy*. 
+
+
 {{% /callout %}}
+
+As a starting point for this week's readings, please watch the following talk on the Peace and Friendship Treaties by Assembly of First Nations Regional Chief Paul J. Prosper, published by the National Centre for Truth and Reconciliation.
+
+{{< youtube id="PLoKB4_-df8" >}}
 
 ## Treaty of 1725 ##
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/treaty1725.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/treaty1725.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/treaty1725.pdf" target="_blank" rel="noopener">PDF</a>
