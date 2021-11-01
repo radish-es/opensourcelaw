@@ -2,6 +2,8 @@
 
 [*This treaty—the first in a line of treaties entered into by the British and Indigenous nations in the Atlantic region—was first signed in Boston in 1725. The same treaty was signed with different Indigenous parties one year later in 1726.*]
 
+**Ratification of 1725 Treaty**
+
 Articles of Submission & Agreements made at Boston in New England by Sanguaarum alias Loron, Arexus Francois Xavier and Meganumbe Delegates from Penobscott Naudgevaek S. Johns Cape Sables and Other Tribes Inhabiting within His Majesties Territories of Nova Scotia and New England __________
 
 Whereas His Majesties King George by Concession of the Most Christian King made at the Treaty of Utrecht became the Rightfull Possessor of the Province of Nova Scotia or Acadie according to its antient Boundaries We the said "Indians Sanguaarum alias Loron Arexus Francois Xavier and Meganumbe Delegates from the said Tribes Penobscott Naudgewaek St. Johns Cape Sables and other tribes Inhabiting His Majesties and Territories in Nova Scotia or Acadie and New England in the name and behalf of the said Tribes We Represent Acknowledge His Said Majesty King George's Jurisdiction and Dominion over the said Territories of Nova Scotia or Acadie and make our Submission to his said Majesty in as ample a Manner as We have formerly done to his most Christian Kings __________
@@ -19,6 +21,8 @@ That if the Indians have made any Prisoners belonging to the Government of Nova 
 That This Treaty shall be Ratified at Annapolis Royal ___________
 
 Dated at the Council Chamber in Boston in New England this fifteenth day of December Anno Domini one Thousand seven hundred and Twenty-five, Annog: Requi Regis Georgu Magna Britannica & Duo decimo __________
+
+**Mascarene's Promises**
 
 By Major Paul Mascarene one of the Councill for His Majestys Province of Nova Scotia or Accadie and Commissioned by the Honourable Lawrence Armstrong Esqr Lieut Governour and Commander in Chief of the Said Province for treating with the Indians engaged in the late Warr-
 
