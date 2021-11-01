@@ -6,6 +6,8 @@ date: "2021-11-01"
 weight: 8
 ---
 
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week7" target="_blank" rel="noopener">SLIDES</a>
+
 Last week we studied the historical roots of the common law doctrine of Aboriginal title and saw, in *St. Catherine's Milling*, how classical legal thought framed the courts' conclusion that Indigenous land rights were "personal" rather than "proprietary". We left off with the observation that beneath the issue of Aboriginal title foregrounded in *St. Catherine's Milling* was the doctrine of *terra nullius* ("land belonging to no one"). Aspects of *terra nullius*—paired with the doctrine of discovery—undergird courts' continued assumption of Crown sovereignty and the exclusion of Indigenous sovereignties up to the present day. One consequence of this doctrine has been to largely exclude Indigenous legal orders from the consciousness of the common law.
 
 The path charted by the courts at the end of the nineteenth century, however, was not the only possibility. An alternative to *terra nullius*, we might say, is *treaty*—a legal relationship between nations defining their scope of authority and mutual obligations. Such relationships are based on the shared recognition that each party to the treaty holds authority to govern according to their own systems of law.
