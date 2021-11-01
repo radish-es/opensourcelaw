@@ -77,7 +77,7 @@ That This Treaty shall be Ratified at Annapolis Royal ___________
 
 Dated at the Council Chamber in Boston in New England this fifteenth day of December Anno Domini one Thousand seven hundred and Twenty-five, Annog: Requi Regis Georgu Magna Britannica & Duo decimo __________
 
-**Mascarene's Treaty of 1725**
+**Mascarene's Promises**
 
 By Major Paul Mascarene one of the Councill for His Majestys Province of Nova Scotia or Accadie and Commissioned by the Honourable Lawrence Armstrong Esqr Lieut Governour and Commander in Chief of the Said Province for treating with the Indians engaged in the late Warr-
 
