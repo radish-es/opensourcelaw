@@ -2,7 +2,7 @@
 title: "Week 7 - Treaties and Indigenous Legal Orders"
 linktitle: "Week 7"
 type: book
-date: "2021-10-28"
+date: "2021-11-01"
 weight: 8
 ---
 
@@ -74,6 +74,17 @@ That if the Indians have made any Prisoners belonging to the Government of Nova 
 That This Treaty shall be Ratified at Annapolis Royal ___________
 
 Dated at the Council Chamber in Boston in New England this fifteenth day of December Anno Domini one Thousand seven hundred and Twenty-five, Annog: Requi Regis Georgu Magna Britannica & Duo decimo __________
+
+By Major Paul Mascarene one of the Councill for His Majestys Province of Nova Scotia or Accadie and Commissioned by the Honourable Lawrence Armstrong Esqr Lieut Governour and Commander in Chief of the Said Province for treating with the Indians engaged in the late Warr-
+
+Whereas Sanguarum als Laurens, Alexis, Francois Xavier and Meganumbe Delegates of the Tribes of Penobscutt, Norrigewock, St. Johns, Cape Sables and other Tribes Inhabiting His Majestys Territories of Nova Scotia or Accadie and New England; have by Instruments Signed by them made their Submission to His Majesty George by the grace of God of Great Britain, France and Ireland King deffender of the Faith and acknowledged His Majestys Just Title to the Province of Nova Scotia or Accadie and promised to live peaceably with all His Majestys Subjects and their Dependants with what further is Contained in the Severall Articles of those Instruments I do in behalf of His Majestys Said Governour and Government of Nova Scotia or Accadie - promise the said Tribes all marks of Favour protection and Friendship and further Ingage and promise in behalf of the Said Government That the Indians shall not be molested in their persons, Hunting, Fishing and Planting Grounds nor in any other their Lawfull Occassions by His Majestys Subjects or their Dependants nor in the Exercise of their Religion Provided the Missionaries residing amongst them have leave from the Governour or Commander in Chief of His Majestys Said Province of Nova Scotia or Accadie for so doing.
+
+That if any of the Indians are Injured by any of His Majestys aforesaid Subjects or their Dependants they shall have Satisfaction and Reparation made to them according to His Majestys Laws whereof the Indians shall have the Benefitt equal with His Majestys other Subjects.
+
+That upon the Indians bringing back any Soldier endeavouring to run away from any of His Majestys Forts or Garrisons the said Indians for this good Office shall be handsomly rewarded.
+That the Indians in Custody att Annapolis Royall shall be released except such as the Governour or Commander in Chief shall think proper to keep as Hostages att the Ratification of this Treaty which shall be att Annapolis Royall in presence of the Governour or Commander in Chief and the Chiefs of the Indians. Given under my hand & Seal att the Council Chamber in Boston in New England this fifteenth day of December Anno Dom One thousand Seven hundred and twenty five Annoque Regni Regis Georgii Magnae Brittanniae & Duodecimo - 
+
+P Mascarene
 
 ## The British Settlement of Halifax (1749) ##
 
