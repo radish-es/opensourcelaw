@@ -1,6 +1,6 @@
 ---
 title: "Week 7"
-date: "November 1, 2021"
+date: "November 3, 2021"
 slides:
   theme: night
 ---
@@ -88,15 +88,31 @@ slides:
 
 {{< slide id="">}}
 
+*Please read [this article](https://www.cbc.ca/news/canada/new-brunswick/first-nations-new-brunswick-1.6211638) about a recent memo circulated by the Attorney General in New Brunswick requiring a provincial land acknowledgement that excludes the words "unceded" and "unsurrendered".*
+
+Based on our reading of the Peace and Friendship Treaties, how would you respond to the Attorney General's position? What do you think is motivating this position? 
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
 ## *R v Syliboy*
 
-Justice Patterson:
+On what assumptions about Mi'kmaw rights, law and governance does Justice Patterson's decision rest? 
 
-- 1752 treaty does not apply to Cape Breton
+- Structure of Mi'kmaw governance
 
-- Provincial legislation makes no mention of the treaty
+- Static vs dynamic nature of treaty relationship
 
-- Mi'kmaq had no authority to enter the treaty
+- Legal status of treaties
+
+- Indigenous nationhood and sovereignty 
 
 
 
@@ -110,9 +126,9 @@ Justice Patterson:
 
 {{< slide id="">}}
 
-## Mi'kmaw Land Tenure
+> "The prerogative Treaties enabled the two worldviews and different societies to make a new normative world using the irony of jurisdictions, obligations and rights. To live in the new legal world required each culture to know not only the meaning of the alliance and its terms, but also the connections or transformations that resulted when one normative system passed through another. The prerogative Treaties constructed, through mutual consent, a new normative system out of the various constructions of reality and visions of what the world might be." — James (Sa’ke’j) Youngblood Henderson
 
-
+**What needs to change in the common law system (principles, institutions, actors, etc) to move us closer to Henderson's vision?**
 
 
 

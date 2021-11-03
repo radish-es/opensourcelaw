@@ -1,6 +1,6 @@
 ---
 title: "Week 6"
-date: "October 27, 2021"
+date: "November 3, 2021"
 slides:
   theme: night
 ---
@@ -179,9 +179,9 @@ How should we understand Aboriginal title as a legal right?
 
 ### *St. Catherine's* (HC)
 
-Much of Chancellor Boyd's judgement is premised on racist ideas about the racial and cultural inferiority of Indigenous peoples and societies. Some legal scholars have recently argued that these premises so thoroughly undermine the factual basis of the decision that courts should no longer treat *St. Catherine's Milling* as a valid legal precedent.
+Much of Chancellor Boyd's judgement is premised on racist ideas about the racial and cultural inferiority of Indigenous peoples and societies. Legal scholars have recently argued that these premises so thoroughly undermine the factual basis of the decision that courts should no longer treat *St. Catherine's Milling* as a valid legal precedent.
 
-As part of our historical study of the doctrine of Aboriginal title, we also want to see how the Court's use of these racial ideas is linked to the specific style of classical common law reasoning. What role do these ideas play in the decision? In what way does their perpetuation have "legal" as well as social causes?
+This is an important argument for legal and judicial practice. In our course, as part of our study of the doctrine of Aboriginal title, we are also using the judgement to see how the Court's use of these racial ideas is linked to the specific style of classical common law reasoning. What role do these ideas play in driving the judge's the decision? In what way does the perpetuation of these ideas through law have legal as well as social causes?
 
 
 
