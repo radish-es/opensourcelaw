@@ -2,9 +2,11 @@
 title: "Week 8  - Exclusion I"
 linktitle: "Week 8 "
 type: book
-date: "2021-11-05"
+date: "2021-11-14"
 weight: 9
 ---
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week8" target="_blank" rel="noopener">SLIDES</a>
 
 [{{< figure src="/media/fence.jpg" caption="Source: Simon Maage on Unsplash">}}](https://unsplash.com/photos/xw-vvvXq3rA)
 
@@ -104,7 +106,7 @@ How do the judges in these two cases draw on the style of classical common law r
 Are you persuaded that one case is correctly and the other wrongly decided? Are the decisions necessarily irreconcilable? 
 
 ## *Black v Canadian Copper Co.* (1917), Archives of Ontario, RG 80-6-0-22 ##
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.pdf" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/black.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/black.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/black.pdf" target="_blank" rel="noopener">PDF</a>
 
 **Middleton J.** —
 
@@ -200,8 +202,8 @@ Despite this agreement by the parties, Justice Middleton devotes considerable sp
 
 
 
-## *Canada Paper Co v Brown*, (1922) 63 SCR 243 ##
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/.pdf" target="_blank" rel="noopener">PDF</a>
+## *Canada Paper Co v Brown*, [1922] 63 SCR 243 ##
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/brown.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/brown.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/brown.pdf" target="_blank" rel="noopener">PDF</a>
 
 **The Chief Justice**
 
