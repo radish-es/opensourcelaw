@@ -1,6 +1,6 @@
 ---
 title: "Week 8"
-date: "November 15, 2021"
+date: "November 17, 2021"
 slides:
   theme: night
 ---
@@ -171,9 +171,19 @@ Three variables of legal liberalism (and the *classical* emphasis):
 
 {{< slide id="">}}
 
-### Bundle of Sticks
+If nuisance law played the primary role in regulating land uses in the early 20th century, what plays that role today?
 
-{{< figure src="/media/sticks.jpg" caption="[Source: Wikimedia, Stephhzz - Own work, CC BY-SA 3.0.](https://commons.wikimedia.org/w/index.php?curid=11728347)" link="">}}
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+{{< figure src="/media/zoning_map.jpg" caption="[Source: Wikimedia](https://commons.wikimedia.org/w/index.php?curid=9912146)" link="">}}
 
 
 
@@ -187,7 +197,7 @@ Three variables of legal liberalism (and the *classical* emphasis):
 
 ## Remedies in Nuisance
 
-What is a nuisance? What is the remedy for a nuisance? How is this remedy related to an owner's "bundle of sticks"? 
+What is a nuisance? What is the remedy for a nuisance?
 
 
 
@@ -223,9 +233,37 @@ then damages in substitution for an injunction may be given.
 
 {{< slide id="">}}
 
-*Black v Canadian Copper Co.* (1917)
+#### State the facts of a scenario in nuisance that you think meets the *Shelfer* test for awarding damages in lieu of an injunction.
 
-*Canada Paper Co v Brown* (1922)
+---
+
+
+
+
+
+{{< slide id="">}}
+
+Why do the courts reach a different result in these two cases? Are they consistent? If not, which outcome is right?
+
+- *Black v Canadian Copper Co.* (1917)
+
+- *Canada Paper Co. v Brown* (1922)
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Public Nuisance
+
+Anglin J., para 44:
+
+> The nuisance caused by the defendants no doubt affects the entire neighbouring population and other persons who have occasion to come within the sphere of its annoyance. But the injury to the plaintiff’s property is different in kind from the inconvenience suffered by the inhabitants at large — most of whom, moreover, are so dependent upon the operation of the defendants’ mills for their support that they are quite prepared to submit to some personal annoyance rather than jeopardize their means of livelihood. … In my opinion he suffers an injury sufficiently distinct in character from that common to the inhabitants at large to warrant his maintaining this action.
+
+
 
 ---
 
