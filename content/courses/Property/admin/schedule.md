@@ -3,7 +3,7 @@ title: Course Schedule
 linktitle: Schedule
 type: book
 weight: 2
-date: "2021-10-07"
+date: "2021-11-26"
 ---
 
 This document contains the weekly class meeting schedule with a brief description of each weekly topic and a list of assigned readings for that week.
@@ -37,4 +37,20 @@ We will meet in Weldon Room 207 throughout the year.
 ### [Week 6 (Oct 25/27)](../../readings/week6)
 
 **Possession III** - In this portion of the course, we explore some of the bases of Aboriginal title and look at how common law courts in the classical mode interpreted Indigenous land rights from the perspective of possession. This week also introduces the distinction between the content of common law Aboriginal title and questions about Indigenous sovereignty and law-making authority. 
+
+### [Week 7 (Nov 1/3)](../../readings/week7)
+
+**Treaties and Indigenous Legal Orders** - We shift focus this week to move beyond the internal perspective of the common law, asking how such a shift can help us to move beyond classical courts' interpretations of the Peace and Friendship Treaties. This week also sets the stage for one of the most pressing questions in the area of Aboriginal rights and title and property more generally: how can we more fully and effectively pursue development of law within a multi-juridical landscape? 
+
+### [Week 8 (Nov 15/17)](../../readings/week8)
+
+**Exclusion I** - The course now moves away from a focus on possession and into one of the key "sticks" in the common law ownership bundle: the right to exclude. Our entry point in the law of nuisance, and specifically the question of remedy (injunction vs damages). 
+
+### [Week 9 (Nov 22/24)](../../readings/week9)
+
+**Exclusion II** - Our second set of topics on exclusion concerns the right to exclude the *state* (or other private parties under state sanction). This engages the concept of "expropriation" (or *eminent domain*) and the ways in which this concept challenges the classical division between private right and public control. 
+
+### [Week 10 (Nov 29/Dec 1)](../../readings/week10)
+
+**Alienation** - Our final topic for the term is the right to alienate (sell or other transfer) property and the degree to which restraints on alienation have been permitted or prohibited by common law courts. 
 
