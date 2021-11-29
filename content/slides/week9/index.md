@@ -1,6 +1,6 @@
 ---
 title: "Week 9"
-date: "November 24, 2021"
+date: "November 29, 2021"
 slides:
   theme: night
 ---
@@ -66,6 +66,43 @@ slides:
 
 {{< slide id="agenda_slide">}}
 
+
+{{< figure src="/media/wk9_qz1.jpg">}}
+
+
+
+---
+
+
+
+
+
+{{< slide id="agenda_slide">}}
+
+{{< figure src="/media/wk9_qz2.jpg">}}
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+[https://b.socrative.com/login/student/](https://b.socrative.com/login/student/)
+
+**BAXTERDAL**
+
+---
+
+
+
+
+
+{{< slide id="agenda_slide">}}
+
 ## Water Rights
 
 - Riparian owner
@@ -98,7 +135,54 @@ slides:
 
 ### (1849), 12 Vict, c 87
 
-> 5. All persons may float saw logs and other timber, rafts and craft down all streams in Upper Canada during the spring, summer, and autumn freshets, and no person shall, by felling trees or placing any other obstruction in or across any such stream prevent the passage thereof.
+> 5 All persons may float saw logs and other timber, rafts and craft down all streams in Upper Canada during the spring, summer, and autumn freshets, and no person shall, by felling trees or placing any other obstruction in or across any such stream prevent the passage thereof.
+
+---
+
+
+
+
+
+{{< slide id="agenda_slide">}}
+
+{{< figure src="/media/mclaren.jpg">}}
+
+
+---
+
+
+
+
+
+{{< slide id="agenda_slide">}}
+
+### *McLaren v Caldwell*, [1881] OCA
+
+
+
+---
+
+
+
+
+
+{{< slide id="agenda_slide">}}
+
+### *McLaren v Caldwell*, [1882] SCC
+
+
+
+---
+
+
+
+
+
+{{< slide id="agenda_slide">}}
+
+What features of the classic style of common law thought are apparent in Justice Ritchie's judgement for the Supreme Court of Canada?
+
+
 
 ---
 
@@ -110,19 +194,7 @@ slides:
 
 ### *Rivers and Streams Act* (1881)
 
-> 1. All persons shall, subject to the provisions in this Act contained, have, and are hereby declared always to have had, floating down during the spring, summer and autumn freshets, the right to, and may float and transmit saw-logs and all other timber of every kind, and all rafts and crafts, down all rivers, creeks and streams…
-
----
-
-
-
-
-
-{{< slide id="agenda_slide">}}
-
-### *McLaren v Caldwell*, [1882] 8 SCR 435
-
-
+> 1 All persons shall, subject to the provisions in this Act contained, have, and are hereby declared always to have had, floating down during the spring, summer and autumn freshets, the right to, and may float and transmit saw-logs and all other timber of every kind, and all rafts and crafts, down all rivers, creeks and streams…
 
 ---
 
@@ -132,7 +204,7 @@ slides:
 
 {{< slide id="">}}
 
-### Federal Disallowance
+### House of Commons Debates (1882)
 
 
 
