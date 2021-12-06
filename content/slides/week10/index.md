@@ -214,3 +214,21 @@ Can you think of a condition or qualification that you might want to put on a de
 
 ---
 
+
+
+
+
+{{< slide id="agenda_slide">}}
+
+## Summary
+
+- Tenure and estates: no "absolute" ownership of land
+
+- Functions and rules for creating estates in land
+
+- Restraints on alienation and competing freedoms of present and future owners
+
+
+
+---
+
