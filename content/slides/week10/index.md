@@ -1,6 +1,6 @@
 ---
 # title: "Week 10"
-# date: "December 1, 2021"
+# date: "December 6, 2021"
 slides:
   theme: night
 ---
@@ -52,7 +52,7 @@ slides:
 
 ## Succession and the Transfer of Wealth
 
-Does the common law right to alienate property (A) create wealth by encouraging people to work hard and invest or (B) ensure the reduction of class and other social hierarchies? 
+Does the common law right to alienate property (A) create wealth by encouraging people to work hard and invest or (B) ensure the reproduction of class and other social hierarchies? 
 
 
 
@@ -180,7 +180,7 @@ To what extent can owners place restraints on the future rights of others to ali
 
 {{< slide id="agenda_slide">}}
 
-## *Re Walker* (1925), 56 OLR 517 (CA)
+### *Re Walker* (1925), 56 OLR 517 (CA)
 
 > *I give and devise unto my said wife all my real and personal property saving and excepting thereout as follows namely my gold watch and chain I give to my nephew John Noble Walker son of my brother William Walker and all other jewellery I may have at the time of my decease I give to my nephews William Craig Walker and Percy Dugald Walker brothers of the said John Noble Walker share and share alike and also should any portion of my estate still remain in the hands of my said wife at the time of decease undisposed of by her such remainder shall be divided follows …*
 
@@ -194,7 +194,19 @@ To what extent can owners place restraints on the future rights of others to ali
 
 {{< slide id="agenda_slide">}}
 
-## *Blackburn v McCallum*, [1903] 33 SCR 65
+Can you think of a condition or qualification that you might want to put on a devise of property in your will? 
+
+
+
+---
+
+
+
+
+
+{{< slide id="agenda_slide">}}
+
+### *Blackburn v McCallum*, [1903] 33 SCR 65
 
 > I will that the aforesaid parcels of land shall not be at their disposal at any time until the end of twenty-five years from the date of my decease, and farther, I will that the said parcels of land shall remain free from all incumbrance, and that no debts contracted by my sons, William Chisholm and Hugh Chisholm, shall by any means incumber the same during twenty-five years from the date of my decease.
 
