@@ -20,4 +20,20 @@
 
 [6] The appeal should be allowed with costs and it should be declared that Hugh Chisholm took a fee simple absolute by his father’s will in the lands devised to him and was able to convey the same in fee notwithstanding the restriction in the will. And also that the fee simple in the lands was subject to sale under execution as against Hugh Chisholm for his debts.
 
-[7] Appeal allowed without costs.
+**Mills J. —**
+
+[…]
+
+[7] The restraints upon alienation, which were the logical outcome of the feudal system, were gradually relaxed. There was the law of Henry I which enabled a man to dispose of the land which he himself had purchased, for over them the law recognised in him a more extensive power than over those which had come to him by descent from his ancestors He was not, however, to dispose of the whole of what he had acquired, if by doing so he disinherited his children. He might sell one-fourth of what he had inherited, with the consent of the heir. These restrictions were removed by the statute of *Quia Emptores*, which conferred upon all tenants, whether tenants in chivalry or in sergeanty, the liberty to alien their lands except in the case of the King’s tenants in capite, subject to the condition that the purchaser of the fee should hold of the chief lord, and not of the grantor. Pearson J., in referring to the restraint upon alienation mentioned by Littleton, says:
+
+> I confess that I am absolutely at a loss to understand how that exception arose, because it is plainly just as much repugnant to the gift as any other condition would be, for the implied power given to alien to any person or persons he pleases includes a liberty to alien to J.S. if he chooses to do so.
+
+[8] I think when we trace the history of real property law, that it is not difficult to understand how the limited restraint mentioned by Littleton came into existence. It must not be forgotten that under the feudal system the right of alienation was restrained. That system established certain relations between the lord and his tenant. It was based upon an implied contract upon which the structure of society, as it then existed, rested, and it could not be departed from without the common consent of those concerned. The relaxations in the system are indicative of the changes which society itself was undergoing, and these relaxations did not proceed equally in the direction of all parties concerned. The law, as we would be inclined to make it so as to give to it logical consistency, did not at any time exist.
+
+[9] It is the scientific and systematised view that we get from looking back historically over the field after a good deal of progress has been made. It is reasonable to say that where an estate is bestowed, of which the power of alienation is an incident, that one conveying such an estate to another shall not have the power to alter its character, and to make it something wholly different from what it has been made by the law. To do so is to assume the power to make an estate unknown to the law. It is an attempt not simply to convey away an estate, but to exercise a legislative power, and to create a new form of property in land. 
+
+[…]
+
+[10] In my opinion this appeal should be allowed, and it should be declared that Hugh Chisholm took an estate in fee simple, relieved from the restrictions imposed by his father’s will upon the sale of the estate, and against incumbering it with any debts which he may contract.
+
+Appeal allowed without costs.
