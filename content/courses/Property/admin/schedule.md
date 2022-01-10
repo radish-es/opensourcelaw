@@ -3,7 +3,7 @@ title: Course Schedule
 linktitle: Schedule
 type: book
 weight: 2
-date: "2021-11-26"
+date: "2022-01-09"
 ---
 
 This document contains the weekly class meeting schedule with a brief description of each weekly topic and a list of assigned readings for that week.
@@ -54,3 +54,8 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Alienation** - Our final topic for the term is the right to alienate (sell or other transfer) property and the degree to which restraints on alienation have been permitted or prohibited by common law courts. 
 
+## Unit 3: Modern Common Law Thought
+
+### [Week 11 (Jan 12)](../../readings/week11)
+
+**Land Use Control I** - In our first class on the modern style of common law thought, we will return to the issue of expropriation to examine how the Canadian law on *de facto* takings emerged and developed. We will use the recent controversy around the Blue Mountain-Birch Cove Wilderness area in Halifax to ground our study of the legal issues and context. 

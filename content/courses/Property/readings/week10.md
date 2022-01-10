@@ -2,8 +2,8 @@
 title: "Week 10 - Alienability"
 linktitle: "Week 10"
 type: book
-date: "2021-12-06"
-weight: 0
+date: "2022-01-06"
+weight: 20
 ---
 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week10" target="_blank" rel="noopener">SLIDES</a>
