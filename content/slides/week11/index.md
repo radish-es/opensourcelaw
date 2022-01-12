@@ -1,6 +1,6 @@
 ---
 # title: "Week 11"
-# date: "January 9, 2022"
+# date: "January 12, 2022"
 slides:
   theme: night
 ---
@@ -134,6 +134,52 @@ Key ideas from *Mahon*
 {{< slide id="">}}
 
 > Government hardly could go on if, to some extent, values incident to property could not be diminished without paying for every such change in the general law. As long recognized, some values are enjoyed under an implied limitation, and must yield to the police power. But obviously the implied limitation must have its limits … (*Mahon*, para 3)
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## *Mariner Real Estate Ltd. v Nova Scotia*
+
+Which aspects of Justice Cromwell's judgement reflect the modern style? Which aspects appear to diverge from this style? 
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## *De Facto* Expropriation in Canada
+
+- (1) What needs to be "taken" from the landowner?
+
+- (2) What needs to be "acquired" by government? 
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## Test for *De Facto* Expropriation (*Mariner*)
+
+- (1) Virtually all incidents of ownership have been taken away
+
+- (2) Acquisition of an interest in land
 
 
 
