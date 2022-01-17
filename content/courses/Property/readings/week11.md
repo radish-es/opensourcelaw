@@ -1,12 +1,13 @@
 ---
 title: "Week 11 - Land Use Control I"
+week: 11
 linktitle: "Week 11"
 type: book
-date: "2022-01-09"
+date: "2022-01-17"
 weight: 30
 ---
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week11" target="_blank" rel="noopener">SLIDES</a>
+{{% slide-link %}}
 
 This week, which begins Unit 3, we move away from the classical period of legal reasoning we studied last term and into the second style of liberal legal thought we'll confront in the course: the *modern style*. To do so, we will return to a topic we analyzed in Week 9—the field of expropriation and the extent to which property owners can exclude the state from taking away or otherwise interfering with "their" property rights. 
 

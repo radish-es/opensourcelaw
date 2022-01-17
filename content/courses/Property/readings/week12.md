@@ -1,12 +1,13 @@
 ---
 title: "Week 12 - Land Use Control II"
+week: 12
 linktitle: "Week 12"
 type: book
-date: "2022-01-16"
+date: "2022-01-17"
 weight: 0
 ---
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week12" target="_blank" rel="noopener">SLIDES</a>
+{{% slide-link %}}
 
 {{% callout exercise %}} 
 
