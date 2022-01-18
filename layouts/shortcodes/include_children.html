@@ -1,0 +1,6 @@
+
+{{ if gt (len $.Page.Pages) 0}}
+    {{ range $.Page.Pages }}
+        {{.Content}}
+    {{end}}
+{{end}}
