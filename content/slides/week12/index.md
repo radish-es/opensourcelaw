@@ -1,107 +1,9 @@
 ---
 # title: "Week 12"
-# date: "January 16, 2022"
+# date: "January 19, 2022"
 slides:
   theme: night
 ---
-
-
-
-{{< slide id="">}}
-
-## Recap: Week 11
-
-
-
----
-
-
-
-
-
-{{< slide id="">}}
-
-### *De Facto* Expropriation
-
-A "taking" of property rights by government that leaves title in the hands of the landowner but is still amounts to expropriation requiring compensation. 
-
-
-
----
-
-
-
-
-
-{{< slide id="">}}
-
-### Puzzle: *Pennsylvania Coal Co. v Mahon*
-
-> Government hardly could go on if, to some extent, values incident to property could not be diminished without paying for every such change in the general law. As long recognized, some values are enjoyed under an implied limitation, and must yield to the police power. But obviously the implied limitation must have its limits … (*Mahon*, para 3)
-
-> The general rule, at least, is that, while property may be regulated to a certain extent, if regulation goes too far, it will be recognized as a taking. (*Mahon*, para 9)
-
-
-
----
-
-
-
-
-
-{{< slide id="">}}
-
-The common law test for *de facto* expropriation in Canada is quite strict. *Mariner Real Estate Ltd. v Nova Scotia* sets a high bar for owners/claimants to succeed. 
-
-
-
----
-
-
-
-
-
-{{< slide id="">}}
-
-### Blue Mountain-Birch Cove Wilderness Area
-
-- What is the legal test for *de facto* expropriation in Canadian law?
-
-- How has this test emerged as a product of the modern style? 
-
-
-
----
-
-
-
-
-
-{{< slide id="">}}
-
-### Test for *De Facto* Expropriation (*Mariner*)
-
-- (1) Virtually all incidents of ownership have been taken away from the landowner
-
-- (2) An interest in land has been acquired by government
-
-
-
----
-
-
-
-
-
-{{< slide id="">}}
-
-### Modern Legal Style in *Mariner*
-
-
-
----
-
-
 
 
 
@@ -165,6 +67,88 @@ The common law test for *de facto* expropriation in Canada is quite strict. *Mar
 {{< slide id="">}}
 
 #### *Toronto Roman Catholic Separate School Board v Toronto (City)*,  [1925] 3 DLR 880 (JCPC)
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+#### *Toronto Roman Catholic Separate School Board v Toronto (City)*
+
+> 399A (a) No by-law passed under this section shall apply to any land or building which on the day the by-law is passed is erected or used for any purpose prohibited by the by-law so long as it continues to be used for that purpose, nor shall it apply to any building in course of erection or to any building the plans for which have been approved by the city architect prior to the date of the passing of the by-law, so long as when erected it is used for the purpose for which it was erected.
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+#### What about acquired rights to operate the school?
+
+Did the School Board in *Toronto Roman Catholic Separate School Board v Toronto* have an acquired right to operate a school out of the existing buildings on Prince Arthur Avenue? Why or why not?
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Saint-Romuald (City) v. Olivier
+
+Scope of acquired rights:
+
+- Intensity of use
+
+- Type of use 
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Test for Scope of Acquired Rights (*Olivier*)
+
+1. Purpose of pre-existing use
+
+2. Intensity of use
+
+3. Type of use
+
+4. Moral regulation / health / safety / general welfare 
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Role of the Police Power
+
+> [T]he nature of an activity must be defined in reference to the perception and values of the society. (Gonthier, para 54)
+
+> It is open to the municipality as a legislator to introduce such value judgments into its land use controls (as it did here under the new by-law), but I do not think the landowner’s “acquired right” to continue to carry on business can retroactively be truncated in this way on the present state of the law. (Binnie, para 8)
 
 
 
