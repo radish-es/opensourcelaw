@@ -3,7 +3,7 @@ title: "Week 14 - Restrictive Covenants"
 linktitle: "Week 14"
 type: book
 week: 14
-date: "2022-01-29"
+date: "2022-01-31"
 weight: 0
 ---
 
@@ -265,6 +265,18 @@ As you read the cases below to understand the contours of the doctrine of public
 [9] It was a forward step that the rigour of the common law should be softened by the doctrine expounded in *Tulk v. Moxhay* but it would be an unwarrantable extension of that doctrine to hold, from anything that was said in that case or in subsequent cases that the covenant here in question has any reference to the use, or abstention from use, of land. Even if decisions upon the common law could be prayed in aid, there are none that go to the extent claimed in the present case.
 
 [10] The appeal should be allowed with costs here and in the Court of Appeal. There should be no costs of the original motions in the Supreme Court of Ontario.
+
+**The judgment of Rand, Kellock and Fauteux JJ. was delivered by Rand J.**:
+
+[11] Covenants enforceable under the rule of *Tulk v. Moxhay*, are properly conceived as running with the land in equity and, by reason of their enforceability, as constituting an equitable servitude or burden on the servient land. The essence of such an incident is that it should touch or concern the land as contradistinguished from a collateral effect. In that sense, it is a relation between parcels, annexed to them and, subject to the equitable rule of notice, passing with them both as to benefit and burden in transmissions by operation of law as well as by act of the parties.
+
+[12] But by its language, the covenant here is directed not to the land or to some mode of its use, but to transfer by act of the purchaser; its scope does not purport to extend to a transmission by law to a person within the banned class. If, for instance, the grantee married a member of that class, it is not suggested that the ordinary inheritance by a child of the union would be affected. Not only, then, it is not a covenant touching or concerning the land, but by its own terms it fails in annexation to the land. The respondent owners are, therefore, without any right against the proposed vendor.
+
+[13] On its true interpretation, the covenant is a restraint on alienation. […]
+
+[14] The effect of the covenant, if enforceable, would be to annex a partial inalienability as an equitable incident of the ownership, to nullify an area of proprietary powers. In both cases there is the removal of part of the power to alienate; and I can see no ground of distinction between the certainty required in the one case and that of the other. The uncertainty is, then, fatal to the validity of the covenant before us as a defect of or objection to the title.
+
+[15] I would, therefore, allow the appeal and direct judgment to the effect that the covenant is not an objection to the title of the proposed vendor, with costs to the appellants in this Court and in the Court of Appeal.
 
 *Appeal allowed with costs*.
 
