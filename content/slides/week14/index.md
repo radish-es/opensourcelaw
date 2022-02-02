@@ -1,6 +1,6 @@
 ---
 # title: "Week 14"
-# date: "January 29, 2022"
+# date: "February 2, 2022"
 slides:
   theme: night
 ---
@@ -73,6 +73,20 @@ How will existing limits on s. 7 right shelter coming out of *Adams* be applied?
 
 ## Restrictive Covenants
 
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## 3000 Funston Street
+
+![](/media/3000_funston.png)
 
 
 
@@ -164,6 +178,105 @@ Dominant = enjoys the benefit
 ## Benefits
 
  
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## Public Policy
+
+"Whatever is injurious to the interests of the public is void, on the grounds of public policy." (*Re Drummond Wren*, para 12)
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+Could terms of the 3000 Funston Street covenant be challenged on the basis of the public policy doctrine developed in *Re Drummond Wren*? How would you frame the argument?  
+
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Public Policy-1
+
+"Whatever is injurious to the interests of the public is void, on the grounds of public policy." (*Re Drummond Wren*, para 12)
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## Discriminatory restrictive covenants 
+
+*Re Drummond Wren* (1945, Ont HC)
+
+*Noble and Wolf v Alley* (1951, SCC)
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Public Policy-1 [ref1]
+
+"Whatever is injurious to the interests of the public is void, on the grounds of public policy." (*Re Drummond Wren*, para 12)
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Grounds
+
+How do the courts in *Re Drummond Wren* and *Noble v Alley* differ in their approach to refusing to enforce the discriminatory covenants in issue? 
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+### Public Policy Doctrine
+
+"Whatever is injurious to the interests of the public is void, on the grounds of public policy." (*Re Drummond Wren*, para 12)
 
 
 

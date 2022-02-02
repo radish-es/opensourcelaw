@@ -3,9 +3,11 @@ title: "Week 14 - Restrictive Covenants"
 linktitle: "Week 14"
 type: book
 week: 14
-date: "2022-01-31"
-weight: 0
+date: "2022-02-02"
+weight: 60
 ---
+
+{{% slide-link %}}
 
 {{% callout exercise %}} 
 
@@ -118,7 +120,7 @@ In the second circumstance, a court might find that a restrictive covenant is a 
 
 How could the doctrine of public policy be applied to the restrictive covenant in our case study at 3000 Funston Street for this week? Is it likely that the restrictions preventing the city from building affordable housing on the site might be found invalid according to this doctrine? On some other grounds?
 
-As you read the cases below to understand the contours of the doctrine of public policy as applied to restrictive covenants, consider again the features of the modern style of common law reasoning and the extent to which they frame and motivate judicial analysis these cases.
+As you read the cases below to understand the contours of the doctrine of public policy as applied to restrictive covenants, consider again the features of the modern style of common law reasoning and the extent to which they frame and motivate judicial analysis of these cases.
 
 ## *Re Drummond Wren*, [1945] OR 778 (HC) ##
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/drummond.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/drummond.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/drummond.pdf" target="_blank" rel="noopener">PDF</a>
