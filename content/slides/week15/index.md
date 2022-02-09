@@ -1,53 +1,9 @@
 ---
 # title: "Week 15"
-# date: "February 4, 2022"
+# date: "February 9, 2022"
 slides:
   theme: night
 ---
-
-
-
-{{< slide id="">}}
-
-## Recap: Week 14
-
-
-
----
-
-
-
-
-
-{{< slide id="">}}
-
-## Three Key Points
-
-- Covenants can "run with the land" in equity
-
-- Four requirements for the burdens of a covenant to run
-
-- Covenants may be invalid on grounds of public policy
-
-
-
----
-
-
-
-
-
-{{< slide id="">}}
-
-## 3000 Funston Street
-
-![](/media/3000_funston.png)
-
-
-
----
-
-
 
 
 
@@ -138,6 +94,70 @@ slides:
 ### Vested vs Contingent Interests
 
 To A and their heirs when A turns 25 years old. 
+
+
+
+---
+
+
+
+
+
+{{< slide id="agenda_slide">}}
+
+## Problem
+
+> A testator, recently deceased, has two surviving adult children who are the sole beneficiaries of the testator’s will. The will establishes a private trust whose terms stipulate that, in order for the eldest of the two children to receive their share of the estate property they must divorce and cease to cohabitate with their spouse. If the eldest child fails to meet this condition within five years of the testator’s decease, the whole residue of the estate will pass to the other beneficiary.
+
+
+
+---
+
+
+
+
+
+{{< slide id="agenda_slide">}}
+
+How would you describe the property interests the testator is trying to create in the bequest from our hypothetical problem this week? 
+
+
+
+---
+
+
+
+
+
+{{< slide id="agenda_slide">}}
+
+### Revisiting Public Policy
+
+
+
+---
+
+
+
+
+
+{{< slide id="agenda_slide">}}
+
+### *Canada Trust Co v Ontario*
+
+Justice Robinson and Justice Tarnopolsky agree that the conditions in the trust should be struck out. How do their decisions differ? 
+
+
+
+---
+
+
+
+
+
+{{< slide id="agenda_slide">}}
+
+Based on *Canada Trust Co* and on *McCorkill*, is the condition in our hypo this week likely to be invalid because it is against public policy? Why or why not? 
 
 
 
