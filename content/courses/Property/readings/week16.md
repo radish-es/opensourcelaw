@@ -2,7 +2,7 @@
 title: "Week 16 - Review"
 linktitle: "Week 16"
 type: book
-date: "2022-02-11"
+date: "2022-02-22"
 weight: 80
 ---
 
@@ -85,7 +85,7 @@ The following is a list of "rapid review" questions. I don't suggest that you ad
 
 ### Thematic Review: Modern Style of Common Law Thought
 
-After you have completed the rapid review questions above, aim to spend some time considering the question below.
+After you have completed the rapid review questions above, aim to spend some time considering the broader thematic question below.
 
 **Give one or more examples of each of the following judicial moves from the materials in Unit 3:**
 
