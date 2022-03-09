@@ -226,7 +226,7 @@ The first possessor of a baseball must be "actively and ably engaged in efforts 
 
 {{< slide id="">}}
 
-## Elements of the Contemporary Style
+## Elements: Common Law Style
 
 1. Competition vs Control
 
