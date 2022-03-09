@@ -1,13 +1,13 @@
 ---
 # title: "Week 18"
-# date: "March 4, 2022"
+# date: "March 9, 2022"
 slides:
   theme: night
 ---
 
 
 
-{{< slide id="">}}
+{{< slide id="title_slide">}}
 
 # Week 18
 
@@ -47,7 +47,6 @@ slides:
 
 ### *Clift v Kane*
 
-![](/media/seal_hunt.jpg)
 
 
 
@@ -61,7 +60,7 @@ slides:
 
 ### Custom
 
-![](/media/parking_chairs.jpg)
+
 
 
 
@@ -183,6 +182,12 @@ The first possessor of a baseball must be "actively and ably engaged in efforts 
 
 ## The Contemporary Style of Common Law Thought
 
+1. Competition vs {{< hl >}}Control{{< /hl >}}
+
+2. {{< hl >}}Collapse{{< /hl >}} of the "public/private" distinction
+
+3. Formalism vs {{< hl >}}Functionalism{{< /hl >}}
+
 
 
 ---
@@ -210,6 +215,52 @@ The first possessor of a baseball must be "actively and ably engaged in efforts 
 {{< slide id="">}}
 
 ## Neither formal nor functional: pragmatic ends
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## Elements of the Contemporary Style
+
+1. Competition vs Control
+
+2. Public vs Private
+
+3. Formalism vs Functionalism
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## Problem 1
+
+> Two children are playing on a beach and see an old abandoned boat washed up on shore. They both run for it. The faster one nearly reaches the vessel but trips on a piece of driftwood and sprains their ankle. The second child then overtakes the first, jumps on board and declares the boat "mine!". Who owns the boat? 
+
+
+
+---
+
+
+
+
+
+{{< slide id="">}}
+
+## Problem 2
+
+> You client recently purchased a winter cottage, on a modest tract of land at the side of a mountain, adjacent to a popular ski resort in a small town. The resort owns land above and below the cottage and has recently unveiled plans to run one portion of a new ski lift directly over your client's land. Permanent cables for the lift would run less than 20 feet above the cottage. Is there a legal basis on which your client could challenge development of the proposed ski lift? Does it matter that the resort cannot continue to operate without expanding its access to the mountain and that over half of the town's residents are employed there? 
 
 
 
