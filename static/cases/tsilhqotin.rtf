@@ -1,0 +1,856 @@
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff31507\deff0\stshfdbch31506\stshfloch31506\stshfhich31506\stshfbi31507\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f2\fbidi \fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}
+{\f3\fbidi \fdecor\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f4\fbidi \fnil\fcharset0\fprq2{\*\panose 00000000000000000000}Helvetica;}{\f10\fbidi \fdecor\fcharset77\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f38\fbidi \fswiss\fcharset204\fprq2{\*\panose 020f0302020204030204}Calibri Light;}{\f39\fbidi \froman\fcharset0\fprq2{\*\panose 02040502050505030304}Palatino Linotype;}
+{\f43\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}{\f676\fbidi \fmodern\fcharset0\fprq1{\*\panose 020b0609020204030204}Consolas;}{\f1570\fbidi \fnil\fcharset0\fprq2{\*\panose 020b0604020202020204}Sabon Next LT Pro;}
+{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhimajor\f31502\fbidi \fswiss\fcharset204\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhiminor\f31506\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1571\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\f1572\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f1574\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f1575\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f1576\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f1577\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f1578\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f1579\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\f1591\fbidi \fmodern\fcharset238\fprq1 Courier New CE;}{\f1592\fbidi \fmodern\fcharset204\fprq1 Courier New Cyr;}{\f1594\fbidi \fmodern\fcharset161\fprq1 Courier New Greek;}{\f1595\fbidi \fmodern\fcharset162\fprq1 Courier New Tur;}
+{\f1596\fbidi \fmodern\fcharset177\fprq1 Courier New (Hebrew);}{\f1597\fbidi \fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f1598\fbidi \fmodern\fcharset186\fprq1 Courier New Baltic;}{\f1599\fbidi \fmodern\fcharset163\fprq1 Courier New (Vietnamese);}
+{\f1611\fbidi \fnil\fcharset238\fprq2 Helvetica CE;}{\f1612\fbidi \fnil\fcharset204\fprq2 Helvetica Cyr;}{\f1614\fbidi \fnil\fcharset161\fprq2 Helvetica Greek;}{\f1615\fbidi \fnil\fcharset162\fprq2 Helvetica Tur;}
+{\f1618\fbidi \fnil\fcharset186\fprq2 Helvetica Baltic;}{\f1619\fbidi \fnil\fcharset163\fprq2 Helvetica (Vietnamese);}{\f1911\fbidi \froman\fcharset238\fprq2 Cambria Math CE;}{\f1912\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}
+{\f1914\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f1915\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f1918\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}{\f1919\fbidi \froman\fcharset163\fprq2 Cambria Math (Vietnamese);}
+{\f1953\fbidi \fswiss\fcharset0\fprq2 Calibri Light;}{\f1951\fbidi \fswiss\fcharset238\fprq2 Calibri Light CE;}{\f1954\fbidi \fswiss\fcharset161\fprq2 Calibri Light Greek;}{\f1955\fbidi \fswiss\fcharset162\fprq2 Calibri Light Tur;}
+{\f1956\fbidi \fswiss\fcharset177\fprq2 Calibri Light (Hebrew);}{\f1957\fbidi \fswiss\fcharset178\fprq2 Calibri Light (Arabic);}{\f1958\fbidi \fswiss\fcharset186\fprq2 Calibri Light Baltic;}
+{\f1959\fbidi \fswiss\fcharset163\fprq2 Calibri Light (Vietnamese);}{\f1961\fbidi \froman\fcharset238\fprq2 Palatino Linotype CE;}{\f1962\fbidi \froman\fcharset204\fprq2 Palatino Linotype Cyr;}
+{\f1964\fbidi \froman\fcharset161\fprq2 Palatino Linotype Greek;}{\f1965\fbidi \froman\fcharset162\fprq2 Palatino Linotype Tur;}{\f1968\fbidi \froman\fcharset186\fprq2 Palatino Linotype Baltic;}
+{\f1969\fbidi \froman\fcharset163\fprq2 Palatino Linotype (Vietnamese);}{\f2001\fbidi \froman\fcharset238\fprq2 Cambria CE;}{\f2002\fbidi \froman\fcharset204\fprq2 Cambria Cyr;}{\f2004\fbidi \froman\fcharset161\fprq2 Cambria Greek;}
+{\f2005\fbidi \froman\fcharset162\fprq2 Cambria Tur;}{\f2008\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}{\f2009\fbidi \froman\fcharset163\fprq2 Cambria (Vietnamese);}{\f8331\fbidi \fmodern\fcharset238\fprq1 Consolas CE;}
+{\f8332\fbidi \fmodern\fcharset204\fprq1 Consolas Cyr;}{\f8334\fbidi \fmodern\fcharset161\fprq1 Consolas Greek;}{\f8335\fbidi \fmodern\fcharset162\fprq1 Consolas Tur;}{\f8338\fbidi \fmodern\fcharset186\fprq1 Consolas Baltic;}
+{\f8339\fbidi \fmodern\fcharset163\fprq1 Consolas (Vietnamese);}{\f17271\fbidi \fnil\fcharset238\fprq2 Sabon Next LT Pro CE;}{\f17274\fbidi \fnil\fcharset161\fprq2 Sabon Next LT Pro Greek;}{\f17275\fbidi \fnil\fcharset162\fprq2 Sabon Next LT Pro Tur;}
+{\f17278\fbidi \fnil\fcharset186\fprq2 Sabon Next LT Pro Baltic;}{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31530\fbidi \fswiss\fcharset0\fprq2 Calibri;}
+{\fhimajor\f31528\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhimajor\f31531\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhimajor\f31532\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}
+{\fhimajor\f31533\fbidi \fswiss\fcharset177\fprq2 Calibri (Hebrew);}{\fhimajor\f31534\fbidi \fswiss\fcharset178\fprq2 Calibri (Arabic);}{\fhimajor\f31535\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\fhimajor\f31536\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhiminor\f31568\fbidi \froman\fcharset238\fprq2 Cambria CE;}{\fhiminor\f31569\fbidi \froman\fcharset204\fprq2 Cambria Cyr;}
+{\fhiminor\f31571\fbidi \froman\fcharset161\fprq2 Cambria Greek;}{\fhiminor\f31572\fbidi \froman\fcharset162\fprq2 Cambria Tur;}{\fhiminor\f31575\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}
+{\fhiminor\f31576\fbidi \froman\fcharset163\fprq2 Cambria (Vietnamese);}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red0\green0\blue0;\red0\green0\blue0;\ctextone\ctint255\cshade255\red0\green0\blue0;
+\caccentone\ctint255\cshade255\red79\green129\blue189;\caccentone\ctint255\cshade181\red52\green90\blue138;\caccentone\ctint255\cshade191\red54\green95\blue145;\red0\green112\blue32;\red144\green32\blue0;\red64\green160\blue112;\red136\green0\blue0;
+\red64\green112\blue160;\red187\green102\blue136;\red96\green160\blue176;\red186\green33\blue33;\red6\green40\blue126;\red25\green23\blue124;\red102\green102\blue102;\red188\green122\blue0;\red125\green144\blue41;}{\*\defchp 
+\f31506\fs24\lang1033\langfe1033\langnp1033 }{\*\defpap \ql \li0\ri0\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\qj \li0\ri0\sl360\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 \sqformat \spriority0 Normal;}{
+\s1\qc \li0\ri0\sa360\sl360\slmult1\keep\keepn\pagebb\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af31503\afs32\alang1025 \ltrch\fcs0 
+\b\fs32\cf19\lang1033\langfe1033\loch\f39\hich\af39\dbch\af31501\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 \sqformat \spriority9 heading 1;}{
+\s2\qc \li0\ri0\sa240\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af31503\afs32\alang1025 \ltrch\fcs0 
+\b\fs28\cf19\lang1033\langfe1033\loch\f4\hich\af4\dbch\af31501\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 \sunhideused \sqformat \spriority9 heading 2;}{
+\s3\qc \li0\ri0\sa240\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af31503\afs28\alang1025 \ltrch\fcs0 
+\b\fs28\lang1033\langfe1033\loch\f4\hich\af4\dbch\af31501\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 \sunhideused \sqformat \spriority9 heading 3;}{\s4\qj \li0\ri0\sb200\sl360\slmult1
+\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel3\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af31503\afs24\alang1025 \ltrch\fcs0 \b\fs24\cf20\lang1033\langfe1033\loch\f31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext15 \sunhideused \sqformat \spriority9 heading 4;}{\s5\qj \li0\ri0\sb200\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel4\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ai\af31503\afs24\alang1025 \ltrch\fcs0 
+\i\fs24\cf20\lang1033\langfe1033\loch\f31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 \sunhideused \sqformat \spriority9 heading 5;}{\s6\qj \li0\ri0\sb200\sl360\slmult1
+\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel5\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31503\afs24\alang1025 \ltrch\fcs0 \fs24\cf20\lang1033\langfe1033\loch\f31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext15 \sunhideused \sqformat \spriority9 heading 6;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\sa200\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f31506\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused Normal Table;}{
+\s15\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext15 \slink70 \sqformat \spriority0 Body Text;}{\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
+\f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext15 \sqformat \spriority0 First Paragraph;}{\s17\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 
+\ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon15 \snext17 \sqformat \spriority0 Compact;}{\s18\qc \li0\ri0\sb480\sa240\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\rtlch\fcs1 \ab\af31503\afs36\alang1025 \ltrch\fcs0 \b\fs36\cf21\lang1033\langfe1033\loch\f31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 \sqformat \spriority0 Title;}{\s19\qc \li0\ri0\sb240\sa240\sl360\slmult1
+\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af31503\afs30\alang1025 \ltrch\fcs0 \b\fs30\cf21\lang1033\langfe1033\loch\f31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 
+\sbasedon18 \snext15 \sqformat \spriority0 Subtitle;}{\s20\qc \li0\ri0\sa200\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
+\f31506\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext15 \sqformat \spriority0 Author;}{\s21\qc \li0\ri0\sa200\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 
+\ltrch\fcs0 \f31506\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext15 \sqformat \spriority0 Date;}{\s22\qj \li0\ri0\sb300\sa300\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\af31507\afs20\alang1025 \ltrch\fcs0 \f39\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 \sqformat \spriority0 Abstract;}{\s23\ql \fi-454\li454\ri0\sa80\sl288\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin454\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext23 \sqformat \spriority0 Bibliography;}{
+\s24\qj \li567\ri567\sb80\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin567\lin567\itap0 \rtlch\fcs1 \af31503\afs20\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\f39\hich\af39\dbch\af31501\cgrid\langnp1033\langfenp1033 
+\sbasedon15 \snext15 \sunhideused \sqformat \spriority9 Block Text;}{\s25\ql \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
+\f39\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext25 \sunhideused \sqformat \spriority9 footnote text;}{\s26\qj \li0\ri0\sl360\slmult1\keep\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \b\f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext27 \spriority0 Definition Term;}{\s27\qj \li0\ri0\sl360\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext27 \spriority0 Definition;}{
+\s28\qj \li0\ri0\sa120\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \i\f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext28 \slink33 \spriority0 caption;}{\s29\qj \li0\ri0\sa120\sl360\slmult1\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
+\i\f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon28 \snext29 \spriority0 Table Caption;}{\s30\qj \li0\ri0\sb120\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 
+\ltrch\fcs0 \i\f38\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon28 \snext30 \spriority0 Image Caption;}{\s31\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 
+\af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext31 \spriority0 Figure;}{\s32\qj \li0\ri0\sl360\slmult1\keepn\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon31 \snext32 \spriority0 Figure with Caption;}{\*\cs33 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \slink28 \slocked \spriority0 
+Caption Char;}{\*\cs34 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f1570\fs22 \sbasedon33 \slink38 \slocked \spriority0 Verbatim Char;}{\*\cs35 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \super \sbasedon33 \spriority0 footnote reference;}{\*\cs36 \additive 
+\rtlch\fcs1 \af0 \ltrch\fcs0 \cf20 \sbasedon33 \spriority0 Hyperlink;}{\s37\qc \li0\ri0\sb240\sa360\sl259\slmult1\keep\keepn\pagebb\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31503\afs32\alang1025 \ltrch\fcs0 
+\fs32\cf22\lang1033\langfe1033\loch\f31502\hich\af31502\dbch\af31501\cgrid\langnp1033\langfenp1033 \sbasedon1 \snext15 \sunhideused \sqformat \spriority39 TOC Heading;}{\s38\qj \li2835\ri0\sl360\slmult1
+\widctlpar\wrapdefault\nowwrap\aspalpha\aspnum\faauto\adjustright\rin0\lin2835\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs22\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 \slink34 \spriority0 Source Code;}{\*
+\cs39 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \b\f676\fs22\cf23 \sbasedon34 \spriority0 KeywordTok;}{\*\cs40 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf24 \sbasedon34 \spriority0 DataTypeTok;}{\*\cs41 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 
+\f676\fs22\cf25 \sbasedon34 \spriority0 DecValTok;}{\*\cs42 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf25 \sbasedon34 \spriority0 BaseNTok;}{\*\cs43 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf25 \sbasedon34 \spriority0 FloatTok;}{\*
+\cs44 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf26 \sbasedon34 \spriority0 ConstantTok;}{\*\cs45 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf27 \sbasedon34 \spriority0 CharTok;}{\*\cs46 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 
+\f676\fs22\cf27 \sbasedon34 \spriority0 SpecialCharTok;}{\*\cs47 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf27 \sbasedon34 \spriority0 StringTok;}{\*\cs48 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf27 \sbasedon34 \spriority0 
+VerbatimStringTok;}{\*\cs49 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf28 \sbasedon34 \spriority0 SpecialStringTok;}{\*\cs50 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22 \sbasedon34 \spriority0 ImportTok;}{\*\cs51 \additive \rtlch\fcs1 \af0 
+\ltrch\fcs0 \i\f676\fs22\cf29 \sbasedon34 \spriority0 CommentTok;}{\*\cs52 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \i\f676\fs22\cf30 \sbasedon34 \spriority0 DocumentationTok;}{\*\cs53 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \b\i\f676\fs22\cf29 
+\sbasedon34 \spriority0 AnnotationTok;}{\*\cs54 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \b\i\f676\fs22\cf29 \sbasedon34 \spriority0 CommentVarTok;}{\*\cs55 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf23 \sbasedon34 \spriority0 OtherTok;}{\*\cs56 
+\additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf31 \sbasedon34 \spriority0 FunctionTok;}{\*\cs57 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf32 \sbasedon34 \spriority0 VariableTok;}{\*\cs58 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 
+\b\f676\fs22\cf23 \sbasedon34 \spriority0 ControlFlowTok;}{\*\cs59 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf33 \sbasedon34 \spriority0 OperatorTok;}{\*\cs60 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22 \sbasedon34 \spriority0 BuiltInTok;}
+{\*\cs61 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22 \sbasedon34 \spriority0 ExtensionTok;}{\*\cs62 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22\cf34 \sbasedon34 \spriority0 PreprocessorTok;}{\*\cs63 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 
+\f676\fs22\cf35 \sbasedon34 \spriority0 AttributeTok;}{\*\cs64 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22 \sbasedon34 \spriority0 RegionMarkerTok;}{\*\cs65 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \b\i\f676\fs22\cf29 \sbasedon34 \spriority0 
+InformationTok;}{\*\cs66 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \b\i\f676\fs22\cf29 \sbasedon34 \spriority0 WarningTok;}{\*\cs67 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \b\f676\fs22\cf6 \sbasedon34 \spriority0 AlertTok;}{\*\cs68 \additive \rtlch\fcs1 \af0 
+\ltrch\fcs0 \b\f676\fs22\cf6 \sbasedon34 \spriority0 ErrorTok;}{\*\cs69 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f676\fs22 \sbasedon34 \spriority0 NormalTok;}{\*\cs70 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f39 \sbasedon10 \slink15 \slocked \spriority0 
+Body Text Char;}{\s71\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon15 \snext71 \slink72 \ssemihidden \sunhideused \spriority0 Body Text First Indent;}{\*\cs72 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f1570 \sbasedon70 \slink71 \slocked \ssemihidden \spriority0 Body Text First Indent Char;}{
+\s73\qj \li0\ri0\widctlpar\tqc\tx4513\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext73 \slink74 \sunhideused header;}{\*\cs74 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f1570 \sbasedon10 \slink73 \slocked Header Char;}{\s75\qj \li0\ri0\widctlpar
+\tqc\tx4513\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext75 \slink76 \sunhideused \spriority0 
+footer;}{\*\cs76 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \f1570 \sbasedon10 \slink75 \slocked \spriority0 Footer Char;}{\*\cs77 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \ssemihidden \sunhideused \spriority0 page number;}}{\*\listtable
+{\list\listtemplateid-1694208960{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li480\jclisttab\tx0\lin480 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li1200\jclisttab\tx720\lin1200 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0
+\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li1920\jclisttab\tx1440\lin1920 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}
+\hres0\chhres0 \fi-480\li2640\jclisttab\tx2160\lin2640 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li3360\jclisttab\tx2880\lin3360 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li4080\jclisttab\tx3600\lin4080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li4800\jclisttab\tx4320\lin4800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0
+{\leveltext\'00;}{\levelnumbers;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'00;}{\levelnumbers;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\hres0\chhres0 }{\listname ;}\listid-1126652485}{\list\listtemplateid-1098770056{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li480
+\jclisttab\tx0\lin480 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li1200\jclisttab\tx720\lin1200 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li1920\jclisttab\tx1440\lin1920 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0
+\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li2640\jclisttab\tx2160\lin2640 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}
+\hres0\chhres0 \fi-480\li3360\jclisttab\tx2880\lin3360 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li4080\jclisttab\tx3600\lin4080 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li4800\jclisttab\tx4320\lin4800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'00;}{\levelnumbers;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext
+\'00;}{\levelnumbers;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 }{\listname ;}\listid-511743558}{\list\listtemplateid1591131146{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'00;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi0\li0\jclisttab\tx0\lin0 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 _;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 
+\fi-360\li1080\jclisttab\tx720\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li1800\jclisttab\tx1440\lin1800 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3929 _;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li2520\jclisttab\tx2160\lin2520 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3846 _;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li3240\jclisttab\tx2880\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 _;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li3960\jclisttab\tx3600\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0\hres0\chhres0 \fi-360\li4680\jclisttab\tx4320\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3929 _;}{\levelnumbers;}
+\f10\fbias0\hres0\chhres0 \fi-360\li5400\jclisttab\tx5040\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3846 _;}{\levelnumbers;}\f10\fbias0\hres0\chhres0 \fi-360\li6120
+\jclisttab\tx5760\lin6120 }{\listname ;}\listid-227}{\list\listtemplateid-2101991598\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 
+\af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li1492\jclisttab\tx1492\lin1492 }{\listname ;}\listid-132}{\list\listtemplateid-801359378\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li1209\jclisttab\tx1209\lin1209 }{\listname ;}\listid-131}{\list\listtemplateid-1367425474\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li926\jclisttab\tx926\lin926 }{\listname ;}\listid-130}{\list\listtemplateid-995229250\listsimple{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li643\jclisttab\tx643\lin643 }{\listname ;}\listid-129}
+{\list\listtemplateid-169410982\listsimple{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 _;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li1492\jclisttab\tx1492\lin1492 }
+{\listname ;}\listid-128}{\list\listtemplateid1559382358\listsimple{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 _;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li1209
+\jclisttab\tx1209\lin1209 }{\listname ;}\listid-127}{\list\listtemplateid-1194586464\listsimple{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 _;}{\levelnumbers;}
+\f3\fbias0\hres0\chhres0 \fi-360\li926\jclisttab\tx926\lin926 }{\listname ;}\listid-126}{\list\listtemplateid1865332394\listsimple{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01\u-3913 _;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li643\jclisttab\tx643\lin643 }{\listname ;}\listid-125}{\list\listtemplateid432559050\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 \hres0\chhres0 \fi-360\li360\jclisttab\tx360\lin360 }{\listname ;}\listid-120}{\list\listtemplateid1322949474\listsimple{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 _;}{\levelnumbers;}\f3\fbias0\hres0\chhres0 \fi-360\li360\jclisttab\tx360\lin360 }{\listname ;}\listid-119}{\list\listtemplateid-1863173518{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0
+\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 
+\fi-480\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext
+\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li5040\lin5040 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0
+\levelspace0\levelindent0{\leveltext\'01 ;}{\levelnumbers;}\hres0\chhres0 \fi-480\li6480\lin6480 }{\listname ;}\listid43408}{\list\listtemplateid2021042610{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0
+\levelindent0{\leveltext\'01\'95;}{\levelnumbers;}\hres0\chhres0 \fi-480\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01\'96;}{\levelnumbers;}\hres0\chhres0 
+\fi-480\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01\'95;}{\levelnumbers;}\hres0\chhres0 \fi-480\li2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01\'96;}{\levelnumbers;}\hres0\chhres0 \fi-480\li2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext
+\'01\'95;}{\levelnumbers;}\hres0\chhres0 \fi-480\li3600\lin3600 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01\'96;}{\levelnumbers;}\hres0\chhres0 \fi-480\li4320\lin4320 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01\'95;}{\levelnumbers;}\hres0\chhres0 \fi-480\li5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat0\levelspace0\levelindent0{\leveltext\'01\'96;}{\levelnumbers;}\hres0\chhres0 \fi-480\li5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01\'95;}{\levelnumbers
+;}\hres0\chhres0 \fi-480\li6480\lin6480 }{\listname ;}\listid43409}}{\*\listoverridetable{\listoverride\listid-511743558\listoverridecount0\ls1}{\listoverride\listid-1126652485\listoverridecount0\ls2}{\listoverride\listid-227\listoverridecount0\ls3}
+{\listoverride\listid-132\listoverridecount0\ls4}{\listoverride\listid-131\listoverridecount0\ls5}{\listoverride\listid-130\listoverridecount0\ls6}{\listoverride\listid-129\listoverridecount0\ls7}{\listoverride\listid-120\listoverridecount0\ls8}
+{\listoverride\listid-128\listoverridecount0\ls9}{\listoverride\listid-127\listoverridecount0\ls10}{\listoverride\listid-126\listoverridecount0\ls11}{\listoverride\listid-125\listoverridecount0\ls12}{\listoverride\listid-119\listoverridecount0\ls13}
+{\listoverride\listid43408\listoverridecount0\ls14}{\listoverride\listid43409\listoverridecount0\ls15}{\listoverride\listid43409\listoverridecount0\ls16}{\listoverride\listid43409\listoverridecount0\ls17}}{\*\rsidtbl \rsid5006802\rsid15878374\rsid16459460
+}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef0\mlMargin0\mrMargin0\mdefJc1\mwrapRight1\mintLim0\mnaryLim0}{\info{\author James Baxter}{\operator James Baxter}{\creatim\yr2022\mo3\dy11\hr12\min38}{\revtim\yr2022\mo3\dy11\hr12\min38}
+{\version2}{\edmins0}{\nofpages8}{\nofwords8912}{\nofchars50805}{\nofcharsws59598}{\vern7429}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw11901\paperh16840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata0\grfdocevents0\validatexml1\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors1\noxlattoyen
+\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\formshade\horzdoc\dgmargin\dghspace120\dgvspace163\dghorigin1440\dgvorigin1440\dghshow0\dgvshow0
+\jexpand\viewkind1\viewscale169\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
+\asianbrkrule\rsidroot15878374\newtblstyruls\nogrowautofit\usenormstyforlist\noindnmbrts\felnbrelev\nocxsptable\indrlsweleven\noafcnsttbl\afelev\utinl\hwelev\spltpgpar\notcvasp\notbrkcnstfrctbl\notvatxbx\krnprsnet\cachedcolbal \nouicompat \fet0
+{\*\wgrffmtfilter 0400}\nofeaturethrottle1\ilfomacatclnup0{\*\ftnsep \ltrpar \pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
+\f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 \chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\qj \li0\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af31507 \ltrch\fcs0 \insrsid16459460 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\qj \li0\ri0\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 
+\af31507 \ltrch\fcs0 \insrsid16459460 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\linex0\headery0\footery0\endnhere\sectlinegrid326\sectdefaultcl\sectrsid16538024\sftnbj {\headerl \ltrpar \pard\plain \ltrpar\s73\qj \li0\ri0\widctlpar
+\tqc\tx4513\tqr\tx9026\pvpara\phmrg\posxr\posy0\overlay\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid5192882 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\field{\*\fldinst {
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \cs77\insrsid15933192 PAGE  }}{\fldrslt }}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af31507 \ltrch\fcs0 \cs77\insrsid15933192 
+\par }\pard \ltrpar\s73\qj \li0\ri360\widctlpar\tqc\tx4513\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin360\lin0\itap0\pararsid15933192 {\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15933192 
+\par }}{\headerr \ltrpar \pard\plain \ltrpar\s73\ql \li0\ri360\widctlpar\tx0\tqr\tx9021\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin360\lin0\itap0\pararsid15933192 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
+\f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507\afs22 \ltrch\fcs0 \i\fs22\expnd-2\expndtw-12\insrsid11818040 
+\par }{\rtlch\fcs1 \af31507\afs22 \ltrch\fcs0 \i\fs22\expnd-2\expndtw-12\insrsid746537 
+\par }{\rtlch\fcs1 \af31507\afs22 \ltrch\fcs0 \i\fs22\expnd-2\expndtw-12\insrsid746537\charrsid10966630 
+\par }\pard \ltrpar\s73\ql \li0\ri0\widctlpar\tx0\tqr\tx9021\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4289856 {\rtlch\fcs1 \af31507\afs22 \ltrch\fcs0 \i\fs22\expnd-2\expndtw-12\insrsid3810842\charrsid10966630 
+\par }\pard \ltrpar\s73\qc \li0\ri0\widctlpar\brdrb\brdrs\brdrw15\brsp20 \tx0\tqr\tx9021\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid746537 {\rtlch\fcs1 \ai\af31507\afs22 \ltrch\fcs0 
+\fs22\expnd-2\expndtw-12\insrsid746537\charrsid746537 Baxter - Property in its Historical Context (2021-22)}{\rtlch\fcs1 \ai\af31507\afs22 \ltrch\fcs0 \fs22\expnd-2\expndtw-12\insrsid6433873\charrsid746537 
+\par }\pard \ltrpar\s73\ql \li0\ri0\widctlpar\tx0\tqr\tx9021\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid4289856 {\rtlch\fcs1 \af31507\afs22 \ltrch\fcs0 \i\fs22\expnd-2\expndtw-12\insrsid746537 
+\par }{\rtlch\fcs1 \af31507\afs22 \ltrch\fcs0 \i\fs22\expnd-2\expndtw-12\insrsid746537\charrsid10966630 
+\par }}{\footerl \ltrpar \pard\plain \ltrpar\s75\qj \li0\ri0\widctlpar\tqc\tx4513\tqr\tx9026\pvpara\phmrg\posxr\posy0\overlay\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1010897 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
+\f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\field{\*\fldinst {\rtlch\fcs1 \af31507 \ltrch\fcs0 \cs77\insrsid11818040 PAGE  }}{\fldrslt }}\sectd \ltrsect\linex0\endnhere\sectdefaultcl\sftnbj {\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\cs77\insrsid11818040 
+\par }\pard \ltrpar\s75\qj \li0\ri360\widctlpar\tqc\tx4513\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin360\lin0\itap0\pararsid11818040 {\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid11818040 
+\par }}{\footerr \ltrpar \pard\plain \ltrpar\s75\qj \li0\ri360\widctlpar\tqc\tx4513\tqr\tx9026\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin360\lin0\itap0\pararsid11818040 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 
+\f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid11818040 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\s1\qc \li0\ri0\sa360\sl360\slmult1
+\keep\keepn\pagebb\widctlpar\wrapdefault\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \ab\af31503\afs32\alang1025 \ltrch\fcs0 \b\fs32\cf19\lang1033\langfe1033\loch\af39\hich\af39\dbch\af31501\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \ai\af31503 \ltrch\fcs0 \i\insrsid16459460 {\*\bkmkstart X34468173c18736b694f97a9122e496e07f955ca}\hich\af39\dbch\af31501\loch\f39 Tsilhqot\hich\f39 \rquote \loch\f39 in Nation v. British Columbia}{\rtlch\fcs1 \af31503 \ltrch\fcs0 
+\insrsid16459460 \hich\af39\dbch\af31501\loch\f39 , 2014 SCC 44}{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\ai\af31507 
+\ltrch\fcs0 \b\i\insrsid16459460 McLachlin CJC, :\emdash }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s15\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af31507 
+\ltrch\fcs0 \b\insrsid16459460 I. Introduction}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [1] What is the test for Aboriginal title to land? If title is established, what rights does it confer? Does the British Columbia }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Forest Act}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , R.S.B.C. 1996, c.\~157, apply to land covered by Aboriginal title? What are the constitutional constraints on provi
+ncial regulation of land under Aboriginal title? Finally, how are broader public interests to be reconciled with the rights conferred by Aboriginal title? These are among the important questions raised by this appeal.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [2] These reasons conclude:}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}\pard\plain \ltrpar\qj \fi-480\li720\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls15\adjustright\rin0\lin720\itap0 
+\rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 Aboriginal title flows from occupation in the sense of regular and exclusive use of land.}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 In this case, Aboriginal title is established over the area designated by the trial judge.}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 Aboriginal title confers the right to use and control the land and to reap the benefi
+ts flowing from it.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 Where title is asserted, but has not yet been established, s. 35 of the }{\rtlch\fcs1 
+\ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Constitution Act, 1982}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  requires the Crown to consult with the group asserting title and, if appropriate, accommodate its interests.}{\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 Once Aboriginal title is established, s. 35 of the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 
+\i\insrsid16459460 Constitution Act, 1982}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+ permits incursions on it only with the consent of the Aboriginal group or if they are justified by a compelling and substantial public purpose and are not inconsistent with the Crown\rquote s fiduciary duty to the Aborigi
+nal group; for purposes of determining the validity of provincial legislative incursions on lands held under Aboriginal title, this framework displaces the doctrine of interjurisdictional immunity.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 In this case, the Province\rquote s land use planning and forestr
+y authorizations were inconsistent with its duties owed to the Tsilhqot\rquote in people.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af31507 
+\ltrch\fcs0 \b\insrsid16459460 II. The Historic Backdrop}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s15\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [3] For centuries, people of the Tsilhqot\rquote in Nation \emdash  a grouping of six bands sharing common culture and history \emdash  have lived in a remote valley bo
+unded by rivers and mountains in central British Columbia. They lived in villages, managed lands for the foraging of roots and herbs, hunted and trapped. They repelled invaders and set terms for the European traders who came onto their land. From the Tsil
+hqot\rquote in perspective, the land has always been theirs.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [4] Throughout most of Canada, the Crown entered into treaties whereby the indigenous peoples gave up their claim to land in exchange for reservations and other promises, but, with minor exceptions, this
+ did not happen in British Columbia. The Tsilhqot\rquote in Nation is one of hundreds of indigenous groups in British Columbia with unresolved land claims.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [5] The issue of Tsilhqot\rquote in title lay latent until 1983, when the Province granted Carrier Lumber Ltd.\~a forest licence to cut trees in part of the territory at issue. The Xeni Gwet\rquote 
+in First Nations government (one of the six bands that make up the Tsilhqot\rquote in Nation) objected and sought a declaration prohibiting commercial logging on the land. The dispute led
+ to the blockade of a bridge the forest company was upgrading. The blockade ceased when the Premier promised that there would be no further logging without the consent of the Xeni Gwet\rquote in. Talks between the Ministry of Forests and the Xeni Gwet
+\rquote in ensued, but reached an impasse over the Xeni Gwet\rquote in claim to a right of first refusal to logging. In 1998, the original claim was amended to include a claim for Aboriginal title on behalf of all Tsilhqot\rquote in people.}{\rtlch\fcs1 
+\af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [6] The claim is confined to approximately five percent of what the Tsilhqot\rquote in \emdash  a total of about 3,000 people \emdash 
+ regard as their traditional territory. The area in question is sparsely populated. About 200 Tsilhqot\rquote in people live there, along with a handful of non-indigenous people who support the Tsilhqot\rquote 
+in claim to title. There are no adverse claims from other indigenous groups. The federal and provincial governments both oppose the title claim.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [7] In 2002, the trial commenced before Vickers J. of the British Columbia Supreme Court, and continued fo
+r 339 days over a span of five years. The trial judge spent time in the claim area and heard extensive evidence from elders, historians and other experts. He found that the Tsilhqot\rquote 
+in people were in principle entitled to a declaration of Aboriginal title 
+to a portion of the claim area as well as to a small area outside the claim area. However, for procedural reasons which are no longer relied on by the Province, he refused to make a declaration of title (2007 BCSC 1700, [2008] 1 C.N.L.R. 112 (B.C. S.C.)).
+}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [8] In 2012, the British Columbia Court of Appeal held that the Tsilhqot\rquote in claim to title had not been established, but left open the possibility that in the future, the Tsilhqot\rquote 
+in might be able to prove title to specific sites within the area claimed. For the rest of the claimed territory, the Tsilhqot\rquote in were confined to Aboriginal rights to hunt, trap and harvest (2012 BCCA 285, 33 B.C.L.R. (5th) 260 (B.C. C.A.)).}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [9] The Tsilhqot\rquote in now ask this Court for a declaration of Aboriginal title over the are
+a designated by the trial judge, with one exception. A small portion of the area designated by the trial judge consists of either privately owned or underwater lands and no declaration of Aboriginal title over these lands is sought before this Court. With
+ respect to those areas designated by the trial judge that are not privately owned or submerged lands, the Tsilhqot\rquote in ask this Court to restore the trial judge\rquote 
+s finding, affirm their title to the area he designated, and confirm that issuance of forestry licences on the land unjustifiably infringed their rights under that title.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \ab\af31507 \ltrch\fcs0 \b\insrsid16459460 III. The Jurisprudential Backdrop}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [10] In 1973, the Supreme Court of Canada ushered in the modern era of Aboriginal land law by ruling that Aboriginal land rights survived European 
+settlement and remain valid to the present unless extinguished by treaty or otherwise: }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Calder v. British Columbia (Attorney General)}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+, [1973] S.C.R. 313 (S.C.C.). Although the majority in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Calder}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  divided on whether title had been extinguished, its affirmatio
+n of Aboriginal rights to land led the Government of Canada to begin treaty negotiations with First Nations without treaties \emdash  mainly in British Columbia \emdash  resuming a policy that had been abandoned in the 1920s: P. W. Hogg, \'93
+The Constitutional Basis of Aboriginal Rights\'94, M. Morellato, ed., in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Aboriginal Law Since Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  (2009), 3.}{\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [11] Almost a decade after }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Calder}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , the enactment of s. 35 of the }{\rtlch\fcs1 \ai\af31507 
+\ltrch\fcs0 \i\insrsid16459460 Constitution Act, 1982}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  \'93recognized and affirmed\'94 existing Aboriginal rights, although it took some time for the meaning of this section to be fully fleshed out.}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [12] In }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Guerin v. R.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+, [1984] 2 S.C.R. 335 (S.C.C.), this Court confirmed the potential for Aboriginal title in ancestral lands. The actual dispute concerned government conduct with respect to reserve land
+s. The Court held that the government had breached a fiduciary duty to the Musqueam Indian Band. In a concurring opinion, Justice Dickson (later Chief Justice) addressed the theory underlying Aboriginal title. He held that the Crown acquired radical or un
+derlying title to all the land in British Columbia at the time of sovereignty. However, this title was burdened by the \'93pre-existing legal right\'94 of Aboriginal people based on their use and occupation of the land prior to European arrival (pp.\~
+379-82). Dickson J. characterized this Aboriginal interest in the land as \'93an independent legal interest\'94 (at p.\~385), which gives rise to a }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 sui generis}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid16459460  fiduciary duty on the part of the Crown.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [13] In 1990, this Court held that s. 35 of the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Constitution Act, 1982}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  cons
+titutionally protected all Aboriginal rights that had not been extinguished prior to April 17, 1982, and imposed a fiduciary duty on the Crown with respect to those rights: }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 R. v. Sparrow}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , [1990] 1 S.C.R. 1075 (S.C.C.). The Court held that under s. 35, legislation can infringe rights protected by s. 35 only if it passes a two-step justification analysis: the legislation must further a \'93
+compelling and substantial\'94 purpose and account for the \'93priority\'94 of the infringed Aboriginal interest under the fiduciary obligation imposed on the Crown (at pp.\~1113-19).}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [14] The principles developed in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Calder}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 
+\i\insrsid16459460 Guerin}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  and }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Sparrow}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+ were consolidated and applied in the context of a claim for Aboriginal title in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw v. British Columbia}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+, [1997] 3 S.C.R. 1010 (S.C.C.). This Court confirmed the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 sui generis}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  nature of the rights and obligations to which the Crown\rquote 
+s relationship with Aboriginal peoples gives rise, and stated that what makes Aboriginal title unique is that it arises from possession }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 before}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+ the assertion of British sovereignty, as distinguished from other estates such as fee simple that arise }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 afterward}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+. The dual perspectives of the common law and of the Aboriginal group bear equal weight in evaluating a claim for Aboriginal title.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [15] The Court in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  summa
+rized the content of Aboriginal title by two propositions, one positive and one negative. Positively, \'93
+[A]boriginal title encompasses the right to exclusive use and occupation of the land held pursuant to that title for a variety of purposes, which need no
+t be aspects of those [A]boriginal practices, customs and traditions which are integral to distinctive [A]boriginal cultures\'94 (para. 117). Negatively, the \'93protected uses must not be irreconcilable with the nature of the group\rquote 
+s attachment to that land\'94 (ibid.) \emdash  that is, it is group title and cannot be alienated in a way that deprives future generations of the control and benefit of the land.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [16] The Court in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  
+confirmed that infringements of Aboriginal title can be justified under s. 35 of the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Constitution Act, 1982}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  pursuant to the }{\rtlch\fcs1 
+\ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Sparrow}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  test and described this as a \'93necessary part of the reconciliation of [A]boriginal societies with the broader political comm
+unity of which they are part\'94 (at para. 161), quoting }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 R. v. Gladstone}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , [1996] 2 S.C.R. 723 (S.C.C.), at para. 73. While }{\rtlch\fcs1 
+\ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Sparrow}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  had spoken of }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 priority}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+ of Aboriginal rights infringed by regulations over non-aboriginal interests, }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  articulated the \'93different\'94
+ (at para. 168) approach of involvement of Aboriginal peoples \emdash  varying depending on the severity of the infringement \emdash  in decisions taken with respect to their lands.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [17] In }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Haida Nation v. British Columbia (Minister of Forests)}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , 2004 SCC 73, [
+2004] 3 S.C.R. 511 (S.C.C.), the Court applied the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+ idea of involvement of the affected Aboriginal group in decisions about its land to the situation where development is proposed on land over which Aboriginal title is asserted but has not yet be
+en established. The Court affirmed a spectrum of consultation. The Crown\rquote s duty to consult and accommodate the asserted Aboriginal interest \'93
+is proportionate to a preliminary assessment of the strength of the case supporting the existence of the right or title, and to the seriousness of the potentially adverse effect upon the right or title claimed\'94
+ (para. 24). Thus, the idea of proportionate balancing implicit in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  reappears in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 
+\i\insrsid16459460 Haida.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  The Court in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Haida}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  stated that the Crown had not only a moral d
+uty, but a legal duty to negotiate in good faith to resolve land claims (para. 25). The governing ethos is not one of competing interests but of reconciliation.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [18] The jurisprudence just reviewed establishes a number of propositions that touch on the issues that arise in this case, including:}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}\pard\plain \ltrpar\qj \fi-480\li720\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls16\adjustright\rin0\lin720\itap0 
+\rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+Radical or underlying Crown title is subject to Aboriginal land interests where they are established.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 Aboriginal title gi
+ves the Aboriginal group the right to use and control the land and enjoy its benefits.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+Governments can infringe Aboriginal rights conferred by Aboriginal title but only where they can justify the infringements on the basis of a compelling and substantial purpose and establish that they are consistent with the Crown\rquote 
+s fiduciary duty to the group.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+Resource development on claimed land to which title has not been established requires the government to consult with the claimant Aboriginal group.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 Governments are 
+under a legal duty to negotiate in good faith to resolve claims to ancestral lands.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [19] Against this background, I turn to the issues raised in this appeal.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s15\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af31507 
+\ltrch\fcs0 \b\insrsid16459460 IV. Pleadings in Aboriginal Land Claims Cases}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [20] The Province, to its credit, no longer contends
+ that the claim should be barred because of defects in the pleadings. However, it may be useful to address how to approach pleadings in land claims, in view of their importance to future land claims.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [21] I agree with the Court of Appeal that a functional 
+approach should be taken to pleadings in Aboriginal cases. The function of pleadings is to provide the parties and the court with an outline of the material allegations and relief sought. Where pleadings achieve this aim, minor defects should be overlooke
+d, in the absence of clear prejudice. A number of considerations support this approach.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [22] First, in a case such as this, the legal principles may be unclear at the outset, making it difficult to frame the claim with exactitude.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [23] Second, in these case
+s, the evidence as to how the land was used may be uncertain at the outset. As the claim proceeds, elders will come forward and experts will be engaged. Through the course of the trial, the historic practices of the Aboriginal group in question will be ex
+pounded, tested and clarified. The Court of Appeal correctly recognized that determining whether Aboriginal title is made out over a pleaded area is not an \'93all or nothing\'94 proposition (at para. 117):}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par }\pard\plain \ltrpar\s24\qj \li567\ri567\sb80\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin567\lin567\itap0 \rtlch\fcs1 \af31503\afs20\alang1025 \ltrch\fcs0 
+\fs22\lang1033\langfe1033\loch\af39\hich\af39\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid16459460 \hich\af39\dbch\af31501\loch\f39 The occupation of traditional territories by First Natio
+\hich\af39\dbch\af31501\loch\f39 
+ns prior to the assertion of Crown sovereignty was not an occupation based on a Torrens system, or, indeed, on any precise boundaries. Except where impassable (or virtually impassable) natural boundaries existed, the limits of a traditional territory were
+\hich\af39\dbch\af31501\loch\f39  \hich\af39\dbch\af31501\loch\f39 \hich\f39 typically ill-defined and fluid. \'85\loch\f39  [Therefore] requir[ing] proof of Aboriginal title precisely mirroring the claim would be too exacting. [para. 118]}{\rtlch\fcs1 
+\af31503 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [24] Third, cases such as this require an approach that results in decisions based on the best evidence th
+at emerges, not what a lawyer may have envisaged when drafting the initial claim. What is at stake is nothing less than justice for the Aboriginal group and its descendants, and the reconciliation between the group and broader society. A technical approac
+h to pleadings would serve neither goal. It is in the broader public interest that land claims and rights issues be resolved in a way that reflects the substance of the matter. Only thus can the project of reconciliation this Court spoke of in }{
+\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  be achieved.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s15\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af31507 
+\ltrch\fcs0 \b\insrsid16459460 {\*\bkmkstart tsil-proof}V. Is Aboriginal Title Established?}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 {\*\bkmkend tsil-proof}
+\par }{\rtlch\fcs1 \ab\ai\af31507 \ltrch\fcs0 \b\i\insrsid16459460 A. The Test for Aboriginal Title}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [25] How should the courts determine whether a semi-nomadic indigenous group has title to lands? This Court has never directly answered this question. The courts below disagree
+d on the correct approach. We must now clarify the test.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [26] As we have seen, the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  test for Aboriginal title to land is based on \'93
+occupation\'94 prior to assertion of European sovereignty. To ground Aboriginal title this occupation must possess three characteristics. It must be }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 sufficient}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid16459460 ; it must be }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 continuous}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  (where present occupation is relied on); and it must be }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 
+\i\insrsid16459460 exclusive}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 .}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [27] The test was set out in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 
+\i\insrsid16459460 per}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  Lamer C.J., at para. 143:}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s24\qj \li567\ri567\sb80\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin567\lin567\itap0 \rtlch\fcs1 \af31503\afs20\alang1025 \ltrch\fcs0 
+\fs22\lang1033\langfe1033\loch\af39\hich\af39\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid16459460 \hich\af39\dbch\af31501\loch\f39 In order to make out a claim for [A]boriginal title, 
+\hich\af39\dbch\af31501\loch\f39 
+the [A]boriginal group asserting title must satisfy the following criteria: (i) the land must have been occupied prior to sovereignty, (ii) if present occupation is relied on as proof of occupation pre-sovereignty, there must be a continuity between prese
+\hich\af39\dbch\af31501\loch\f39 n\hich\af39\dbch\af31501\loch\f39 t and pre-sovereignty occupation, and (iii) at sovereignty, that occupation must have been exclusive.}{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [28] The trial judge in this case held that \'93occupation\'94 was established for the purpose of proving title by showing regular and exclusive use of sites or territory. On this basis, he concluded that the Tsilhqot\rquote 
+in had established title not only to village sites and areas maintained for the harvesting of roots and berries, but to larger territories which their ancestors used regularly and exclusively for hunting, fishing and other activities.}{\rtlch\fcs1 
+\af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s15\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [29] The Court of Appeal disagreed and applied a narrower test for Aboriginal title \emdash  site-specific occupation. It held that to prove sufficient occupation for title to land, an Aboriginal group must prove that its ance
+stors }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 intensively}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  used a definite tract of land with reasonably defined boundaries at the time of European sovereignty.}{\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [30] For semi-nomadic Aboriginal groups like the Tsilhqot\rquote in, the Court of Appeal\rquote s approach results in small islands of title surrounde
+d by larger territories where the group possesses only Aboriginal rights to engage in activities like hunting and trapping. By contrast, on the trial judge\rquote 
+s approach, the group would enjoy title to all the territory that their ancestors regularly and exclusively used at the time of assertion of European sovereignty.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [31] Against this backdrop, I return to the requirements for Aboriginal title: sufficient pre-sovereignty occupation; continuous occupation (where present occupation is relied on); and exclusiv
+e historic occupation.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [32] Should the three elements of the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+ test be considered independently, or as related aspects of a single concept? The High Court of Australia has expressed the view that there is little merit in considering aspects of occupancy separately. In }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 
+\i\insrsid16459460 Western Australia v. Ward}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  (2002), 213 C.L.R. 1 (Australia H.C.), the court stated as follows, at para 89:}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s24\qj \li567\ri567\sb80\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin567\lin567\itap0 \rtlch\fcs1 \af31503\afs20\alang1025 \ltrch\fcs0 
+\fs22\lang1033\langfe1033\loch\af39\hich\af39\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid16459460 \hich\af39\dbch\af31501\loch\f39 \hich\f39 The expression \'93\hich\af39\dbch\af31501\loch\f39 \hich\f39 
+possession, occupation, use and enjoyment \'85\loch\f39 \hich\f39  to the exclusion of all others\'94\loch\f39 
+ is a composite expression directed to describing a particular measure of control over access to land. To break the expression into its constituent elements is apt to mislead. In p\hich\af39\dbch\af31501\loch\f39 a\hich\af39\dbch\af31501\loch\f39 
+\hich\f39 rticular, to speak of \'93\loch\f39 \hich\f39 possession\'94\loch\f39 
+ of the land, as distinct from possession to the exclusion of all others, invites attention to the common law content of the concept of possession and whatever notions of control over access might be thought to be attache\hich\af39\dbch\af31501\loch\f39 d
+\hich\af39\dbch\af31501\loch\f39  to it, rather than to the relevant task, which is to identify how rights and interests possessed under traditional law and custom can properly find expression in common law terms.}{\rtlch\fcs1 \af31503 \ltrch\fcs0 
+\insrsid15878374 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [33] In my view, the concepts of sufficiency, continuity and exclusivity pr
+ovide useful lenses through which to view the question of Aboriginal title. This said, the court must be careful not to lose or distort the Aboriginal perspective by forcing ancestral practices into the square boxes of common law concepts, thus frustratin
+g the goal of faithfully translating pre-sovereignty Aboriginal interests into equivalent modern legal rights. Sufficiency, continuity and exclusivity are not ends in themselves, but inquiries that shed light on whether Aboriginal title is established.}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s15\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ai\af31507 
+\ltrch\fcs0 \i\insrsid16459460 1. Sufficiency of Occupation}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [34] The first requirement \emdash  and the one that lies at the heart of this appeal \emdash  is that the occupation be }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 sufficient}{\rtlch\fcs1 
+\af31507 \ltrch\fcs0 \insrsid16459460  to ground Aboriginal title. It is clear from }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  
+that not every passing traverse or use grounds title. What then constitutes }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 sufficient}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  occupation to ground title?}{\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [35] The question of sufficient occupation must be approached from both the common law perspective and the Aboriginal perspective (}{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , at para. 147); see also }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 R. v. Vanderpeet}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , [1996] 2 S.C.R. 507 (S.C.C.).}{\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [36] The Aboriginal perspective focuses on laws, practices, customs and traditions of the group (}{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid16459460 , at para. 148). In considering this perspective for the purpose of Aboriginal title, \'93one must take into account the group\rquote 
+s size, manner of life, material resources, and technological abilities, and the character of the lands claimed\'94: B. Slattery, \'93Understanding Aboriginal Rights\'94 (1987), 66 }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Can. Bar Rev.}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  727, at p.\~758, quoted with approval in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , at para. 149.}{\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+[37] The common law perspective imports the idea of possession and control of the lands. At common law, possession extends beyond sites that are physically occupied, like a house, to surrounding lands that are u
+sed and over which effective control is exercised.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [38] Sufficiency of occupation is a context-specific inquiry. \'93
+[O]ccupation may be established in a variety of ways, ranging from the construction of dwellings through cultivation and enclosure of fields to regular use of definite tracts of land for hunting, fishing or otherwise exploiting its resources\'94 (}{
+\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+, at para. 149). The intensity and frequency of the use may vary with the characteristics of the Aboriginal group asserting title and the charac
+ter of the land over which title is asserted. Here, for example, the land, while extensive, was harsh and was capable of supporting only 100 to 1,000 people. The fact that the Aboriginal group was only about 400 people must be considered in the context of
+ the carrying capacity of the land in determining whether regular use of definite tracts of land is made out.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [39] To sufficiently occupy the land for purposes of title, the Aboriginal group in question must show that it has historically acted in a way that
+ would communicate to third parties that it held the land for its own purposes. This standard does not demand notorious or visible use akin to proving a claim for adverse possession, but neither can the occupation be purely subjective or internal. There m
+u
+st be evidence of a strong presence on or over the land claimed, manifesting itself in acts of occupation that could reasonably be interpreted as demonstrating that the land in question belonged to, was controlled by, or was under the exclusive stewardshi
+p of the claimant group. As just discussed, the kinds of acts necessary to indicate a permanent presence and intention to hold and use the land for the group\rquote 
+s purposes are dependent on the manner of life of the people and the nature of the land. Cultivated
+ fields, constructed dwelling houses, invested labour, and a consistent presence on parts of the land may be sufficient, but are not essential to establish occupation. The notion of occupation must also reflect the way of life of the Aboriginal people, in
+cluding those who were nomadic or semi-nomadic.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [40] In }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 R. v. Marshall}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+, 2003 NSCA 105, 218 N.S.R. (2d) 78 (N.S. C.A.), at paras. 135-38, Cromwell J.A (as he then was), in reasoning I adopt, likens the sufficiency of occupation required to establish Aborigin
+al title to the requirements for general occupancy at common law. A general occupant at common law is a person asserting possession of land over which no one else has a present interest or with respect to which title is uncertain. Cromwell J.A. cites (at 
+para. 136) the following extract from K. McNeil, }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Common Law Aboriginal Title}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  (1989), at pp.\~198-200:}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par }\pard\plain \ltrpar\s24\qj \li567\ri567\sb80\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin567\lin567\itap0 \rtlch\fcs1 \af31503\afs20\alang1025 \ltrch\fcs0 
+\fs22\lang1033\langfe1033\loch\af39\hich\af39\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid16459460 \hich\af39\dbch\af31501\loch\f39 \hich\f39 What, then, did one have to do to acquire a title by occupancy? \'85
+\loch\f39 \hich\f39  [I]t appears \'85\loch\f39 \hich\f39  that \'85\loch\f39  a casual entry, such as riding over land to hunt or hawk, or travell\hich\af39\dbch\af31501\loch\f39 \hich\f39 ing across it, did not make an occupant, such acts \'93\loch\f39 
+\hich\f39 being only transitory and to a particular purpose, which leaves no marks of an appropriation, or of an intention to possess for the separate use of the rider\'94\loch\f39 . There must, therefore, have been an actual 
+\hich\af39\dbch\af31501\loch\f39 e\hich\af39\dbch\af31501\loch\f39 ntry, and some act or acts from which an intention to occupy the land could be inferred. Significantly, the acts and intention had to relate only to the occupation \hich\f39 \emdash 
+\loch\f39  it was quite unnecessary for a potential occupant to claim, or even wish to acquire, the \hich\af39\dbch\af31501\loch\f39 v\hich\af39\dbch\af31501\loch\f39 \hich\f39 acant estate, for the law cast it upon him by virtue of his occupation alone
+\'85.}{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid16459460 \hich\af39\dbch\af31501\loch\f39 
+Further guidance on what constitutes occupation can be gained from cases involving land to which title is uncertain. Generally, any acts on or in relation to land that indicate \hich\af39\dbch\af31501\loch\f39 an intention to hold or use it for one
+\hich\f39 \rquote \loch\f39 s own purposes are evidence of occupation. Apart from the obvious, such as enclosing, cultivating, mining, building upon, maintaining, and warning trespassers off land, any number of other acts, including cutting tre
+\hich\af39\dbch\af31501\loch\f39 e\hich\af39\dbch\af31501\loch\f39 
+s or grass, fishing in tracts of water, and even perambulation, may be relied upon. The weight given to such acts depends partly on the nature of the land, and the purposes for which it can reasonably be used. [Emphasis added.]}{\rtlch\fcs1 \af31503 
+\ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [41] Cromwell J.A. in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Marshall}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+ went on to state that this standard is different from the doctrine of constructive possession. The goal is not to }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 attribute}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+ possession in the absence of physical acts of occupation, but to define the quality of the physical acts of occupation that demonstrate possession at law (para. 137). He concluded:}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s24\qj \li567\ri567\sb80\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin567\lin567\itap0 \rtlch\fcs1 \af31503\afs20\alang1025 \ltrch\fcs0 
+\fs22\lang1033\langfe1033\loch\af39\hich\af39\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid16459460 \hich\af39\dbch\af31501\loch\f39 I would adopt, in general terms, Professor McNeil\hich\f39 \rquote \loch\f39 
+s analysis that the appropriate standard of occupation, from the common law perspective, is the middle ground between the minimal occupation which would p\hich\af39\dbch\af31501\loch\f39 \hich\f39 
+ermit a person to sue a wrong-doer in trespass and the most onerous standard required to ground title by adverse possession as against a true owner\'85\loch\f39 
+. Where, as here, we are dealing with a large expanse of territory which was not cultivated, acts such as c\hich\af39\dbch\af31501\loch\f39 o\hich\af39\dbch\af31501\loch\f39 \hich\f39 
+ntinual, though changing, settlement and wide-ranging use for fishing, hunting and gathering should be given more weight than they would be if dealing with enclosed, cultivated land. Perhaps most significantly \'85\loch\f39 
+ it is impossible to confine the evidence to\hich\af39\dbch\af31501\loch\f39  \hich\af39\dbch\af31501\loch\f39 the very precise spot on which the cutting was done: Pollock and Wright at p.\~
+32. Instead, the question must be whether the acts of occupation in particular areas show that the whole area was occupied by the claimant. [para. 138]}{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [42] In summary, what is required is a culturally sensitive approach to sufficiency of occupation based on the dual perspectives of the Aboriginal group in question \emdash 
+ its laws, practices, size, technological ability and the character of the land claimed \emdash  and the common law notion 
+of possession as a basis for title. It is not possible to list every indicia of occupation that might apply in a particular case. The common law test for possession \emdash 
+ which requires an intention to occupy or hold land for the purposes of the occupant \emdash  mus
+t be considered alongside the perspective of the Aboriginal group which, depending on its size and manner of living, might conceive of possession of land in a somewhat different manner than did the common law.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par }\pard\plain \ltrpar\s15\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [43] There is no suggestion in the jurispruden
+ce or scholarship that Aboriginal title is confined to specific village sites or farms, as the Court of Appeal held. Rather, a culturally sensitive approach suggests that regular use of territories for hunting, fishing, trapping and foraging is \'93
+sufficient\'94
+ use to ground Aboriginal title, provided that such use, on the facts of a particular case, evinces an intention on the part of the Aboriginal group to hold or possess the land in a manner comparable to what would be required to establish title at common 
+law.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [44] The Province argues that this Court in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 R. v. Marshall}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+, 2005 SCC 43, [2005] 2 S.C.R. 220 (S.C.C.) [hereinafter referred to as }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Marshall; Bernard}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+], rejected a territorial approach to title, relying on a comment by Professor K. McNeil that the Court there \'93appears to have rejected the territorial approach of the Court of Appeal\'94 (\'94Aboriginal Title and the Supreme Court: What\rquote 
+s Happening?\'94 (2006), 69 }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Sask. L. Rev.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  281, cited in British Columbia factum, para. 100). In fact, this Court in }{\rtlch\fcs1 \ai\af31507 
+\ltrch\fcs0 \i\insrsid16459460 Marshall; Bernard}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  did not reject a territorial approach, but held only (at para. 72) that there must be \'93proof of sufficiently regular and exclusive use\'94
+ of the land in question, a requirement established in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 .}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [45] The Court in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Marshall; Bernard}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  confirmed that 
+nomadic and semi-nomadic groups could establish title to land, provided they establish sufficient physical possession, which is a question of fact. While \'93[n]ot every nomadic passage or use will ground title to land\'94, the Court confirmed that }{
+\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  contemplates that \'93regular use of definite tracts of land for hunting, fishing or otherwise exploiting its resources\'94
+ could suffice (para. 66). While the issue was framed in terms of whether the common law test for possession was met, the Court did not resile from the need to consider the perspective of the Aboriginal group in question; sufficient occupation is a \'93
+question of fact, depending on all the circumstances, in particular the nature of the land and the manner in which it is commonly used\'94 (}{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 ibid.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+).}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 2. Continuity of Occupation}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [46] Where present occupation is relied on as proof of occupation pre-sovereignty, a second requirement arises \emdash  continuity between present and pre-sovereignty occupation.}{\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [47] The concept of continuity does not require Aboriginal
+ groups to provide evidence of an unbroken chain of continuity between their current practices, customs and traditions, and those which existed prior to contact (}{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Van der Peet}{\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 , at para. 65). The same applies to Aboriginal title. Continuity simply means that
+ for evidence of present occupation to establish an inference of pre-sovereignty occupation, the present occupation must be rooted in pre-sovereignty times. This is a question for the trier of fact in each case.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 3. Exclusivity of Occupation}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [48] The third requirement is }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 exclusive}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+ occupation of the land at the time of sovereignty. The Aboriginal group must have had \'93the intention and capacity to retain exclusive control\'94 over the lands (}{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 
+\af31507 \ltrch\fcs0 \insrsid16459460 , at para. 156, quoting McNeil, }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Common Law Aboriginal Title}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , at p.\~
+204 (emphasis added)). Regular use without exclusivity may give rise to usufructory Aboriginal rights; for Aboriginal title, the use must have been exclusive.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+[49] Exclusivity should be understood in the sense of intention and capacity to control the land. The fact that other groups or individuals were on the land does not necessarily negate exclusivity of occupation. Whether a claimant group had the intention 
+a
+nd capacity to control the land at the time of sovereignty is a question of fact for the trial judge and depends on various factors such as the characteristics of the claimant group, the nature of other groups in the area, and the characteristics of the l
+a
+nd in question. Exclusivity can be established by proof that others were excluded from the land, or by proof that others were only allowed access to the land with the permission of the claimant group. The fact that permission was requested and granted or 
+refused, or that treaties were made with other groups, may show intention and capacity to control the land. Even the lack of challenges to occupancy may support an inference of an established group\rquote s intention and capacity to control.}{\rtlch\fcs1 
+\af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [50] As with sufficien
+cy of occupation, the exclusivity requirement must be approached from both the common law and Aboriginal perspectives, and must take into account the context and characteristics of the Aboriginal society. The Court in }{\rtlch\fcs1 \ai\af31507 
+\ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  explained as follows, at para. 157:}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s24\qj \li567\ri567\sb80\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin567\lin567\itap0 \rtlch\fcs1 \af31503\afs20\alang1025 \ltrch\fcs0 
+\fs22\lang1033\langfe1033\loch\af39\hich\af39\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid16459460 \hich\af39\dbch\af31501\loch\f39 
+A consideration of the [A]boriginal perspective may also lead to the conclusion that trespass by other [A]boriginal groups does not undermine, and that presence of those groups by permission may reinforce, the exclusive occupation of the [A]borigi
+\hich\af39\dbch\af31501\loch\f39 
+nal group asserting title. For example, the [A]boriginal group asserting the claim to [A]boriginal title may have trespass laws which are proof of exclusive occupation, such that the presence of trespassers does not count as evidence against exclusivity. 
+\hich\af39\dbch\af31501\loch\f39 A\hich\af39\dbch\af31501\loch\f39 
+s well, [A]boriginal laws under which permission may be granted to other [A]boriginal groups to use or reside even temporarily on land would reinforce the finding of exclusive occupation. Indeed, if that permission were the subject of treaties between the
+\hich\af39\dbch\af31501\loch\f39  \hich\af39\dbch\af31501\loch\f39 [A]boriginal nations in question, those treaties would also form part of the [A]boriginal perspective.}{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ai\af31507 
+\ltrch\fcs0 \i\insrsid16459460 4. Summary}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s15\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [51] The claimant group bears the onus of establishing Aboriginal title. The task is to identify how pre-sovereignty rights and interests can 
+properly find expression in modern common law terms. In asking whether Aboriginal title is established, the general requirements are: (1) \'93sufficient occupation\'94
+ of the land claimed to establish title at the time of assertion of European sovereignty; (2) c
+ontinuity of occupation where present occupation is relied on; and (3) exclusive historic occupation. In determining what constitutes sufficient occupation, one looks to the Aboriginal culture and practices, and compares them in a culturally sensitive way
+ 
+with what was required at common law to establish title on the basis of occupation. Occupation sufficient to ground Aboriginal title is not confined to specific sites of settlement but extends to tracts of land that were regularly used for hunting, fishin
+g or otherwise exploiting resources and over which the group exercised effective control at the time of assertion of European sovereignty.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \ab\ai\af31507 \ltrch\fcs0 \b\i\insrsid16459460 B. Was Aboriginal Title Established in this Case?}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [52] The trial judge applied a test of regular and exclusive use of 
+the land. This is consistent with the correct legal test. This leaves the question of whether he applied it appropriately to the evidence in this case.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [53] Whether the evidence in a particular case supports Aboriginal title is a question of fact for the trial judge: }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Marshall; Bernard}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 . The question therefore is whether the Province has shown that the trial judge made a palpable and overriding error in his factual conclusions.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [54] I approach the question through the lenses of sufficiency, continuity and exclusivity discussed above.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+[55] I will not repeat my earlier comments on what is required to establish sufficiency of occupation. Regular use of the territory suffices to establish sufficiency; the concept is not confined to continuously occupied village sites. The question must be
+ approached from the perspective of the Aboriginal group as well as the common law, bearing in mind the customs of the people and the nature of the land.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [56] The evidence in this case supports the trial judge\rquote s conclusion of sufficient occupation. While th
+e population was small, the trial judge found evidence that the parts of the land to which he found title were regularly used by the Tsilhqot\rquote in. The Court of Appeal did not take serious issue with these findings.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [57] Rather, the Court of Appeal based its rejection of Aboriginal title on the legal proposition that regular use of territory could not ground Aboriginal title \emdash 
+ only the regular presence on or intensive occupation of particular tracts would suffice. That view, as discussed earlier, is not supported by the jurisprudence; on the contrary, }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  affirms a territorial use-based approach to Aboriginal title.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [58] This brings me to continuity. There is some reliance on present occupation for the title claim in this case, raising the question of c
+ontinuity. The evidence adduced and later relied on in parts 5-7 of the trial judge\rquote 
+s reasons speak of events that took place as late as 1999. The trial judge considered this direct evidence of more recent occupation alongside archeological evidence, histo
+rical evidence, and oral evidence from Aboriginal elders, all of which indicated a continuous Tsilhqot\rquote 
+in presence in the claim area. The geographic proximity between sites for which evidence of recent occupation was tendered, and those for which direct ev
+idence of historic occupation existed, further supported an inference of continuous occupation. Paragraph 945 states, under the heading of \'93Continuity\'94, that the \'93Tsilhqot\rquote 
+in people have continuously occupied the Claim Area before and after sovereignty assertion\'94. I see no reason to disturb this finding.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [59] Finally, I come to exclusivity. The trial judge found that the Tsilhqot\rquote 
+in, prior to the assertion of sovereignty, repelled other people from their land and demanded permission from outsiders who wished to pass over it. He concluded from this that the Tsilhqot\rquote 
+in treated the land as exclusively theirs. There is no basis upon which to disturb that finding.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [60] The Province goes on to argue that the trial judge\rquote s conclusions on how particular parts of the land were used cannot be sustained. The Province says:}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}\pard\plain \ltrpar\qj \fi-480\li720\ri0\sl360\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls17\adjustright\rin0\lin720\itap0 
+\rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+The boundaries drawn by the trial judge are arbitrary and contradicted by some of the evidence (factum, at paras. 141 and 142).}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 The trial judge relied on a map the validity of which the Province disputes (para. 143).}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 The Tsilhqot\rquote 
+in population, that the trial judge found to be 400 at the time of sovereignty assertion, could not have physically occupied the 1,900 sq. km of land over which title was found (para. 144).}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 The trial judge failed to identify 
+specific areas with adequate precision, instead relying on vague descriptions (para. 145).}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af31507 \ltrch\fcs0 \f39 \loch\af39\dbch\af31506\hich\f39 \'95\tab}}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+A close examination of the details of the inconsistent and arbitrary manner in which the trial judge defined the areas subject to Aboriginal title demonstrates the unreliability of his approach (para. 147).}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [61] Most of the Province\rquote s criticisms of the trial judge\rquote 
+s findings on the facts are rooted in its erroneous thesis that only specific, intensively occupied areas can support Aboriginal title. The concern with the small size of the Tsilhqot\rquote 
+in population in 1846 makes sense only if one assumes a narrow test of intensive occupation and if one ignores the character of the land in question which was mountainous and could not have sustained a much larger population. Th
+e alleged failure to identify particular areas with precision likewise only makes sense if one assumes a narrow test of intensive occupation. The other criticisms amount to pointing out conflicting evidence. It was the trial judge\rquote 
+s task to sort out conflicting evidence and make findings of fact. The presence of conflicting evidence does not demonstrate palpable and overriding error.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s15\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [62] The Province has not established that the conclusions of the trial judge are unsupported by the evidence or otherwise in
+ error. Nor has it established his conclusions were arbitrary or insufficiently precise. The trial judge was faced with the herculean task of drawing conclusions from a huge body of evidence produced over 339 trial days spanning a five-year period. Much o
+f
+ the evidence was historic evidence and therefore by its nature sometimes imprecise. The trial judge spent long periods in the claim area with witnesses, hearing evidence about how particular parts of the area were used. Absent demonstrated error, his fin
+dings should not be disturbed.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [63] This said, I have accepted the Province\rquote s invitation to review the maps and the evidence and evaluate the trial judge\rquote 
+s conclusions as to which areas support a declaration of Aboriginal title. For ease of reference, I attach a map showing the various territories and how the trial judge treated them (Appendix; see Appellant\rquote s factum, \'93Appendix A\'94
+). The territorial boundaries drawn by the trial judge and his conclusions as to Aboriginal title appear to be logical and fully supported by the evidence.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+[64] The trial judge divided the claim area into six regions and then considered a host of individual sites within each region. He examined expert archeological evidence, historical evidence and oral evidence from Aboriginal elder
+s referring to these specific sites. At some of these sites, although the evidence did suggest a Tsilhqot\rquote 
+in presence, he found it insufficient to establish regular and exclusive occupancy. At other sites, he held that the evidence did establish regular an
+d exclusive occupancy. By examining a large number of individual sites, the trial judge was able to infer the boundaries within which the Tsilhqot\rquote 
+in regularly and exclusively occupied the land. The trial judge, in proceeding this way, made no legal error.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [65] \~
+The Province also criticises the trial judge for offering his opinion on areas outside the claim area. This, the Province says, went beyond the mandate of a trial judge who should pronounce only on pleaded matters.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [66] In my view, this criticism is
+ misplaced. It is clear that no declaration of title could be made over areas outside those pleaded. The trial judge offered his comments on areas outside the claim area, not as binding rulings in the case, but to provide assistance in future land claims 
+n
+egotiations. Having canvassed the evidence and arrived at conclusions on it, it made economic and practical sense for the trial judge to give the parties the benefit of his views. Moreover, as I noted earlier in discussing the proper approach to pleadings
+ 
+in cases where Aboriginal title is at issue, these cases raise special considerations. Often, the ambit of a claim cannot be drawn with precision at the commencement of proceedings. The true state of affairs unfolds only gradually as the evidence emerges 
+over what may be a lengthy period of time. If at the end of the process the boundaries of the initial claim and the boundaries suggested by the evidence are different, the trial judge should not be faulted for pointing that out.}{\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [67] I conclude that the trial judge was correct in his assessment that the Tsilhqot\rquote 
+in occupation was both sufficient and exclusive at the time of sovereignty. There was ample direct evidence of occupation at sovereignty, which was additionally buttressed by evidence of more recent continuous occupation.}{\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \ab\af31507 \ltrch\fcs0 \b\insrsid16459460 {\*\bkmkstart tsil-content}VI. What Rights Does Aboriginal Title Confer?}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 {\*\bkmkend tsil-content}
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [68] As we have seen, }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  establishes that Aboriginal title \'93
+encompasses the right to exclusive use and occupation of the land held pursuant to that title for a variety of purposes\'94
+ (at para. 117), including non-traditional purposes, provided these uses can be reconciled with the communal and ongoing nature of the group\rquote 
+s attachment to the land. Subject to this inherent limit, the title-holding group has the right to choose the uses to which the land is put and to enjoy its economic fruits (para. 166).}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [69] I will first discuss the legal characterization of the Aboriginal title. I will then offer observations on what Aboriginal title provides to its holders and what limits it is subject to.}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \ab\ai\af31507 \ltrch\fcs0 \b\i\insrsid16459460 A. The Legal Characterization of Aboriginal Title}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [70] The starting point in characterizing the legal nature of Aboriginal title is Justice Dickson\rquote s concurring judgment in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Guerin}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , discussed earlier. At the time of assertion of European sovereignty
+, the Crown acquired radical or underlying title to all the land in the province. This Crown title, however, was burdened by the pre-existing legal rights of Aboriginal people who occupied and used the land prior to European arrival. The doctrine of }{
+\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 terra nullius}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  (that no one owned the land prior to European assertion of sovereignty) never applied in Canada, as confirmed by the }{\rtlch\fcs1 
+\ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Royal Proclamation}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  (}{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 1763}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+), R.S.C. 1985, App. II, No.\~1. The Aboriginal interest in land that burdens the Crown\rquote s underlying title is an independent legal interest, which gives rise to a fiduciary duty on the part of the Crown.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [71] The content of the Crown\rquote s underlying title is what is left when Aboriginal title is subtracted from it: s. 109 of the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 
+Constitution Act, 1867}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 ; }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 . As we have seen, }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 
+\i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  establishes that Aboriginal title gives \'93the right to exclusive use and occupation of the land \'85 for a variety of purposes\'94, not confined to traditional or \'93
+distinctive\'94 uses (para. 117). In other words, Aboriginal title is a beneficial interest in the land: }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Guerin}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , at p.\~
+382. In simple terms, the title holders have the right to the benefits associated with the land \emdash  to use it, enjoy it and profit from its economic development. As such, the Crown does not retain a beneficial interest in Aboriginal title land.}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [72] What remains, then, of the Crown\rquote s radical or underlying title to lands held under Aboriginal title? The authorities suggest two related elements \emdash 
+ a fiduciary duty owed by the Crown to Aboriginal people when dealing with Aboriginal lands, and the right to encroach on Aboriginal title if the government can justify this in the broader public interest under s. 35 of the }{\rtlch\fcs1 \ai\af31507 
+\ltrch\fcs0 \i\insrsid16459460 Constitution Act, 1982.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  The Court in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  
+referred to this as a process of reconciling Aboriginal interests with the broader public interests under s. 35 of the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Constitution Act}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , 1982.}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [73] The characteristics of Aboriginal title flow from the special relationship between the Crown and the Aboriginal group in question. It is this relationship that makes Aboriginal title }{\rtlch\fcs1 
+\ai\af31507 \ltrch\fcs0 \i\insrsid16459460 sui generis}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  or unique. Aboriginal title is what it is \emdash 
+ the unique product of the historic relationship between the Crown and the Aboriginal group in question. Analogies to other forms of property ownership \emdash  for example, fee simple \emdash 
+ may help us to understand aspects of Aboriginal title. But they cannot dictate precisely what it is or is not. As La Forest J. put it in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid16459460 , at para. 190, Aboriginal title \'93is not equated with fee simple ownership; nor can it be described with reference to traditional property law concepts\'94.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \ab\ai\af31507 \ltrch\fcs0 \b\i\insrsid16459460 B. The Incidents of Aboriginal Title}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [74] Aboriginal title confers ownership rights similar to those associated with fee simple, including: the right to deci
+de how the land will be used; the right of enjoyment and occupancy of the land; the right to possess the land; the right to the economic benefits of the land; and the right to pro-actively use and manage the land.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [75] Aboriginal title, however, comes with an important restriction \emdash 
+ it is collective title held not only for the present generation but for all succeeding generations. This means it cannot be alienated except to the Crown or encumbered in ways that would
+ prevent future generations of the group from using and enjoying it. Nor can the land be developed or misused in a way that would substantially deprive future generations of the benefit of the land. Some changes \emdash  even permanent changes \emdash 
+ to the land may be possible. Whether a particular use is irreconcilable with the ability of succeeding generations to benefit from the land will be a matter to be determined when the issue arises.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [76] The rights and restrictions on Aboriginal title flow from the legal int
+erest Aboriginal title confers, which in turn flows from the fact of Aboriginal occupancy at the time of European sovereignty which attached as a burden on the underlying title asserted by the Crown at sovereignty. Aboriginal title post-sovereignty reflec
+ts the fact of Aboriginal occupancy pre-sovereignty, with all the pre-sovereignty incidents of use and enjoyment that were part of the collective title enjoyed by the ancestors of the claimant group \emdash 
+ most notably the right to control how the land is used. 
+However, these uses are not confined to the uses and customs of pre-sovereignty times; like other land-owners, Aboriginal title holders of modern times can use their land in modern ways, if that is their choice.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [77] The right to control the land conferred
+ by Aboriginal title means that governments and others seeking to use the land must obtain the consent of the Aboriginal title holders. If the Aboriginal group does not consent to the use, the government\rquote 
+s only recourse is to establish that the proposed incursion on the land is justified under s. 35 of the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Constitution Act, 1982.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \ab\ai\af31507 \ltrch\fcs0 \b\i\insrsid16459460 {\*\bkmkstart tsil-infringe}C. Justification of Infringement}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 {\*\bkmkend tsil-infringe}
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [78] To justify overriding the Aboriginal title-holding group\rquote s wishes on the basis of the broader public good, the government must show: (1) that 
+it discharged its procedural duty to consult and accommodate, (2) that its actions were backed by a compelling and substantial objective; and (3) that the governmental action is consistent with the Crown\rquote s fiduciary obligation to the group: }{
+\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Sparrow}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 .}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [79] T
+he duty to consult is a procedural duty that arises from the honour of the Crown prior to confirmation of title. Where the Crown has real or constructive knowledge of the potential or actual existence of Aboriginal title, and contemplates conduct that mig
+h
+t adversely affect it, the Crown is obliged to consult with the group asserting Aboriginal title and, if appropriate, accommodate the Aboriginal right. The duty to consult must be discharged prior to carrying out the action that could adversely affect the
+ right.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [80] The degree of consultation and accommodation required lies on a spectrum as discussed in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Haida}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid16459460 . In general, the level of consultation and accommodation required is proportionate to the strength of the claim and to the seriousness of the adverse impact the contemplated governmental action would have on the claimed right. \'93
+A dubious or peripheral claim may attract a mere duty of notice, while a stronger claim may attract more stringent duties\'94 (para. 37). The required level of consultation and acc
+ommodation is greatest where title has been established. Where consultation or accommodation is found to be inadequate, the government decision can be suspended or quashed.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [81] Where Aboriginal title is unproven, the Crown owes a procedural duty imposed b
+y the honour of the Crown to consult and, if appropriate, accommodate the unproven Aboriginal interest. By contrast, where title has been established, the Crown must not only comply with its procedural duties, but must also ensure that the proposed govern
+ment action is substantively consistent with the requirements of s. 35 of the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Constitution Act, 1982}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+. This requires both a compelling and substantial governmental objective and that the government action is consistent with the fiduciary duty owed by the Crown to the Aboriginal group.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+[82] I agree with the Court of Appeal that the compelling and substantial objective of the government must be considered from the Aboriginal perspective as well as from the perspective of the broader public. As stated in }{\rtlch\fcs1 \ai\af31507 
+\ltrch\fcs0 \i\insrsid16459460 Gladstone}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , at para. 72:}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s24\qj \li567\ri567\sb80\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin567\lin567\itap0 \rtlch\fcs1 \af31503\afs20\alang1025 \ltrch\fcs0 
+\fs22\lang1033\langfe1033\loch\af39\hich\af39\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid16459460 \hich\af39\dbch\af31501\loch\f39 
+[T]he objectives which can be said to be compelling and substantial will be those directed at either the recognition of the prior occupation of North America by [A]boriginal peoples or \hich\f39 \emdash \loch\f39 
+ and at the level of justification it is this purpose\hich\af39\dbch\af31501\loch\f39  which may well be most relevant \hich\f39 \emdash \loch\f39 
+ at the reconciliation of [A]boriginal prior occupation with the assertion of the sovereignty of the Crown. [Emphasis added.]}{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [83] As }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  explains, the process of reconciling Aboriginal interests with the broader in
+terests of society as a whole is the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 raison d\rquote \'eatre}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  of the principle of justification. Aboriginals and non-Aboriginals are \'93
+all here to stay\'94 and must of necessity move forward in a process of reconciliation (para. 186). To constitute a compelling and subst
+antial objective, the broader public goal asserted by the government must further the goal of reconciliation, having regard to both the Aboriginal interest and the broader public objective.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s15\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [84] What interests are potentially capable of justifying an incursion on Aboriginal title? In }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+, this Court, }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 per}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  Lamer C.J., offered this:}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s24\qj \li567\ri567\sb80\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin567\lin567\itap0 \rtlch\fcs1 \af31503\afs20\alang1025 \ltrch\fcs0 
+\fs22\lang1033\langfe1033\loch\af39\hich\af39\dbch\af31501\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid16459460 \hich\af39\dbch\af31501\loch\f39 In the wake of }{\rtlch\fcs1 \ai\af31503 \ltrch\fcs0 \i\insrsid16459460 
+\hich\af39\dbch\af31501\loch\f39 Gladstone}{\rtlch\fcs1 \af31503 \ltrch\fcs0 \insrsid16459460 \hich\af39\dbch\af31501\loch\f39 
+, the range of legislative objectives that can justify the infringement of [A]boriginal title is fairly broad. Most of these objectives can be traced\hich\af39\dbch\af31501\loch\f39 \hich\f39 
+ to the reconciliation of the prior occupation of North America by [A]boriginal peoples with the assertion of Crown sovereignty, which entails the recognition that \'93\loch\f39 
+distinctive [A]boriginal societies exist within, and are a part of, a broader social, poli\hich\af39\dbch\af31501\loch\f39 t\hich\af39\dbch\af31501\loch\f39 \hich\f39 ical and economic community\'94\loch\f39 
+ (at para. 73). In my opinion, the development of agriculture, forestry, mining, and hydroelectric power, the general economic development of the interior of British Columbia, protection of the environment or endangered species,
+\hich\af39\dbch\af31501\loch\f39 
+ the building of infrastructure and the settlement of foreign populations to support those aims, are the kinds of objectives that are consistent with this purpose and, in principle, can justify the infringement of [A]boriginal title. Whether a particular 
+\hich\af39\dbch\af31501\loch\f39 m\hich\af39\dbch\af31501\loch\f39 
+easure or government act can be explained by reference to one of those objectives, however, is ultimately a question of fact that will have to be examined on a case-by-case basis. [Emphasis added; emphasis in original deleted; para 165]}{\rtlch\fcs1 
+\af31503 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s16\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [85] If a compelling and substantial public purpose is established, the government must go on to show that the proposed incursion on the Aboriginal right is consistent with the Crown\rquote 
+s fiduciary duty towards Aboriginal people.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }\pard\plain \ltrpar\s15\qj \li0\ri0\sa240\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs24\alang1025 \ltrch\fcs0 \f39\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 [86] The Crown\rquote s fiduciary duty in the context of justification merits further discussion. The Crown\rquote s underlying title in the land is held for the benefit of the Aboriginal group and constrained by the Crown
+\rquote s fiduciary or trust obligation to the group. This impacts the justification process in two ways.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [87] First, the Crown\rquote 
+s fiduciary duty means that the government must act in a way that respects the fact that Aboriginal title is a group interest that inheres in present and future generations. The beneficial interest in the land held by the Aborigina
+l group vests communally in the title-holding group. This means that incursions on Aboriginal title cannot be justified if they would substantially deprive future generations of the benefit of the land.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [88] Second, the Crown\rquote s fiduciary duty infuses an obligation of proportionality into the justification process. Implicit in the Crown\rquote 
+s fiduciary duty to the Aboriginal group is the requirement that the incursion is necessary to achieve the government\rquote s goal (rational connection); that the government go no 
+further than necessary to achieve it (minimal impairment); and that the benefits that may be expected to flow from that goal are not outweighed by adverse effects on the Aboriginal interest (proportionality of impact). The requirement of proportionality i
+s inherent in the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Delgamuukw}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  process of reconciliation and was echoed in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Haida}{
+\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 \rquote s insistence that the Crown\rquote s duty to consult and accommodate at the claims stage \'93is proportionate to a preliminary assessment of the strength of the case supporting the existen
+ce of the right or title, and to the seriousness of the potentially adverse effect upon the right or title claimed\'94 (para. 39).}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [89] In summary, Aboriginal title confers on the group that holds it the exclusive right to decide how the land is used and the right to benefit from those uses, subject to one carve-out \emdash 
+ that the uses must be consistent with the group nature of the interest and the enjoyment of the land by future generations. Government incursions not consented to by the title-holding group must be undertaken in accordance with the Crown\rquote 
+s procedural duty to consult and must also be justified on the basis of a compelling and substantial public interest, and must be consistent with the Crown\rquote s fiduciary duty to the Aboriginal group.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 
+\insrsid15878374 
+\par }{\rtlch\fcs1 \ab\ai\af31507 \ltrch\fcs0 \b\i\insrsid16459460 D. Remedies and Transition}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+[90] Prior to establishment of title by court declaration or agreement, the Crown is required to consult in good faith with any Aboriginal groups asserting title to the land about proposed uses of the land and, if appropriate, accommodate the i
+nterests of such claimant groups. The level of consultation and accommodation required varies with the strength of the Aboriginal group\rquote 
+s claim to the land and the seriousness of the potentially adverse effect upon the interest claimed. If the Crown fails 
+to discharge its duty to consult, various remedies are available including injunctive relief, damages, or an order that consultation or accommodation be carried out: }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 
+Carrier Sekani Tribal Council v. British Columbia (Utilities Commission)}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 , 2010 SCC 43, [2010] 2 S.C.R. 650 (S.C.C.), at para. 37.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+[91] After Aboriginal title to land has been established by court declaration or agreement, the Crown must seek the consent of the title-holding Aboriginal group to developments on the land. Absent consent, developme
+nt of title land cannot proceed unless the Crown has discharged its duty to consult and can justify the intrusion on title under s. 35 of the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Constitution Act, 1982}{\rtlch\fcs1 \af31507 
+\ltrch\fcs0 \insrsid16459460 . The usual remedies that lie for breach of interests in land are available, adapted as may 
+be necessary to reflect the special nature of Aboriginal title and the fiduciary obligation owed by the Crown to the holders of Aboriginal title.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [92] The practical result may be a spectrum of duties applicable over time in a particular case. At the claims
+ stage, prior to establishment of Aboriginal title, the Crown owes a good faith duty to consult with the group concerned and, if appropriate, accommodate its interests. As the claim strength increases, the required level of consultation and accommodation 
+correspondingly increases. Where a claim is particularly strong \emdash  for example, shortly before a court declaration of title \emdash 
+ appropriate care must be taken to preserve the Aboriginal interest pending final resolution of the claim. Finally, once title is est
+ablished, the Crown cannot proceed with development of title land not consented to by the title-holding group unless it has discharged its duty to consult and the development is justified pursuant to s. 35 of the }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 
+\i\insrsid16459460 Constitution Act, 1982}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 .}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [93] Once title is 
+established, it may be necessary for the Crown to reassess prior conduct in light of the new reality in order to faithfully discharge its fiduciary duty to the title-holding group going forward. For example, if the Crown begins a project without consent p
+r
+ior to Aboriginal title being established, it may be required to cancel the project upon establishment of the title if continuation of the project would be unjustifiably infringing. Similarly, if legislation was validly enacted before title was establishe
+d, such legislation may be rendered inapplicable going forward to the extent that it unjustifiably infringes Aboriginal title.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \ab\ai\af31507 \ltrch\fcs0 \b\i\insrsid16459460 E. What Duties Were Owed by the Crown at the Time of the Government Action?}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [94] Prior to the declaration of Aboriginal title, the Province had a duty to consult and accommodate the claimed Tsilhqot\rquote in interest in the land. As the Tsilhqot\rquote in had a strong }{
+\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 prima facie}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  claim to the land at the time of the impugned government action and the intrusion was significant, the duty to consult
+ owed by the Crown fell at the high end of the spectrum described in }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Haida}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460  
+and required significant consultation and accommodation in order to preserve the Tsilhqot\rquote in interest.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [95] With the declaration of title, the Tsilhqot\rquote in have now established Aboriginal title to the portion of the lands designated by the trial judge with 
+the exception as set out in para. 9 of these reasons. This gives them the right to determine, subject to the inherent limits of group title held for future generations, the uses to which the land is put and to enjoy its economic fruits. As we have seen, t
+his is not merely a right of first refusal with respect to Crown land management or usage plans. Rather, it is the right to proactively use and manage the land.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \ab\af31507 \ltrch\fcs0 \b\insrsid16459460 VII. Breach of the Duty to Consult}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [96] The alleged breach in this case arises from the issuance
+ by the Province of licences permitting third parties to conduct forestry activity and construct related infrastructure on the land in 1983 and onwards, before title was declared. During this time, the Tsilhqot\rquote 
+in held an interest in the land that was not yet legally recognized. The honour of the Crown required that the Province consult them on uses of the lands and accommodate their interests. The Province did neither and breached its duty owed to the Tsilhqot
+\rquote in.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [97] The Crown\rquote s duty to consult was breac
+hed when Crown officials engaged in the planning process for the removal of timber. The inclusion of timber on Aboriginal title land in a timber supply area, the approval of cut blocks on Aboriginal title land in a forest development plan, and the allocat
+ion of cutting permits all occurred without any meaningful consultation with the Tsilhqot\rquote in.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 
+[98] I add this. Governments and individuals proposing to use or exploit land, whether before or after a declaration of Aboriginal title, can avoid a charge of infringement or failure to adequately consult by obtaining the consent of the interested Aborig
+inal group.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [\'85]}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \ab\af31507 \ltrch\fcs0 \b\insrsid16459460 IX. Conclusion}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid16459460 [99] I would allow the appeal and grant a declaration of Aboriginal title over the area at issue, as requested by the Tsilhqot\rquote 
+in. I further declare that British Columbia breached its duty to consult owed to the Tsilhqot\rquote in through its land use planning and forestry authorizations.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 
+\par }{\rtlch\fcs1 \ai\af31507 \ltrch\fcs0 \i\insrsid16459460 Appeal allowed.}{\rtlch\fcs1 \af31507 \ltrch\fcs0 \insrsid15878374 {\*\bkmkend X34468173c18736b694f97a9122e496e07f955ca}
+\par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
+9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
+5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
+b01d583deee5f99824e290b4ba3f364eac4a430883b3c092d4eca8f946c916422ecab927f52ea42b89a1cd59c254f919b0e85e6535d135a8de20f20b8c12c3b0
+0c895fcf6720192de6bf3b9e89ecdbd6596cbcdd8eb28e7c365ecc4ec1ff1460f53fe813d3cc7f5b7f020000ffff0300504b030414000600080000002100a5d6
+a7e7c0000000360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4f
+c7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b6309512
+0f88d94fbc52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462
+a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f746865
+6d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b
+4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b
+4757e8d3f729e245eb2b260a0238fd010000ffff0300504b0304140006000800000021009d5c8bbe10070000871d0000160000007468656d652f7468656d652f
+7468656d65312e786d6cec594f6f1b4514bf23f11d467b6f13274e9a4475aad8b109b469a3d82dea71bc3bf64e33bbb39a1927f10db547242444411ca8c48d03
+022ab51297f269024550a47e05deccecae77e271e39400153487d63bfb7b6fdefbbd3ff367af5e3b4e183a2442529e3682dae5c5009134e4114d878de076af73
+692d4052e134c28ca7a4118c890cae6dbefbce55bca162921004f2a9dcc08d20562adb585890210c63799967248577032e12ace0510c1722818f406fc2169616
+175717124cd300a53801b5b706031a12d4d32a83cd42799bc163aaa41e0899e86ad5c49130d8e8a0a611722c5b4ca043cc1a01cc13f1a31e39560162582a78d1
+0816cd5fb0b07975016fe4424ccd90adc875cc5f2e970b44074b664e31ec9793d63af5f52bdba57e03606a1ad76eb75bed5aa9cf00701882a7d696aace7a67ad
+d62c745640f6e7b4eed6e2ca62ddc557f42f4fd9bcde6c3657d6735bac5203b23feb53f8b5c5d5fad6928337208b5f99c2d79b5badd6aa8337208b5f9dc277ae
+acafd65dbc01c58ca60753681dd04e27d75e42069ced78e16b005f5bcce113146443995d7a8a014fd5ac5c4bf03d2e3a00d04086154d911a67648043c8e21666
+b42fa89e006f105c796387423935a4e742321434538de0830c43454cf4bd7cf6ddcb674fd0c9fda727f77f3c79f0e0e4fe0f569123b583d36155eac5379ffef1
+e823f4fb93af5f3cfcdc8f9755fc2fdf7ffcf34f9ff981503e13739e7ff1f8d7a78f9f7ff9c96fdf3ef4c0b704ee57e13d9a10896e9223b4cf1370ccb0e25a4e
+fae27c12bd18d3aac4563a9438c57a168ffeb68a1df4cd3166d8836b1297c13b02da870ff8dee89e637037162395c7dbf1ec7a9c38c05dce59930b2f0bd7f55c
+159a7ba374e89f5c8caab87d8c0f7d73b770eac4b73dcaa06f529fca564c1c33f7184e151e929428a4dff103423c7cdda5d4e1759786824b3e50e82e454d4cbd
+94f468dfc9a689d00e4d202e639f81106f879bdd3ba8c999cfeb6d72e822a12a30f318df23cca1f13d3c5238f1a9ece1845509bf8155ec33b23b166115d7960a
+223d248ca37644a4f4c9dc12e06f25e8d7a175f8c3becbc6898b148a1ef874dec09c5791dbfca015e324f361bb348dabd8f7e501a428467b5cf9e0bbdcad10fd
+0c71c0e9cc70dfa1c409f7d9dde0361d3a264d1244bf19091d4b68d54e074e68faaa769c4037ceddb9b8760c0df0f9578f3c99f5a636e22d20c157093ba7daef
+2cdce9a6dbe222a26f7ecfddc6a3748f409a4f2f3c6f5beedb961bfce75beeac7a9eb7d14e7a2bb45dbdbdb19b62b3454e66ee900794b1ae1a3372439a4db284
+7522eac0a09633a743529e98b2187ee67dddc10d0536324870f521557137c6196cb06b81563294b9eaa144199770b033c35edd1a0f9b74658f852bfac060fb81
+c46a97477678590f17e782528d596d86e6f0594cb4ac15cc3bd9f2955c29b8fd3a93d5b45173cf5633a69956e7cc56ba0c319c760d064b3661038260db022caf
+c2f95c4f0d0713cc48a479b76b6f11161385bf2744b9d7d6911847c486c819aeb05933b12b52c85c10404a7942773e364bd680b4b38d3069313b7fe624b95030
+215997dda96a6269b5b6588a8e1ac1facad24a80429c3582011c49e1679241d0a4deb26136847b9d50099bb567d6a229d289c7ebfeacaac12dc38c8271ca3813
+526d6319db189a5779a858aa67b2f62fadd475b25d8c0336515fc38ae53548917fcd0a08b51b5a3218905055835d19d1dcd9c7bc13f29122a21b4747a8cf4662
+1f43f88153ed4f4425dc2c9882d60f700da6d936afdcde9a779aeae593c1d971ccb218e7dd525fa3141567e1a6de4a1bcc53c53cf0cd6bbb71eefcaee88abf28
+57aa69fc3f73452f0770d05f8e740442b8851518e97a6d045ca8984317ca621a7604acfba67740b6c0552abc06f2e12ed8fc2fc8a1fedfd69cd561ca1ace6b6a
+9f0e91a0b09ca85810b2076dc964df19ca6af9d26355b25c91c9a88ab932b366f7c921613ddd0357750f0e500ca96eba49de060cee74feb9cf7905f5877a8f52
+ad37a787944ba7ad817f7ae3628b199c3ab597d0f95bf05f9ae859fdacbc112fd6c8aa23fac56497542faac259fcd6d7f3a95ed3847916e0ca5a6b3bd694c74b
+2b857110c5698f61b0dccf64705d83f43fb0fe511132fb61412fa83dbe0fbd15c17702cb1f82acbea4bb1a64906e90f6571ff63d76d026935665a9cd773e9ab5
+62b1bee08d6a39ef29b2b565f3c4fb9c64979b28773aa7162f92ec9c61876b3b36936a88ece91285a141710e3181315fa4aa1f8d78ff1e047a1baee747cc7e46
+92193c993ac8f684c9ae3e8fc6f94f26ed826bb34e9f613492a5fb648068745c9c3f4a266c09d94f19c516d9a0b5984eb45270d97768700573bc16b5ab6529bc
+74b67029616686965d0a9b1b329f02f89095376e7db403bc6db2d66b5d5c05532cfd2b94cd61bc9f32efc9675ecaec41f195817a0dcad4f1ab29cb9902f2a613
+0f3e450a0c4793aee9bfb0e8d84c3729bbf927000000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468656d652f7468
+656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d363f2451
+eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e319872
+0e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d9850528a2
+c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100e9de0fbfff0000001c020000130000000000000000000000000000
+0000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b00000000000000000000000000
+300100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c0000000000000000000000000019020000746865
+6d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d00140006000800000021009d5c8bbe10070000871d00001600000000000000000000
+000000d60200007468656d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b01000027000000000000
+000000000000001a0a00007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000150b00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax376\lsdlockeddef0\lsdsemihiddendef0\lsdunhideuseddef0\lsdqformatdef0\lsdprioritydef0{\lsdlockedexcept \lsdsemihidden1 \lsdunhideused1 \lsdlocked0 heading 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 5;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 9;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toc 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toc 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toc 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toc 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toc 5;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toc 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toc 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toc 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toc 9;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal Indent;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footnote text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation text;\lsdsemihidden1 \lsdunhideused1 \lsdpriority99 \lsdlocked0 header;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footer;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index heading;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 caption;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of figures;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope return;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footnote reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation reference;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 line number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 page number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 endnote reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 endnote text;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of authorities;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 macro;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toa heading;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 2;\lsdqformat1 \lsdlocked0 Body Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Message Header;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Salutation;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Date;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Note Heading;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Block Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Hyperlink;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 FollowedHyperlink;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Document Map;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal (Web);\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Acronym;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Cite;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Code;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Definition;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Keyboard;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Preformatted;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Sample;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Typewriter;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Variable;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal Table;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation subject;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 No List;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 5;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 8;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 8;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Contemporary;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Elegant;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Professional;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Subtle 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Subtle 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Balloon Text;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Theme;\lsdsemihidden1 \lsdlocked0 Placeholder Text;\lsdsemihidden1 \lsdlocked0 Revision;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Bibliography;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 TOC Heading;
+\lsdpriority49 \lsdlocked0 Grid Table 4;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 1;
+\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 1;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 1;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 1;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 1;
+\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 1;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 1;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 2;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 2;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 2;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 2;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 2;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 3;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 3;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 3;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 3;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 3;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 3;
+\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 4;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 4;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 4;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 4;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 4;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 4;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 5;
+\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 5;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 5;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 5;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 5;
+\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 5;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 5;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 6;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 6;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 6;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 6;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 6;\lsdpriority46 \lsdlocked0 List Table 1 Light;\lsdpriority47 \lsdlocked0 List Table 2;\lsdpriority48 \lsdlocked0 List Table 3;\lsdpriority49 \lsdlocked0 List Table 4;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark;\lsdpriority51 \lsdlocked0 List Table 6 Colorful;\lsdpriority52 \lsdlocked0 List Table 7 Colorful;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 List Table 2 Accent 1;
+\lsdpriority48 \lsdlocked0 List Table 3 Accent 1;\lsdpriority49 \lsdlocked0 List Table 4 Accent 1;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 1;
+\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 1;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 List Table 2 Accent 2;\lsdpriority48 \lsdlocked0 List Table 3 Accent 2;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 2;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 2;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 3;\lsdpriority47 \lsdlocked0 List Table 2 Accent 3;\lsdpriority48 \lsdlocked0 List Table 3 Accent 3;\lsdpriority49 \lsdlocked0 List Table 4 Accent 3;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 3;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 4;
+\lsdpriority47 \lsdlocked0 List Table 2 Accent 4;\lsdpriority48 \lsdlocked0 List Table 3 Accent 4;\lsdpriority49 \lsdlocked0 List Table 4 Accent 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 4;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 4;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 List Table 2 Accent 5;
+\lsdpriority48 \lsdlocked0 List Table 3 Accent 5;\lsdpriority49 \lsdlocked0 List Table 4 Accent 5;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 5;
+\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 5;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 List Table 2 Accent 6;\lsdpriority48 \lsdlocked0 List Table 3 Accent 6;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 6;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority99 \lsdlocked0 Mention;\lsdsemihidden1 \lsdunhideused1 \lsdpriority99 \lsdlocked0 Smart Hyperlink;}}{\*\datastore }}
