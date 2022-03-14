@@ -2,7 +2,7 @@
 title: "Week 19 - Contemporary Aboriginal Title"
 linktitle: "Week 19"
 type: book
-date: "2022-03-11"
+date: "2022-03-14"
 weight: 110
 week: 19
 ---
@@ -40,9 +40,9 @@ Please start by watching the mini-lecture review below, which will revisit and r
 
 {{% /callout %}}
 
-## Case Study: Aboriginal Title in Lands of the Elsipogtog First Nation ##
+## Case Study: Elsipogtog First Nation's Claim to Aboriginal Title ##
 
-In November 2016, the Elsipogtog First Nation filed a Notice of Action and Statement of Claim in the New Brunswick Court of Queen's Bench. The following quotes from the press release issued by Elsipogtog in advance of that filing:
+In November 2016, Elsipogtog First Nation filed a Notice of Action and Statement of Claim in the New Brunswick Court of Queen's Bench. The following quotes from the press release issued by Elsipogtog in advance of that filing:
 
 > On November 9, 2016 Elsipogtog First Nation is filing a claim on behalf of the Mi’kmaq Nation for Aboriginal title to the Mi’kma’ki district of Sikniktuk in New Brunswick.
 >
@@ -57,7 +57,7 @@ In November 2016, the Elsipogtog First Nation filed a Notice of Action and State
 > “Elsipogtog intends to continue to work with our Indigenous neighbours and our Canadian allies to ensure the protection of the lands and waters that sustain us,” said Chief Sock. “As part of the Mi’kmaq Nation we have a responsibility to act as stewards of our territory. Reasserting our right to make decisions about our lands and waters is an essential part of
 safeguarding Sikniktuk for all of our long-term benefit.”
 
-Please read the following [special report the Elsipogtog First Nation's claim,](https://www.cbc.ca/news2/interactives/a-mikmaq-seat-at-the-table/) written by Mi'kmaw journalist Oscar Baker III. Then consider the following questions:
+Please read the following [special report about the claim by Elsipogtog First Nation,](https://www.cbc.ca/news2/interactives/a-mikmaq-seat-at-the-table/) written by Mi'kmaw journalist Oscar Baker III. Then consider the following questions:
 
 1. Based on the materials above, is the test for proof of Aboriginal title likely to be met in this case? Are there doctrinal or other barriers that might be of particular concern for the Elsipogtog First Nation? 
 
