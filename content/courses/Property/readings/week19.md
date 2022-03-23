@@ -2,7 +2,7 @@
 title: "Week 19 - Contemporary Aboriginal Title"
 linktitle: "Week 19"
 type: book
-date: "2022-03-14"
+date: "2022-03-23"
 weight: 110
 week: 19
 ---
@@ -59,13 +59,13 @@ safeguarding Sikniktuk for all of our long-term benefit.”
 
 Please read the following [special report about the claim by Elsipogtog First Nation,](https://www.cbc.ca/news2/interactives/a-mikmaq-seat-at-the-table/) written by Mi'kmaw journalist Oscar Baker III. Then consider the following questions:
 
-1. Based on the materials above, is the test for proof of Aboriginal title likely to be met in this case? Are there doctrinal or other barriers that might be of particular concern for the Elsipogtog First Nation? 
+1. Based on the materials above, is the test for proof of Aboriginal title likely to be met in this case? Are there doctrinal or other barriers that might be of particular concern for Elsipogtog? 
 
-2. If the claim is successful, what kind of legal rights will the Elsipogtog First Nation be recognized as holding in its territories? What does the doctrine support or prohibit Elsipogtog in doing? 
+2. If the claim is successful, what kind of legal rights will Elsipogtog be recognized as holding in its territories? What does the doctrine support or prohibit Elsipogtog in doing? 
 
 3. Under what circumstances, if any, can the Crown infringe on Elsipogtog's title (once proven)?
 
-4. Prior to litigating the claim to Aboriginal title in court, what legal options are available to the Elsipogtog First Nation to address concerns about the shale gas exploration activities by SWN Resources identified in Baker's article? 
+4. Prior to litigating the claim to Aboriginal title in court, what legal options are available to Elsipogtog to address concerns about the shale gas exploration activities by SWN Resources identified in Baker's article? 
 
 ## *Constitution Act, 1982*, s 35 ##
 
