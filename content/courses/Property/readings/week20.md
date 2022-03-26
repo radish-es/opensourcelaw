@@ -1,5 +1,5 @@
 ---
-title: "Week 20 - Exclusion: Expropriation and Patent"
+title: "Week 20 - Revisiting Exclusion: Expropriation and Patent"
 linktitle: "Week 20"
 type: book
 date: "2022-03-26"
