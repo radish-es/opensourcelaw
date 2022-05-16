@@ -235,7 +235,7 @@ Your goal in this exercise is to learn how the abstract argument types I describ
 
 > … while public authorities may, on behalf of the community, strike a reasonable balance between traffic and picketing on public sidewalks and streets, the shopping centre owner can hardly be expected to make such a choice; he has no authority to speak for the community; to grant picketing or parading privileges to all would invite chaos, while to do so selectively would invite commercial reprisals. He is thus driven to adopt a highly restrictive approach to granting permission to groups who wish to parade or picket in the shopping centre.
 
-{{< cta cta_text="Jump to Laskin’s Counter-Argument" cta_link="#orange_2" cta_new_tab="false" >}}
+{{< cta cta_text="Jump to Laskin’s Counter-Argument" cta_link="#red_2" cta_new_tab="false" >}}
 
 </div>
 
@@ -263,9 +263,7 @@ Your goal in this exercise is to learn how the abstract argument types I describ
 
 [15] I would allow the appeal, set aside the judgment of the Court of Appeal for Manitoba and restore the judgment of the County Court Judge.
 
-
-
-{{< cta cta_text="Jump to Laskin’s Counter-Argument" cta_link="#purple_1" cta_new_tab="false" >}}
+{{< cta cta_text="Jump to Laskin’s Counter-Argument" cta_link="#purple_2" cta_new_tab="false" >}}
 
 </div>
 
