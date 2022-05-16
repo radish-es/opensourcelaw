@@ -6,7 +6,14 @@ date: "2021-12-10"
 weight: 5
 ---
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week4" target="_blank" rel="noopener">SLIDES</a>
+
+{{% callout warning %}} 
+
+### Land to Property
+
+Transformation of land into property and link to anti-colonial approach. 
+
+{{% /callout %}}
 
 [{{< figure src="/media/acorn.jpg" caption="Source: Katie Oh on Unsplash">}}](https://unsplash.com/photos/1SOSZE1Dops)
 
