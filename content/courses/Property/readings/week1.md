@@ -1,5 +1,5 @@
 ---
-title: "Week 1 - Introduction to the Course"
+title: "Week 1 - Why Property?"
 linktitle: "Week 1"
 type: book
 date: "2021-11-04"
@@ -8,35 +8,27 @@ weight: 2
 
 [{{< figure src="/media/kaleidoscope.jpg" caption="Source: Malcolm Lightbody on Unsplash">}}](https://unsplash.com/photos/TC2f02Iq8lE)
 
-For first-year law students, property law can be a kaleidoscopic subject: fragmentary, blinkered, sometimes disorienting. Property spans multiple legal traditions and offers up a disorderly patchwork of principles, rules and norms. It is full of apparent contradictions. 
+For first-year law students, property can be a kaleidoscopic subject: fragmentary, blinkered, disorienting. The field offers up a disorderly patchwork of principles, rules and norms. It is full of contradictions, real and apparent. It occupies a space of dispossession and disadvantage for some; prosperity and security for others. 
 
-The are many possible ways to teach and learn about property, to make sense of and bring some order within the kaleidoscope. In this course, we will take a critical historical approach that may look different from your other first-year courses. More specifically, we will use the following question about law, history and political economy to thread the material together:
+The are many possible ways to teach and learn about property, to try to make sense of and bring some order within the kaleidoscope. In this course, we will take a critical, historical approach to the subject--one that puts the emphasis on property's role in Canada's political economy...
 
-> *How have legal rules about property produced Canada's liberal market economy over the past few hundred years and who benefits from the result?* 
+## Read the Course Syllabus
 
-In other words, we will take a social concept—*the market*—and try to develop a story about how law has realized one actual and particular version of that concept over time in the Canadian context.
+Before you start to explore the course materials, please familiarize yourself with the procedures and expectations for our course this year. Start by reading the [Course Syllabus]({{< ref "/courses/property/admin/syllabus" >}}) and reviewing the [Course Schedule]({{< ref "/courses/property/admin/schedule" >}}). These are the main documents you'll need to use throughout the year to understand the course logistics, expectations, policies and schedule for assigned readings and class meetings.
 
-That Canada has a certain kind of market economy, along with that economy's particular distribution of benefits and burdens, is not predestined. Nor is it an accident. Legal rules—property foremost among them—are the product of choices that create background conditions for both market exchange and its regulation by the state. By taking a critical look at those choices and what constrains them, we have a better chance of understanding our current economic conditions and their potential for change. 
-
-These are big ideas and I will have much more to say about this overarching frame in a few weeks. For now, simply be aware that such a frame exists and that we will return to it as a touchstone again and again throughout the course. 
-
-## Course Syllabus
-
-Before you start to read the course materials, please familiarize yourself with the procedures and expectations for our course this year. Start by reading the [Course Syllabus]({{< ref "/courses/property/admin/syllabus" >}}) and reviewing the [Course Schedule]({{< ref "/courses/property/admin/schedule" >}}). These are the key documents you'll need to use throughout the year to understand the course logistics, expectations, policies and schedule for assigned readings.
-
-Ensure that you begin this week with a good understanding of:
+Aim to begin this week with a good understanding of:
 
 - [Course procedures]({{< ref "/courses/property/admin/syllabus#general-information" >}}) for communicating with me and arranging appointments outside of class meetings;
 
-- How to access the [course website and assigned materials]({{< ref "/courses/property/admin/syllabus#course-website-and-course-materials" >}});
+- How to access the [course website and assigned materials;]({{< ref "/courses/property/admin/syllabus#course-website-and-course-materials" >}})
 
 - [Goals and expectations]({{< ref "/courses/property/admin/syllabus#course-goals-and-expectations" >}}) for class preparation and participation in class meetings;
 
 - How you will be [evaluated]({{< ref "/courses/property/admin/syllabus#evaluation" >}}) in the course; and
 
-- Your rights and responsibilities related to [accommodations, plagiarism and maintaining an inclusive classroom]({{< ref "/courses/property/admin/syllabus#accommodations" >}}).
+- Your rights and responsibilities related to [accommodations, plagiarism and maintaining an inclusive classroom.]({{< ref "/courses/property/admin/syllabus#accommodations" >}})
 
-I will highlight some key points from these materials at the beginning of this week's class meeting and make time for your questions about the syllabus. If questions arise as you read the syllabus for the first time, you can submit them to me (anonymously) ahead of time using the form below. 
+I will highlight some key points from these materials at the beginning of this week's class meeting and will make time for your questions about the syllabus. If questions arise as you read the syllabus for the first time, you can submit them to me (anonymously) ahead of time using the form below. 
 
 {{% callout exercise %}} 
 
@@ -46,20 +38,38 @@ I will highlight some key points from these materials at the beginning of this w
 
 {{% /callout %}}
 
-## Making Canada's Liberal Market Economy
+## Making the Market
 
-[Explanation of key point about markets and distribution of benefits as non-neutral/natural.]
+{{% callout edit %}} 
 
-{{% callout exercise %}} 
+Can we find a visual here that evokes the "market"? 
 
-Excerpt. 
+{{% /callout %}}
+
+Throughout the course, we will study several controversies, concepts and legal doctrines that conventionally make up the field of property law in Canadian law schools. As in your other courses, you will gain a solid understanding of the "law of the books" addressing a range of issues (local, national and global) and you will see how that law has changed and been adapted over time. But we will do all of this with a more specific goal in mind than becoming proficient in property law. By the end of this course, we want to gain a critical understanding of the following question:
+
+{{% callout question %}} 
+
+*How have legal rules about property created Canada's liberal market economy over the past few hundred years and **who benefits** from the result?* 
+
+{{% /callout %}}
+
+In other words, we will take a social concept—the *market*—and try to develop a story about how law has realized one actual and particular version of that concept over time in the Canadian context.
+
+That Canada has a certain kind of market economy, along with that economy's particular distribution of benefits and burdens, is not predestined (Desautels-Stein 2012, 391). Nor is it an accident. Legal rules—property foremost among them—are the product of *choices* that create background conditions for both market exchange and its regulation by the state. By taking a critical look at those choices and what constrains them, we have a better chance of understanding our current economic conditions along with their potential for change.
+
+Too often, however, we take the legal rules that structure the market for granted and accept that the resulting benefits and burdens are the natural consequences of market exchange. From that perspective, law has a role to play but it is one restricted to "interventions", by the state, in free exchange between individuals to mitigate its adverse or unequal effects. What this perspective misses is the whole infrastructure of legal rules that makes such exchange possible in the first place.  
+
+{{% callout edit %}} 
+
+We need a short reading or even an anecdote here that can help to illustrate. One idea is to use the Henrietta Lacks podcast ...
 
 {{% /callout %}}
 
 
 ## Anti-Colonial Approach to 1L Property
 
-{{% callout warning %}} 
+{{% callout example %}} 
 
 Short example of connection between colonialism and property. Or a case?
 
@@ -155,3 +165,7 @@ Source and transcript: <i class="fas fa-podcast"></i> [*Radiolab Extra: Henriett
 {{% /callout %}}
 
 We will discuss your answers when we meet this week, but we won't look at a "legal" answer to this problem just yet. Instead, for the remainder of this week and next, we will develop a method for identifying common patterns of legal argument. We'll return to the problem of property in human cells and practice applying this method in Week 3.
+
+**Sources**
+
+Desautels-Stein, Justin. "The Market as a Legal Concept." *Buffalo Law Review* 60 (2012): 387.

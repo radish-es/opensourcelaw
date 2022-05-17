@@ -41,6 +41,12 @@ audio {
   margin-bottom: 5px;
 }
 
+figure img {
+  border:#000;
+  border-style: solid;
+  border-width: 1px;
+}
+
 /* BUTTONS and SPOILER*/
 
 .btn {
@@ -86,7 +92,7 @@ audio {
 .alert {
   padding-right: 2.5rem;
   padding-top: 1rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
 }
 
 .alert-note, .alert-exercise, .alert-warning {
@@ -94,7 +100,7 @@ audio {
   margin-bottom: 2rem;
 }
 
-.alert-note, .alert-exercise {
+.alert-note {
     color: black;
     border-color: black;
 }
@@ -111,6 +117,12 @@ div.alert h3 {
   font-weight: 600;
 }
 
+div.alert-exercise {
+  background-color: #d3e7f5;
+  border-color: #003b65;
+  color: black;
+}
+
 div.alert-exercise > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
@@ -118,8 +130,58 @@ div.alert-exercise > div:first-child::before {
   content: '\f14b';
 }
 
-div.alert-exercise {
-  background-color: rgb(233, 239, 248);
+div.alert-info {
+  color: black;
+  background-color: #d3f5eb;
+  border-color: #005038;
+}
+
+div.alert-info > div:first-child::before {
+  color: #005038;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f05a';
+}
+
+div.alert-example {
+  color: black;
+  background-color: #fffef5;
+  border-color: #fee400;
+}
+
+div.alert-example > div:first-child::before {
+  color: #fee400;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f02e';
+}
+
+div.alert-question {
+  color: black;
+  background-color: #d3e7f5;
+  border-color: #003b65;
+}
+
+div.alert-question > div:first-child::before {
+  color: #003b65;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f059';
+}
+
+div.alert-edit {
+  color: black;
+  background-color: #f5d7d7;
+  border-color: #460808;
+  margin-left: 4em;
+  margin-right: 4em;
+}
+
+div.alert-edit > div:first-child::before {
+  color: #460808;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f31c';
 }
 
 div.alert-warning {
