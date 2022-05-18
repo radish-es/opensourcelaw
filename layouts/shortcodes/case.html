@@ -3,9 +3,8 @@
 <div class="case">        
   
         {{ $file := .Get 0 }}
-        {{ $dir :=  printf "static/cases" }}
-        {{ $fullname := (printf "%s/%s" $dir $file) }}
+        {{ $fullname := path.Join "static/cases/" $file}}
         {{ $fullname | readFile | safeHTML }}
-        
+
 </div>
 </div> 
