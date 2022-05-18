@@ -341,3 +341,17 @@ div#statute li {list-style-type: none;}
 }
 
 
+/* For the paragraph numbers */
+
+.casewrap {
+  counter-reset: paragraph;
+}
+
+.case p:before {
+  position: absolute;
+  margin-left: -25px;
+  color: #CCC;
+  content: counter(paragraph);
+  counter-increment: paragraph;
+  font-size: 0.75em;
+}
