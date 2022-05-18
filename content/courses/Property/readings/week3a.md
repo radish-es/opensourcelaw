@@ -6,11 +6,9 @@ date: "2021-09-27"
 weight: 41
 ---
 
-<div class="casewrap">
-
-<div class="case">
-
 ## *Moore v Regents of University of California*, 51 Cal.3d 120
+
+{{< case >}} 
 
 *Panelli, J.* ---
 
@@ -38,6 +36,4 @@ Sometime before August 1979, Golde established a cell line from Moore’s T-lymp
 
 The Regent’s patent also covers various methods for using the cell line to produce lymphokines. Moore admits in his complaint that “the true clinical potential of each of the lymphokines ... [is] difficult to predict, [but] ... competing commercial firms in these relevant fields have published reports in biotechnology industry periodicals predicting a potential market of approximately $3.01 Billion Dollars by the year 1990 for a whole range of [such lymphokines]....”
 
-</div>
-
-</div>
+{{< /case >}} 
