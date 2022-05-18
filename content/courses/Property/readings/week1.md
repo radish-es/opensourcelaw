@@ -8,9 +8,21 @@ weight: 2
 
 [{{< figure src="/media/kaleidoscope.jpg" caption="Source: Malcolm Lightbody on Unsplash">}}](https://unsplash.com/photos/TC2f02Iq8lE)
 
-For first-year law students, property can be a kaleidoscopic subject: fragmentary, blinkered, disorienting. The field offers up a disorderly patchwork of principles, rules and norms. It is full of contradictions, real and apparent. It occupies a space of dispossession and disadvantage for some; prosperity and security for others. 
+For first-year law students, property can be a kaleidoscopic subject: fragmentary, blinkered, disorienting. The field offers up a disorderly patchwork of principles, rules and norms. It is full of contradictions, real and apparent. It presents a space of dispossession and disadvantage for some, prosperity and security for others. 
 
-The are many possible ways to teach and learn about property, to try to make sense of and bring some order within the kaleidoscope. In this course, we will take a critical, historical approach to the subject--one that puts the emphasis on property's role in Canada's political economy...
+The are many possible ways to teach and learn about property, to try to make sense of and bring some order within the kaleidoscope. In this course, we will take a critical, historical approach to the subject--one that puts the emphasis on property's role in Canada's political economy as part of the core legal infrastructure that determines who benefits from that economy and who does not. 
+
+{{% callout info %}} 
+
+### Learning Outcomes: Week 1
+
+- Familiarity with *Course Syllabus*
+- Key theme: making the market
+- Tools for anti-colonial approach
+- Obligations and incommensurability 
+
+{{% /callout %}}
+
 
 ## Read the Course Syllabus
 
@@ -58,7 +70,7 @@ In other words, we will take a social concept—the *market*—and try to develo
 
 That Canada has a certain kind of market economy, along with that economy's particular distribution of benefits and burdens, is not predestined (Desautels-Stein 2012, 391). Nor is it an accident. Legal rules—property foremost among them—are the product of *choices* that create background conditions for both market exchange and its regulation by the state. By taking a critical look at those choices and what constrains them, we have a better chance of understanding our current economic conditions along with their potential for change.
 
-Too often, however, we take the legal rules that structure the market for granted and accept that the resulting benefits and burdens are the natural consequences of market exchange. From that perspective, law has a role to play but it is one restricted to "interventions", by the state, in free exchange between individuals to mitigate its adverse or unequal effects. What this perspective misses is the whole infrastructure of legal rules that makes such exchange possible in the first place.  
+Too often, however, we take the legal rules that structure the market for granted and accept that the resulting benefits and burdens are the natural consequences of market competition. From that perspective, law has a role to play but it is one restricted to interventions, by the state, in free exchange between individuals to mitigate its adverse or unequal effects. What this perspective misses is the whole infrastructure of legal rules that make such exchange possible in the first place.  
 
 {{% callout edit %}} 
 
@@ -67,24 +79,68 @@ We need a short reading or even an anecdote here that can help to illustrate. On
 {{% /callout %}}
 
 
-## Anti-Colonial Approach to 1L Property
+## Land, Property and Colonialism in this Course
 
-{{% callout example %}} 
+One of the features of Canada's liberal market economy is its foundations in the colonial dispossession of Indigenous peoples through the transformation of *land* into *property* ```[CITE/EXPLAIN]```. But colonialism is not only a feature of our economy, structured by law. It is also an ongoing reality of how we learn about property law (and other aspects of law), including the frameworks we use to make sense of legal materials and the questions we ask about them. 
 
-Short example of connection between colonialism and property. Or a case?
+{{% callout edit %}} 
+
+Description from the literature on property as a colonial institution; land into property.
+
+{{% /callout %}} 
+
+The question for our class at this early stage is how to approach the study of property law as part of an anti-colonial practice. The answer to that question is not simple or easy to generalize, but a useful starting point is what ```[CITE]``` call an "ethic of incommensurability". Incommensurability means ... ```[EXPLAIN]```
+
+The following are three key challenges that attention to this idea of incommensurability can help to address. 
+
+{{% callout info %}} 
+
+### Key Challenges 
+
+- *Ahistoricism*: a lack of concern for the history of land as well as legal rules, principles and doctrines applied to land. The common law's tendency to transform "land" into "property" often has the direct effect of dissociating the land from its history and drawing attention away from historical claims and relationships [@marciamckenzieandevetuckPlaceResearchTheory, 64]. When we remove or ignore the history behind a legal concept like "possession" or "title", it is much easier to cast that concept as natural, neutral and legitimate.
+
+- *Invisibility*: in apparent contradiction to the dynamic of ahistoricism, a second challenge is the temptation to think of colonization only as a historical event rather than a current reality [@tuck2014LandEducationIndigenous, 7]. This way of thinking attempts to make colonialism invisible and to render the obligations flowing from that same history as artifacts rather than living relationships. In a legal context, it often drives us to devise "alternative" explanations for legal doctrines that perpetuate rather than confront colonialism. 
+
+- *Subsumation*: the move to subsume or submerge Indigenous legal systems and systems of knowledge--"entire worlds" [@liboiron2021pollution, 54]--within dominant systems of colonial law and thought is also pervasive in the colonial perspective. Sometimes, instead of making these worlds invisible, subsuming dynamics work to obscure deeper contradictions between principles or worldviews by giving them the gloss of commensurability [@mckay2010CanadianPassiveRevolution, 368-369].
 
 {{% /callout %}}
 
-- colonialism as a particular feature of Canada's liberal market economy that we need to address up front because it is not just an aspect of what we'll learn in the course but a determinant of *how* we learn in the course
 
-- problem statement: How to teach/learn about 1L property when property as a legal institution is at the heart of colonialism? (examples)
+{{% callout edit %}} 
 
-- pitfalls: ahistorical; invisibility; subsumation/Indigenous law
+ Would a short excerpt from *R v Silboy* work here? Ask students to identify these three challenges in the text.
 
-- tools to address this problem: (1) identifying and being conscious about relationships and obligations in place-based context; (2) ethic of incommensurability and recognizing "impossible bedfellows"
+{{% /callout %}}
 
-- exercises: obligations; land acknowledgement  
+### Incommensurable Obligations
 
+{{% callout exercise %}}
+
+### Exercise
+
+For this exercise, start by taking some time to think of the obligations you bring to this property law course. You might want to start by thinking about what obligations bring you to class each week--what gets you out of your house and into the law school? There are some questions below to help guide your thinking. Take around 10 minutes to write down all the obligations you can think of. 
+
+-  ***Communal***: Do you bring any obligations to your family, friends, classmates, employers (present or future), or other communities to this property law class? 
+
+- ***Personal***: Do you feel any obligations to yourself, your morals, or your beliefs when you think about learning property law? 
+
+- ***Locational***: Do you feel any obligations relating to places you are from or have lived in? Any obligations coming from the place or spaces we are learning property law in?
+
+**STOP: Don't read further until you have your list of obligations.**
+
+Once you have your list of obligations, think about how some of your different obligations might conflict with one another. One way to identify conflicts is to isolate one obligation and imagine it was the only one you had. How would you approach this course if you only had that single obligation? Would that approach change if you introduced another obligation? Take another 10 minutes to identify and write down any potential conflicts or tensions between your obligations. 
+
+There is a form below for you to anonymously submit any of your obligations and conflicts that you feel comfortable sharing. I will review these responses before class and we'll discuss types and trends of responses in-class; however, I won't share any individual responses.
+
+{{% /callout %}}
+
+{{% callout edit %}} 
+
+What should we do with the land acknowledgment exercise/concept?
+
+{{% /callout %}}
+
+<!--
 
 ## Learning in Mi'kmaw Territory
 
@@ -165,6 +221,8 @@ Source and transcript: <i class="fas fa-podcast"></i> [*Radiolab Extra: Henriett
 {{% /callout %}}
 
 We will discuss your answers when we meet this week, but we won't look at a "legal" answer to this problem just yet. Instead, for the remainder of this week and next, we will develop a method for identifying common patterns of legal argument. We'll return to the problem of property in human cells and practice applying this method in Week 3.
+
+-->
 
 **Sources**
 
