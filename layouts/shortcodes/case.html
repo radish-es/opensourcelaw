@@ -1,9 +1,11 @@
+
 <div class="case_wrap">
-
-    <div class="case">
-
-        {{ .Inner | markdownify | emojify }}
-
-    </div>
-
+<div class="case">        
+  
+        {{ $file := .Get 0 }}
+        {{ $dir :=  printf "static/cases" }}
+        {{ $fullname := (printf "%s/%s" $dir $file) }}
+        {{ $fullname | readFile | safeHTML }}
+        
 </div>
+</div> 
