@@ -74,7 +74,7 @@ Too often, however, we take the legal rules that structure the market for grante
 
 {{% callout edit %}} 
 
-We need a short reading or even an anecdote here that can help to illustrate. One idea is to use the Henrietta Lacks podcast ...
+We need a short reading or even an anecdote here that can help to illustrate. Or could use the Henrietta Lacks podcast ...
 
 {{% /callout %}}
 
@@ -125,6 +125,12 @@ For this exercise, start by taking some time to think of the obligations you bri
 - ***Personal***: Do you feel any obligations to yourself, your morals, or your beliefs when you think about learning property law? 
 
 - ***Locational***: Do you feel any obligations relating to places you are from or have lived in? Any obligations coming from the place or spaces we are learning property law in?
+
+{{% callout edit %}} 
+
+ JB to add an example based on his obligations.
+
+{{% /callout %}}
 
 **STOP: Don't read further until you have your list of obligations.**
 
