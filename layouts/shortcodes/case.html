@@ -1,8 +1,4 @@
 {{ $file := .Get 0 }}
 {{ $headless := .Site.GetPage "/casefiles" }}
 {{ $reusablePages := $headless.Resources.Match $file }}
-<div class="case_wrap">
-    <div class="case">   
-        {{ range $reusablePages }}{{ .Content }}{{ end }}
-    </div>
-</div>
+<div class="case_wrap"><div class="case">{{ range $reusablePages }}{{ .Content }}{{ end }}</div></div>
