@@ -1,10 +1,9 @@
-<div class="case_wrap">
+{{ $file := .Get 0 }}
+{{ $fullname := path.Join "static/cases/" $file }}
 
-    <div class="case">        
-  
-        
-        {{ .Inner | markdownify | emojify }}
+{{ $path := .Site.GetPage "/static/cases/index.md" }}
+{{ $reusablePages := $path.Resources.Match $fullname }}
 
-     </div>
-
-</div> 
+{{ range $reusablePages }}
+    {{ .Content }}
+{{ end }}

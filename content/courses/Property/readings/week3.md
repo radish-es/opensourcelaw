@@ -47,9 +47,9 @@ Note that it is easiest to identify the different arguments bites in *Moore* usi
 ## *Moore v Regents of University of California*, 51 Cal.3d 120 ##
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/moore.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/moore.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/moore.pdf" target="_blank" rel="noopener">PDF</a>
 
-{{% case "moore.md" %}}
+{{% case2 "moore.md" %}}
 
-*Panelli, J.* ---
+<!--*Panelli, J.* ---
 
 I. Introduction
 
@@ -438,7 +438,7 @@ III.
 
 [163] I would affirm the decision of the Court of Appeal to direct the trial court to overrule the demurrers to the cause of action for conversion.
  
-
+-->
 
 
 ## Looking Ahead to Unit 2 ##
