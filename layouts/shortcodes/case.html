@@ -1,10 +1,10 @@
-
+{{ $file := .Get 0 }}
+{{ $headless := .Site.GetPage "/casefiles" }}
+{{ $reusablePages := $headless.Resources.Match $file }}
 <div class="case_wrap">
-<div class="case">        
-  
-        {{ $file := .Get 0 }}
-        {{ $fullname := path.Join "static/cases/" $file}}
-        {{ $fullname | readFile | safeHTML }}
-
+<div class="case">   
+{{ range $reusablePages }}
+    {{ .Content }}
+{{ end }}
 </div>
-</div> 
+</div>

@@ -1,9 +1,0 @@
-{{ $file := .Get 0 }}
-{{ $fullname := path.Join "static/cases/" $file }}
-
-{{ $path := .Site.GetPage "/static/cases/index.md" }}
-{{ $reusablePages := $path.Resources.Match $fullname }}
-
-{{ range $reusablePages }}
-    {{ .Content }}
-{{ end }}
