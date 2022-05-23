@@ -1,5 +1,7 @@
 ---
-title: "Harrison"
+type: case
+style: "Harrison v Carswell"
+reporter: "[1976] 2 SCR 200"
 ---
 
 **Dickson J** (Martland, Judson, Ritchie, Pigeon, and de Grandpré JJ concurring)

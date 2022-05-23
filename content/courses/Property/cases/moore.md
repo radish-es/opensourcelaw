@@ -1,5 +1,7 @@
 ---
-title: "Moore"
+type: case
+style: "Moore v Regents of the University of California"
+reporter: "51 Cal.3d 120"
 ---
 
 *Panelli, J.* ---

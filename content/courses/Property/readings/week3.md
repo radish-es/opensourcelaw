@@ -42,10 +42,8 @@ Note that it is easiest to identify the different arguments bites in *Moore* usi
 - continue to read the full judgement (Justices Panelli's and Mosk's decisions) to get a sense of the major disagreements in the case;
 
 - go back through the case to spot argument types by using Justice Mosk's decision as a guide.
-{{% /callout %}}
 
-## *Moore v Regents of University of California*, 51 Cal.3d 120 ##
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/moore.rtf" rel="noopener">RTF</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/moore.docx" rel="noopener">DOCX</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/cases/moore.pdf" target="_blank" rel="noopener">PDF</a>
+{{% /callout %}}
 
 {{% case "moore.md" %}}
 

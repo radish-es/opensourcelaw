@@ -4,7 +4,9 @@
 
 <div class="style-of-cause">
 
-## <i class="fas fa-gavel"></i> *{{ .Get 1 }}*, {{ .Get 2 }}
+<!--## <i class="fas fa-gavel"></i> *{{ .Get 1 }}*, {{ .Get 2 }}-->
+
+## <i class="fas fa-gavel"></i> {{ range $reusablePages }}*{{ .Params.style }}*, {{ .Params.reporter }}{{ end }}
 
 </div>
 
