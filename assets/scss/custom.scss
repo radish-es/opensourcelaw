@@ -343,7 +343,7 @@ div#statute li {list-style-type: none;}
 
 /* For the paragraph numbers */
 
-.case_wrap {
+.case-wrap {
   counter-reset: paragraph;
 }
 
@@ -354,4 +354,10 @@ div#statute li {list-style-type: none;}
   content: counter(paragraph);
   counter-increment: paragraph;
   font-size: 0.75em;
+}
+
+/* Case headings (style of cause) */
+
+.style-of-cause h2 {
+  color: #000;
 }

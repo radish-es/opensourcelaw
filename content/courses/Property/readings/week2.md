@@ -101,9 +101,7 @@ The recurring forms of legal argument and counter-argument we will study — wha
 
 Next, in Unit 2, we will start to uncover the deeper "grammatical" structure of common law property by studying how changing ideas about the market and the state influence and constrain the legal vocabulary of judges and lawyers during different historical eras. But for now, you can set to one side this idea of legal grammar and focus on the new vocabulary you need to learn first.
 
-## *Harrison v Carswell*, [1976] 2 SCR 200 
-
-{{% case "harrison.md" %}}
+{{% case "harrison.md" "Harrison v Carswell" "[1976] 2 SCR 200" %}}
 
 ## Invalid Arguments ##
 
