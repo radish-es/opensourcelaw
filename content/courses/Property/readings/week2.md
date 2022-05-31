@@ -6,8 +6,6 @@ date: "2021-09-24"
 weight: 3
 ---
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/slides/week2" target="_blank" rel="noopener">SLIDES</a>
-
 [{{< figure src="/media/fern.jpg" caption="Source: Aditya Vishnu on Unsplash">}}](https://unsplash.com/photos/s4yiTlcr4d4)
 
 
