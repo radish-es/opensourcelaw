@@ -2,5 +2,6 @@ fragment PostParts on Post {
   title
   linktitle
   date
+  type
   body
 }

@@ -158,6 +158,7 @@ export type Post = {
   title?: Maybe<Scalars['String']>;
   linktitle?: Maybe<Scalars['String']>;
   date?: Maybe<Scalars['String']>;
+  type?: Maybe<Scalars['String']>;
   body?: Maybe<Scalars['String']>;
 };
 
@@ -241,28 +242,30 @@ export type PostMutation = {
   title?: InputMaybe<Scalars['String']>;
   linktitle?: InputMaybe<Scalars['String']>;
   date?: InputMaybe<Scalars['String']>;
+  type?: InputMaybe<Scalars['String']>;
   body?: InputMaybe<Scalars['String']>;
 };
 
-export type PostPartsFragment = { __typename?: 'Post', title?: string | null, linktitle?: string | null, date?: string | null, body?: string | null };
+export type PostPartsFragment = { __typename?: 'Post', title?: string | null, linktitle?: string | null, date?: string | null, type?: string | null, body?: string | null };
 
 export type GetPostDocumentQueryVariables = Exact<{
   relativePath: Scalars['String'];
 }>;
 
 
-export type GetPostDocumentQuery = { __typename?: 'Query', getPostDocument: { __typename?: 'PostDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Post', title?: string | null, linktitle?: string | null, date?: string | null, body?: string | null } } };
+export type GetPostDocumentQuery = { __typename?: 'Query', getPostDocument: { __typename?: 'PostDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Post', title?: string | null, linktitle?: string | null, date?: string | null, type?: string | null, body?: string | null } } };
 
 export type GetPostListQueryVariables = Exact<{ [key: string]: never; }>;
 
 
-export type GetPostListQuery = { __typename?: 'Query', getPostList: { __typename?: 'PostConnection', totalCount: number, edges?: Array<{ __typename?: 'PostConnectionEdges', node?: { __typename?: 'PostDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Post', title?: string | null, linktitle?: string | null, date?: string | null, body?: string | null } } | null } | null> | null } };
+export type GetPostListQuery = { __typename?: 'Query', getPostList: { __typename?: 'PostConnection', totalCount: number, edges?: Array<{ __typename?: 'PostConnectionEdges', node?: { __typename?: 'PostDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Post', title?: string | null, linktitle?: string | null, date?: string | null, type?: string | null, body?: string | null } } | null } | null> | null } };
 
 export const PostPartsFragmentDoc = gql`
     fragment PostParts on Post {
   title
   linktitle
   date
+  type
   body
 }
     `;

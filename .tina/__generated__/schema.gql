@@ -82,6 +82,7 @@ type Post {
   title: String
   linktitle: String
   date: String
+  type: String
   body: String
 }
 
@@ -122,6 +123,7 @@ input PostMutation {
   title: String
   linktitle: String
   date: String
+  type: String
   body: String
 }
 

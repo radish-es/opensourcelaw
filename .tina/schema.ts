@@ -24,6 +24,17 @@ export default defineSchema({
         },
         {
           type: "string",
+          label: "Type",
+          name: "type",
+          options: [
+            {
+              value: 'book',
+              label: 'Book',
+            },
+          ],
+        },
+        {
+          type: "string",
           label: "Week Body",
           name: "body",
           isBody: true,
