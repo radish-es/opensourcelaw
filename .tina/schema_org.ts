@@ -14,17 +14,17 @@ export default defineSchema({
         },
         {
           type: "string",
-          label: "Link Title",
-          name: "linktitle",
-        },
-        {
-          type: "string",
           label: "Date",
           name: "date",
         },
         {
+          type: "boolean",
+          label: "Is Draft Post",
+          name: "draft",
+        },
+        {
           type: "string",
-          label: "Week Body",
+          label: "Blog Post Body",
           name: "body",
           isBody: true,
           ui: {
