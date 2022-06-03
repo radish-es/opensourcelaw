@@ -1,9 +1,11 @@
 ---
 title: Week One The First
 linktitle: Week First
-date: '2022-01-11T14:28:45.000Z'
+date: '2022-06-02'
 type: book
 ---
+
+
 
 [{{< figure src="/media/kaleidoscope.jpg" caption="Source: Malcolm Lightbody on Unsplash">}}](https://unsplash.com/photos/TC2f02Iq8lE)
 
@@ -19,7 +21,7 @@ That Canada has a certain kind of market economy, along with that economy's part
 
 These are big ideas and I will have much more to say about this overarching frame in a few weeks. For now, simply be aware that such a frame exists and that we will return to it as a touchstone again and again throughout the course. 
 
-## Course Syllabus ##
+## Course Syllabuses
 
 Before you start to read the course materials, please familiarize yourself with the procedures and expectations for our course this year. Start by reading the [Course Syllabus](../../admin/syllabus) and reviewing the [Course Schedule](../../admin/schedule). These are the key documents you'll need to use throughout the year to understand the course logistics, expectations, policies and schedule for assigned readings.
 
@@ -39,7 +41,7 @@ I will highlight some key points from these materials at the beginning of this w
 
 {{% callout exercise %}} 
 
-### Syllabus Questions
+### Syllabus Questioning
 
 
 <iframe src="https://opensourcelaw.limesurvey.net/723337" height="375"frameBorder="0"></iframe>
