@@ -1,11 +1,12 @@
 ---
 title: Moore v Regents of the University of California
 linktitle: Moore
-type: case
+type: book
 style: "Moore v Regents of the University of California"
 reporter: "51 Cal.3d 120"
 weight: 1
 date: "2022-03-04"
+module: case
 
 ---
 
