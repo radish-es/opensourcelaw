@@ -1,5 +1,4 @@
 ---
-title: Moore v Regents of the University of California
 linktitle: Moore
 type: book
 style: "Moore v Regents of the University of California"
@@ -7,16 +6,15 @@ reporter: "51 Cal.3d 120"
 weight: 1
 date: "2022-03-04"
 module: case
-
 ---
 
-*Panelli, J.* ---
+## Panelli, J.
 
-I. Introduction
+### I. Introduction
 
 We granted review in this case to determine whether plaintiff has stated a cause of action against his physician and other defendants for using his cells in potentially lucrative medical research without his permission. Plaintiff alleges that his physician failed to disclose preexisting research and economic interests in the cells before obtaining consent to the medical procedures by which they were extracted. The superior court sustained all defendants’ demurrers to the third amended complaint, and the Court of Appeal reversed. We hold that the complaint states a cause of action for breach of the physician’s disclosure obligations, but not for conversion.
 
-II. Facts
+### II. Facts
 
 Our only task in reviewing a ruling on a demurrer is to determine whether the complaint states a cause of action. Accordingly, we assume that the complaint’s properly pleaded material allegations are true and give the complaint a reasonable interpretation by reading it as a whole and all its parts in their context. We do not, however, assume the truth of contentions, deductions, or conclusions of fact or law. For these purposes we briefly summarize the pertinent factual allegations of the 50–page complaint.
 
@@ -42,13 +40,13 @@ Based upon these allegations, Moore attempted to state 13 causes of action. Each
 
 With one justice dissenting, the Court of Appeal reversed, holding that the complaint did state a cause of action for conversion. The Court of Appeal agreed with the superior court that the allegations against Genetics Institute and Sandoz were insufficient, but directed the superior court to give Moore leave to amend. The Court of Appeal also directed the superior court to decide “the remaining causes of action, which [had] never been expressly ruled upon.”
 
-III. Discussion
+### III. Discussion
 
-*A. Breach of Fiduciary Duty and Lack of Informed Consent*
+#### A. Breach of Fiduciary Duty and Lack of Informed Consent
 
 [*The Court first discusses Moore's claim that Dr. Golde breached his fiduciary duty to Moore because the doctor failed to disclose his economic interests in obtaining the cells. So, although Golde obtained Moore's consent to conduct the medical procedures he underwent, he failed to obtain Moore's informed consent. This portion of the judgement is omitted.*]
 
-*B. Conversion*
+#### B. Conversion
 
 Moore also attempts to characterize the invasion of his rights as a conversion—a tort that protects against interference with possessory and ownership interests in personal property. He theorizes that he continued to own his cells following their removal from his body, at least for the purpose of directing their use, and that he never consented to their use in potentially lucrative medical research. Thus, to complete Moore’s argument, defendants’ unauthorized use of his cells constitutes a conversion. As a result of the alleged conversion, Moore claims a proprietary interest in each of the products that any of the defendants might ever create from his cells or the patented cell line.
 
@@ -58,7 +56,7 @@ We have recognized that, when the proposed application of a very general theory 
 
 Accordingly, we first consider whether the tort of conversion clearly gives Moore a cause of action under existing law. We do not believe it does. Because of the novelty of Moore’s claim to own the biological materials at issue, to apply the theory of conversion in this context would frankly have to be recognized as an extension of the theory. Therefore, we consider next whether it is advisable to extend the tort to this context.
 
-(1) Moore’s Claim Under Existing Law
+##### (1) Moore’s Claim Under Existing Law
 
 “To establish a conversion, plaintiff must establish an actual interference with his *ownership or right of possession*…. Where plaintiff neither has title to the property alleged to have been converted, nor possession thereof, he cannot maintain an action for conversion.”(*Del E. Webb Corp. v. Structural Materials Co.* (1981) 123 Cal.App.3d 593, 610–611, 176 Cal.Rptr. 824, emphasis added. See also *General Motors A. Corp. v. Dallas* (1926) 198 Cal. 365, 370, 245 P. 184.)
 
@@ -78,7 +76,7 @@ It may be that some limited right to control the use of excised cells does survi
 
 Finally, the subject matter of the Regents’ patent—the patented cell line and the products derived from it—cannot be Moore’s property. This is because the patented cell line is both factually and legally distinct from the cells taken from Moore’s body.Federal law permits the patenting of organisms that represent the product of “human ingenuity,” but not naturally occurring organisms. (*Diamond v. Chakrabarty* (1980) 447 U.S. 303, 309–310, 100 S.Ct. 2204, 2208, 65 L.Ed.2d 144.)Human cell lines are patentable because “[l]ong-term adaptation and growth of human tissues and cells in culture is difficult—often considered an art ...,” and the probability of success is low. (OTA Rep., *supra*, at p. 33; see fn. 2, ante.) It is this *inventive effort* that patent law rewards, not the discovery of naturally occurring raw materials. Thus, Moore’s allegations that he owns the cell line and the products derived from it are inconsistent with the patent, which constitutes an authoritative determination that the cell line is the product of invention. Since such allegations are nothing more than arguments or conclusions of law, they of course do not bind us.(*Daar v. Yellow Cab Co.*, *supra*, 67 Cal.2d at p. 713, 63 Cal.Rptr. 724, 433 P.2d 732.)
 
-(2) Should Conversion Liability Be Extended?
+##### (2) Should Conversion Liability Be Extended?
 
 As we have discussed, Moore’s novel claim to own the biological materials at issue in this case is problematic, at best. Accordingly, his attempt to apply the theory of conversion within this context must frankly be recognized as a request to extend that theory. While we do not purport to hold that excised cells can never be property for any purpose whatsoever, the novelty of Moore’s claim demands express consideration of the policies to be served by extending liability (cf. *Nally v. Grace Community Church*, *supra*, 47 Cal.3d at pp. 291–300, 253 Cal.Rptr. 97, 763 P.2d 948; *Foley v. Interactive Data Corp.*, *supra*, 47 Cal.3d at pp. 694–700, 254 Cal.Rptr. 211, 765 P.2d 373; *Brown v. Superior Court*, *supra*, 44 Cal.3d at pp. 1061–1066, 245 Cal.Rptr. 412, 751 P.2d 470) rather than blind deference to a complaint alleging as a legal conclusion the existence of a cause of action.
 
@@ -114,15 +112,14 @@ Finally, there is no pressing need to impose a judicially created rule of strict
 
 For these reasons, we hold that the allegations of Moore’s third amended complaint state a cause of action for breach of fiduciary duty or lack of informed consent, but not conversion.
 
-IV. Disposition
+### IV. Disposition
 
 The decision of the Court of Appeal is affirmed in part and reversed in part. The case is remanded to the Court of Appeal, which shall direct the superior court to: (1) overrule Golde’s demurrers to the causes of action for breach of fiduciary duty and lack of informed consent; (2) sustain, with leave to amend, the demurrers of the Regents, Quan, Sandoz, and Genetics Institute to the purported causes of action for breach of fiduciary duty and lack of informed consent; (3) sustain, without leave to amend, all defendants’ demurrers to the purported cause of action for conversion; and (4) hear and determine all defendants’ remaining demurrers.
 
 [...]
-
 <span id="mosk"></span>
 
-**Mosk, J.**, dissenting ---
+## Mosk, J. (dissenting)
 
 I dissent.
 
