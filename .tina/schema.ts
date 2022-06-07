@@ -44,6 +44,57 @@ export default defineSchema({
             component: "textarea",
           },
       },
+      {
+        label: "Components",
+        name: "components",
+        type: "object",
+        list: true,
+        templates: [
+          {
+            label: "CTA",
+            name: "cta",
+            fields: [
+              {
+                label: "Header",
+                name: "header",
+                type: "string"
+              },
+              {
+                label: "Description",
+                name: "description",
+                type: "string",
+                ui: {
+                  component: "textarea"
+                }
+              }
+            ]
+          },
+          {
+            label: "Testimonial",
+            name: "testimonial",
+            fields: [
+              {
+                label: "Author",
+                name: "author",
+                type: "string"
+              },
+              {
+                label: "Role",
+                name: "role",
+                type: "string"
+              },
+              {
+                label: "Quote",
+                name: "quote",
+                type: "string",
+                ui: {
+                  component: "textarea"
+                }
+              }
+            ]
+          }
+        ]
+      },
     ],
     },
     {
