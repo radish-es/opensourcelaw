@@ -3,9 +3,9 @@ import { defineSchema } from "@tinacms/cli";
 export default defineSchema({
   collections: [
     {
-      label: "Blog Posts",
-      name: "post",
-      path: "content/dummy-posts",
+      label: "Wk",
+      name: "wk",
+      path: "content/courses/property/wk",
       fields: [
         {
           type: "string",
@@ -14,17 +14,51 @@ export default defineSchema({
         },
         {
           type: "string",
-          label: "Date",
-          name: "date",
-        },
-        {
-          type: "boolean",
-          label: "Is Draft Post",
-          name: "draft",
+          label: "Link Title",
+          name: "linktitle",
         },
         {
           type: "string",
-          label: "Blog Post Body",
+          label: "Reporter",
+          name: "reporter",
+        },
+        {
+          type: "string",
+          label: "Module",
+          name: "module",
+          list: false,
+          options: [
+            {
+              value: 'case',
+              label: 'Case',
+            },
+            {
+              value: 'exercise',
+              label: 'Exercise',
+            },
+          ],
+        },
+        {
+          type: "string",
+          label: "Type",
+          name: "type",
+          list: false,
+          options: [
+            {
+              value: 'book',
+              label: 'Book',
+            },
+          ],
+          ui: { defaultValue: 'book' },
+        },
+        {
+          type: "number",
+          label: "Order",
+          name: "weight",
+        },
+        {
+          type: "string",
+          label: "Body",
           name: "body",
           isBody: true,
           ui: {
