@@ -12,12 +12,8 @@ export default defineSchema({
         list: true,
         ui: {
           itemProps: (item) => {
-            return { label: `${item?.goal}`}
+            return { label: ` hello ` };
           },
-          defaultItem: {
-            title: "Learning well",
-            goal: "This is a first objective",
-          }
         },
         fields: [
           {
@@ -51,12 +47,17 @@ export default defineSchema({
         list: true,
         templates: [
           {
-            label: "CTA",
-            name: "cta",
+            label: "Module",
+            name: "module",
+            ui: {
+              itemProps: (item) => {
+                return { label: item.title };
+              },
+            },
             fields: [
               {
-                label: "Header",
-                name: "header",
+                label: "Title",
+                name: "title",
                 type: "string"
               },
               {
@@ -64,103 +65,26 @@ export default defineSchema({
                 name: "description",
                 type: "string",
                 ui: {
-                  component: "textarea"
-                }
-              }
-            ]
+                  component: "textarea",
+                },
+              },
+            ],
           },
           {
-            label: "Testimonial",
-            name: "testimonial",
+            label: "Case",
+            name: "case",
             fields: [
               {
-                label: "Author",
-                name: "author",
+                label: "Style of Cause",
+                name: "style",
                 type: "string"
               },
-              {
-                label: "Role",
-                name: "role",
-                type: "string"
-              },
-              {
-                label: "Quote",
-                name: "quote",
-                type: "string",
-                ui: {
-                  component: "textarea"
-                }
-              }
-            ]
-          }
-        ]
+            ],
+          },
+        ],
       },
     ],
-    },
-    {
-      label: "Wk",
-      name: "wk",
-      path: "content/courses/property/wk",
-      fields: [
-        {
-          type: "string",
-          label: "Title",
-          name: "title",
-        },
-        {
-          type: "string",
-          label: "Link Title",
-          name: "linktitle",
-        },
-        {
-          type: "string",
-          label: "Reporter",
-          name: "reporter",
-        },
-        {
-          type: "string",
-          label: "Module",
-          name: "module",
-          list: false,
-          options: [
-            {
-              value: 'case',
-              label: 'Case',
-            },
-            {
-              value: 'exercise',
-              label: 'Exercise',
-            },
-          ],
-        },
-        {
-          type: "string",
-          label: "Type",
-          name: "type",
-          list: false,
-          options: [
-            {
-              value: 'book',
-              label: 'Book',
-            },
-          ],
-          ui: { defaultValue: 'book' },
-        },
-        {
-          type: "number",
-          label: "Order",
-          name: "weight",
-        },
-        {
-          type: "string",
-          label: "Body",
-          name: "body",
-          isBody: true,
-          ui: {
-            component: "textarea",
-          },
-        },
-      ],
-    },
-  ],
-});
+  },
+],
+},
+);
