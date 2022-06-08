@@ -39,8 +39,17 @@
           <h1>{{ .Title }}</h1>
 
           <div class="article-style">
-            {{/* OSLAW added various tests for module types */}}
-            {{ if eq .Params.module "case" }}
+            {{/* OSLAW get case */}}
+            
+            {{ $file := print .Params.case }}
+            {{ $headless := .Site.GetPage "/courses/property/cases" }}
+            {{ $reusablePages := $headless.Resources.Match $file }}
+
+            {{ range $reusablePages }}<h1>{{ .Params.style }}</h1>{{ end }}
+
+            {{ range $reusablePages }}{{ .Content }}{{ end }}
+
+            <!--{{ if eq .Params.module "case" }}
                 <div class="style-of-cause">            
                     <h1><i class="fas fa-gavel"></i><i>{{ .Params.style }}</i>, {{ .Params.reporter }}</h1>
                 </div>  
@@ -53,7 +62,7 @@
                 </div>
             {{ else }}
                 {{ .Content }}
-            {{ end }}
+            {{ end }}-->
           </div>
 
           {{ partial "tags.html" . }}

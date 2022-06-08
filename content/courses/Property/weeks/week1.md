@@ -1,6 +1,5 @@
 ---
 objectives:
-  - {}
   - title: Complete readings
     goal: Students should complete readings
   - title: Student success
@@ -11,6 +10,14 @@ components:
     _template: module
   - style: Harrison v Carswell
     _template: case
+case: moore.md
+style: "Harrison v Carswell"
+
+title: "Week 1 - Why Property?"
+linktitle: "Week Test"
+type: book
+date: "2021-11-04"
+weight: 2
 ---
 
 
