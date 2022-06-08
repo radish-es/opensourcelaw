@@ -85,6 +85,31 @@ export default defineSchema({
       },
     ],
   },
-],
-},
+  {
+    label: "Cases",
+    name: "cases",
+    path: "content/courses/property/cases",
+    fields: [{
+      label: "Style of Cause",
+      name: "style",
+      type: "string"
+      },
+      {
+        label: "Reporter",
+        name: "reporter",
+        type: "string"
+      },
+      {
+        label: "Body",
+        name: "body",
+        type: "string",
+        isBody: true,
+          ui: {
+            component: "textarea",
+          },
+      },  
+    ],
+    },
+  ],
+  },
 );
