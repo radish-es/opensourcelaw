@@ -39,15 +39,22 @@
           <h1>{{ .Title }}</h1>
 
           <div class="article-style">
+            
             {{/* OSLAW get case */}}
             
-            {{ $file := print .Params.case }}
             {{ $headless := .Site.GetPage "/courses/property/cases" }}
-            {{ $reusablePages := $headless.Resources.Match $file }}
 
-            {{ range $reusablePages }}<h1>{{ .Params.style }}</h1>{{ end }}
+            {{ range .Params.Case }}
 
-            {{ range $reusablePages }}{{ .Content }}{{ end }}
+              {{ $file := print .name }}
+            
+              {{ $reusablePages := $headless.Resources.Match $file }}
+
+              {{ range $reusablePages }}<h1>{{ .Params.style }}</h1>{{ end }}
+
+              {{ range $reusablePages }}{{ .Content }}{{ end }}
+            
+            {{ end }}
 
             <!--{{ if eq .Params.module "case" }}
                 <div class="style-of-cause">            

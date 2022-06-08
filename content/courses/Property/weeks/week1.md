@@ -10,8 +10,10 @@ components:
     _template: module
   - style: Harrison v Carswell
     _template: case
-case: moore.md
-style: "Harrison v Carswell"
+case: 
+  - name: moore.md
+  - name: harrison.md
+
 
 title: "Week 1 - Why Property?"
 linktitle: "Week Test"
