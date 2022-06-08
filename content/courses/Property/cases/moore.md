@@ -6,11 +6,11 @@ reporter: "51 Cal.3d 120"
 
 *Panelli, J.* ---
 
-I. Introduction
+### I. Introduction
 
 We granted review in this case to determine whether plaintiff has stated a cause of action against his physician and other defendants for using his cells in potentially lucrative medical research without his permission. Plaintiff alleges that his physician failed to disclose preexisting research and economic interests in the cells before obtaining consent to the medical procedures by which they were extracted. The superior court sustained all defendants’ demurrers to the third amended complaint, and the Court of Appeal reversed. We hold that the complaint states a cause of action for breach of the physician’s disclosure obligations, but not for conversion.
 
-II. Facts
+### II. Facts
 
 Our only task in reviewing a ruling on a demurrer is to determine whether the complaint states a cause of action. Accordingly, we assume that the complaint’s properly pleaded material allegations are true and give the complaint a reasonable interpretation by reading it as a whole and all its parts in their context. We do not, however, assume the truth of contentions, deductions, or conclusions of fact or law. For these purposes we briefly summarize the pertinent factual allegations of the 50–page complaint.
 

@@ -17,11 +17,18 @@
     <div class="d-none d-xl-block col-xl-2 docs-toc">
       {{ partial "hooks/page_toc_start" . }}
 
+      
+
       <ul class="nav toc-top">
         <li><a href="#" id="back_to_top" class="docs-toc-title">{{ i18n "on_this_page" }}</a></li>
       </ul>
 
-      {{ .TableOfContents }}
+      <!-- placeholder for tocbot toc -->
+      <div class="js-toc"></div>
+
+      <!--{{ .TableOfContents }}-->
+      
+      
 
       {{ partial "hooks/page_toc_end" . }}
     </div>
@@ -38,8 +45,13 @@
 
           <h1>{{ .Title }}</h1>
 
+          
+
           <div class="article-style">
             
+            <!--include TOCBOT class for capturing headers-->
+            <div class="js-toc-content">
+
             {{/* OSLAW get case */}}
             
             {{ $headless := .Site.GetPage "/courses/property/cases" }}
@@ -50,11 +62,13 @@
             
               {{ $reusablePages := $headless.Resources.Match $file }}
 
-              {{ range $reusablePages }}<h1>{{ .Params.style }}</h1>{{ end }}
+              {{ range $reusablePages }}<h2 id={{ .Params.style }}>{{ .Params.style }}</h2>{{ end }}
 
               {{ range $reusablePages }}{{ .Content }}{{ end }}
             
             {{ end }}
+
+            </div>
 
             <!--{{ if eq .Params.module "case" }}
                 <div class="style-of-cause">            
@@ -70,6 +84,22 @@
             {{ else }}
                 {{ .Content }}
             {{ end }}-->
+          
+          <!-- TOCBOT Script-->
+          <script src="/tocbot.min.js"></script>
+          <!-- tocbot options -->
+          <script type="text/javascript">
+          tocbot.init({
+          // Where to render the table of contents.
+          tocSelector: '.js-toc',
+          // Where to grab the headings to build the table of contents.
+          contentSelector: '.js-toc-content',
+          // Which headings to grab inside of the contentSelector element.
+          headingSelector: 'h2, h3, h4, h5',
+          orderedList: false,
+          });
+          </script>
+          
           </div>
 
           {{ partial "tags.html" . }}
