@@ -2,37 +2,64 @@ import { defineSchema } from "@tinacms/cli";
 
 export default defineSchema({
   collections: [{
-      label: "Weeks",
-      name: "weeks",
-      path: "content/courses/property/weeks",
+      label: "Weekly Materials",
+      name: "materials",
+      path: "content/courses/property/materials",
       fields: [{
-        label: "Learning Objectives",
-        name: "objectives",
-        type: "object",
-        list: true,
-        ui: {
-          itemProps: (item) => {
-            return { label: ` hello ` };
-          },
+          label: "Title",
+          name: "title",
+          type: "string",
         },
-        fields: [
-          {
-            label: "Title",
-            name: "title",
-            type: "string"
+        {
+          label: "Link Title",
+          name: "linktitle",
+          type: "string",
+        },
+        {
+          label: "Type",
+          name: "type",
+          type: "string",
+          list: false,
+          options: [
+            {
+              value: 'book',
+              label: 'Book',
+            },
+          ]
           },
           {
-            label: "Goal",
-            name: "goal",
-            type: "string",
-            ui: {
-              component: "textarea"
+            label: 'Rank Order',
+            name: 'weight', 
+            type: "number",
+          },
+        {
+          label: "Learning Objectives",
+          name: "objectives",
+          type: "object",
+          list: true,
+          ui: {
+            itemProps: (item) => {
+              return { label: ` hello ` };
             },
           },
-        ],
+          fields: [
+            {
+              label: "Objective",
+              name: "objective",
+              type: "string"
+            },
+            {
+              label: "Explanation",
+              name: "explanation",
+              type: "string",
+              ui: {
+                component: "textarea"
+              },
+            },
+          ],
       },
       {
-        label: "Intro",
+        label: "Introduction",
         name: "body",
         type: "string",
         isBody: true,
@@ -75,9 +102,15 @@ export default defineSchema({
             name: "case",
             fields: [
               {
-                label: "Style of Cause",
-                name: "style",
+                label: "Title",
+                name: "title",
                 type: "string"
+              },
+              {
+                label: "File",
+                name: "filename",
+                type: "reference",
+                collections: ['cases']
               },
             ],
           },
@@ -95,10 +128,21 @@ export default defineSchema({
       type: "string"
       },
       {
+        label: "Short Style",
+        name: "short",
+        type: "string"
+        },
+      {
         label: "Reporter",
         name: "reporter",
         type: "string"
       },
+      {
+        label: 'Tags',
+        name: 'tags',
+        type: 'string',
+        list: true,
+      },  
       {
         label: "Body",
         name: "body",

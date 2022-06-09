@@ -1,10 +1,13 @@
 ---
-type: case
-style: "Harrison v Carswell"
-short: "Harrison"
-reporter: "[1976] 2 SCR 200"
-tags: [trespass, stare decisis]
+style: Harrison v Carswell
+short: Harrison
+reporter: '[1976] 2 SCR 200'
+tags:
+  - 'institutional competence '
+  - trespass
+  - stare decisis
 ---
+
 
 **Dickson J** (Martland, Judson, Ritchie, Pigeon, and de Grandpré JJ concurring)
 

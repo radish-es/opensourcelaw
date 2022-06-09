@@ -6,18 +6,16 @@ date: "2022-06-08"
 weight: 2
 
 objectives:
-  - title: Complete readings
-    goal: Students should complete readings
-  - title: Student success
-    goal: Students should be successful in the course.
+  - objective: Complete readings
+    explanation: Students should complete readings
 components:
   - title: Making the market
     description: This is the market module.
     _template: module
-  - style: Moore v UofC
+  - title: Moore v UofC
     filename: moore.md
     _template: case
-  - style: Harrison v Carswell
+  - title: Harrison v Carswell
     filename: harrison.md
     _template: case
 ---
