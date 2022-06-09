@@ -21,6 +21,4 @@ components:
 ---
 
 
-
-
-Welcome!
+Welcome! Thursday.
