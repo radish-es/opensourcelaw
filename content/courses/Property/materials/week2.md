@@ -12,13 +12,14 @@ components:
   - title: ''
     filename: content/courses/property/modules/testmod.md
     _template: module
-  - title: Moore
-    filename: content/courses/property/cases/moore.md
-    _template: case
   - title: Harrison
     filename: content/courses/property/cases/harrison.md
     _template: case
+  - title: Moore
+    filename: content/courses/property/cases/moore.md
+    _template: case
 ---
+
 
 
 
