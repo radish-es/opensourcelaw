@@ -90,7 +90,7 @@
               
                 {{ $reusablePages := $headless_module.Resources.Match ( substr $file 33 ) }}
 
-                {{ range $reusablePages }}<h2 id={{ .Params.short }}>{{ .Params.title }}</h2>{{ end }}
+                {{ range $reusablePages }}{{ if isset .Params "title" }}<h2 id={{ .Params.short }}>{{ .Params.title }}</h2>{{ end }}{{ end }}
 
                 {{ range $reusablePages }}{{ range .Params.tags }}<a class="badge badge-light">{{ . }}</a>{{ end }}{{ end }}
 
