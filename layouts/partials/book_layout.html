@@ -50,6 +50,15 @@
             <!--include TOCBOT class for capturing headers-->
             <div class="js-toc-content">
 
+            {{/* OSLAW get learning objectives */}}
+
+            <h2 id="objectives">Learning Objectives</h2>
+            <ul>
+              {{ range .Params.Objectives }}
+              <li><b>{{ .title }}</b>: {{ .goal }}</li>
+              {{ end }}
+            </ul>
+
             {{/* OSLAW get case */}}
             
             {{ $headless := .Site.GetPage "/courses/property/cases" }}

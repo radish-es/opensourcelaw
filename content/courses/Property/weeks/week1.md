@@ -1,4 +1,10 @@
 ---
+title: "Week 1 - Intro to Property?"
+linktitle: "Week 1"
+type: book
+date: "2022-06-08"
+weight: 2
+
 objectives:
   - title: Complete readings
     goal: Students should complete readings
@@ -14,13 +20,6 @@ components:
   - style: Harrison v Carswell
     filename: harrison.md
     _template: case
-
-
-title: "Week 1 - Why Property?"
-linktitle: "Week Test"
-type: book
-date: "2021-11-04"
-weight: 2
 ---
 
 Welcome to week 1! This is the page.
