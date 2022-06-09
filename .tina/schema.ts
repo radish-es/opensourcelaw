@@ -4,7 +4,7 @@ export default defineSchema({
   collections: [{
       label: "Weekly Materials",
       name: "materials",
-      path: "content/courses/property/materials",
+      path: "courses/property/materials",
       fields: [{
           label: "Title",
           name: "title",
