@@ -38,9 +38,7 @@ export default defineSchema({
           type: "object",
           list: true,
           ui: {
-            itemProps: (item) => {
-              return { label: ` hello ` };
-            },
+            itemProps: (item) => {return { label: ` hello ` }},
           },
           fields: [
             {
@@ -88,12 +86,10 @@ export default defineSchema({
                 type: "string"
               },
               {
-                label: "Description",
-                name: "description",
-                type: "string",
-                ui: {
-                  component: "textarea",
-                },
+                label: "File",
+                name: "filename",
+                type: "reference",
+                collections: ['modules']
               },
             ],
           },
@@ -154,6 +150,37 @@ export default defineSchema({
       },  
     ],
     },
+    {
+      label: "Modules",
+      name: "modules",
+      path: "content/courses/property/modules",
+      fields: [{
+        label: "Title",
+        name: "title",
+        type: "string"
+        },
+        {
+          label: "Short Title",
+          name: "short",
+          type: "string"
+          },
+        {
+          label: 'Tags',
+          name: 'tags',
+          type: 'string',
+          list: true,
+        },  
+        {
+          label: "Body",
+          name: "body",
+          type: "string",
+          isBody: true,
+            ui: {
+              component: "textarea",
+            },
+        },  
+      ],
+      },
   ],
   },
 );

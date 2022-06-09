@@ -1,10 +1,12 @@
 ---
-type: case
-style: "Moore v Regents of the University of California"
-short: "Moore"
-reporter: "51 Cal.3d 120"
-tags: [conversion, body]
+style: Moore v Regents of the University of California
+short: Moore
+reporter: 51 Cal.3d 120
+tags:
+  - body
+  - conversion
 ---
+
 
 *Panelli, J.* ---
 

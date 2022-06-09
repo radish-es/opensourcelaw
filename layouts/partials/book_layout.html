@@ -63,7 +63,8 @@
 
             <!-- OSLAW get case -->
             
-            {{ $headless := .Site.GetPage "/courses/property/cases" }}
+            {{ $headless_case := .Site.GetPage "/courses/property/cases" }}
+            {{ $headless_module := .Site.GetPage "/courses/property/modules" }}
 
             {{ range .Params.Components }}
 
@@ -73,7 +74,7 @@
 
                 <!--{{ $file := print .filename }}-->
               
-                {{ $reusablePages := $headless.Resources.Match ( substr $file 31 )}}
+                {{ $reusablePages := $headless_case.Resources.Match ( substr $file 31 )}}
 
                 {{ range $reusablePages }}<h2 id={{ .Params.short }}>{{ .Params.style }}</h2>{{ end }}
 
@@ -82,6 +83,18 @@
                 {{ range $reusablePages }}{{ range .Params.tags }}<a class="badge badge-light">{{ . }}</a>{{ end }}{{ end }}
 
                 {{ range $reusablePages }}<div class="case-wrap"><div class="case">{{ .Content }}</div></div>{{ end }}
+            
+              {{else if eq ._template "module" }}
+
+                {{ $file :=  .filename }}
+              
+                {{ $reusablePages := $headless_module.Resources.Match ( substr $file 33 ) }}
+
+                {{ range $reusablePages }}<h2 id={{ .Params.short }}>{{ .Params.title }}</h2>{{ end }}
+
+                {{ range $reusablePages }}{{ range .Params.tags }}<a class="badge badge-light">{{ . }}</a>{{ end }}{{ end }}
+
+                {{ range $reusablePages }}{{ .Content }}{{ end }}
             
               {{end}}
 
