@@ -4,8 +4,8 @@ import { TinaEditProvider, setEditing } from "tinacms/dist/edit-state";
 function App() {
   setEditing(true);
 
-  const branch = "temp";
-  const clientId = "11e2bb0d-e8ae-40e5-ab5a-005e63f52b30";
+  const branch = 'temp';
+  const clientId = '0f0407c1-7703-4c55-8f49-f418087499df';
   const apiURL =
     process.env.NODE_ENV == "development"
       ? "http://localhost:4001/graphql"
