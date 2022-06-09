@@ -1,0 +1,46 @@
+fragment MaterialsParts on Materials {
+  title
+  linktitle
+  type
+  weight
+  objectives {
+    __typename
+    objective
+    explanation
+  }
+  body
+  components {
+    __typename
+    ... on MaterialsComponentsModule {
+      title
+      filename {
+        ... on Document {
+          id
+        }
+      }
+    }
+    ... on MaterialsComponentsCase {
+      title
+      filename {
+        ... on Document {
+          id
+        }
+      }
+    }
+  }
+}
+
+fragment CasesParts on Cases {
+  style
+  short
+  reporter
+  tags
+  body
+}
+
+fragment ModulesParts on Modules {
+  title
+  short
+  tags
+  body
+}

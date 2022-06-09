@@ -1,0 +1,116 @@
+query getMaterialsDocument($relativePath: String!) {
+  getMaterialsDocument(relativePath: $relativePath) {
+    sys {
+      filename
+      basename
+      breadcrumbs
+      path
+      relativePath
+      extension
+    }
+    id
+    data {
+      ...MaterialsParts
+    }
+  }
+}
+
+query getMaterialsList {
+  getMaterialsList {
+    totalCount
+    edges {
+      node {
+        id
+        sys {
+          filename
+          basename
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        data {
+          ...MaterialsParts
+        }
+      }
+    }
+  }
+}
+
+query getCasesDocument($relativePath: String!) {
+  getCasesDocument(relativePath: $relativePath) {
+    sys {
+      filename
+      basename
+      breadcrumbs
+      path
+      relativePath
+      extension
+    }
+    id
+    data {
+      ...CasesParts
+    }
+  }
+}
+
+query getCasesList {
+  getCasesList {
+    totalCount
+    edges {
+      node {
+        id
+        sys {
+          filename
+          basename
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        data {
+          ...CasesParts
+        }
+      }
+    }
+  }
+}
+
+query getModulesDocument($relativePath: String!) {
+  getModulesDocument(relativePath: $relativePath) {
+    sys {
+      filename
+      basename
+      breadcrumbs
+      path
+      relativePath
+      extension
+    }
+    id
+    data {
+      ...ModulesParts
+    }
+  }
+}
+
+query getModulesList {
+  getModulesList {
+    totalCount
+    edges {
+      node {
+        id
+        sys {
+          filename
+          basename
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        data {
+          ...ModulesParts
+        }
+      }
+    }
+  }
+}
