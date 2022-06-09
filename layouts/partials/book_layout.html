@@ -50,16 +50,18 @@
             <!--include TOCBOT class for capturing headers-->
             <div class="js-toc-content">
 
-            {{/* OSLAW get learning objectives */}}
+            <!-- OSLAW get learning objectives -->
+            
+            {{ if isset .Params "objectives" }}
+              <h2 id="objectives">Learning Objectives</h2>
+              <ul>
+                {{ range .Params.Objectives }}
+                <li><b>{{ .title }}</b>: {{ .goal }}</li>
+                {{ end }}
+              </ul>
+            {{ end }}
 
-            <h2 id="objectives">Learning Objectives</h2>
-            <ul>
-              {{ range .Params.Objectives }}
-              <li><b>{{ .title }}</b>: {{ .goal }}</li>
-              {{ end }}
-            </ul>
-
-            {{/* OSLAW get case */}}
+            <!-- OSLAW get case -->
             
             {{ $headless := .Site.GetPage "/courses/property/cases" }}
 
@@ -82,21 +84,6 @@
             {{ end }}
 
             </div>
-
-            <!--{{ if eq .Params.module "case" }}
-                <div class="style-of-cause">            
-                    <h1><i class="fas fa-gavel"></i><i>{{ .Params.style }}</i>, {{ .Params.reporter }}</h1>
-                </div>  
-                 <div class="case-wrap"><div class="case">{{ .Content }}</div></div>
-            {{ else if eq .Params.module "exercise" }}
-                <div class="alert alert-exercise">
-                    <div>
-                        {{ .Content }}
-                    </div>
-                </div>
-            {{ else }}
-                {{ .Content }}
-            {{ end }}-->
           
           <!-- TOCBOT Script-->
           <script src="/tocbot.min.js"></script>
