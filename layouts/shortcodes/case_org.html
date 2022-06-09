@@ -1,0 +1,10 @@
+
+<div class="case_wrap">
+<div class="case">        
+  
+        {{ $file := .Get 0 }}
+        {{ $fullname := path.Join "static/cases/" $file}}
+        {{ $fullname | readFile | safeHTML }}
+
+</div>
+</div> 

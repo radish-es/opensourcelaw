@@ -47,6 +47,12 @@ border-style: solid;
 border-width: 1px;
 }
 
+figure img {
+  border:#000;
+  border-style: solid;
+  border-width: 1px;
+}
+
 /* BUTTONS and SPOILER*/
 
 .btn {
@@ -90,9 +96,9 @@ font-size: 1em;
 /* CALLOUT */
 
 .alert {
-padding-right: 2.5rem;
-padding-top: 1rem;
-padding-bottom: 1rem;
+  padding-right: 2.5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .alert-note, .alert-exercise, .alert-warning {
@@ -101,8 +107,8 @@ margin-bottom: 2rem;
 }
 
 .alert-note {
-  color: black;
-  border-color: black;
+    color: black;
+    border-color: black;
 }
 
 .alert-note {
@@ -123,6 +129,12 @@ border-color: #003b65;
 color: black;
 }
 
+div.alert-exercise {
+  background-color: #d3e7f5;
+  border-color: #003b65;
+  color: black;
+}
+
 div.alert-exercise > div:first-child::before {
 font-family: 'Font Awesome 5 Free';
 font-weight: 900;
@@ -131,57 +143,57 @@ content: '\f14b';
 }
 
 div.alert-info {
-color: black;
-background-color: #d3f5eb;
-border-color: #005038;
+  color: black;
+  background-color: #d3f5eb;
+  border-color: #005038;
 }
 
 div.alert-info > div:first-child::before {
-color: #005038;
-font-family: 'Font Awesome 5 Free';
-font-weight: 900;
-content: '\f05a';
+  color: #005038;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f05a';
 }
 
 div.alert-example {
-color: black;
-background-color: #fffef5;
-border-color: #fee400;
+  color: black;
+  background-color: #fffef5;
+  border-color: #fee400;
 }
 
 div.alert-example > div:first-child::before {
-color: #fee400;
-font-family: 'Font Awesome 5 Free';
-font-weight: 900;
-content: '\f02e';
+  color: #fee400;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f02e';
 }
 
 div.alert-question {
-color: black;
-background-color: #d3e7f5;
-border-color: #003b65;
+  color: black;
+  background-color: #d3e7f5;
+  border-color: #003b65;
 }
 
 div.alert-question > div:first-child::before {
-color: #003b65;
-font-family: 'Font Awesome 5 Free';
-font-weight: 900;
-content: '\f059';
+  color: #003b65;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f059';
 }
 
 div.alert-edit {
-color: black;
-background-color: #f5d7d7;
-border-color: #460808;
-margin-left: 4em;
-margin-right: 4em;
+  color: black;
+  background-color: #f5d7d7;
+  border-color: #460808;
+  margin-left: 4em;
+  margin-right: 4em;
 }
 
 div.alert-edit > div:first-child::before {
-color: #460808;
-font-family: 'Font Awesome 5 Free';
-font-weight: 900;
-content: '\f31c';
+  color: #460808;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f31c';
 }
 
 div.alert-warning {
@@ -358,6 +370,33 @@ font-size: 0.75em;
 
 /* Case headings (style of cause) */
 
+/* For the paragraph numbers */
+
+.case-wrap {
+  counter-reset: paragraph;
+}
+
+.case p:before {
+  position: absolute;
+  margin-left: -25px;
+  color: #CCC;
+  content: counter(paragraph);
+  counter-increment: paragraph;
+  font-size: 0.75em;
+}
+
+/* Case headings (style of cause) */
+
 .style-of-cause h2 {
-color: #000;
+  color: #000;
+}
+
+/* Tocbot (copied from tocbot.css */
+
+.toc{overflow-y:auto}.toc>.toc-list{overflow:hidden;position:relative}.toc>.toc-list li{list-style:none}.toc-list{margin:0;padding-left:10px}a.toc-link{color:currentColor;height:100%}.is-collapsible{max-height:1000px;overflow:hidden;transition:all 300ms ease-in-out}.is-collapsed{max-height:0}.is-position-fixed{position:fixed !important;top:0}.is-active-link{font-weight:700}.toc-link::before{background-color:#EEE;content:' ';display:inline-block;height:inherit;left:0;margin-top:-1px;position:absolute;width:2px}.is-active-link::before{background-color:#54BC4B}
+
+li.toc-list-item {
+  list-style: none;
+  font-size: 0.9em;
+  margin-bottom: 5px;
 }

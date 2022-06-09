@@ -1,0 +1,148 @@
+{{/* OSLAW modified from Wowchemy v.5.3.0 */}}
+
+{{ $current_page := . }}
+
+{{/* Check whether to show breadcrumb navigation. */}}
+{{ $breadcrumb_page_types := site.Params.breadcrumb.page_types | default dict }}
+{{ $show_breadcrumb := index $breadcrumb_page_types .Type | default false }}
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      {{ partial "book_sidebar" . }}
+    </div>
+
+    {{/* Show ToC by default. */}}
+    {{ if ne .Params.toc false }}
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      {{ partial "hooks/page_toc_start" . }}
+
+      
+
+      <!--<ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">{{ i18n "on_this_page" }}</a></li>
+      </ul>-->
+
+      <!-- placeholder for tocbot toc -->
+      <div class="js-toc"></div>
+
+      <!--{{ .TableOfContents }}-->
+      
+      {{ partial "hooks/page_toc_end" . }}
+    </div>
+    {{ end }}
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          {{ if $show_breadcrumb }}
+            {{ partial "breadcrumb" $current_page }}
+          {{ end }}
+
+          <h1>{{ .Title }}</h1>
+
+          {{ .Content }}
+
+          <div class="article-style">
+            
+            <!--include TOCBOT class for capturing headers-->
+            <div class="js-toc-content">
+
+            <!-- OSLAW get learning objectives -->
+            
+            {{ if isset .Params "objectives" }}
+              <h2 id="objectives">Learning Objectives</h2>
+              <ul>
+                {{ range .Params.Objectives }}
+                <li><b>{{ .objective }}</b>: {{ .explanation }}</li>
+                {{ end }}
+              </ul>
+            {{ end }}
+
+            <!-- OSLAW get case -->
+            
+            {{ $headless_case := .Site.GetPage "/courses/property/cases" }}
+            {{ $headless_module := .Site.GetPage "/courses/property/modules" }}
+
+            {{ range .Params.Components }}
+
+              {{ if eq ._template "case" }}
+
+                {{ $file :=  .filename }}
+
+                <!--{{ $file := print .filename }}-->
+              
+                {{ $reusablePages := $headless_case.Resources.Match ( substr $file 31 )}}
+
+                {{ range $reusablePages }}<h2 id={{ .Params.short }}>{{ .Params.style }}</h2>{{ end }}
+
+                {{ range $reusablePages }}<p><i>{{ .Params.reporter }}</i></p>{{ end }}
+
+                {{ range $reusablePages }}{{ range .Params.tags }}<a class="badge badge-light">{{ . }}</a>{{ end }}{{ end }}
+
+                {{ range $reusablePages }}<div class="case-wrap"><div class="case">{{ .Content }}</div></div>{{ end }}
+            
+              {{else if eq ._template "module" }}
+
+                {{ $file :=  .filename }}
+              
+                {{ $reusablePages := $headless_module.Resources.Match ( substr $file 33 ) }}
+
+                {{ range $reusablePages }}{{ if isset .Params "title" }}<h2 id={{ .Params.short }}>{{ .Params.title }}</h2>{{ end }}{{ end }}
+
+                {{ range $reusablePages }}{{ range .Params.tags }}<a class="badge badge-light">{{ . }}</a>{{ end }}{{ end }}
+
+                {{ range $reusablePages }}{{ .Content }}{{ end }}
+            
+              {{end}}
+
+            {{ end }}
+
+            </div>
+          
+          <!-- TOCBOT Script-->
+          <script src="/tocbot.min.js"></script>
+          <!-- tocbot options -->
+          <script type="text/javascript">
+          tocbot.init({
+          // Where to render the table of contents.
+          tocSelector: '.js-toc',
+          // Where to grab the headings to build the table of contents.
+          contentSelector: '.js-toc-content',
+          // Which headings to grab inside of the contentSelector element.
+          headingSelector: 'h2, h3, h4, h5',
+          orderedList: false,
+          });
+          </script>
+          
+          </div>
+
+          {{ partial "tags.html" . }}
+
+          {{/* Show next/previous pages by default. */}}
+          {{ if ne site.Params.book_section_pager false }}
+          <div class="article-widget">
+            {{ partial "section_pager" . }}
+          </div>
+          {{ end }}
+        </div>
+
+        <div class="body-footer">
+          <p>{{ i18n "last_updated" }} {{ $.Lastmod.Format site.Params.date_format }}</p>
+
+          {{ partial "page_edit" . }}
+
+          {{ partial "comments" . }}
+
+          {{ partial "page_related" . }}
+        </div>
+
+      </article>
+
+      {{ partial "site_footer" . }}
+
+    </main>
+  </div>
+</div>

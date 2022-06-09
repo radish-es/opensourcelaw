@@ -1,0 +1,13 @@
+{{ $file := .Get 0 }}
+{{ $headless := .Site.GetPage "/courses/property/cases" }}
+{{ $reusablePages := $headless.Resources.Match $file }}
+
+<div class="style-of-cause">
+
+<!--## <i class="fas fa-gavel"></i> *{{ .Get 1 }}*, {{ .Get 2 }}-->
+
+## <i class="fas fa-gavel"></i> {{ range $reusablePages }}*{{ .Params.style }}*, {{ .Params.reporter }}{{ end }}
+
+</div>
+
+<div class="case-wrap"><div class="case">{{ range $reusablePages }}{{ .Content }}{{ end }}</div></div>
