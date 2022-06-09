@@ -4,7 +4,7 @@ export default defineSchema({
   collections: [{
       label: "Weekly Materials",
       name: "materials",
-      path: "courses/property/materials",
+      path: "content/courses/Property/materials",
       fields: [{
           label: "Title",
           name: "title",
@@ -117,7 +117,7 @@ export default defineSchema({
   {
     label: "Cases",
     name: "cases",
-    path: "content/courses/property/cases",
+    path: "content/courses/Property/cases",
     fields: [{
       label: "Style of Cause",
       name: "style",
@@ -153,7 +153,7 @@ export default defineSchema({
     {
       label: "Modules",
       name: "modules",
-      path: "content/courses/property/modules",
+      path: "content/courses/Property/modules",
       fields: [{
         label: "Title",
         name: "title",
