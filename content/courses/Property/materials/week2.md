@@ -20,4 +20,5 @@ components:
     _template: case
 ---
 
-Welcome!
+
+Welcome! Thursday.
