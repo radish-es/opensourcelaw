@@ -64,7 +64,7 @@
 
               {{ range $reusablePages }}<p><i>{{ .Params.reporter }}</i></p>{{ end }}
 
-              {{ range $reusablePages }}{{ .Content }}{{ end }}
+              {{ range $reusablePages }}<div class="case-wrap"><div class="case">{{ .Content }}</div></div>{{ end }}
             
             {{ end }}
 
