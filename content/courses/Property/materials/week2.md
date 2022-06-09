@@ -16,9 +16,10 @@ components:
     filename: content/courses/property/cases/harrison.md
     _template: case
   - title: Moore
-    filename: content/courses/property/cases/moore.md
+    filename: content/courses/Property/cases/moore.md
     _template: case
 ---
+
 
 
 Welcome! Thursday.
