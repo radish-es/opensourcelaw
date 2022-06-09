@@ -4,7 +4,7 @@ import { TinaEditProvider, setEditing } from "tinacms/dist/edit-state";
 function App() {
   setEditing(true);
 
-  const branch = "tina";
+  const branch = "temp";
   const clientId = "11e2bb0d-e8ae-40e5-ab5a-005e63f52b30";
   const apiURL =
     process.env.NODE_ENV == "development"
