@@ -60,7 +60,9 @@
             
               {{ $reusablePages := $headless.Resources.Match $file }}
 
-              {{ range $reusablePages }}<h2 id={{ .Params.style }}>{{ .Params.style }}</h2>{{ end }}
+              {{ range $reusablePages }}<h2 id={{ .Params.short }}>{{ .Params.style }}</h2>{{ end }}
+
+              {{ range $reusablePages }}<p><i>{{ .Params.reporter }}</i></p>{{ end }}
 
               {{ range $reusablePages }}{{ .Content }}{{ end }}
             
