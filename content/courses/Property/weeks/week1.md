@@ -8,11 +8,12 @@ components:
   - title: Making the market
     description: This is the market module.
     _template: module
-  - style: Harrison v Carswell
+  - style: Moore v UofC
+    filename: moore.md
     _template: case
-case: 
-  - name: moore.md
-  - name: harrison.md
+  - style: Harrison v Carswell
+    filename: harrison.md
+    _template: case
 
 
 title: "Week 1 - Why Property?"

@@ -54,18 +54,22 @@
             
             {{ $headless := .Site.GetPage "/courses/property/cases" }}
 
-            {{ range .Params.Case }}
+            {{ range .Params.Components }}
 
-              {{ $file := print .name }}
+              {{ if eq ._template "case" }}
+
+                {{ $file := print .filename }}
+              
+                {{ $reusablePages := $headless.Resources.Match $file }}
+
+                {{ range $reusablePages }}<h2 id={{ .Params.short }}>{{ .Params.style }}</h2>{{ end }}
+
+                {{ range $reusablePages }}<p><i>{{ .Params.reporter }}</i></p>{{ end }}
+
+                {{ range $reusablePages }}<div class="case-wrap"><div class="case">{{ .Content }}</div></div>{{ end }}
             
-              {{ $reusablePages := $headless.Resources.Match $file }}
+              {{end}}
 
-              {{ range $reusablePages }}<h2 id={{ .Params.short }}>{{ .Params.style }}</h2>{{ end }}
-
-              {{ range $reusablePages }}<p><i>{{ .Params.reporter }}</i></p>{{ end }}
-
-              {{ range $reusablePages }}<div class="case-wrap"><div class="case">{{ .Content }}</div></div>{{ end }}
-            
             {{ end }}
 
             </div>
