@@ -4,6 +4,7 @@ linktitle: "Week 1"
 type: book
 date: "2021-11-04"
 weight: 2
+tags: [one, two]
 ---
 
 [{{< figure src="/media/kaleidoscope.jpg" caption="Source: Malcolm Lightbody on Unsplash">}}](https://unsplash.com/photos/TC2f02Iq8lE)

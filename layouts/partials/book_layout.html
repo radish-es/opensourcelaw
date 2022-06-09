@@ -77,6 +77,8 @@
 
                 {{ range $reusablePages }}<p><i>{{ .Params.reporter }}</i></p>{{ end }}
 
+                {{ range $reusablePages }}{{ range .Params.tags }}<a class="badge badge-light">{{ . }}</a>{{ end }}{{ end }}
+
                 {{ range $reusablePages }}<div class="case-wrap"><div class="case">{{ .Content }}</div></div>{{ end }}
             
               {{end}}
