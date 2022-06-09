@@ -20,7 +20,4 @@ components:
     _template: case
 ---
 
-
-
-
 Welcome!
