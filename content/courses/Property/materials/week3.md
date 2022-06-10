@@ -10,6 +10,10 @@ components:
   - title: Property in Your Cells
     filename: content/courses/Property/modules/property_cells.md
     _template: module
+  - title: Moore
+    filename: content/courses/Property/cases/moore.md
+    _template: case
 ---
+
 
 

@@ -3,3 +3,7 @@ html body {
   --tina-color-primary: Crimson;
   --tina-color-primary-dark: Firebrick;
 }
+
+textarea {
+  min-height: 600px;
+}
