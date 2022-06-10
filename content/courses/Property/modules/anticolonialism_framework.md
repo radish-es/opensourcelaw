@@ -3,6 +3,7 @@ title: 'Land, Property and Colonialism in this Course'
 short: Colonialism
 ---
 
+
 One of the features of Canada's liberal market economy is its foundations in the colonial dispossession of Indigenous peoples through the transformation of *land* into *property* ```[CITE/EXPLAIN]```. But colonialism is not only a feature of our economy, structured by law. It is also an ongoing reality of how we learn about property law (and other aspects of law), including the frameworks we use to make sense of legal materials and the questions we ask about them. 
 
 {{% callout edit %}} 
@@ -26,7 +27,6 @@ The following are three key challenges that attention to this idea of incommensu
 - *Subsumation*: the move to subsume or submerge Indigenous legal systems and systems of knowledge--"entire worlds" [@liboiron2021pollution, 54]--within dominant systems of colonial law and thought is also pervasive in the colonial perspective. Sometimes, instead of making these worlds invisible, subsuming dynamics work to obscure deeper contradictions between principles or worldviews by giving them the gloss of commensurability [@mckay2010CanadianPassiveRevolution, 368-369].
 
 {{% /callout %}}
-
 
 {{% callout edit %}} 
 

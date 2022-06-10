@@ -15,12 +15,13 @@ components:
   - title: Making the Market
     filename: content/courses/Property/modules/making_market.md
     _template: module
+  - title: 'Hansard '
+    filename: content/courses/Property/cases/hansard_autoinsurance.md
+    _template: case
   - title: Anti-colonialism Framework
     filename: content/courses/Property/modules/anticolonialism_framework.md
     _template: module
 ---
-
-
 
 For first-year law students, property can be a kaleidoscopic subject: fragmentary, blinkered, disorienting. The field offers up a disorderly patchwork of principles, rules and norms. It is full of contradictions, real and apparent. It presents a space of dispossession and disadvantage for some, prosperity and security for others. 
 

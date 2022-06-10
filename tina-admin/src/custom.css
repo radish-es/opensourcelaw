@@ -4,6 +4,6 @@ html body {
   --tina-color-primary-dark: Firebrick;
 }
 
-textarea {
-  min-height: 600px;
+.tina-tailwind textarea {
+  min-height: 600px !important;
 }
