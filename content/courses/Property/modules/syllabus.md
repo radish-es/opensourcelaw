@@ -1,9 +1,7 @@
 ---
-title: Course Syllabus
+title: Read the Syllabus
 short: Syllabus
 ---
-
-
 
 Before you start to explore the course materials, please familiarize yourself with the procedures and expectations for our course this year. Start by reading the [Course Syllabus]({{< ref "/courses/property/admin/syllabus" >}}) and reviewing the [Course Schedule]({{< ref "/courses/property/admin/schedule" >}}). These are the main documents you'll need to use throughout the year to understand the course logistics, expectations, policies and schedule for assigned readings and class meetings.
 

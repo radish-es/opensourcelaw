@@ -2,7 +2,7 @@
 title: About this Casebook
 type: book  # Do not modify.
 summary: 
-weight: 20
+weight: 10
 ---
 
 This casebook is part of an experimental project to the develop a fully open source platform for law school learning materials. Please contact [Jamie Baxter](mailto:jamie.baxter@dal.ca) with comments or questions.

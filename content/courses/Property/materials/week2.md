@@ -1,25 +1,17 @@
 ---
-title: Our First Case
-linktitle: First Case
+title: Patterns of Common Law Argument
+linktitle: Week 2 - Patterns
 type: book
-weight: 3
+weight: 2
 objectives:
-  - objective: First Objective
-    explanation: 'This is it. '
+  - objective: Argumentative patterns
+    explanation: Begin to identify patterns of common law argument
 components:
-  - filename: content/courses/property/modules/anothermod.md
+  - title: Reading Harrison
+    filename: content/courses/Property/modules/reading_harrison.md
     _template: module
-  - title: ''
-    filename: content/courses/property/modules/testmod.md
-    _template: module
-  - title: Harrison
-    filename: content/courses/property/cases/harrison.md
-    _template: case
-  - title: Moore
-    filename: content/courses/Property/cases/moore.md
+  - title: Harrison v Carswell
+    filename: content/courses/Property/cases/harrison.md
     _template: case
 ---
 
-
-
-Welcome! Thursday.
