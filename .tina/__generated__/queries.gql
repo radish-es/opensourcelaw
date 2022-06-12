@@ -114,3 +114,42 @@ query getModulesList {
     }
   }
 }
+
+query getExercisesDocument($relativePath: String!) {
+  getExercisesDocument(relativePath: $relativePath) {
+    sys {
+      filename
+      basename
+      breadcrumbs
+      path
+      relativePath
+      extension
+    }
+    id
+    data {
+      ...ExercisesParts
+    }
+  }
+}
+
+query getExercisesList {
+  getExercisesList {
+    totalCount
+    edges {
+      node {
+        id
+        sys {
+          filename
+          basename
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        data {
+          ...ExercisesParts
+        }
+      }
+    }
+  }
+}

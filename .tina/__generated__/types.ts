@@ -74,6 +74,8 @@ export type Query = {
   getCasesList: CasesConnection;
   getModulesDocument: ModulesDocument;
   getModulesList: ModulesConnection;
+  getExercisesDocument: ExercisesDocument;
+  getExercisesList: ExercisesConnection;
 };
 
 
@@ -148,6 +150,20 @@ export type QueryGetModulesListArgs = {
   sort?: InputMaybe<Scalars['String']>;
 };
 
+
+export type QueryGetExercisesDocumentArgs = {
+  relativePath?: InputMaybe<Scalars['String']>;
+};
+
+
+export type QueryGetExercisesListArgs = {
+  before?: InputMaybe<Scalars['String']>;
+  after?: InputMaybe<Scalars['String']>;
+  first?: InputMaybe<Scalars['Float']>;
+  last?: InputMaybe<Scalars['Float']>;
+  sort?: InputMaybe<Scalars['String']>;
+};
+
 export type DocumentConnectionEdges = {
   __typename?: 'DocumentConnectionEdges';
   cursor?: Maybe<Scalars['String']>;
@@ -183,7 +199,7 @@ export type CollectionDocumentsArgs = {
   sort?: InputMaybe<Scalars['String']>;
 };
 
-export type DocumentNode = MaterialsDocument | CasesDocument | ModulesDocument;
+export type DocumentNode = MaterialsDocument | CasesDocument | ModulesDocument | ExercisesDocument;
 
 export type MaterialsObjectives = {
   __typename?: 'MaterialsObjectives';
@@ -207,7 +223,15 @@ export type MaterialsComponentsCase = {
   filename?: Maybe<MaterialsComponentsCaseFilenameDocument>;
 };
 
-export type MaterialsComponents = MaterialsComponentsModule | MaterialsComponentsCase;
+export type MaterialsComponentsExerciseFilenameDocument = ExercisesDocument;
+
+export type MaterialsComponentsExercise = {
+  __typename?: 'MaterialsComponentsExercise';
+  title?: Maybe<Scalars['String']>;
+  filename?: Maybe<MaterialsComponentsExerciseFilenameDocument>;
+};
+
+export type MaterialsComponents = MaterialsComponentsModule | MaterialsComponentsCase | MaterialsComponentsExercise;
 
 export type Materials = {
   __typename?: 'Materials';
@@ -306,6 +330,37 @@ export type ModulesConnection = Connection & {
   edges?: Maybe<Array<Maybe<ModulesConnectionEdges>>>;
 };
 
+export type Exercises = {
+  __typename?: 'Exercises';
+  title?: Maybe<Scalars['String']>;
+  short?: Maybe<Scalars['String']>;
+  tags?: Maybe<Array<Maybe<Scalars['String']>>>;
+  body?: Maybe<Scalars['String']>;
+};
+
+export type ExercisesDocument = Node & Document & {
+  __typename?: 'ExercisesDocument';
+  id: Scalars['ID'];
+  sys: SystemInfo;
+  data: Exercises;
+  form: Scalars['JSON'];
+  values: Scalars['JSON'];
+  dataJSON: Scalars['JSON'];
+};
+
+export type ExercisesConnectionEdges = {
+  __typename?: 'ExercisesConnectionEdges';
+  cursor?: Maybe<Scalars['String']>;
+  node?: Maybe<ExercisesDocument>;
+};
+
+export type ExercisesConnection = Connection & {
+  __typename?: 'ExercisesConnection';
+  pageInfo?: Maybe<PageInfo>;
+  totalCount: Scalars['Float'];
+  edges?: Maybe<Array<Maybe<ExercisesConnectionEdges>>>;
+};
+
 export type Mutation = {
   __typename?: 'Mutation';
   addPendingDocument: DocumentNode;
@@ -318,6 +373,8 @@ export type Mutation = {
   createCasesDocument: CasesDocument;
   updateModulesDocument: ModulesDocument;
   createModulesDocument: ModulesDocument;
+  updateExercisesDocument: ExercisesDocument;
+  createExercisesDocument: ExercisesDocument;
 };
 
 
@@ -383,10 +440,23 @@ export type MutationCreateModulesDocumentArgs = {
   params: ModulesMutation;
 };
 
+
+export type MutationUpdateExercisesDocumentArgs = {
+  relativePath: Scalars['String'];
+  params: ExercisesMutation;
+};
+
+
+export type MutationCreateExercisesDocumentArgs = {
+  relativePath: Scalars['String'];
+  params: ExercisesMutation;
+};
+
 export type DocumentMutation = {
   materials?: InputMaybe<MaterialsMutation>;
   cases?: InputMaybe<CasesMutation>;
   modules?: InputMaybe<ModulesMutation>;
+  exercises?: InputMaybe<ExercisesMutation>;
 };
 
 export type MaterialsObjectivesMutation = {
@@ -404,9 +474,15 @@ export type MaterialsComponentsCaseMutation = {
   filename?: InputMaybe<Scalars['String']>;
 };
 
+export type MaterialsComponentsExerciseMutation = {
+  title?: InputMaybe<Scalars['String']>;
+  filename?: InputMaybe<Scalars['String']>;
+};
+
 export type MaterialsComponentsMutation = {
   module?: InputMaybe<MaterialsComponentsModuleMutation>;
   case?: InputMaybe<MaterialsComponentsCaseMutation>;
+  exercise?: InputMaybe<MaterialsComponentsExerciseMutation>;
 };
 
 export type MaterialsMutation = {
@@ -434,23 +510,32 @@ export type ModulesMutation = {
   body?: InputMaybe<Scalars['String']>;
 };
 
-export type MaterialsPartsFragment = { __typename?: 'Materials', title?: string | null, linktitle?: string | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | null> | null };
+export type ExercisesMutation = {
+  title?: InputMaybe<Scalars['String']>;
+  short?: InputMaybe<Scalars['String']>;
+  tags?: InputMaybe<Array<InputMaybe<Scalars['String']>>>;
+  body?: InputMaybe<Scalars['String']>;
+};
+
+export type MaterialsPartsFragment = { __typename?: 'Materials', title?: string | null, linktitle?: string | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | { __typename: 'MaterialsComponentsExercise', title?: string | null, filename?: { __typename?: 'ExercisesDocument', id: string } | null } | null> | null };
 
 export type CasesPartsFragment = { __typename?: 'Cases', style?: string | null, short?: string | null, reporter?: string | null, tags?: Array<string | null> | null, body?: string | null };
 
 export type ModulesPartsFragment = { __typename?: 'Modules', title?: string | null, short?: string | null, tags?: Array<string | null> | null, body?: string | null };
+
+export type ExercisesPartsFragment = { __typename?: 'Exercises', title?: string | null, short?: string | null, tags?: Array<string | null> | null, body?: string | null };
 
 export type GetMaterialsDocumentQueryVariables = Exact<{
   relativePath: Scalars['String'];
 }>;
 
 
-export type GetMaterialsDocumentQuery = { __typename?: 'Query', getMaterialsDocument: { __typename?: 'MaterialsDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Materials', title?: string | null, linktitle?: string | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | null> | null } } };
+export type GetMaterialsDocumentQuery = { __typename?: 'Query', getMaterialsDocument: { __typename?: 'MaterialsDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Materials', title?: string | null, linktitle?: string | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | { __typename: 'MaterialsComponentsExercise', title?: string | null, filename?: { __typename?: 'ExercisesDocument', id: string } | null } | null> | null } } };
 
 export type GetMaterialsListQueryVariables = Exact<{ [key: string]: never; }>;
 
 
-export type GetMaterialsListQuery = { __typename?: 'Query', getMaterialsList: { __typename?: 'MaterialsConnection', totalCount: number, edges?: Array<{ __typename?: 'MaterialsConnectionEdges', node?: { __typename?: 'MaterialsDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Materials', title?: string | null, linktitle?: string | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | null> | null } } | null } | null> | null } };
+export type GetMaterialsListQuery = { __typename?: 'Query', getMaterialsList: { __typename?: 'MaterialsConnection', totalCount: number, edges?: Array<{ __typename?: 'MaterialsConnectionEdges', node?: { __typename?: 'MaterialsDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Materials', title?: string | null, linktitle?: string | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | { __typename: 'MaterialsComponentsExercise', title?: string | null, filename?: { __typename?: 'ExercisesDocument', id: string } | null } | null> | null } } | null } | null> | null } };
 
 export type GetCasesDocumentQueryVariables = Exact<{
   relativePath: Scalars['String'];
@@ -475,6 +560,18 @@ export type GetModulesListQueryVariables = Exact<{ [key: string]: never; }>;
 
 
 export type GetModulesListQuery = { __typename?: 'Query', getModulesList: { __typename?: 'ModulesConnection', totalCount: number, edges?: Array<{ __typename?: 'ModulesConnectionEdges', node?: { __typename?: 'ModulesDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Modules', title?: string | null, short?: string | null, tags?: Array<string | null> | null, body?: string | null } } | null } | null> | null } };
+
+export type GetExercisesDocumentQueryVariables = Exact<{
+  relativePath: Scalars['String'];
+}>;
+
+
+export type GetExercisesDocumentQuery = { __typename?: 'Query', getExercisesDocument: { __typename?: 'ExercisesDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Exercises', title?: string | null, short?: string | null, tags?: Array<string | null> | null, body?: string | null } } };
+
+export type GetExercisesListQueryVariables = Exact<{ [key: string]: never; }>;
+
+
+export type GetExercisesListQuery = { __typename?: 'Query', getExercisesList: { __typename?: 'ExercisesConnection', totalCount: number, edges?: Array<{ __typename?: 'ExercisesConnectionEdges', node?: { __typename?: 'ExercisesDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Exercises', title?: string | null, short?: string | null, tags?: Array<string | null> | null, body?: string | null } } | null } | null> | null } };
 
 export const MaterialsPartsFragmentDoc = gql`
     fragment MaterialsParts on Materials {
@@ -506,6 +603,14 @@ export const MaterialsPartsFragmentDoc = gql`
         }
       }
     }
+    ... on MaterialsComponentsExercise {
+      title
+      filename {
+        ... on Document {
+          id
+        }
+      }
+    }
   }
 }
     `;
@@ -520,6 +625,14 @@ export const CasesPartsFragmentDoc = gql`
     `;
 export const ModulesPartsFragmentDoc = gql`
     fragment ModulesParts on Modules {
+  title
+  short
+  tags
+  body
+}
+    `;
+export const ExercisesPartsFragmentDoc = gql`
+    fragment ExercisesParts on Exercises {
   title
   short
   tags
@@ -649,6 +762,47 @@ export const GetModulesListDocument = gql`
   }
 }
     ${ModulesPartsFragmentDoc}`;
+export const GetExercisesDocumentDocument = gql`
+    query getExercisesDocument($relativePath: String!) {
+  getExercisesDocument(relativePath: $relativePath) {
+    sys {
+      filename
+      basename
+      breadcrumbs
+      path
+      relativePath
+      extension
+    }
+    id
+    data {
+      ...ExercisesParts
+    }
+  }
+}
+    ${ExercisesPartsFragmentDoc}`;
+export const GetExercisesListDocument = gql`
+    query getExercisesList {
+  getExercisesList {
+    totalCount
+    edges {
+      node {
+        id
+        sys {
+          filename
+          basename
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        data {
+          ...ExercisesParts
+        }
+      }
+    }
+  }
+}
+    ${ExercisesPartsFragmentDoc}`;
 export type Requester<C= {}> = <R, V>(doc: DocumentNode, vars?: V, options?: C) => Promise<R>
   export function getSdk<C>(requester: Requester<C>) {
     return {
@@ -669,6 +823,12 @@ export type Requester<C= {}> = <R, V>(doc: DocumentNode, vars?: V, options?: C) 
       },
     getModulesList(variables?: GetModulesListQueryVariables, options?: C): Promise<{data: GetModulesListQuery, variables: GetModulesListQueryVariables, query: string}> {
         return requester<{data: GetModulesListQuery, variables: GetModulesListQueryVariables, query: string}, GetModulesListQueryVariables>(GetModulesListDocument, variables, options);
+      },
+    getExercisesDocument(variables: GetExercisesDocumentQueryVariables, options?: C): Promise<{data: GetExercisesDocumentQuery, variables: GetExercisesDocumentQueryVariables, query: string}> {
+        return requester<{data: GetExercisesDocumentQuery, variables: GetExercisesDocumentQueryVariables, query: string}, GetExercisesDocumentQueryVariables>(GetExercisesDocumentDocument, variables, options);
+      },
+    getExercisesList(variables?: GetExercisesListQueryVariables, options?: C): Promise<{data: GetExercisesListQuery, variables: GetExercisesListQueryVariables, query: string}> {
+        return requester<{data: GetExercisesListQuery, variables: GetExercisesListQueryVariables, query: string}, GetExercisesListQueryVariables>(GetExercisesListDocument, variables, options);
       }
     };
   }

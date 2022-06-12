@@ -1,10 +1,19 @@
 ---
-style: Debates and Proceedings from the Nova Scotia House of Assembly
+title: A "Monkey Wrench in the Free Market"
 short: hansard
-reporter: 'Thursday, October 2, 2003, p 372-4'
-tags:
-  - economy
 ---
+
+
+
+Consider how the concepts "law" and "market" are used and understood in the following example. In October 2003, the Nova Scotia Legislature introduced a bill with a number of amendments to automobile insurance laws in the province. The bill was drafted in response to increases in the cost of automobile insurance, which in Nova Scotia is provided through private corporations. Some of the proposed amendments included a temporary cap on insurance rates, a requirement that the Nova Scotia Insurance Review Board approve all insurers' risk-classification systems, and a cap on the amount of non-monetary loss (such as pain and suffering) that insurees can claim for minor injuries.
+
+Below is a Hansard excerpt of MLA Kevin Deveaux's response to the proposed bill, which was introduced by the provincial Progressive Conservative party. Deveaux was a member of the NDP. 
+
+As you read the excerpt, see if you can identify ways in which Deveaux's comments demonstrate the three common assumptions about the market discussed above. How does Deveaux portray the automobile insurance market as neutral, natural, and necessary? Can you find anything in Deveaux's speech that contradicts this portrayal?
+
+---
+
+**Debates and Proceedings of the House of Assembly of Nova Scotia**, *Thursday, October 2, 2003, p 372-4*
 
 MR. SPEAKER: The honourable member for Cole Harbour-Eastern Passage.
 

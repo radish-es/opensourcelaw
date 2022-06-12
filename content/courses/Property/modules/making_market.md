@@ -5,6 +5,7 @@ short: Market
 
 
 
+
 Throughout the course, we will study several controversies, concepts and legal doctrines that conventionally make up the field of property law in Canadian law schools. As in your other courses, you will gain a solid understanding of the "law of the books" addressing a range of issues (local, national and global) and you will see how that law has changed and been adapted over time. But we will do all of this with a more specific goal in mind than becoming proficient in property law. By the end of this course, we want to gain a critical understanding of the following question:
 
 {{% callout question %}} 
@@ -18,7 +19,3 @@ In other words, we will take a social concept—the *market*—and try to develo
 That Canada has a certain kind of market economy, along with that economy's particular distribution of benefits and burdens, is not predestined (Desautels-Stein 2012, 391). Nor is it an accident. Legal rules—property foremost among them—are the product of *choices* that create background conditions for both market exchange and its regulation by the state. By taking a critical look at those choices and what constrains them, we have a better chance of understanding our current economic conditions along with their potential for change.
 
 Too often, however, we take the legal rules that structure the market for granted and accept that the resulting benefits and burdens are the natural consequences of market competition. From that perspective, law has a role to play but it is one restricted to interventions, by the state, in free exchange between individuals to mitigate its adverse or unequal effects. What this perspective misses is the whole infrastructure of legal rules that make such exchange possible in the first place.  
-
-Consider how the concepts "law" and "market" are used and understood in the following example. In October 2003, the Nova Scotia Legislature introduced a bill with a number of amendments to automobile insurance laws in the province. The bill was drafted in response to increases in the cost of automobile insurance, which in Nova Scotia is provided through private corporations. Some of the proposed amendments included a temporary cap on insurance rates, a requirement that the Nova Scotia Insurance Review Board approve all insurers' risk-classification systems, and a cap on the amount of non-monetary loss (such as pain and suffering) that insurees can claim for minor injuries.
-
-Below is a Hansard excerpt of one MLA Kevin Deveaux's response to the proposed bill, which was introduced by the provincial Progressive Conservative party. Deveaux was a member of the NDP. As you read the excerpt, see if you can identify ways in which Deveaux's comments demonstrate the three common assumptions about the market discussed above. How does Deveaux portray the automobile insurance market as neutral, natural, and necessary? Can you find anything in Deveaux's speech that contradicts this portrayal?

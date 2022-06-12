@@ -196,6 +196,19 @@ div.alert-edit > div:first-child::before {
   content: '\f31c';
 }
 
+div.alert-outcomes {
+  color: black;
+  background-color: #ecdff0;
+  border-color: #340942;
+}
+
+div.alert-outcomes > div:first-child::before {
+  color: #340942;
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  content: '\f02e';
+}
+
 div.alert-warning {
 color: black;
 background-color: #fffef5;

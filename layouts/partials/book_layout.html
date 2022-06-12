@@ -53,18 +53,23 @@
             <!-- OSLAW get learning objectives -->
             
             {{ if isset .Params "objectives" }}
-              <h2 id="objectives">Learning Objectives</h2>
-              <ul>
-                {{ range .Params.Objectives }}
-                <li><b>{{ .objective }}</b>: {{ .explanation }}</li>
-                {{ end }}
-              </ul>
+
+              <div class="alert alert-outcomes"><div>
+                <h3 id="objectives">Learning Outcomes</h2>
+                <p>By the end of this week, you should be able to:</p>
+                <ul>
+                  {{ range .Params.Objectives }}
+                  <li><b>{{ .objective }}</b> - {{ .explanation }}</li>
+                  {{ end }}
+                </ul>
+              </div></div>
             {{ end }}
 
             <!-- OSLAW get case -->
             
             {{ $headless_case := .Site.GetPage "/courses/Property/cases" }}
             {{ $headless_module := .Site.GetPage "/courses/Property/modules" }}
+            {{ $headless_exercise := .Site.GetPage "/courses/Property/exercises" }}
 
             {{ range .Params.Components }}
 
@@ -95,6 +100,22 @@
                 {{ range $reusablePages }}{{ range .Params.tags }}<a class="badge badge-light">{{ . }}</a>{{ end }}{{ end }}
 
                 {{ range $reusablePages }}{{ .Content }}{{ end }}
+
+              {{else if eq ._template "exercise" }}
+
+                {{ $file :=  .filename }}
+              
+                {{ $reusablePages := $headless_exercise.Resources.Match ( substr $file 35 ) }}
+
+                <div class="alert alert-exercise"><div>
+
+                {{ range $reusablePages }}{{ if isset .Params "title" }}<h3 id={{ .Params.short }}>Exercise: {{ .Params.title }}</h3>{{ end }}{{ end }}
+
+                {{ range $reusablePages }}{{ range .Params.tags }}<a class="badge badge-light">{{ . }}</a>{{ end }}{{ end }}
+
+                {{ range $reusablePages }}{{ .Content }}{{ end }}
+                
+                </div></div>
             
               {{end}}
 

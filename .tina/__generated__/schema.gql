@@ -55,6 +55,8 @@ type Query {
   getCasesList(before: String, after: String, first: Float, last: Float, sort: String): CasesConnection!
   getModulesDocument(relativePath: String): ModulesDocument!
   getModulesList(before: String, after: String, first: Float, last: Float, sort: String): ModulesConnection!
+  getExercisesDocument(relativePath: String): ExercisesDocument!
+  getExercisesList(before: String, after: String, first: Float, last: Float, sort: String): ExercisesConnection!
 }
 
 type DocumentConnectionEdges {
@@ -80,7 +82,7 @@ type Collection {
   documents(before: String, after: String, first: Float, last: Float, sort: String): DocumentConnection!
 }
 
-union DocumentNode = MaterialsDocument | CasesDocument | ModulesDocument
+union DocumentNode = MaterialsDocument | CasesDocument | ModulesDocument | ExercisesDocument
 
 type MaterialsObjectives {
   objective: String
@@ -101,7 +103,14 @@ type MaterialsComponentsCase {
   filename: MaterialsComponentsCaseFilenameDocument
 }
 
-union MaterialsComponents = MaterialsComponentsModule | MaterialsComponentsCase
+union MaterialsComponentsExerciseFilenameDocument = ExercisesDocument
+
+type MaterialsComponentsExercise {
+  title: String
+  filename: MaterialsComponentsExerciseFilenameDocument
+}
+
+union MaterialsComponents = MaterialsComponentsModule | MaterialsComponentsCase | MaterialsComponentsExercise
 
 type Materials {
   title: String
@@ -188,6 +197,33 @@ type ModulesConnection implements Connection {
   edges: [ModulesConnectionEdges]
 }
 
+type Exercises {
+  title: String
+  short: String
+  tags: [String]
+  body: String
+}
+
+type ExercisesDocument implements Node & Document {
+  id: ID!
+  sys: SystemInfo!
+  data: Exercises!
+  form: JSON!
+  values: JSON!
+  dataJSON: JSON!
+}
+
+type ExercisesConnectionEdges {
+  cursor: String
+  node: ExercisesDocument
+}
+
+type ExercisesConnection implements Connection {
+  pageInfo: PageInfo
+  totalCount: Float!
+  edges: [ExercisesConnectionEdges]
+}
+
 type Mutation {
   addPendingDocument(collection: String!, relativePath: String!, template: String): DocumentNode!
   updateDocument(collection: String, relativePath: String!, params: DocumentMutation!): DocumentNode!
@@ -199,12 +235,15 @@ type Mutation {
   createCasesDocument(relativePath: String!, params: CasesMutation!): CasesDocument!
   updateModulesDocument(relativePath: String!, params: ModulesMutation!): ModulesDocument!
   createModulesDocument(relativePath: String!, params: ModulesMutation!): ModulesDocument!
+  updateExercisesDocument(relativePath: String!, params: ExercisesMutation!): ExercisesDocument!
+  createExercisesDocument(relativePath: String!, params: ExercisesMutation!): ExercisesDocument!
 }
 
 input DocumentMutation {
   materials: MaterialsMutation
   cases: CasesMutation
   modules: ModulesMutation
+  exercises: ExercisesMutation
 }
 
 input MaterialsObjectivesMutation {
@@ -222,9 +261,15 @@ input MaterialsComponentsCaseMutation {
   filename: String
 }
 
+input MaterialsComponentsExerciseMutation {
+  title: String
+  filename: String
+}
+
 input MaterialsComponentsMutation {
   module: MaterialsComponentsModuleMutation
   case: MaterialsComponentsCaseMutation
+  exercise: MaterialsComponentsExerciseMutation
 }
 
 input MaterialsMutation {
@@ -246,6 +291,13 @@ input CasesMutation {
 }
 
 input ModulesMutation {
+  title: String
+  short: String
+  tags: [String]
+  body: String
+}
+
+input ExercisesMutation {
   title: String
   short: String
   tags: [String]

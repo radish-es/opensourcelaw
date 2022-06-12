@@ -110,6 +110,23 @@ export default defineSchema({
               },
             ],
           },
+          {
+            label: "Exercise",
+            name: "exercise",
+            fields: [
+              {
+                label: "Title",
+                name: "title",
+                type: "string"
+              },
+              {
+                label: "File",
+                name: "filename",
+                type: "reference",
+                collections: ['exercises']
+              },
+            ],
+          },
         ],
       },
     ],
@@ -154,6 +171,37 @@ export default defineSchema({
       label: "Modules",
       name: "modules",
       path: "content/courses/Property/modules",
+      fields: [{
+        label: "Title",
+        name: "title",
+        type: "string"
+        },
+        {
+          label: "Short Title",
+          name: "short",
+          type: "string"
+          },
+        {
+          label: 'Tags',
+          name: 'tags',
+          type: 'string',
+          list: true,
+        },  
+        {
+          label: "Body",
+          name: "body",
+          type: "string",
+          isBody: true,
+            ui: {
+              component: "textarea",
+            },
+        },  
+      ],
+      },
+      {
+      label: "Exercises",
+      name: "exercises",
+      path: "content/courses/Property/exercises",
       fields: [{
         label: "Title",
         name: "title",
