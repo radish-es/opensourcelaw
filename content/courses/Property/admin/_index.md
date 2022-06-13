@@ -1,14 +1,25 @@
 ---
-linktitle: Admin
-summary: Admin
+linktitle: About
+summary: 
 weight: 20
 icon: cogs
 icon_pack: fas
-title: Course Administration
-type: book  # Do not modify.
+title: About the Course
+type: book
 ---
 
-In this section you can find all documents related to course administration, including the [Course Syllabus](./syllabus), [Course Schedule](./course-schedule), and [Reading List](./reading-list). The Syllabus contains an overview of the course objectives, information about expectations for the course and evaluations, and other logistical details. The Course Schedule includes details about class meetings and weekly course topics. The Reading List provides a up-to-date list of all assigned reading materials for the course.
+In this section you will find all the information you'll need about course details, procedures and expectations, as well as how to get help from me or others at the law school or the university. The main docs are the *Syllabus*, *Schedule* and *User Guide* -- please make sure that you read each of these carefully before our first meeting.  
 
-Please make sure that, before you begin the course, you review both of these documents carefully. 
+## Course Syllabus
+
+The *Syllabus* contains an overview of the course objectives, information about expectations for the course, information about evaluations, and other logistical details. 
+
+## Course Schedule
+
+The *Schedule* includes details about class meetings and weekly course topics. 
+
+## User Guide
+
+The *User Guide* provides an overview of some main features of this online casebook. 
+
 

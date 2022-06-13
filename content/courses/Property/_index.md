@@ -1,6 +1,6 @@
 ---
 title: Land and Property in Canada's Political Economy
-linktitle: Main
+linktitle: Cover
 type: book 
 icon: home
 icon_pack: fas
