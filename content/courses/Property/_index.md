@@ -1,6 +1,11 @@
 ---
-title: 
+title: Land and Property in Canada's Political Economy
+linktitle: Main
 type: book 
+icon: home
+icon_pack: fas
+
 ---
 
-Welcome to *Land and Property in Canada's Political Economy*. 
+![](/media/acorn.jpg)
+
