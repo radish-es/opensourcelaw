@@ -1,6 +1,6 @@
 ---
-title: "Property in Canada's Political Economy"
-subtitle: "An Opensource Casebook"
+title: "Land and Property in Canada's Political Economy"
+subtitle: "An Open Source Legal Casebook"
 widget: blank
 headless: true
 active: true
