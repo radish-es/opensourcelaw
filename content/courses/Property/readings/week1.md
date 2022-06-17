@@ -10,6 +10,8 @@ weight: 2
 
 [{{< figure src="/media/kaleidoscope.jpg" caption="Source: Malcolm Lightbody on Unsplash">}}](https://unsplash.com/photos/TC2f02Iq8lE)
 
+!!TEST ADDITION!!
+
 For first-year law students, property law can be a kaleidoscopic subject: fragmentary, blinkered, sometimes disorienting. Property spans multiple legal traditions and offers up a disorderly patchwork of principles, rules and norms. It is full of apparent contradictions. 
 
 The are many possible ways to teach and learn about property, to make sense of and bring some order within the kaleidoscope. In this course, we will take a critical historical approach that may look different from your other first-year courses. More specifically, we will use the following question about law, history and political economy to thread the material together:
