@@ -1,6 +1,6 @@
 ---
 title: Introduction
-linktitle: Week 1 - Intro
+linktitle: Introduction
 type: book
 weight: 1
 objectives:
@@ -44,10 +44,10 @@ components:
 ---
 
 
-
+{{% figure src="/media/kaleidoscope.jpg" caption="Source: Malcolm Lightbody on Unsplash"  link="https://unsplash.com/photos/TC2f02Iq8lE" %}} 
 
 For first-year law students, property can be a kaleidoscopic subject: fragmentary, blinkered, disorienting. The field offers up a disorderly patchwork of principles, rules and norms. It is full of contradictions, real and apparent. It presents a space of dispossession and disadvantage for some, prosperity and security for others. 
 
 The are many possible ways to teach and learn about property, to try to make sense of and bring some order within the kaleidoscope. In this course, we will approach the subject from a historical perspective--one that puts the critical emphasis on the role of land and property in Canada's political economy as part of the legal ground that determines who benefits from the economic system and who does not. 
 
-This first week of the course introduces you to some core concepts needed to understand the relationship between property law and political economy and it highlights the key challenge of studying property from an anti-colonial perspective, given the central role it has played--and continues to play--in the dispossession of Indigenous peoples and the disruption of their relationships with land and place. 
+This first week of the course introduces you to some core concepts needed to understand the relationship between property law and the economy and it highlights the key challenge of studying property from an anti-colonial perspective, given the central role it has played--and continues to play--in the dispossession of Indigenous peoples and the disruption of their relationships with land and place. 

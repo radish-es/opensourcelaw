@@ -1,6 +1,6 @@
 ---
-title: Identifying Patterns
-linktitle: Week 3 - Identifying
+title: Working with Patterns of Argument
+linktitle: Working with Arguments
 type: book
 weight: 3
 objectives:
@@ -14,6 +14,7 @@ components:
     filename: content/courses/Property/cases/moore.md
     _template: case
 ---
+
 
 
 

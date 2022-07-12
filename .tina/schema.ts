@@ -2,7 +2,7 @@ import { defineSchema } from "@tinacms/cli";
 
 export default defineSchema({
   collections: [{
-      label: "Weekly Materials",
+      label: "Chapters",
       name: "materials",
       path: "content/courses/Property/materials",
       fields: [{
@@ -28,7 +28,7 @@ export default defineSchema({
           ]
           },
           {
-            label: 'Rank Order',
+            label: 'Chapter Number',
             name: 'weight', 
             type: "number",
           },

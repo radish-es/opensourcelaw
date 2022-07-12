@@ -1,6 +1,6 @@
 ---
-title: Weekly Materials
-linktitle: Materials
+title: Chapters
+linktitle: Chapters
 weight: 30
 icon: book
 icon_pack: fas
