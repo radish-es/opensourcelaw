@@ -3,7 +3,7 @@ style: Harrison v Carswell
 short: Harrison
 reporter: '[1976] 2 SCR 200'
 tags:
-  - 'institutional competence '
+  - 'institutional competence'
   - trespass
   - stare decisis
   - one
