@@ -2,7 +2,7 @@ import { defineSchema } from "@tinacms/cli";
 
 export default defineSchema({
   collections: [{
-      label: "Chapters",
+      label: "Chapter",
       name: "materials",
       path: "content/courses/Property/materials",
       fields: [{
