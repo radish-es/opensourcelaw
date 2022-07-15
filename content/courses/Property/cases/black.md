@@ -1,6 +1,7 @@
 ---
-style: 'Black v Canadian Copper Co. (1917), Archives of Ontario, RG 80-6-0-22'
+style: 'Black v Canadian Copper Co. '
 short: Black
+reporter: '(1917), Archives of Ontario, RG 80-6-0-22'
 tags:
   - classical period
   - industry
@@ -9,6 +10,7 @@ tags:
   - nuisance
   - exclusion
 ---
+
 
 ### Middleton J. —
 
