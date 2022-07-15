@@ -1,6 +1,7 @@
 ---
-style: 'McLaren v Caldwell et al, [1882] 8 SCR 435'
+style: McLaren v Caldwell et al
 short: McLaren (SCC)
+reporter: '[1882] 8 SCR 435'
 tags:
   - classical period
   - courts vs legislature
@@ -8,6 +9,7 @@ tags:
   - expropriation
   - exclusion
 ---
+
 
 ### Ritchie C.J. —
 
