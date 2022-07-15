@@ -1,6 +1,7 @@
 ---
-style: 'Shelfer v City of London Electrical Lighting Co, [1895] 1 Ch 287'
+style: Shelfer v City of London Electrical Lighting Co
 short: Shelfer
+reporter: '[1895] 1 Ch 287'
 tags:
   - classical period
   - land uses
