@@ -1,12 +1,14 @@
 ---
-style: 'Lessees of Lawson et al v Whitman, (1851), 1 NSR 208'
+style: Lessees of Lawson et al v Whitman
 short: Lawson
+reporter: '(1851), 1 NSR 208'
 tags:
   - classical period
   - title
   - adverse possession
   - possession
 ---
+
 
 ### Halliburton, C.J. —
 
