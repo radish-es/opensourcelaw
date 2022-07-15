@@ -1,6 +1,7 @@
 ---
-style: 'Downey v Nova Scotia (Attorney General), 2020 NSSC 201'
+style: Downey v Nova Scotia (Attorney General)
 short: Downey
+reporter: 2020 NSSC 201
 tags:
   - racism
   - colonialism
@@ -9,6 +10,7 @@ tags:
   - possession
   - title
 ---
+
 
 
 ### Campbell J. —
