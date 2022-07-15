@@ -1,12 +1,12 @@
 ---
-style: >-
-  An Act for Protecting the Public Interest in Rivers, Streams and Creeks
-  (1881), c 11
+style: 'An Act for Protecting the Public Interest in Rivers, Streams and Creeks'
 short: Rivers and Streams Act
+reporter: '(1881), c 11'
 tags:
   - industry
   - legislation
 ---
+
 
 1\. All persons shall, subject to the provisions in this Act contained, have, and are hereby declared always to have had, floating down during the spring, summer and autumn freshets, the right to, and may float and transmit saw-logs and all other timber of every kind, and all rafts and crafts, down all rivers, creeks and streams; and no person shall by felling trees or placing any other obstruction in or across any such river, creek or stream, prevent the passage thereof; and in case it may be necessary to remove any obstruction from such river, creek or stream, or construct any apron, dam, slide, gate-lock, boom, or other work therein or thereon, necessary to facilitate the floating and transmitting such saw-logs and other timber, rafts or crafts, down the same, then it shall be lawful for the person requiring so to float and transmit such saw-logs and other timber, rafts and crafts, and it is hereby declared always to have been lawful to remove such obstruction, and to construct such apron, dam, slide, gate-lock, boom or other work necessary for the purposes aforesaid, doing no unnecessary damage to the said river, creek or stream, or to the banks thereof.
 
