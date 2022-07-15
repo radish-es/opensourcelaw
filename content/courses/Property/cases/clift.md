@@ -1,12 +1,14 @@
 ---
-style: 'Clift v Kane (1870), 5 Nfld LR (en banc)'
+style: 'Clift v Kane '
 short: Clift
+reporter: '(1870), 5 Nfld LR (en banc)'
 tags:
   - classical period
   - hunting
   - first possession
   - possession
 ---
+
 
 ### Hoyles C.J. (Hayward J. concurring) —
 
