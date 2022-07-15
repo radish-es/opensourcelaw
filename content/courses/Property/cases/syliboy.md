@@ -1,6 +1,7 @@
 ---
-style: 'R v Syliboy, [1929] 1 DLR 307'
+style: R v Syliboy
 short: Syliboy
+reporter: '[1929] 1 DLR 307'
 tags:
   - classical period
   - racism
@@ -8,6 +9,7 @@ tags:
   - hunting
   - treaties
 ---
+
 
 ### Patterson (Acting) Co. Ct. J. —
 
