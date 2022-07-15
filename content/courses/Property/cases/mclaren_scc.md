@@ -9,7 +9,7 @@ tags:
   - exclusion
 ---
 
-### Ritchie, C.J. —
+### Ritchie C.J. —
 
 The bill in this case was filed in the Court of Chancery on the 4th May, 1880, on behalf of the appellant, Peter McLaren, against the respondents, B. Caldwell & Son, to restrain them passing or floating timber and saw logs through portions of the main branch of the Mississippi river and its northern tributaries, Louse creek and Buckshot creek, where these streams passed and flowed through the lands of the appellant and over the dams, slides, and improvements owned or constructed by the appellant along these streams.
 
