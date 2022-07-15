@@ -3,12 +3,14 @@ style: McLaren v Caldwell et al
 short: McLaren (SCC)
 reporter: '[1882] 8 SCR 435'
 tags:
+  - public property
   - classical period
   - courts vs legislature
   - industry
   - expropriation
   - exclusion
 ---
+
 
 
 ### Ritchie C.J. —
