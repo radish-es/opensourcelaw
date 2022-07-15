@@ -1,6 +1,7 @@
 ---
-style: 'Canada Paper Co v Brown, [1922] 63 SCR 243'
+style: Canada Paper Co v Brown
 short: Canada Paper
+reporter: '[1922] 63 SCR 243'
 tags:
   - classical period
   - industry
@@ -9,6 +10,7 @@ tags:
   - nuisance
   - exclusion
 ---
+
 
 ### The Chief Justice —
 
