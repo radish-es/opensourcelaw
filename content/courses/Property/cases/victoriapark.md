@@ -1,6 +1,6 @@
 ---
 style: >-
-  Victoria Park Racing and Recreational Grounds Co Ltd v Taylor, [1937] 58 CLR
+  Victoria Park Racing and Recreational Grounds Co Ltd v Taylor (1937), 58 CLR
   479
 short: Victoria Park
 tags:
