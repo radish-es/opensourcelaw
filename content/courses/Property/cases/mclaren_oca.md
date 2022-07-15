@@ -1,12 +1,14 @@
 ---
-style: 'McLaren v Caldwell et al (1881), 6 OAR 456 (CA)'
+style: 'McLaren v Caldwell et al '
 short: McLaren (CA)
+reporter: '(1881), 6 OAR 456 (CA)'
 tags:
   - exclusion
   - classical period
   - industry
   - expropriation
 ---
+
 
 ### Spragge, C.J.O. —
 
