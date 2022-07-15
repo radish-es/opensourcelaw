@@ -1,6 +1,7 @@
 ---
-style: 'St. Catherine’s Milling & Lumber Co. v R, [1888] UKPC 70 (JCPC)'
+style: St. Catherine’s Milling & Lumber Co. v R
 short: St. Catherine's (JCPC)
+reporter: '[1888] UKPC 70 (JCPC)'
 tags:
   - classical period
   - racism
@@ -10,6 +11,7 @@ tags:
   - title
   - possession
 ---
+
 
 ### Lord Watson —
 
