@@ -1,6 +1,7 @@
 ---
-style: 'Blackburn v McCallum, [1903] 33 SCR 65'
+style: Blackburn v McCallum
 short: Blackburn
+reporter: '[1903] 33 SCR 65'
 tags:
   - classical period
   - restraints on alienation
@@ -8,6 +9,7 @@ tags:
   - estates
   - wills
 ---
+
 
 ### Davies J. —
 
