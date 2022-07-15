@@ -1,6 +1,7 @@
 ---
-style: 'Land Titles Clarification Act, RSNS 1989, c 250'
+style: Land Titles Clarification Act
 short: LTCA
+reporter: 'RSNS 1989, c 250'
 tags:
   - racism
   - colonialism
@@ -8,6 +9,7 @@ tags:
   - possession
   - title
 ---
+
 
 <div id="statute">
 
