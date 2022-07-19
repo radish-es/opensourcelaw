@@ -3,13 +3,14 @@ style: 'Black v Canadian Copper Co. '
 short: Black
 reporter: '(1917), Archives of Ontario, RG 80-6-0-22'
 tags:
-  - classical period
+  - classical style
   - industry
   - land uses
   - remedies
   - nuisance
   - exclusion
 ---
+
 
 
 ### Middleton J. —
