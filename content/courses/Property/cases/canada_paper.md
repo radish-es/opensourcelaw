@@ -3,13 +3,14 @@ style: Canada Paper Co v Brown
 short: Canada Paper
 reporter: '[1922] 63 SCR 243'
 tags:
-  - classical period
+  - classical style
   - industry
   - land uses
   - remedies
   - nuisance
   - exclusion
 ---
+
 
 
 ### The Chief Justice —
