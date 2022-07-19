@@ -5,8 +5,6 @@ tags:
   - Week 6
 ---
 
-An important question for later courts, including in *St. Catherine's Milling*, is about the nature and source of Indigenous land rights. Was the Royal Proclamation to be understood as the *source* of those rights, or as a recognition of pre-existing rights? If the latter, where else might these rights find their source? 
-
 For more than a hundred years, the Royal Proclamation of 1763 stood as the British Crown's most authoritative statement on Aboriginal title. But during this period the Proclamation itself received little to no scrutiny in the common law courts. This changed dramatically when the Chancery Division of the High Court of Ontario issued its decision in the *St. Catherine's Milling Case* in 1886, followed by subsequent appeals all the way to the Judicial Committee of the Privy Council—at that time, Canada's highest court of appeal. The case would chart the course for Aboriginal title in Canada for well into the next century.
 
 Set in the two decades after Confederation in 1867, the dispute in *St. Catherine's Milling* between the Province of Ontario and the Dominion Government was nominally about which level of government held title to public lands within the boundaries of Ontario that had—according to Canada's interpretation of treaty rights—been ceded to the Crown by the Salteaux First Nation as part of Treaty 3 (the North-West Angle Treaty). In the course of trying to resolve that dispute, the common law courts pronounced on the nature of Aboriginal title in ways that had far-reaching consequences.
