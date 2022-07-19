@@ -10,8 +10,6 @@ tags:
   - treaties
 ---
 
-
-
 ### Patterson (Acting) Co. Ct. J. —
 
 The defendant, who is the grand chief of the Mick Macks of Nova Scotia was convicted under the Lands and Forests Act, 1926 (N.S.), c. 4, of having in his possession at Askilton in the County of Inverness on November 4, last fifteen green pelts, fourteen muskrat and one fox. He made no attempt to deny having the pelts, indeed frankly admits having them, but claims that as an Indian he is not bound by the provisions of the Act, but has by Treaty the right to hunt and trap at all times. Every now and then for a number of years one has heard that our Indians were making these claims but, so far as I know, the matter has never been before a Court.
@@ -74,3 +72,5 @@ There is abundant evidence also that the Indians have been for many years receiv
 On no ground that has been advanced, and I am sure everything has been said or done that with any chance of success could have been said or done, can defendant in my opinion succeed. Such sympathy as a Judge is permitted to have is with defendant. I would gladly allow the appeal if I could find any sound reason for doing so, but I cannot and must confirm the conviction. The very capable Magistrate who heard the case below has, I am pleased to see, fixed the penalty at the very lowest figure that the Act allows. Even so I venture to express the hope that the authorities will not enforce the conviction.
 
 I have no doubt whatever that defendant honestly believed that the treaty was valid and that he was entitled under it to kill muskrat or have their pelts in his possession at any time, and as I pointed out, a year ago or rather in 1926 it was no offence on November 4 to have green muskrat pelts in one’s possession. While everyone is presumed to know the law and to know the exact limits of the close season, it is more than likely — is it not a certainty — that the untutored mind of the defendant was not aware that in 1927 the close season had been lengthened to November 15? Of course, ignorance of the law excuses no one, but surely ignorance of the law under such circumstances can be urged as a plea for most lenient treatment — for in such a case as this waiving both penalty and costs.
+
+[*Unlike in *St. Catherine's Milling*, the trial court in *Syliboy* had before it considerable first-hand oral evidence from Grant Chief Syliboy and others as to their interpretations of the 1752 treaty. Those perspectives are almost entirely discounted or ignored in Justice Patterson's decision—a move that is underwritten by the judge's insistence on seeing the Indigenous signatories as individuals entering into an agreement or contract with the British state, rather than as representatives of sovereign power.*]
