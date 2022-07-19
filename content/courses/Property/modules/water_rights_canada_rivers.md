@@ -5,6 +5,7 @@ tags:
   - Week 9
 ---
 
+
 [{{< figure src="/media/ragged_chutes_dam.jpg" caption="Ragged Chutes Dam on the Upper Mississipi River, constructed by Peter McLaren. <br/> Source: Cloyne and District Historical Society" link="">}}](https://www.flickr.com/photos/cdhs/31625861242)
 
 Over the course of the nineteenth century, access to waterways in Upper Canada and elsewhere in the country became an important part of the lumber industry and a primary means to bring timber from logging operations to sawmills and other points of market. In 1847, legislation was passed to help ensure access to waterways in Upper Canada by lumber workers. The legislation stated that:[^vict1849]
@@ -26,3 +27,5 @@ Following enactment of the *Rivers and Streams Act*, McLaren successfully petiti
 At the heart of this dispute was the issue of how Ontario's attempts to facilitate transportation in the lumber industry ought to be interpreted in law. Should the limitations on McLaren's rights to exclude others from using the river be seen as an expropriation by the Province? What are the legal consequences of such an interpretation?
 
 Below are excerpts from the judgements of the Ontario Court of Appeal and the Supreme Court of Canada in *McLaren v Caldwell*, the *Rivers and Streams Act*, and Parliamentary debates surrounding federal disallowance of the legislation. 
+
+[^vict1849]: *An act to provide for the construction of aprons to mill dams over certain streams in this Province, and to make further provision in respect thereof* (1849), 12 Vict, c 87, s 5.
