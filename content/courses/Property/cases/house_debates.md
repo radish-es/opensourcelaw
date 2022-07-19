@@ -3,11 +3,12 @@ style: House of Commons Debates
 short: House Debates
 reporter: '45 Victoria, 1882 Vol XII'
 tags:
-  - classical period
+  - classical style
   - constitution
   - courts vs legislature
   - expropriation
 ---
+
 
 
 Disallowance of streams bill.
