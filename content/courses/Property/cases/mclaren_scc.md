@@ -4,12 +4,13 @@ short: McLaren (SCC)
 reporter: '[1882] 8 SCR 435'
 tags:
   - public property
-  - classical period
+  - classical style
   - courts vs legislature
   - industry
   - expropriation
   - exclusion
 ---
+
 
 
 
