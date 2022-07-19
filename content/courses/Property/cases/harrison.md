@@ -3,13 +3,14 @@ style: Harrison v Carswell
 short: Harrison
 reporter: '[1976] 2 SCR 200'
 tags:
-  - modern period
-  - classical period
+  - modern style
+  - classical style
   - institutional competence
   - trespass
   - stare decisis
   - one
 ---
+
 
 ### Dickson J 
 
