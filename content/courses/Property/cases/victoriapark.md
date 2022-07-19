@@ -3,10 +3,11 @@ style: 'Victoria Park Racing and Recreational Grounds Co Ltd v Taylor '
 short: Victoria Park
 reporter: '(1937), 58 CLR 479'
 tags:
-  - classical period
+  - classical style
   - land uses
   - nuisance
 ---
+
 
 
 ### Latham C.J. —
