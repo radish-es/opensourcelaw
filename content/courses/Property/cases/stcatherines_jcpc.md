@@ -3,7 +3,7 @@ style: St. Catherine’s Milling & Lumber Co. v R
 short: St. Catherine's (JCPC)
 reporter: '[1888] UKPC 70 (JCPC)'
 tags:
-  - classical period
+  - classical style
   - racism
   - colonialism
   - underlying title
@@ -11,6 +11,7 @@ tags:
   - title
   - possession
 ---
+
 
 
 ### Lord Watson —
