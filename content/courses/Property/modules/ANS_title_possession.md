@@ -20,3 +20,5 @@ Start by reading the included excerpts from the *Land Titles Clarification Act* 
 > What is *adverse possession* and how does this doctrine foreground the classic liberal dynamics of competition in disputes over land? 
 
 Finally, we will return to some recent litigation in *Downey v Nova Scotia* concerning land titles in African Nova Scotian communities to examine the impact of common law doctrines around title and possession. 
+
+[^cameron2014]: Angela Cameron, "This Land is Our Land: African Nova Scotian Voices from the Preston Area Speak Up" (2014), online: https://nsbs.org/wp-content/uploads/2020/11/This-land-is-our-land.pdf.
