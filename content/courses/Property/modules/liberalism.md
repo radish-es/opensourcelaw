@@ -1,10 +1,10 @@
 ---
-title: Liberalism as the Grammar of the Common Law
-short: Liberalism
+title: Week 4 Introduction
+short: W4 Intro
 tags:
-  - Intro
   - Week 4
 ---
+
 
 [{{< figure src="/media/acorn.jpg" caption="Source: Katie Oh on Unsplash">}}](https://unsplash.com/photos/1SOSZE1Dops)
 
