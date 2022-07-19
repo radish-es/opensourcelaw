@@ -3,7 +3,7 @@ style: St. Catherines Milling & Lumber Co. v R
 short: St. Catherine's (SCC)
 reporter: '[1887] 13 SCR 577'
 tags:
-  - classical period
+  - classical style
   - racism
   - colonialism
   - restraints on alienation
@@ -12,6 +12,7 @@ tags:
   - title
   - possession
 ---
+
 
 
 [*Chief Justice Ritchie, writing for a majority of the Supreme Court, affirmed Chancellor Boyd's decision at trial. Justice Strong, whose judgement is below, wrote a dissent from the majority, arguing that Chancellor Boyd's decision should be overturned.*]
