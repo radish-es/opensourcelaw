@@ -3,12 +3,13 @@ style: 'John Locke '
 short: Locke
 reporter: 'Second Treatise on Government, Chapter V (1690)'
 tags:
-  - classical period
+  - classical style
   - colonialism
   - racism
   - first possession
   - possession
 ---
+
 
 
 
