@@ -1,9 +1,10 @@
 ---
-title: 'Week 5 Introduction: Title vs Possession'
+title: Introduction
 short: W5 Intro
 tags:
   - week 5
 ---
+
 
 [{{< figure src="/media/ltca.jpg" caption="Edited from *Plan Showing LTCA Land Title Clarification Areas*">}}](https://novascotia.ca/natr/titles-clarification/pdf/NovaScotiaLTCA.pdf)
 
