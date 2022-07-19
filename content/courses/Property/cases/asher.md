@@ -3,7 +3,7 @@ style: 'Asher v Whitlock '
 short: Asher
 reporter: '(1865), LR 1 QB 1'
 tags:
-  - classical period
+  - classical style
   - title
   - first possession
   - adverse possession
@@ -12,6 +12,7 @@ tags:
   - estates
   - wills
 ---
+
 
 
 
