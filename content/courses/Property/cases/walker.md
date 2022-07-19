@@ -3,11 +3,12 @@ style: Re Walker
 short: Walker
 reporter: '(1925), 56 OLR 517'
 tags:
-  - classical period
+  - classical style
   - restraints on alienation
   - estates
   - wills
 ---
+
 
 
 ### Middleton J.A. —
