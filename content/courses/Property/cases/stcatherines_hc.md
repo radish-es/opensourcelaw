@@ -3,7 +3,7 @@ style: 'St. Catherine’s Milling Co v R '
 short: St. Catherine's (HC)
 reporter: '(1886), 10 OR 196 (HC)'
 tags:
-  - classical period
+  - classical style
   - racism
   - colonialism
   - underlying title
@@ -11,6 +11,7 @@ tags:
   - title
   - possession
 ---
+
 
 
 
