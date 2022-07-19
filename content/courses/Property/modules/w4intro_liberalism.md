@@ -1,7 +1,10 @@
 ---
 title: 'Week 4 Introduction: Liberalism'
 short: W4 Intro
+tags:
+  - Week 4
 ---
+
 
 
 [{{< figure src="/media/acorn.jpg" caption="Source: Katie Oh on Unsplash">}}](https://unsplash.com/photos/1SOSZE1Dops)
