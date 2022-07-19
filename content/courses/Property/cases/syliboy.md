@@ -3,12 +3,13 @@ style: R v Syliboy
 short: Syliboy
 reporter: '[1929] 1 DLR 307'
 tags:
-  - classical period
+  - classical style
   - racism
   - colonialism
   - hunting
   - treaties
 ---
+
 
 
 ### Patterson (Acting) Co. Ct. J. —
