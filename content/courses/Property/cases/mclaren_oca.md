@@ -4,10 +4,11 @@ short: McLaren (CA)
 reporter: '(1881), 6 OAR 456 (CA)'
 tags:
   - exclusion
-  - classical period
+  - classical style
   - industry
   - expropriation
 ---
+
 
 
 ### Spragge, C.J.O. —
