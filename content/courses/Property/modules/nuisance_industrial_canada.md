@@ -5,6 +5,7 @@ tags:
   - Week 8
 ---
 
+
 {{< figure src="/media/canada_paper.jpg" caption="[Canada Paper Company, Windsor Mills, QC, 1909. Source: McCord Museum, Montreal.](http://collections.musee-mccord.qc.ca/en/collection/artifacts/VIEW-4677/)" link="">}}
 
 Widespread industrialization came somewhat late in Canada compared to England and the United States, where nuisance law was earlier addressed in the common law courts as a potential impediment to economic "progress". As Jennifer Nedelsky explains:[^nedelsky1981]
@@ -16,3 +17,5 @@ Like their English and American counterparts before them, common law courts in C
 On the question of what remedy the Canadian courts should apply in cases where a nuisance had been proved by the plaintiff, the English Court of Appeal's decision in *Shelfer v City of London Electrical Lighting Co.* loomed large. Traditionally, the common law afforded heavy priority to the absolute protection of private owners rights to use and enjoy their property, enforced by way of an injunction against the offending activities of neighbouring landowners. In *Shelfer*, the Court opened the door for greater flexibility on the part of courts to substitute an award of damages in place of a permanent injunction in appropriate circumstances. Legal historians have largely interpreted this move as an attempt by the Court to take a more accommodating position toward industrial interests. 
 
 The brief excerpt below from *Shelfer* reviews the key legal test on remedy in nuisance.
+
+[^nedelsky1981]: Nedelsky, Jennifer. “Judicial Conservatism in an Age of Innovation: Comparative Perspectives on Canadian Nuisance Law.” In *Essays in the History of Canadian Law*, edited by David H Flaherty, 281-322. Toronto: University of Toronto Press, 1981, 284-5.
