@@ -3,12 +3,13 @@ style: Shelfer v City of London Electrical Lighting Co
 short: Shelfer
 reporter: '[1895] 1 Ch 287'
 tags:
-  - classical period
+  - classical style
   - land uses
   - remedies
   - nuisance
   - exclusion
 ---
+
 
 [*The defendant in this case, the City of London Electric Lighting Company, operated large engines and other heavy machinery that caused damage to the foundations of a pub (the Waterman's Arms) leased by the plaintiff, Shelfer, as well as a lot of noise and other "annoyances". There was no issue of the existence of the nuisance—the only issue before the court was what type of remedy should be available to the plaintiff.*]
 
