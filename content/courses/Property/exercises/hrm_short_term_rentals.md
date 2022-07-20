@@ -4,6 +4,7 @@ tags:
   - Week 12
 ---
 
+
 [{{< figure src="/media/apartment.jpg" caption="Source: Étienne Beauregard-Riverin on Unsplash">}}](https://unsplash.com/photos/B0aCvAVSX8E)
 
 ### Background
@@ -47,6 +48,6 @@ The client is seeking your advice about their plans to convert the rent-subsidiz
 
 Are your client's plans likely to be challenged successfully by HRM in court? Why or why not? 
 
-
+[^hrm2021]: Halifax Regional Municipality, "Short-Term Rentals", 17 December 2021, online: https://www.shapeyourcityhalifax.ca/short-term-rentals.
 
 {{% callout exercise %}} 
