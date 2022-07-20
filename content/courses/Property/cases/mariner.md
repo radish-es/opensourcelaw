@@ -12,6 +12,8 @@ tags:
   - land uses
 ---
 
+{{< figure src="/media/hurtles.jpg" caption="Hurtles, near Kingsburg Beach" >}}
+
 ### Cromwell J.A. (Glube C.J.N.S. concurring) —
 
 #### I. Introduction:
