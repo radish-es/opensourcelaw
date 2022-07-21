@@ -28,7 +28,9 @@ components:
   - title: Lessees of Lawson et al v Whitman
     filename: content/courses/Property/cases/lawson.md
     _template: case
-  - _template: case
+  - title: Downey v Nova Scotia
+    filename: content/courses/Property/cases/downey.md
+    _template: case
 ---
 
 
