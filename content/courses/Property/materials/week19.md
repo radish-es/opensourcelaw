@@ -19,7 +19,9 @@ components:
   - title: Delgamuukw v. British Columbia
     filename: content/courses/Property/cases/delgamuukw.md
     _template: case
-  - _template: case
+  - title: Tsilhqot’in Nation v British Columbia
+    filename: content/courses/Property/cases/tsilhqotin.md
+    _template: case
   - _template: module
   - _template: module
 ---
