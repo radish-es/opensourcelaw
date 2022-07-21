@@ -1,9 +1,10 @@
 ---
-title: 'Problem: the Right to Shelter in Halifax '
+title: 'the Right to Shelter in Halifax '
 short: Right to Shelter
 tags:
   - Week 13
 ---
+
 
 Please read [this CBC News article,](https://www.cbc.ca/news/canada/nova-scotia/what-a-b-c-court-ruling-could-mean-for-halifax-park-evictions-1.6319104) published this past week, which raises the question of how *Bamberger v Vancouver (Board of Parks and Recreation)* (below) and the preceding caselaw on the right to shelter in public spaces might apply to the events surrounding evictions from municipal parks in Halifax this summer. 
 
