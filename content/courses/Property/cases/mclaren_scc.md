@@ -1,5 +1,5 @@
 ---
-style: McLaren v Caldwell et al
+style: McLaren v Caldwell et al (SCC)
 short: McLaren (SCC)
 reporter: '[1882] 8 SCR 435'
 tags:
@@ -10,6 +10,7 @@ tags:
   - expropriation
   - exclusion
 ---
+
 
 
 
