@@ -7,7 +7,9 @@ components:
   - title: The Bundle of Sticks
     filename: content/courses/Property/modules/bundle_sticks.md
     _template: module
-  - _template: module
+  - title: Nuisance Law in an Industrializing Canada
+    filename: content/courses/Property/modules/nuisance_industrial_canada.md
+    _template: module
   - _template: case
   - _template: module
   - _template: case
