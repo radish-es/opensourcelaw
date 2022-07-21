@@ -7,7 +7,9 @@ components:
   - title: A Testamentary Bequest
     filename: content/courses/Property/exercises/testamentary_bequest.md
     _template: exercise
-  - _template: case
+  - title: Stuartburn (Municipality) v Kiansky
+    filename: content/courses/Property/cases/stuartburn.md
+    _template: case
   - _template: module
   - _template: case
   - _template: case
