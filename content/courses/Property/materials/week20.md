@@ -7,7 +7,9 @@ components:
   - title: De Facto Expropriation
     filename: content/courses/Property/modules/defacto_expropriation_contemporary.md
     _template: module
-  - _template: exercise
+  - title: Revisiting Blue Mountain-Birch Cove
+    filename: content/courses/Property/exercises/blue_mountain_revisited.md
+    _template: exercise
   - _template: module
   - _template: case
   - _template: module
@@ -18,6 +20,7 @@ components:
   - _template: case
   - _template: module
 ---
+
 
 
 This week we cover two topics that link back issues of exclusion we've studied throughout the course. The first topic provides a contemporary perspective on the question of *de facto* expropriation, which we first addressed in [Week 9](../week9/) and then revisited in [Week 11](../week11/). The second topic concerns the right to exclude in the context of intellectual property—namely patent rights acquired by inventors and used to exclude others from making or using that invention for some period of time. 
