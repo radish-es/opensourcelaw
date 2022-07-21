@@ -7,7 +7,9 @@ components:
   - title: Problems of Possession
     filename: content/courses/Property/exercises/possession_problems.md
     _template: exercise
-  - _template: module
+  - title: First Possession Revisited
+    filename: content/courses/Property/modules/first_possession_revisited.md
+    _template: module
   - _template: case
   - _template: module
   - _template: case
