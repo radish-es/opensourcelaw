@@ -25,7 +25,9 @@ components:
   - title: Duty to Consult
     filename: content/courses/Property/modules/duty_to_consult.md
     _template: module
-  - _template: module
+  - title: 'Litigation, Negotiation, and Reconciliation'
+    filename: content/courses/Property/modules/litigation_negotiation_reconciliation.md
+    _template: module
 ---
 
 
