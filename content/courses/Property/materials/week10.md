@@ -7,7 +7,8 @@ components:
   - title: Tenures and Estates
     filename: content/courses/Property/cases/tenures_estates.md
     _template: case
-  - title: Tenures and Estates
+  - title: Restraints on Alienation
+    filename: content/courses/Property/modules/restraints_alienation.md
     _template: module
   - _template: case
   - _template: case
