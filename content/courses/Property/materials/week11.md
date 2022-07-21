@@ -4,7 +4,7 @@ linktitle: Land Use Control I
 type: book
 weight: 11
 components:
-  - title: 'Problem: Blue Mountain-Birch Cove Lakes'
+  - title: Blue Mountain-Birch Cove Lakes
     filename: content/courses/Property/exercises/blue_mountain.md
     _template: exercise
   - title: 'Review: The Classical Approach to Expropriation'
@@ -29,6 +29,7 @@ components:
     filename: content/courses/Property/cases/mariner.md
     _template: case
 ---
+
 
 This week, which begins Unit 3, we move away from the classical period of legal reasoning we studied last term and into the second style of liberal legal thought we'll confront in the course: the *modern style*. To do so, we will return to a topic we analyzed in Week 9—the field of expropriation and the extent to which property owners can exclude the state from taking away or otherwise interfering with "their" property rights. 
 
