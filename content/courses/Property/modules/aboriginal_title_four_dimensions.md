@@ -1,10 +1,13 @@
 ---
-title: Four Dimensions of the Aboriginal Title Doctrine
+title: Aboriginal Title Doctrine
 tags:
   - Week 19
 ---
 
+
 {{% callout warning %}} 
+
+### Four Dimensions of the Aboriginal Title Doctrine
 
 In our study of the materials this week, we will aim to address four core dimensions of the Aboriginal title doctrine:
 
