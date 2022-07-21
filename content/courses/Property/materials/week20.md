@@ -23,7 +23,9 @@ components:
   - title: NAFTA
     filename: content/courses/Property/cases/nafta.md
     _template: case
-  - _template: case
+  - title: Metalclad Corporation v The United Mexican States
+    filename: content/courses/Property/cases/metalclad.md
+    _template: case
   - _template: case
   - _template: module
   - _template: case
