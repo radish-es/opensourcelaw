@@ -35,7 +35,9 @@ components:
   - title: Monsanto Canada Inc v Schmeiser
     filename: content/courses/Property/cases/monsanto.md
     _template: case
-  - _template: module
+  - title: Patents in Hollywood
+    filename: content/courses/Property/modules/patents_hollywood.md
+    _template: module
 ---
 
 
