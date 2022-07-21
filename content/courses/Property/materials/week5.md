@@ -10,7 +10,9 @@ components:
   - title: Land Titles Clarification Act
     filename: content/courses/Property/cases/ltca.md
     _template: case
-  - _template: case
+  - title: Beals v Nova Scotia
+    filename: content/courses/Property/cases/beals.md
+    _template: case
   - _template: module
   - _template: case
   - _template: exercise
