@@ -19,7 +19,9 @@ components:
   - title: Holmes' Modernism in Practice
     filename: content/courses/Property/modules/holmes_modernism.md
     _template: module
-  - _template: case
+  - title: Pennsylvania Coal Co. v Mahon
+    filename: content/courses/Property/cases/pennsylvania_coal.md
+    _template: case
   - _template: module
   - _template: case
 ---
