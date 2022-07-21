@@ -7,11 +7,14 @@ components:
   - title: Water Rights and Expropriation on the Mississipi (Ontario) River
     filename: content/courses/Property/modules/water_rights_canada_rivers.md
     _template: module
-  - _template: case
+  - title: McLaren v Caldwell (CA)
+    filename: content/courses/Property/cases/mclaren_oca.md
+    _template: case
   - _template: case
   - _template: case
   - _template: case
 ---
+
 
 Last week, we saw that remedies in nuisance are one legal tool used by property owners—with mixed success—to stop their neighbours from adversely affecting use and enjoyment of the owner's land. Nuisance, in other words, is one means to exclude others from doing something that limits owners' freedom related to property. This means of exclusion, however, unavoidably limits the freedom of others to use their land as they choose. In these cases, the courts must choose not only whose rights should win out but also find some way to address the fundamental dilemma of conflicting freedoms inherent in legal liberalism. 
 
