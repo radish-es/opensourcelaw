@@ -22,7 +22,9 @@ components:
   - title: Scope of Acquired Rights
     filename: content/courses/Property/modules/acquired_rights_scope.md
     _template: module
-  - _template: case
+  - title: Saint-Romuald (City) v Olivier
+    filename: content/courses/Property/cases/saintromuald.md
+    _template: case
 ---
 
 
