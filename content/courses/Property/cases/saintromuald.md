@@ -1,5 +1,5 @@
 ---
-style: Saint-Romuald (City) v. Olivier
+style: Saint-Romuald (City) v Olivier
 short: Saint-Romuald
 reporter: '[2001] 2 SCR 898'
 tags:
@@ -10,6 +10,7 @@ tags:
   - land use controls
   - land use
 ---
+
 
 ### Binnie J. (McLachlin C.J.C., Major, Arbour JJ. concurring) —
 
