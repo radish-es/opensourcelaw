@@ -25,7 +25,9 @@ components:
   - title: Mi’kmaw Land Tenure
     filename: content/courses/Property/modules/mikmaw_land_tenure.md
     _template: module
-  - _template: module
+  - title: Check Out
+    filename: content/courses/Property/modules/w7_checkout.md
+    _template: module
 ---
 
 
