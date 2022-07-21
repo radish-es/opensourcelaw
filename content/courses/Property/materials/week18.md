@@ -19,6 +19,9 @@ components:
   - title: Didow v Alberta Power Ltd
     filename: content/courses/Property/cases/didow.md
     _template: case
+  - title: 'Mini-Lecture: Popov, Didow and the Contemporary Style'
+    filename: content/courses/Property/modules/popov_didow_contemporary_style_lecture.md
+    _template: module
 ---
 
 
