@@ -13,7 +13,9 @@ components:
   - title: Beals v Nova Scotia
     filename: content/courses/Property/cases/beals.md
     _template: case
-  - _template: module
+  - title: Rights of Possessors
+    filename: content/courses/Property/modules/possessors_rights.md
+    _template: module
   - _template: case
   - _template: exercise
   - _template: module
