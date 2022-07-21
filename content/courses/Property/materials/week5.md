@@ -22,7 +22,9 @@ components:
   - title: Parking Chairs
     filename: content/courses/Property/exercises/parking_chairs.md
     _template: exercise
-  - _template: module
+  - title: Adverse Possession
+    filename: content/courses/Property/modules/adverse_possession.md
+    _template: module
   - _template: case
   - _template: case
 ---
