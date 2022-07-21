@@ -10,7 +10,9 @@ components:
   - title: Introduction to Acquired Rights
     filename: content/courses/Property/modules/acquired_rights.md
     _template: module
-  - _template: exercise
+  - title: Short-Term Rentals in HRM
+    filename: content/courses/Property/exercises/hrm_short_term_rentals.md
+    _template: exercise
   - _template: module
   - _template: case
   - _template: module
