@@ -7,7 +7,9 @@ components:
   - title: 'Problem: Blue Mountain-Birch Cove Lakes'
     filename: content/courses/Property/exercises/blue_mountain.md
     _template: exercise
-  - _template: module
+  - title: 'Review: The Classical Approach to Expropriation'
+    filename: content/courses/Property/modules/classical_expropriation_review.md
+    _template: module
   - _template: module
   - _template: case
   - _template: module
