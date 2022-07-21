@@ -9,6 +9,7 @@ tags:
   - possession
 ---
 
+
 ### McCarthy J. —
 
 #### Facts
@@ -177,4 +178,10 @@ The parties are ordered to meet and confer forthwith before Judge Richard Kramer
 
 The court retains jurisdiction to issue orders consistent with this decision. The ball is to remain in the custody of the court until further order.
 
-{{< spoiler text="The Result in Popov" >}}{{< /spoiler >}}
+
+{{< spoiler text="The Result in Popov" >}}
+
+{{% callout exercise %}} 
+
+{{< vimeo 684773141 >}}
+{{% /callout %}}{{< /spoiler >}}
