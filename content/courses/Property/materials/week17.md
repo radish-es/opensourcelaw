@@ -13,7 +13,9 @@ components:
   - title: Indian Act
     filename: content/courses/Property/cases/indian_act.md
     _template: case
-  - _template: case
+  - title: Guerin v R
+    filename: content/courses/Property/cases/guerin.md
+    _template: case
   - _template: module
   - _template: module
 ---
