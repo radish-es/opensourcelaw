@@ -5,6 +5,9 @@ type: book
 weight: 4
 components:
   - title: Locke
+    filename: content/courses/Property/cases/locke.md
+    _template: case
+  - title: Locke
     filename: content/courses/Property/modules/first_possession_wild_animals.md
     _template: module
 ---
