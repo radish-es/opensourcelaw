@@ -10,7 +10,9 @@ components:
   - title: First Possession Revisited
     filename: content/courses/Property/modules/first_possession_revisited.md
     _template: module
-  - _template: case
+  - title: Popov v Hayashi
+    filename: content/courses/Property/cases/popov.md
+    _template: case
   - _template: module
   - _template: case
 ---
