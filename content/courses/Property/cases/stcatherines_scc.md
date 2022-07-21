@@ -1,5 +1,5 @@
 ---
-style: St. Catherines Milling & Lumber Co. v R
+style: St. Catherines Milling & Lumber Co. v R (SCC)
 short: St. Catherine's (SCC)
 reporter: '[1887] 13 SCR 577'
 tags:
@@ -12,6 +12,7 @@ tags:
   - title
   - possession
 ---
+
 
 
 
