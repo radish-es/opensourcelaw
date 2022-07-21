@@ -10,7 +10,9 @@ components:
   - title: Elsipogtog First Nation’s Claim to Aboriginal Title
     filename: content/courses/Property/exercises/elsipogtog_aboriginal_title.md
     _template: exercise
-  - _template: case
+  - title: 'Constitution Act, 1982'
+    filename: content/courses/Property/cases/constitution_act_s35.md
+    _template: case
   - _template: module
   - _template: case
   - _template: case
