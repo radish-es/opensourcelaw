@@ -3,7 +3,17 @@ title: Exclusion I
 linktitle: Exclusion I
 type: book
 weight: 6
+components:
+  - title: The Bundle of Sticks
+    filename: content/courses/Property/modules/bundle_sticks.md
+    _template: module
+  - _template: module
+  - _template: case
+  - _template: module
+  - _template: case
+  - _template: case
 ---
+
 
 
 [{{< figure src="/media/fence.jpg" caption="Source: Simon Maage on Unsplash">}}](https://unsplash.com/photos/xw-vvvXq3rA)
