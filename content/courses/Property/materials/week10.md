@@ -3,7 +3,16 @@ title: Alienability
 linktitle: Alienability
 type: book
 weight: 10
+components:
+  - title: Tenures and Estates
+    filename: content/courses/Property/cases/tenures_estates.md
+    _template: case
+  - title: Tenures and Estates
+    _template: module
+  - _template: case
+  - _template: case
 ---
+
 
 Our final topic this term—and in the domain of classical common law thought—is the right to *alienate* property (i.e. the right sell or otherwise transfer it). Recall that we have already encountered alienation and restraints on alienation in the context of Aboriginal title going back to the Royal Proclamation in 1763. As we learn this week, the extent to which landowners can and should be able transfer their property rights to others and to place limits on alienation has long been a central issue in common law property.
 
