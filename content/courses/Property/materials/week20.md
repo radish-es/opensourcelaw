@@ -32,7 +32,9 @@ components:
   - title: Patent as Exclusion
     filename: content/courses/Property/modules/patent_as_exclusion.md
     _template: module
-  - _template: case
+  - title: Monsanto Canada Inc v Schmeiser
+    filename: content/courses/Property/cases/monsanto.md
+    _template: case
   - _template: module
 ---
 
