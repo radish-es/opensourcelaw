@@ -7,7 +7,9 @@ components:
   - title: Aboriginal Title Doctrine
     filename: content/courses/Property/modules/aboriginal_title_four_dimensions.md
     _template: module
-  - _template: exercise
+  - title: Elsipogtog First Nation’s Claim to Aboriginal Title
+    filename: content/courses/Property/exercises/elsipogtog_aboriginal_title.md
+    _template: exercise
   - _template: case
   - _template: module
   - _template: case
@@ -15,6 +17,7 @@ components:
   - _template: module
   - _template: module
 ---
+
 
 This week, we complete our study of Indigenous land rights, with a focus on the common law doctrine of Aboriginal title. We have traced the evolution of that doctrine from the Royal Proclamation in 1763, through *St. Catherine's Milling* in the late nineteenth century and *Calder* and *Guerin* in the late twentieth century. The contemporary path of the Aboriginal title doctrine since those cases has been charted through a combination of constitutional reform, litigation in the courts, and negotiation between Indigenous nations and the Crown. 
 
