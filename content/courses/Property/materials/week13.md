@@ -16,7 +16,9 @@ components:
   - title: Victoria (City) v Adams
     filename: content/courses/Property/cases/victoria_city.md
     _template: case
-  - _template: module
+  - title: The Evolving Right to Shelter
+    filename: content/courses/Property/modules/evolving_right_to_shelter.md
+    _template: module
   - _template: case
 ---
 
