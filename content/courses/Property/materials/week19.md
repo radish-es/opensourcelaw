@@ -13,7 +13,9 @@ components:
   - title: 'Constitution Act, 1982'
     filename: content/courses/Property/cases/constitution_act_s35.md
     _template: case
-  - _template: module
+  - title: Mapping the Doctrine
+    filename: content/courses/Property/modules/mapping_aboriginal_title_doctrine.md
+    _template: module
   - _template: case
   - _template: case
   - _template: module
