@@ -19,7 +19,9 @@ components:
   - title: Public Policy
     filename: content/courses/Property/modules/public_policy.md
     _template: module
-  - _template: case
+  - title: Re Drummond Wren
+    filename: content/courses/Property/cases/drummond.md
+    _template: case
   - _template: case
   - _template: module
 ---
