@@ -16,7 +16,9 @@ components:
   - title: 'Mini-Lecture: Basis of Acquired Rights'
     filename: content/courses/Property/modules/lecture_basis_acquired_rights.md
     _template: module
-  - _template: case
+  - title: Toronto Roman Catholic Separate School Board v Toronto
+    filename: content/courses/Property/cases/schoolboard.md
+    _template: case
   - _template: module
   - _template: case
 ---
