@@ -1,10 +1,9 @@
 ---
-title: ''
+title: Covenants Running in Equity
 short: Courts of Equity
 tags:
   - Week 14
 ---
-
 
 {{% callout warning %}} 
 
@@ -16,8 +15,6 @@ Two aspects of equity are especially relevant to interpreting the reasoning in *
 
 The upshot of all this for understanding *Tulk v Moxhay* is that, by using equitable principles to enforce the restrictive covenant at issue, the Court does not understand itself to be modifying or affecting property rights directly but merely intervening to ensure that a person who purchases servient land with notice of a covenant cannot escape the consequences based on the somewhat formal justification that they were not parties to the original agreement. Because the downstream owner had notice, they implicitly—if not on contractual grounds—agreed to be bound by its terms.
 {{% /callout %}}
-
-### Covenants Running in Equity
 
 {{% callout exercise %}} 
 
