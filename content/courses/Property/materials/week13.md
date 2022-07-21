@@ -19,7 +19,9 @@ components:
   - title: The Evolving Right to Shelter
     filename: content/courses/Property/modules/evolving_right_to_shelter.md
     _template: module
-  - _template: case
+  - title: 'Bamberger v Vancouver '
+    filename: content/courses/Property/cases/bamberger.md
+    _template: case
 ---
 
 {{% callout exercise %}} 
