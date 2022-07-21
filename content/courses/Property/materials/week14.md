@@ -13,10 +13,12 @@ components:
   - title: Tulk v Moxhay
     filename: content/courses/Property/cases/tulk.md
     _template: case
-  - title: Courts of Equity and Equitable Jurisdiction
+  - title: Covenants Running in Equity
     filename: content/courses/Property/modules/courts_of_equity.md
     _template: module
-  - _template: module
+  - title: Covenants Running in Equity
+    filename: content/courses/Property/modules/covenants_running_with_land.md
+    _template: module
   - _template: case
   - _template: case
   - _template: module
