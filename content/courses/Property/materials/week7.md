@@ -16,7 +16,9 @@ components:
   - title: 1752 Treaty of Peace and Friendship
     filename: content/courses/Property/cases/treaty1752.md
     _template: case
-  - _template: module
+  - title: Early Interpretation of the 1752 Treaty
+    filename: content/courses/Property/modules/interpretation_1752_treaty.md
+    _template: module
   - _template: case
   - _template: module
   - _template: module
