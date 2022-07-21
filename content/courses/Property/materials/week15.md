@@ -16,7 +16,9 @@ components:
   - title: Public Policy Revisited
     filename: content/courses/Property/modules/public_policy_revisited.md
     _template: module
-  - _template: case
+  - title: 'Canada Trust Co v Ontario '
+    filename: content/courses/Property/cases/canada_trust.md
+    _template: case
   - _template: case
 ---
 
