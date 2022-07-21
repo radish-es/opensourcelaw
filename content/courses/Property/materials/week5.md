@@ -16,7 +16,9 @@ components:
   - title: Rights of Possessors
     filename: content/courses/Property/modules/possessors_rights.md
     _template: module
-  - _template: case
+  - title: Asher v Whitlock
+    filename: content/courses/Property/cases/asher.md
+    _template: case
   - _template: exercise
   - _template: module
   - _template: case
