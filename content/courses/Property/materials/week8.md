@@ -19,7 +19,9 @@ components:
   - title: Black v Canadian Copper Co
     filename: content/courses/Property/cases/black.md
     _template: case
-  - _template: case
+  - title: Canada Paper Co v Brown
+    filename: content/courses/Property/cases/canada_paper.md
+    _template: case
 ---
 
 
