@@ -22,7 +22,9 @@ components:
   - title: Re Drummond Wren
     filename: content/courses/Property/cases/drummond.md
     _template: case
-  - _template: case
+  - title: Re Noble and Wolf v Alley
+    filename: content/courses/Property/cases/noble.md
+    _template: case
   - _template: module
 ---
 
