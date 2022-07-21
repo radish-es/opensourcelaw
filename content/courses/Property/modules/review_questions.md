@@ -4,6 +4,7 @@ tags:
   - Week 16
 ---
 
+
 The following is a list of "rapid review" questions. I don't suggest that you address them all in full detail. Instead, aim to briefly consider and then attempt to answer each question in around 5 minutes (per question) to gain a broad review of the material. The primary purpose of these questions is to provide a check on your knowledge and understanding of the Unit 3 materials so far and to help you identify areas for more intensive review. 
 
 ### [Week 11 - Land Use Control I (Expropriation)](../week11/)
@@ -63,3 +64,18 @@ The following is a list of "rapid review" questions. I don't suggest that you ad
 - What is the legal relevance of the recitals contained in the trust document in *Canada Trust Co v Ontario*? 
 
 - Why is it significant that the bequest in *McCorkill* is vested rather than contingent? 
+
+
+{{% callout warning %}} 
+
+After you have completed the rapid review questions above, aim to spend some time considering the broader thematic question below.
+
+**Give one or more examples of each of the following judicial moves from the materials in Unit 3:**
+
+- The individual freedoms of property owners and free competition between those interests recedes to the background; public power and demands for social control are drawn into the foreground.
+
+- The relevance of legal distinctions between private and public interests  is explicitly or implicitly contested (or rejected entirely).
+
+- Social consequences of the decision become a primary consideration; formalist reliance on settled principles is diminished.  
+{{% /callout %}}
+
