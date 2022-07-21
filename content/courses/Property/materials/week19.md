@@ -22,7 +22,9 @@ components:
   - title: Tsilhqot’in Nation v British Columbia
     filename: content/courses/Property/cases/tsilhqotin.md
     _template: case
-  - _template: module
+  - title: Duty to Consult
+    filename: content/courses/Property/modules/duty_to_consult.md
+    _template: module
   - _template: module
 ---
 
