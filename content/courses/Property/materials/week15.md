@@ -10,7 +10,8 @@ components:
   - title: Stuartburn (Municipality) v Kiansky
     filename: content/courses/Property/cases/stuartburn.md
     _template: case
-  - title: 'Mini-Lecture: Future and Qualified Interests'
+  - title: Types of Interests
+    filename: content/courses/Property/modules/interests_types.md
     _template: module
   - _template: case
   - _template: case
