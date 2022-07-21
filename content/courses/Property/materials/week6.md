@@ -16,7 +16,9 @@ components:
   - title: St Catherine's Milling SCC
     filename: content/courses/Property/cases/stcatherines_scc.md
     _template: case
-  - _template: case
+  - title: St Catherine's Milling JCPC
+    filename: content/courses/Property/cases/stcatherines_jcpc.md
+    _template: case
 ---
 
 
