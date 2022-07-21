@@ -25,7 +25,9 @@ components:
   - title: Adverse Possession
     filename: content/courses/Property/modules/adverse_possession.md
     _template: module
-  - _template: case
+  - title: Lessees of Lawson et al v Whitman
+    filename: content/courses/Property/cases/lawson.md
+    _template: case
   - _template: case
 ---
 
