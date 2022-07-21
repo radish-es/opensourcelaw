@@ -10,7 +10,9 @@ components:
   - title: Section 7 of the Charter and the Right to Shelter
     filename: content/courses/Property/modules/section_7_right_to_shelter.md
     _template: module
-  - _template: module
+  - title: 'Mini-Lecture: the Right to Shelter in Adams'
+    filename: content/courses/Property/modules/adams_right_to_shelter_lecture.md
+    _template: module
   - _template: case
   - _template: module
   - _template: case
