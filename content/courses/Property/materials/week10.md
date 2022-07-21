@@ -13,7 +13,9 @@ components:
   - title: Re Walker
     filename: content/courses/Property/cases/walker.md
     _template: case
-  - _template: case
+  - title: Blackburn v McCallum
+    filename: content/courses/Property/cases/blackburn.md
+    _template: case
 ---
 
 
