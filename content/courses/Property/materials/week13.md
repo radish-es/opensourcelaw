@@ -7,7 +7,9 @@ components:
   - title: the Right to Shelter in Halifax
     filename: content/courses/Property/exercises/halifax_right_to_shelter.md
     _template: exercise
-  - _template: module
+  - title: Section 7 of the Charter and the Right to Shelter
+    filename: content/courses/Property/modules/section_7_right_to_shelter.md
+    _template: module
   - _template: module
   - _template: case
   - _template: module
