@@ -13,7 +13,9 @@ components:
   - title: Shelfer v City of London Electrical Lighting Co
     filename: content/courses/Property/cases/shelfer.md
     _template: case
-  - _template: module
+  - title: Remedying Nuisance in the Classical Style
+    filename: content/courses/Property/modules/nuisance_classical_style.md
+    _template: module
   - _template: case
   - _template: case
 ---
