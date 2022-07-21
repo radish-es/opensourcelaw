@@ -16,8 +16,8 @@ components:
   - title: Covenants Running in Equity
     filename: content/courses/Property/modules/courts_of_equity.md
     _template: module
-  - title: Covenants Running in Equity
-    filename: content/courses/Property/modules/covenants_running_with_land.md
+  - title: Public Policy
+    filename: content/courses/Property/modules/public_policy.md
     _template: module
   - _template: case
   - _template: case
