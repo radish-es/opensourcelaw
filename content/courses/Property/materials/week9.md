@@ -16,7 +16,9 @@ components:
   - title: 'An Act for Protecting the Public Interest in Rivers, Streams and Creeks'
     filename: content/courses/Property/cases/rivers_and_streams_act.md
     _template: case
-  - _template: case
+  - title: House of Commons Debates
+    filename: content/courses/Property/cases/house_debates.md
+    _template: case
 ---
 
 
