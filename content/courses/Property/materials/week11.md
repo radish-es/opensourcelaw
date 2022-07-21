@@ -16,7 +16,9 @@ components:
   - title: Holmes
     filename: content/courses/Property/cases/holmes.md
     _template: case
-  - _template: module
+  - title: Holmes' Modernism in Practice
+    filename: content/courses/Property/modules/holmes_modernism.md
+    _template: module
   - _template: case
   - _template: module
   - _template: case
