@@ -10,7 +10,9 @@ components:
   - title: Reserve Land Rights and Governance
     filename: content/courses/Property/modules/reserve_land_rights_governance.md
     _template: module
-  - _template: case
+  - title: Indian Act
+    filename: content/courses/Property/cases/indian_act.md
+    _template: case
   - _template: case
   - _template: module
   - _template: module
