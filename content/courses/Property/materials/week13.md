@@ -13,7 +13,9 @@ components:
   - title: 'Mini-Lecture: the Right to Shelter in Adams'
     filename: content/courses/Property/modules/adams_right_to_shelter_lecture.md
     _template: module
-  - _template: case
+  - title: Victoria (City) v Adams
+    filename: content/courses/Property/cases/victoria_city.md
+    _template: case
   - _template: module
   - _template: case
 ---
