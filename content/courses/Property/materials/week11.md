@@ -13,7 +13,9 @@ components:
   - title: De Facto Expropriation and the Modern Legal Style
     filename: content/courses/Property/modules/modern_expropriation.md
     _template: module
-  - _template: case
+  - title: Holmes
+    filename: content/courses/Property/cases/holmes.md
+    _template: case
   - _template: module
   - _template: case
   - _template: module
