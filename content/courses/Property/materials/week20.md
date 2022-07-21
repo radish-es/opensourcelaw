@@ -20,7 +20,9 @@ components:
     filename: >-
       content/courses/Property/modules/expropriation_international_trade_lecture.md
     _template: module
-  - _template: case
+  - title: NAFTA
+    filename: content/courses/Property/cases/nafta.md
+    _template: case
   - _template: case
   - _template: case
   - _template: module
