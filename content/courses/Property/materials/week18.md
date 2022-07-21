@@ -16,7 +16,9 @@ components:
   - title: Airspace Rights
     filename: content/courses/Property/modules/airspace_rights.md
     _template: module
-  - _template: case
+  - title: Didow v Alberta Power Ltd
+    filename: content/courses/Property/cases/didow.md
+    _template: case
 ---
 
 
