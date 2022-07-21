@@ -22,7 +22,9 @@ components:
   - title: Pennsylvania Coal Co. v Mahon
     filename: content/courses/Property/cases/pennsylvania_coal.md
     _template: case
-  - _template: module
+  - title: De Facto Expropriation in Canadian Law
+    filename: content/courses/Property/modules/expropriation_canadian_law.md
+    _template: module
   - _template: case
 ---
 
