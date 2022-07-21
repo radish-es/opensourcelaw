@@ -3,7 +3,16 @@ title: Back to Possession
 linktitle: Back to Possession
 type: book
 weight: 18
+components:
+  - title: Problems of Possession
+    filename: content/courses/Property/exercises/possession_problems.md
+    _template: exercise
+  - _template: module
+  - _template: case
+  - _template: module
+  - _template: case
 ---
+
 
 
 [{{< figure src="/media/baseball.jpg" caption="Source: Damir Spanic on Unsplash">}}](https://unsplash.com/photos/nRd4uayGSK8)
