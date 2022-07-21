@@ -19,7 +19,9 @@ components:
   - title: Indigenous Legal Orders and Housing on Reserve
     filename: content/courses/Property/modules/reserve_housing.md
     _template: module
-  - _template: module
+  - title: Aboriginal Title in the Modern Style
+    filename: content/courses/Property/modules/aboriginal_title_modern_style.md
+    _template: module
 ---
 
 
