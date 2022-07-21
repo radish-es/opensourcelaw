@@ -10,7 +10,9 @@ components:
   - title: Restraints on Alienation
     filename: content/courses/Property/modules/restraints_alienation.md
     _template: module
-  - _template: case
+  - title: Re Walker
+    filename: content/courses/Property/cases/walker.md
+    _template: case
   - _template: case
 ---
 
