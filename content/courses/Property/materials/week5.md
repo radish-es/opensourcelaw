@@ -4,7 +4,9 @@ linktitle: Possession II
 type: book
 weight: 5
 components:
-  - _template: module
+  - title: Land Title and Possession in African Nova Scotian Communities
+    filename: content/courses/Property/modules/ANS_title_possession.md
+    _template: module
   - _template: case
   - _template: case
   - _template: module
@@ -14,6 +16,7 @@ components:
   - _template: case
   - _template: case
 ---
+
 
 [{{< figure src="/media/ltca.jpg" caption="Edited from *Plan Showing LTCA Land Title Clarification Areas*">}}](https://novascotia.ca/natr/titles-clarification/pdf/NovaScotiaLTCA.pdf)
 
