@@ -1,5 +1,5 @@
 ---
-style: 'McLaren v Caldwell et al '
+style: McLaren v Caldwell et al (CA)
 short: McLaren (CA)
 reporter: '(1881), 6 OAR 456 (CA)'
 tags:
@@ -8,6 +8,7 @@ tags:
   - industry
   - expropriation
 ---
+
 
 
 
