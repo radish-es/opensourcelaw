@@ -22,6 +22,7 @@ components:
 ---
 
 
+
 Last week, we saw that remedies in nuisance are one legal tool used by property owners—with mixed success—to stop their neighbours from adversely affecting use and enjoyment of the owner's land. Nuisance, in other words, is one means to exclude others from doing something that limits owners' freedom related to property. This means of exclusion, however, unavoidably limits the freedom of others to use their land as they choose. In these cases, the courts must choose not only whose rights should win out but also find some way to address the fundamental dilemma of conflicting freedoms inherent in legal liberalism. 
 
 In other cases—like the one we will study this week—it is not a neighbouring landowner who is accused of infringing the plaintiff's property rights, but the state itself. This type of claim engages the state's power of *expropriation* (power to take away property rights)—in some contexts, called the power of *eminent domain*.  
@@ -36,6 +37,8 @@ A crucial moment in the history of Anglo-Canadian legal thinking on issues of ex
 
 
 {{% callout warning %}} 
+
+### A Brief Primer on Common Law Water Rights
 
 Common law water rights are a complex topic in their own right and tend to vary by province — we will only skim the surface here. In order to understand the setting for *McLaren v Caldwell*, below, a few basic concepts applicable to rivers in Ontario are relevant.
 
