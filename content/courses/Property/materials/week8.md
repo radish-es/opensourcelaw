@@ -16,7 +16,9 @@ components:
   - title: Remedying Nuisance in the Classical Style
     filename: content/courses/Property/modules/nuisance_classical_style.md
     _template: module
-  - _template: case
+  - title: Black v Canadian Copper Co
+    filename: content/courses/Property/cases/black.md
+    _template: case
   - _template: case
 ---
 
