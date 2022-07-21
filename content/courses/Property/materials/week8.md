@@ -24,9 +24,6 @@ components:
     _template: case
 ---
 
-
-
-
 [{{< figure src="/media/fence.jpg" caption="Source: Simon Maage on Unsplash">}}](https://unsplash.com/photos/xw-vvvXq3rA)
 
 So far in Unit 2 we have been focused on how classical legal thought addressed questions of possession and title. We now turn to a second prominent topic in the classical period—one that mainly addresses the *content* of property rights held by owners or those in possession. 
