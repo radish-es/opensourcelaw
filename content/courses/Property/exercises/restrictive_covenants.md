@@ -1,8 +1,9 @@
 ---
-title: 'Problem: Restrictive Covenants '
+title: 'Restrictive Covenants '
 tags:
   - Week 14
 ---
+
 
 {{< figure src="/media/housing_sign.jpg" caption="Sign on a traffic post at the Robie Street / Willow Tree intersection in Halifax." >}}
 
