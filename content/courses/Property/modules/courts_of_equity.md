@@ -5,6 +5,7 @@ tags:
   - Week 14
 ---
 
+
 {{% callout warning %}} 
 
 ### Courts of Equity and Equitable Jurisdiction
@@ -18,7 +19,7 @@ The upshot of all this for understanding *Tulk v Moxhay* is that, by using equit
 
 {{% callout exercise %}} 
 
-#### Mini-Lecture: Burdens and Benefits Running with the Land
+### Mini-Lecture: Burdens and Benefits Running with the Land
 
 {{< vimeo 671486180 >}}
 {{% /callout %}}
