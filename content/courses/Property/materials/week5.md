@@ -19,7 +19,9 @@ components:
   - title: Asher v Whitlock
     filename: content/courses/Property/cases/asher.md
     _template: case
-  - _template: exercise
+  - title: Parking Chairs
+    filename: content/courses/Property/exercises/parking_chairs.md
+    _template: exercise
   - _template: module
   - _template: case
   - _template: case
