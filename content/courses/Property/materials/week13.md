@@ -2,7 +2,16 @@
 title: Homelessness and the Right to Shelter
 linktitle: Homelessness and the Right to Shelter
 type: book
-weight: 11
+weight: 13
+components:
+  - title: the Right to Shelter in Halifax
+    filename: content/courses/Property/exercises/halifax_right_to_shelter.md
+    _template: exercise
+  - _template: module
+  - _template: module
+  - _template: case
+  - _template: module
+  - _template: case
 ---
 
 {{% callout exercise %}} 
