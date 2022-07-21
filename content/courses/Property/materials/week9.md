@@ -10,7 +10,9 @@ components:
   - title: McLaren v Caldwell (CA)
     filename: content/courses/Property/cases/mclaren_oca.md
     _template: case
-  - _template: case
+  - title: McLaren v Caldwell (SCC)
+    filename: content/courses/Property/cases/mclaren_scc.md
+    _template: case
   - _template: case
   - _template: case
 ---
