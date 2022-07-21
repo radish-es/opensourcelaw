@@ -25,7 +25,9 @@ components:
   - title: Re Noble and Wolf v Alley
     filename: content/courses/Property/cases/noble.md
     _template: case
-  - _template: module
+  - title: Sources of Public Policy
+    filename: content/courses/Property/modules/public_policy_sources.md
+    _template: module
 ---
 
 
