@@ -7,7 +7,9 @@ components:
   - title: Royal Proclamation
     filename: content/courses/Property/cases/royal_proclamation.md
     _template: case
-  - _template: module
+  - title: The *St Catherine's Milling* Case
+    filename: content/courses/Property/modules/st_catherines_milling_intro.md
+    _template: module
   - _template: case
 ---
 
