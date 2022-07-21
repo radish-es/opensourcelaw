@@ -4,9 +4,6 @@ linktitle: Exclusion I
 type: book
 weight: 8
 components:
-  - title: The Bundle of Sticks
-    filename: content/courses/Property/modules/bundle_sticks.md
-    _template: module
   - title: Nuisance Law in an Industrializing Canada
     filename: content/courses/Property/modules/nuisance_industrial_canada.md
     _template: module
@@ -23,6 +20,7 @@ components:
     filename: content/courses/Property/cases/canada_paper.md
     _template: case
 ---
+
 
 
 [{{< figure src="/media/fence.jpg" caption="Source: Simon Maage on Unsplash">}}](https://unsplash.com/photos/xw-vvvXq3rA)
