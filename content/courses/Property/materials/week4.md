@@ -3,6 +3,10 @@ title: Possession I
 linktitle: Possession I
 type: book
 weight: 4
+components:
+  - title: Locke
+    filename: content/courses/Property/modules/first_possession_wild_animals.md
+    _template: module
 ---
 
 [{{< figure src="/media/acorn.jpg" caption="Source: Katie Oh on Unsplash">}}](https://unsplash.com/photos/1SOSZE1Dops)
