@@ -3,7 +3,19 @@ title: Restrictive Covenants
 linktitle: Restrictive Covenants
 type: book
 weight: 14
+components:
+  - title: Restrictive Covenants
+    filename: content/courses/Property/exercises/restrictive_covenants.md
+    _template: exercise
+  - _template: module
+  - _template: case
+  - _template: module
+  - _template: module
+  - _template: case
+  - _template: case
+  - _template: module
 ---
+
 
 {{% callout exercise %}} 
 
