@@ -13,7 +13,9 @@ components:
   - title: Popov v Hayashi
     filename: content/courses/Property/cases/popov.md
     _template: case
-  - _template: module
+  - title: Airspace Rights
+    filename: content/courses/Property/modules/airspace_rights.md
+    _template: module
   - _template: case
 ---
 
