@@ -19,7 +19,9 @@ components:
   - title: Toronto Roman Catholic Separate School Board v Toronto
     filename: content/courses/Property/cases/schoolboard.md
     _template: case
-  - _template: module
+  - title: Scope of Acquired Rights
+    filename: content/courses/Property/modules/acquired_rights_scope.md
+    _template: module
   - _template: case
 ---
 
