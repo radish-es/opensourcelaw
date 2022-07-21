@@ -16,7 +16,9 @@ components:
   - title: Guerin v R
     filename: content/courses/Property/cases/guerin.md
     _template: case
-  - _template: module
+  - title: Indigenous Legal Orders and Housing on Reserve
+    filename: content/courses/Property/modules/reserve_housing.md
+    _template: module
   - _template: module
 ---
 
