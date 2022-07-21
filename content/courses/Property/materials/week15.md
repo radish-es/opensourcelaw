@@ -3,7 +3,16 @@ title: Qualified Interests
 linktitle: Qualified Interests
 type: book
 weight: 15
+components:
+  - title: A Testamentary Bequest
+    filename: content/courses/Property/exercises/testamentary_bequest.md
+    _template: exercise
+  - _template: case
+  - _template: module
+  - _template: case
+  - _template: case
 ---
+
 
 
 {{% callout exercise %}} 
