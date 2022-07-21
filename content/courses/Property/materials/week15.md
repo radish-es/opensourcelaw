@@ -19,7 +19,9 @@ components:
   - title: 'Canada Trust Co v Ontario '
     filename: content/courses/Property/cases/canada_trust.md
     _template: case
-  - _template: case
+  - title: McCorkill v McCorkill Estate
+    filename: content/courses/Property/cases/mccorkill.md
+    _template: case
 ---
 
 
