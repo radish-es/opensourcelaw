@@ -7,7 +7,9 @@ components:
   - title: Restrictive Covenants
     filename: content/courses/Property/exercises/restrictive_covenants.md
     _template: exercise
-  - _template: module
+  - title: Covenants “Running with the Land”
+    filename: content/courses/Property/modules/covenants_running_with_land.md
+    _template: module
   - _template: case
   - _template: module
   - _template: module
