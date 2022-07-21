@@ -10,7 +10,9 @@ components:
   - title: Revisiting Blue Mountain-Birch Cove
     filename: content/courses/Property/exercises/blue_mountain_revisited.md
     _template: exercise
-  - _template: module
+  - title: 'Mini-Lecture: Canadian Pacific Railway v Vancouver'
+    filename: content/courses/Property/modules/cpr_lecture.md
+    _template: module
   - _template: case
   - _template: module
   - _template: case
