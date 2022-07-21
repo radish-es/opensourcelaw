@@ -19,7 +19,9 @@ components:
   - title: Early Interpretation of the 1752 Treaty
     filename: content/courses/Property/modules/interpretation_1752_treaty.md
     _template: module
-  - _template: case
+  - title: R v Syliboy
+    filename: content/courses/Property/cases/syliboy.md
+    _template: case
   - _template: module
   - _template: module
 ---
