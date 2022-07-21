@@ -2,7 +2,7 @@
 title: Exclusion I
 linktitle: Exclusion I
 type: book
-weight: 6
+weight: 8
 components:
   - title: The Bundle of Sticks
     filename: content/courses/Property/modules/bundle_sticks.md
@@ -23,6 +23,7 @@ components:
     filename: content/courses/Property/cases/canada_paper.md
     _template: case
 ---
+
 
 
 
