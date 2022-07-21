@@ -13,7 +13,9 @@ components:
   - title: 'Mini-Lecture: Canadian Pacific Railway v Vancouver'
     filename: content/courses/Property/modules/cpr_lecture.md
     _template: module
-  - _template: case
+  - title: Canadian Pacific Railway v Vancouver
+    filename: content/courses/Property/cases/cpr.md
+    _template: case
   - _template: module
   - _template: case
   - _template: case
