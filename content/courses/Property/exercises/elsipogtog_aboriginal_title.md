@@ -1,9 +1,10 @@
 ---
-title: 'Case Study: Elsipogtog First Nation''s Claim to Aboriginal Title '
+title: 'Elsipogtog First Nation''s Claim to Aboriginal Title '
 short: ''
 tags:
   - Week 19
 ---
+
 
 In November 2016, Elsipogtog First Nation filed a Notice of Action and Statement of Claim in the New Brunswick Court of Queen's Bench. The following quotes from the press release issued by Elsipogtog in advance of that filing:
 
