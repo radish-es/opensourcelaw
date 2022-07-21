@@ -1,9 +1,10 @@
 ---
-title: 'Case Study: the Membertou First Nation''s Transition to the *FNLMA*'
+title: the Membertou First Nation's Transition to the *FNLMA*
 short: Membertou First Nation and the *FNLMA*
 tags:
   - Week 17
 ---
+
 
 Please read [this CBC News article,](https://www.cbc.ca/news/politics/indian-act-horrible-existence-senator-christmas-1.4149551) in which Senator Dan Christmas, the first Mi'kmaq member of the Canadian Senate, describes some of the challenges the Membertou First Nation has faced with respect to lands governance under the federal *Indian Act* and how his community has responded to these challenges. 
 
