@@ -1,9 +1,10 @@
 ---
-title: 'Problem: A Testamentary Bequest'
+title: A Testamentary Bequest
 short: Testamentary Bequest
 tags:
   - Week 15
 ---
+
 
 {{% callout exercise %}} 
 
