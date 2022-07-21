@@ -7,7 +7,9 @@ components:
   - title: 'Mini-Lecture: Recap from Week 11'
     filename: content/courses/Property/modules/w11recap_lecture.md
     _template: module
-  - _template: module
+  - title: Introduction to Acquired Rights
+    filename: content/courses/Property/modules/acquired_rights.md
+    _template: module
   - _template: exercise
   - _template: module
   - _template: case
