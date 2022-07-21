@@ -1,11 +1,14 @@
 ---
-title: 'Review: The Classical Approach to Expropriation'
+title: ''
 short: Classical Expropriation
 tags:
   - Week 11
 ---
 
+
 {{% callout warning %}} 
+
+### Review: The Classical Approach to Expropriation
 
 Before you read and listen to the new material below, recall the case of *McLaren v Caldwell* from Week 9. In that case, the courts attempted to decide whether or not legislation passed in Ontario gave the public a right to float logs down non-navigable (and therefore "privately owned") streams. 
 
