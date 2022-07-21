@@ -16,7 +16,9 @@ components:
   - title: Mapping the Doctrine
     filename: content/courses/Property/modules/mapping_aboriginal_title_doctrine.md
     _template: module
-  - _template: case
+  - title: Delgamuukw v. British Columbia
+    filename: content/courses/Property/cases/delgamuukw.md
+    _template: case
   - _template: case
   - _template: module
   - _template: module
