@@ -13,7 +13,9 @@ components:
   - title: Short-Term Rentals in HRM
     filename: content/courses/Property/exercises/hrm_short_term_rentals.md
     _template: exercise
-  - _template: module
+  - title: 'Mini-Lecture: Basis of Acquired Rights'
+    filename: content/courses/Property/modules/lecture_basis_acquired_rights.md
+    _template: module
   - _template: case
   - _template: module
   - _template: case
