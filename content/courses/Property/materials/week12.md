@@ -4,7 +4,9 @@ linktitle: Land Use Control II
 type: book
 weight: 10
 components:
-  - _template: module
+  - title: 'Mini-Lecture: Recap from Week 11'
+    filename: content/courses/Property/modules/w11recap_lecture.md
+    _template: module
   - _template: module
   - _template: exercise
   - _template: module
@@ -12,4 +14,5 @@ components:
   - _template: module
   - _template: case
 ---
+
 
