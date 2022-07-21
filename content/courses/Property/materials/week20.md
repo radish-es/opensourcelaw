@@ -26,7 +26,9 @@ components:
   - title: Metalclad Corporation v The United Mexican States
     filename: content/courses/Property/cases/metalclad.md
     _template: case
-  - _template: case
+  - title: CUSMA
+    filename: content/courses/Property/cases/cusma.md
+    _template: case
   - _template: module
   - _template: case
   - _template: module
