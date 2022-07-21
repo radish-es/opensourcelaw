@@ -10,7 +10,9 @@ components:
   - title: 'Review: The Classical Approach to Expropriation'
     filename: content/courses/Property/modules/classical_expropriation_review.md
     _template: module
-  - _template: module
+  - title: De Facto Expropriation and the Modern Legal Style
+    filename: content/courses/Property/modules/modern_expropriation.md
+    _template: module
   - _template: case
   - _template: module
   - _template: case
