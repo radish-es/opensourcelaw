@@ -10,7 +10,9 @@ components:
   - title: Covenants “Running with the Land”
     filename: content/courses/Property/modules/covenants_running_with_land.md
     _template: module
-  - _template: case
+  - title: Tulk v Moxhay
+    filename: content/courses/Property/cases/tulk.md
+    _template: case
   - _template: module
   - _template: module
   - _template: case
