@@ -1,5 +1,5 @@
 ---
-style: 'St. Catherine’s Milling Co v R '
+style: St. Catherine’s Milling Co v R (HC)
 short: St. Catherine's (HC)
 reporter: '(1886), 10 OR 196 (HC)'
 tags:
@@ -11,6 +11,7 @@ tags:
   - title
   - possession
 ---
+
 
 
 
