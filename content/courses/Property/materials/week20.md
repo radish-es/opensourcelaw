@@ -29,7 +29,9 @@ components:
   - title: CUSMA
     filename: content/courses/Property/cases/cusma.md
     _template: case
-  - _template: module
+  - title: Patent as Exclusion
+    filename: content/courses/Property/modules/patent_as_exclusion.md
+    _template: module
   - _template: case
   - _template: module
 ---
