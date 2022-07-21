@@ -1,5 +1,5 @@
 ---
-style: St. Catherine’s Milling & Lumber Co. v R
+style: St. Catherine’s Milling & Lumber Co. v R (JCPC)
 short: St. Catherine's (JCPC)
 reporter: '[1888] UKPC 70 (JCPC)'
 tags:
@@ -11,6 +11,7 @@ tags:
   - title
   - possession
 ---
+
 
 
 
