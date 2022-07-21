@@ -7,7 +7,9 @@ components:
   - title: Peace and Friendship Treaties
     filename: content/courses/Property/modules/peace_friendship_treaties.md
     _template: module
-  - _template: case
+  - title: Treaty of 1725
+    filename: content/courses/Property/cases/treaty1725.md
+    _template: case
   - _template: module
   - _template: case
   - _template: module
