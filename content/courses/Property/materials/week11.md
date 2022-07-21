@@ -25,7 +25,9 @@ components:
   - title: De Facto Expropriation in Canadian Law
     filename: content/courses/Property/modules/expropriation_canadian_law.md
     _template: module
-  - _template: case
+  - title: Mariner Real Estate Ltd v Nova Scotia
+    filename: content/courses/Property/cases/mariner.md
+    _template: case
 ---
 
 This week, which begins Unit 3, we move away from the classical period of legal reasoning we studied last term and into the second style of liberal legal thought we'll confront in the course: the *modern style*. To do so, we will return to a topic we analyzed in Week 9—the field of expropriation and the extent to which property owners can exclude the state from taking away or otherwise interfering with "their" property rights. 
