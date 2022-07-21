@@ -10,7 +10,9 @@ components:
   - title: Treaty of 1725
     filename: content/courses/Property/cases/treaty1725.md
     _template: case
-  - _template: module
+  - title: The British Settlement of Halifax (1749)
+    filename: content/courses/Property/modules/british_settlement_halifax.md
+    _template: module
   - _template: case
   - _template: module
   - _template: case
