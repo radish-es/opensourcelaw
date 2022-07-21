@@ -1,5 +1,5 @@
 ---
-style: ictoria (City) v Adams
+style: Victoria (City) v Adams
 short: Victoria (City)
 reporter: 2008 BCSC 1363
 tags:
@@ -9,6 +9,7 @@ tags:
   - homelessness
   - right to shelter
 ---
+
 
 ### Ross J. —
 
