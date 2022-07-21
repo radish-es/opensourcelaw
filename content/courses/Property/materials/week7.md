@@ -13,7 +13,9 @@ components:
   - title: The British Settlement of Halifax (1749)
     filename: content/courses/Property/modules/british_settlement_halifax.md
     _template: module
-  - _template: case
+  - title: 1752 Treaty of Peace and Friendship
+    filename: content/courses/Property/cases/treaty1752.md
+    _template: case
   - _template: module
   - _template: case
   - _template: module
