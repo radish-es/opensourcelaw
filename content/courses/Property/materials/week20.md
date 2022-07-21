@@ -16,7 +16,10 @@ components:
   - title: Canadian Pacific Railway v Vancouver
     filename: content/courses/Property/cases/cpr.md
     _template: case
-  - _template: module
+  - title: 'Mini-Lecture: De Facto Expropriation and International Trade'
+    filename: >-
+      content/courses/Property/modules/expropriation_international_trade_lecture.md
+    _template: module
   - _template: case
   - _template: case
   - _template: case
