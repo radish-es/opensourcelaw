@@ -7,7 +7,9 @@ components:
   - title: Land Title and Possession in African Nova Scotian Communities
     filename: content/courses/Property/modules/ANS_title_possession.md
     _template: module
-  - _template: case
+  - title: Land Titles Clarification Act
+    filename: content/courses/Property/cases/ltca.md
+    _template: case
   - _template: case
   - _template: module
   - _template: case
