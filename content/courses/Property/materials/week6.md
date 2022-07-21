@@ -10,7 +10,7 @@ components:
   - title: The *St Catherine's Milling* Case
     filename: content/courses/Property/modules/st_catherines_milling_intro.md
     _template: module
-  - title: St Catherine's Milling
+  - title: St Catherine's Milling HC
     filename: content/courses/Property/cases/stcatherines_hc.md
     _template: case
   - title: St Catherine's Milling SCC
