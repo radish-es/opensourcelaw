@@ -11,8 +11,7 @@ tags:
   - one
 ---
 
-
-### Dickson J 
+### Dickson J. —
 
 The respondent, Sophie Carswell, was charged under *The Petty Trespasses Act*, R.S.M. 1970, c. P50, with four offences (one on each of four days) of unlawfully trespassing upon the premises of the Fairview Corporation Limited, trading under the firm name and style of Polo Park Shopping Centre, located in the City of Winnipeg, after having been requested by the owner not to enter on or come upon the premises. The appellant, Peter Harrison, manager of Polo Park Shopping Centre, swore the informations. The charges were dismissed by the Provincial Judge but on a trial de novo in the County Court Mrs. Carswell was convicted and fined $10 on each of the charges. The convictions were set aside by the Manitoba Court of Appeal [1974] 4 W.W.R. 394 (Freedman C.J.M. and Matas J.A., with Guy J.A. dissenting) and the present appeal followed by leave of this Court.
 
@@ -76,7 +75,7 @@ I would allow the appeal, set aside the judgment of the Court of Appeal for Mani
 
 </div>
 
-**Laskin CJC.** (dissenting) (*Spence* and *Beetz JJ.* concurring) —
+### Laskin C.J.C. (dissenting) (Spence and Beetz J.J. concurring) —
 
 <div id="red"><span id="red_2"></span>
 
