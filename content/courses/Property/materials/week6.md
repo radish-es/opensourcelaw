@@ -3,7 +3,14 @@ title: Possession III
 linktitle: Possession III
 type: book
 weight: 3
+components:
+  - title: Royal Proclamation
+    filename: content/courses/Property/cases/royal_proclamation.md
+    _template: case
+  - _template: module
+  - _template: case
 ---
+
 
 In Weeks 4 and 5, we looked at the essential role that possession plays in common law thinking about property. We now turn to the doctrine of Aboriginal title and examine how the common law began to interpret Indigenous land rights in the classical style.
 
