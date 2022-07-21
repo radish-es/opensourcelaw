@@ -1,17 +1,13 @@
 ---
-style: Jeremy Sheff
-short: Tenures and Estates
-reporter: >-
-  “Estates and Future Interests” in Stephen Clowney, James Grimmelmann, Michael
-  Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., Open Source Property: A
-  Free Casebook (2015)
+style: Tenures and Estates
+short: ''
+reporter: ''
 tags:
   - underlying title
   - title
   - estates
   - wills
 ---
-
 
 *From Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., [Open Source Property: A Free Casebook](https://opensourceproperty.org) (2015).*
 
