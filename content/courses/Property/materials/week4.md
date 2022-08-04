@@ -4,6 +4,9 @@ linktitle: Possession I
 type: book
 weight: 4
 components:
+  - title: Locke and Colonialism
+    filename: content/courses/Property/exercises/locke_colonialism.md
+    _template: exercise
   - title: Possession in Wild animals
     filename: content/courses/Property/modules/possession_wild_animals.md
     _template: module
@@ -17,6 +20,7 @@ components:
     filename: content/courses/Property/cases/clift.md
     _template: case
 ---
+
 
 
 [{{< figure src="/media/acorn.jpg" caption="Source: Katie Oh on Unsplash">}}](https://unsplash.com/photos/1SOSZE1Dops)
