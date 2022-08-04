@@ -4,9 +4,6 @@ linktitle: Land Use Control I
 type: book
 weight: 11
 components:
-  - title: Mariner's De Facto Expropriation Test
-    filename: content/courses/Property/exercises/defacto_expropriation.md
-    _template: exercise
   - title: Blue Mountain-Birch Cove Lakes
     filename: content/courses/Property/exercises/blue_mountain.md
     _template: exercise
@@ -31,6 +28,9 @@ components:
   - title: Mariner Real Estate Ltd v Nova Scotia
     filename: content/courses/Property/cases/mariner.md
     _template: case
+  - title: Mariner's De Facto Expropriation Test
+    filename: content/courses/Property/exercises/defacto_expropriation.md
+    _template: exercise
 ---
 
 
