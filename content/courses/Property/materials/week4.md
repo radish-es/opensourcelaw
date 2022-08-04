@@ -4,6 +4,9 @@ linktitle: Possession I
 type: book
 weight: 4
 components:
+  - title: Rules for First Possession
+    filename: content/courses/Property/exercises/first_possession_rules.md
+    _template: exercise
   - title: Locke and Colonialism
     filename: content/courses/Property/exercises/locke_colonialism.md
     _template: exercise
@@ -20,6 +23,7 @@ components:
     filename: content/courses/Property/cases/clift.md
     _template: case
 ---
+
 
 
 
