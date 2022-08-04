@@ -13,6 +13,9 @@ components:
   - title: Types of Interests
     filename: content/courses/Property/modules/interests_types.md
     _template: module
+  - title: Identifying Estates in Land
+    filename: content/courses/Property/exercises/estates.md
+    _template: exercise
   - title: Public Policy Revisited
     filename: content/courses/Property/modules/public_policy_revisited.md
     _template: module
@@ -23,6 +26,7 @@ components:
     filename: content/courses/Property/cases/mccorkill.md
     _template: case
 ---
+
 
 
 
