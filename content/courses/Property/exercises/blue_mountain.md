@@ -1,9 +1,10 @@
 ---
-title: 'Problem: Blue Mountain-Birch Cove Lakes '
+title: 'Blue Mountain-Birch Cove Lakes '
 short: Blue Mountain
 tags:
   - Week 11
 ---
+
 
 {{< figure src="/media/blue_mountain.jpg" caption="Irwin Barrett - Ecology Action Centre" >}}
 
