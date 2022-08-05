@@ -4,6 +4,9 @@ linktitle: Possession I
 type: book
 weight: 4
 components:
+  - title: Abandonment
+    filename: content/courses/Property/modules/abandonment.md
+    _template: module
   - title: Rules for First Possession
     filename: content/courses/Property/exercises/first_possession_rules.md
     _template: exercise
@@ -23,6 +26,7 @@ components:
     filename: content/courses/Property/cases/clift.md
     _template: case
 ---
+
 
 
 
