@@ -4,12 +4,13 @@ linktitle: Possession II
 type: book
 weight: 5
 objectives:
+  - objective: 'Understand the difference between "possession" and "title" '
+    explanation: as well as the historical role of "seisen.
   - objective: Briefly describe the history of African Nova Scotian land settlement
     explanation: >-
       especially the significance of possessory interests and the context around
       the denial of formal titles.
-  - objective: 'Understand the difference between "possession" and "title" '
-    explanation: as well as the historical role of "seisen.
+  - objective: Explain the "relative" nature of common law possession
 components:
   - title: Land Title and Possession in African Nova Scotian Communities
     filename: content/courses/Property/modules/ANS_title_possession.md
