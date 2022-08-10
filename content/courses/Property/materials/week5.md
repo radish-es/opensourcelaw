@@ -13,6 +13,8 @@ objectives:
   - objective: Explain the "relative" nature of common law possession
   - objective: Identify and interpret the common law rule of possession in land
     explanation: and link this to the relative nature of possession and title.
+  - objective: Discuss the basis for claims to adverse possession
+    explanation: and link this to the relationship between possession and title.
 components:
   - title: Land Title and Possession in African Nova Scotian Communities
     filename: content/courses/Property/modules/ANS_title_possession.md
