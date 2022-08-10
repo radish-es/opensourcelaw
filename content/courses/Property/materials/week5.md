@@ -3,6 +3,11 @@ title: Possession II
 linktitle: Possession II
 type: book
 weight: 5
+objectives:
+  - objective: Briefly describe the history of African Nova Scotian land settlement
+    explanation: >-
+      especially the significance of possessory interests and the context around
+      the denial of formal titles.
 components:
   - title: Land Title and Possession in African Nova Scotian Communities
     filename: content/courses/Property/modules/ANS_title_possession.md
@@ -32,6 +37,7 @@ components:
     filename: content/courses/Property/cases/downey.md
     _template: case
 ---
+
 
 
 [{{< figure src="/media/ltca.jpg" caption="Edited from *Plan Showing LTCA Land Title Clarification Areas*">}}](https://novascotia.ca/natr/titles-clarification/pdf/NovaScotiaLTCA.pdf)
