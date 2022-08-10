@@ -11,6 +11,8 @@ objectives:
       especially the significance of possessory interests and the context around
       the denial of formal titles.
   - objective: Explain the "relative" nature of common law possession
+  - objective: Identify and interpret the common law rule of possession in land
+    explanation: and link this to the relative nature of possession and title.
 components:
   - title: Land Title and Possession in African Nova Scotian Communities
     filename: content/courses/Property/modules/ANS_title_possession.md
