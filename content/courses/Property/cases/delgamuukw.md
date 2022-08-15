@@ -11,7 +11,14 @@ tags:
   - Aboriginal title
   - title
   - colonialism
+sources:
+  - source_name: CanLII
+    license: 'https://www.canlii.org/en/info/terms.html#license'
+    attribution: >-
+      Case excerpted from [CanLII](https://www.canlii.org/en/),
+      https://canlii.ca/t/1fqz8. Not an official version.
 ---
+
 
 ### II. Facts
 
