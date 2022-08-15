@@ -11,7 +11,14 @@ tags:
   - fiduciary relationship
   - colonialism
   - Aboriginal title
+sources:
+  - source_name: CanLII
+    license: 'https://www.canlii.org/en/info/terms.html#license'
+    attribution: >-
+      Case excerpted from [CanLII](https://www.canlii.org/en/),
+      https://canlii.ca/t/1lpfn. Not an official version.
 ---
+
 
 
 [*This case concerns the lease of valuable reserve lands situated within the geographical boundaries of the City of Vancouver. In 1957, members of the Musqueam Indian Band voted to "surrender" 162 acres of their reserve lands to the federal Crown on the understanding that these lands would in turn be leased by the Crown to the Shaughnessy Heights Golf Club for use as a golf course. Rents and other benefits from this lease were to be paid to band. The final terms on which the Crown ultimately leased the lands to Shaughnessy Heights, however, were very unfavourable to the band. The Chief and Councillors of the Musqueam Indian Band sued the Crown for breach of trust and damages in the amount of $10,000,000.*]
