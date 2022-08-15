@@ -5,7 +5,11 @@ tags:
   - treaties
   - Aboriginal title
   - colonialism
+sources:
+  - license: 'https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/page-1.html'
+    attribution: Not an official version.
 ---
+
 
 35. (1) The existing aboriginal and treaty rights of the aboriginal peoples of Canada are hereby recognized and affirmed.
 
