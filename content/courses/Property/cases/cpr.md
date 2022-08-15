@@ -16,9 +16,10 @@ sources:
   - source_name: CanLII
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: >-
-      Case excerpted from [CanLii](https://www.canlii.org/en/),
+      Case excerpted from [CanLII](https://www.canlii.org/en/),
       https://canlii.ca/t/1mm2r. Not an official version.
 ---
+
 
 
 ### McLachlin C.J.C. —
