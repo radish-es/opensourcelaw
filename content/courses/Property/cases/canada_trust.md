@@ -15,10 +15,11 @@ sources:
     license: >-
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: >-
-      Case excerpted from [CanLii](https://www.canlii.org/en/),
+      Case excerpted from [CanLII](https://www.canlii.org/en/),
       https://canlii.ca/t/g186s. © Queen’s Printer for Ontario, 1990. Not an
       official version.
 ---
+
 
 
 ### Robins J.A. (Osler J. (ad hoc) concurring) —
