@@ -6,7 +6,15 @@ tags:
   - title
   - adverse possession
   - possession
+public: true
+sources:
+  - source_name: CanLII
+    license: 'https://www.canlii.org/en/info/terms.html#license'
+    attribution: >-
+      Case excerpted from [CanLII](https://www.canlii.org/en/),
+      https://canlii.ca/t/gw5tl.
 ---
+
 
 Case adapted from [CanLII](https://www.canlii.org/en/), https://canlii.ca/t/gw5tl. 
 
