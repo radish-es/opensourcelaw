@@ -267,12 +267,21 @@ export type MaterialsConnection = Connection & {
   edges?: Maybe<Array<Maybe<MaterialsConnectionEdges>>>;
 };
 
+export type CasesSources = {
+  __typename?: 'CasesSources';
+  source_name?: Maybe<Scalars['String']>;
+  license?: Maybe<Scalars['String']>;
+  attribution?: Maybe<Scalars['String']>;
+};
+
 export type Cases = {
   __typename?: 'Cases';
   style?: Maybe<Scalars['String']>;
   short?: Maybe<Scalars['String']>;
   reporter?: Maybe<Scalars['String']>;
   tags?: Maybe<Array<Maybe<Scalars['String']>>>;
+  public?: Maybe<Scalars['Boolean']>;
+  sources?: Maybe<Array<Maybe<CasesSources>>>;
   body?: Maybe<Scalars['String']>;
 };
 
@@ -495,11 +504,19 @@ export type MaterialsMutation = {
   components?: InputMaybe<Array<InputMaybe<MaterialsComponentsMutation>>>;
 };
 
+export type CasesSourcesMutation = {
+  source_name?: InputMaybe<Scalars['String']>;
+  license?: InputMaybe<Scalars['String']>;
+  attribution?: InputMaybe<Scalars['String']>;
+};
+
 export type CasesMutation = {
   style?: InputMaybe<Scalars['String']>;
   short?: InputMaybe<Scalars['String']>;
   reporter?: InputMaybe<Scalars['String']>;
   tags?: InputMaybe<Array<InputMaybe<Scalars['String']>>>;
+  public?: InputMaybe<Scalars['Boolean']>;
+  sources?: InputMaybe<Array<InputMaybe<CasesSourcesMutation>>>;
   body?: InputMaybe<Scalars['String']>;
 };
 
@@ -519,7 +536,7 @@ export type ExercisesMutation = {
 
 export type MaterialsPartsFragment = { __typename?: 'Materials', title?: string | null, linktitle?: string | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | { __typename: 'MaterialsComponentsExercise', title?: string | null, filename?: { __typename?: 'ExercisesDocument', id: string } | null } | null> | null };
 
-export type CasesPartsFragment = { __typename?: 'Cases', style?: string | null, short?: string | null, reporter?: string | null, tags?: Array<string | null> | null, body?: string | null };
+export type CasesPartsFragment = { __typename?: 'Cases', style?: string | null, short?: string | null, reporter?: string | null, tags?: Array<string | null> | null, public?: boolean | null, body?: string | null, sources?: Array<{ __typename: 'CasesSources', source_name?: string | null, license?: string | null, attribution?: string | null } | null> | null };
 
 export type ModulesPartsFragment = { __typename?: 'Modules', title?: string | null, short?: string | null, tags?: Array<string | null> | null, body?: string | null };
 
@@ -542,12 +559,12 @@ export type GetCasesDocumentQueryVariables = Exact<{
 }>;
 
 
-export type GetCasesDocumentQuery = { __typename?: 'Query', getCasesDocument: { __typename?: 'CasesDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Cases', style?: string | null, short?: string | null, reporter?: string | null, tags?: Array<string | null> | null, body?: string | null } } };
+export type GetCasesDocumentQuery = { __typename?: 'Query', getCasesDocument: { __typename?: 'CasesDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Cases', style?: string | null, short?: string | null, reporter?: string | null, tags?: Array<string | null> | null, public?: boolean | null, body?: string | null, sources?: Array<{ __typename: 'CasesSources', source_name?: string | null, license?: string | null, attribution?: string | null } | null> | null } } };
 
 export type GetCasesListQueryVariables = Exact<{ [key: string]: never; }>;
 
 
-export type GetCasesListQuery = { __typename?: 'Query', getCasesList: { __typename?: 'CasesConnection', totalCount: number, edges?: Array<{ __typename?: 'CasesConnectionEdges', node?: { __typename?: 'CasesDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Cases', style?: string | null, short?: string | null, reporter?: string | null, tags?: Array<string | null> | null, body?: string | null } } | null } | null> | null } };
+export type GetCasesListQuery = { __typename?: 'Query', getCasesList: { __typename?: 'CasesConnection', totalCount: number, edges?: Array<{ __typename?: 'CasesConnectionEdges', node?: { __typename?: 'CasesDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Cases', style?: string | null, short?: string | null, reporter?: string | null, tags?: Array<string | null> | null, public?: boolean | null, body?: string | null, sources?: Array<{ __typename: 'CasesSources', source_name?: string | null, license?: string | null, attribution?: string | null } | null> | null } } | null } | null> | null } };
 
 export type GetModulesDocumentQueryVariables = Exact<{
   relativePath: Scalars['String'];
@@ -620,6 +637,13 @@ export const CasesPartsFragmentDoc = gql`
   short
   reporter
   tags
+  public
+  sources {
+    __typename
+    source_name
+    license
+    attribution
+  }
   body
 }
     `;

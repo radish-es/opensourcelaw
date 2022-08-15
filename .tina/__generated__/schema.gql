@@ -142,11 +142,19 @@ type MaterialsConnection implements Connection {
   edges: [MaterialsConnectionEdges]
 }
 
+type CasesSources {
+  source_name: String
+  license: String
+  attribution: String
+}
+
 type Cases {
   style: String
   short: String
   reporter: String
   tags: [String]
+  public: Boolean
+  sources: [CasesSources]
   body: String
 }
 
@@ -282,11 +290,19 @@ input MaterialsMutation {
   components: [MaterialsComponentsMutation]
 }
 
+input CasesSourcesMutation {
+  source_name: String
+  license: String
+  attribution: String
+}
+
 input CasesMutation {
   style: String
   short: String
   reporter: String
   tags: [String]
+  public: Boolean
+  sources: [CasesSourcesMutation]
   body: String
 }
 

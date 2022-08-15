@@ -43,6 +43,13 @@ fragment CasesParts on Cases {
   short
   reporter
   tags
+  public
+  sources {
+    __typename
+    source_name
+    license
+    attribution
+  }
   body
 }
 

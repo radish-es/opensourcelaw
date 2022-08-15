@@ -157,6 +157,11 @@ export default defineSchema({
         list: true,
       },
       {
+        label: 'Public Domain',
+        name: 'public',
+        type: 'boolean'
+      },
+      {
         label: "Sources",
         name: "sources",
         type: "object",
