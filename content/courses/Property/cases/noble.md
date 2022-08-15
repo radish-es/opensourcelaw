@@ -8,7 +8,9 @@ tags:
   - restraints on alienation
   - restrictive covenants
   - public policy
+public: true
 ---
+
 
 ### The judgment of Kerwin and Taschereau J.J. was delivered by Kerwin J. —
 
