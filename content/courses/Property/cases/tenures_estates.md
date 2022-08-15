@@ -7,7 +7,16 @@ tags:
   - title
   - estates
   - wills
+sources:
+  - source_name: opensourceproperty.org
+    license: 'https://creativecommons.org/licenses/by-nc/4.0/'
+    attribution: >-
+      From Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney,
+      James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet,
+      eds., [Open Source Property: A Free
+      Casebook](https://opensourceproperty.org) (2015)
 ---
+
 
 *From Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., [Open Source Property: A Free Casebook](https://opensourceproperty.org) (2015).*
 
