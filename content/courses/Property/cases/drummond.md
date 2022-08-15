@@ -10,7 +10,9 @@ tags:
   - land use control
   - restraints on alienation
   - restrictive covenants
+public: true
 ---
+
 
 ### Mackay J. —
 
