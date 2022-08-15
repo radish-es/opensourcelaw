@@ -93,11 +93,11 @@ For more information, see:
 * [Westlaw](https://store.thomsonreuters.ca/content/dam/ewp-m/documents/canada-store/en/pdf/other/westlaw-next-canada-licence-agreement.pdf): Canada License Agreement for WestlawNext Canad
 * [LexisNexis](https://www.lexisnexis.ca/en-ca/terms/online-products.page): Terms & Conditions - Canada 
 
-## What about cases and legislation from other jurisdictions (England, Australia, etc.)?
+## What about cases and legislation from other countries?
 
  * [This document](https://www.barcouncilethics.co.uk/wp-content/uploads/2017/10/Copyright-Status-of-Court-Judgments-1.pdf) outlines some information about the copyright status of court judgements in England. 
  * The *[Copyright Act 1968](https://www.legislation.gov.au/Details/C2017C00180)* contains information about Crown Copyright in Australia (sections 176-182) which applies to Australian court decisions and legislation. 
- * For all other countries, be sure to check the relevant laws governing copyright in government materials, including when that material enteres the public domain.
+ * For all countries, be sure to check the relevant laws governing copyright in government materials, including when that material enteres the public domain.
 
 ## What about privacy expectations of parties involved in court cases?
 
