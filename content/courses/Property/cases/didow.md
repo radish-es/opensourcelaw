@@ -10,7 +10,14 @@ tags:
   - land uses
   - trespass
   - public property
+sources:
+  - source_name: CanLII
+    license: 'https://www.canlii.org/en/info/terms.html#license'
+    attribution: >-
+      Case excerpted from [CanLii](https://www.canlii.org/en/),
+      https://canlii.ca/t/2dm47.
 ---
+
 
 
 ### Haddad J.A. —
