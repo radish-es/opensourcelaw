@@ -7,7 +7,9 @@ tags:
   - constitution
   - courts vs legislature
   - expropriation
+public: true
 ---
+
 
 
 
