@@ -9,7 +9,14 @@ tags:
   - trespass
   - stare decisis
   - one
+sources:
+  - source_name: CanLII
+    license: 'https://www.canlii.org/en/info/terms.html#license'
+    attribution: >-
+      Case excerpted from [CanLII](https://www.canlii.org/en/),
+      https://canlii.ca/t/1z6gp. Not an official version.
 ---
+
 
 ### Dickson J. —
 
