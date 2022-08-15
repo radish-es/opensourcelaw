@@ -8,7 +8,11 @@ tags:
   - African Nova Scotians
   - possession
   - title
+sources:
+  - source_name: courts.ns.ca
+    license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 ---
+
 
 
 [This case addresses the interpretation of the *Land Titles Clarification Act*, successor legislation to the *Community Land Titles Clarification Act*, which was enacted in 1964 to address the problem of unclear land titles in African Nova Scotian communities. We will not address the specific facts in *Beals*, but read the case to understand some of the relevant historical background.]
