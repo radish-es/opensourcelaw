@@ -7,7 +7,9 @@ tags:
   - title
   - adverse possession
   - possession
+public: true
 ---
+
 
 
 
