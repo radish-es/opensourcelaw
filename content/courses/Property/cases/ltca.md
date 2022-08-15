@@ -8,7 +8,14 @@ tags:
   - African Nova Scotians
   - possession
   - title
+sources:
+  - source_name: nslegislature.ca
+    license: 'https://nslegislature.ca/legal/copyright'
+    attribution: >-
+      Copyright for Nova Scotia statutes rests with the Crown in right of the
+      Province of Nova Scotia
 ---
+
 
 
 <div id="statute">
