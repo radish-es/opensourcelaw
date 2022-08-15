@@ -6,7 +6,8 @@ tags:
   - Aboriginal title
   - colonialism
 sources:
-  - license: 'https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/page-1.html'
+  - source_name: Justice Laws Website
+    license: 'https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/page-1.html'
     attribution: Not an official version.
 ---
 
