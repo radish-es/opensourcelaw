@@ -7,7 +7,9 @@ tags:
   - restraints on alienation
   - colonialism
   - Week 6
+public: true
 ---
+
 
 {{< figure src="/media/rp1763.jpg" caption="Royal Proclamation, 1763." >}}
 
