@@ -155,6 +155,29 @@ export default defineSchema({
         name: 'tags',
         type: 'string',
         list: true,
+      },
+      {
+        label: "Sources",
+        name: "sources",
+        type: "object",
+        list: true,
+        fields: [
+          {
+            label: "Source Name",
+            name: "source_name",
+            type: "string"
+          },
+          {
+            label: "License URL",
+            name: "license",
+            type: "string"
+          },
+          {
+            label: "Attribution",
+            name: "attribution",
+            type: "string"
+          }
+        ]
       },  
       {
         label: "Body",
