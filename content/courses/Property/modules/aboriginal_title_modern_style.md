@@ -1,8 +1,10 @@
 ---
 title: Aboriginal Title in the Modern Style
+short: Modern Aboriginal Title
 tags:
   - Week 17
 ---
+
 
 Next week, we will turn to the contemporary doctrine of Aboriginal title as developed in a series of recent cases by the Supreme Court of Canada. 
 

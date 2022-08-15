@@ -1,10 +1,12 @@
 ---
 style: 'Indian Act '
+short: Indian Act
 reporter: 'RSC 1985, c I-5'
 tags:
   - reserve lands
   - colonialism
 ---
+
 
 > 18 (1) Subject to this Act, reserves are held by Her Majesty for the use and benefit of the respective bands for which they were set apart, and subject to this Act and to the terms of any treaty or surrender, the Governor in Council may determine whether any purpose for which lands in a reserve are used or are to be used is for the use and benefit of the band.
 > 
