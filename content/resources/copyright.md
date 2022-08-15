@@ -1,12 +1,10 @@
 ---
-title: FAQ
-date: 
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+title: Copyright
+date: '2022-08-14'
+summary: Frequently asked questions regarding copyright relevant to open casebooks.
 ---
+
+
 
 *These frequently asked questions are not intended as, and are not a substitute for, legal advice. Since much of this information is about online sources which are frequently updated and changed, you're encouraged to refer to the original source referenced whenever possible to ensure you are looking at the most up-to-date information.*
 

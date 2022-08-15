@@ -153,3 +153,42 @@ query getExercisesList {
     }
   }
 }
+
+query getResourcesDocument($relativePath: String!) {
+  getResourcesDocument(relativePath: $relativePath) {
+    sys {
+      filename
+      basename
+      breadcrumbs
+      path
+      relativePath
+      extension
+    }
+    id
+    data {
+      ...ResourcesParts
+    }
+  }
+}
+
+query getResourcesList {
+  getResourcesList {
+    totalCount
+    edges {
+      node {
+        id
+        sys {
+          filename
+          basename
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        data {
+          ...ResourcesParts
+        }
+      }
+    }
+  }
+}

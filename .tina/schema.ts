@@ -257,6 +257,36 @@ export default defineSchema({
         },  
       ],
       },
+      {
+      label: "Resources",
+      name: "resources",
+      path: "content/resources",
+      fields: [{
+        label: "Title",
+        name: "title",
+        type: "string"
+        },
+        {
+          label: "Date",
+          name: "date",
+          type: "string",
+        },
+        {
+        label: "Summary",
+        name: "summary",
+        type: "string"
+        },
+        {
+          label: "Body",
+          name: "body",
+          type: "string",
+          isBody: true,
+            ui: {
+              component: "textarea",
+            },
+        },  
+      ],
+      },
   ],
   },
 );

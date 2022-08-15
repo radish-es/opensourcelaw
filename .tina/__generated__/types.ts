@@ -76,6 +76,8 @@ export type Query = {
   getModulesList: ModulesConnection;
   getExercisesDocument: ExercisesDocument;
   getExercisesList: ExercisesConnection;
+  getResourcesDocument: ResourcesDocument;
+  getResourcesList: ResourcesConnection;
 };
 
 
@@ -164,6 +166,20 @@ export type QueryGetExercisesListArgs = {
   sort?: InputMaybe<Scalars['String']>;
 };
 
+
+export type QueryGetResourcesDocumentArgs = {
+  relativePath?: InputMaybe<Scalars['String']>;
+};
+
+
+export type QueryGetResourcesListArgs = {
+  before?: InputMaybe<Scalars['String']>;
+  after?: InputMaybe<Scalars['String']>;
+  first?: InputMaybe<Scalars['Float']>;
+  last?: InputMaybe<Scalars['Float']>;
+  sort?: InputMaybe<Scalars['String']>;
+};
+
 export type DocumentConnectionEdges = {
   __typename?: 'DocumentConnectionEdges';
   cursor?: Maybe<Scalars['String']>;
@@ -199,7 +215,7 @@ export type CollectionDocumentsArgs = {
   sort?: InputMaybe<Scalars['String']>;
 };
 
-export type DocumentNode = MaterialsDocument | CasesDocument | ModulesDocument | ExercisesDocument;
+export type DocumentNode = MaterialsDocument | CasesDocument | ModulesDocument | ExercisesDocument | ResourcesDocument;
 
 export type MaterialsObjectives = {
   __typename?: 'MaterialsObjectives';
@@ -370,6 +386,37 @@ export type ExercisesConnection = Connection & {
   edges?: Maybe<Array<Maybe<ExercisesConnectionEdges>>>;
 };
 
+export type Resources = {
+  __typename?: 'Resources';
+  title?: Maybe<Scalars['String']>;
+  date?: Maybe<Scalars['String']>;
+  summary?: Maybe<Scalars['String']>;
+  body?: Maybe<Scalars['String']>;
+};
+
+export type ResourcesDocument = Node & Document & {
+  __typename?: 'ResourcesDocument';
+  id: Scalars['ID'];
+  sys: SystemInfo;
+  data: Resources;
+  form: Scalars['JSON'];
+  values: Scalars['JSON'];
+  dataJSON: Scalars['JSON'];
+};
+
+export type ResourcesConnectionEdges = {
+  __typename?: 'ResourcesConnectionEdges';
+  cursor?: Maybe<Scalars['String']>;
+  node?: Maybe<ResourcesDocument>;
+};
+
+export type ResourcesConnection = Connection & {
+  __typename?: 'ResourcesConnection';
+  pageInfo?: Maybe<PageInfo>;
+  totalCount: Scalars['Float'];
+  edges?: Maybe<Array<Maybe<ResourcesConnectionEdges>>>;
+};
+
 export type Mutation = {
   __typename?: 'Mutation';
   addPendingDocument: DocumentNode;
@@ -384,6 +431,8 @@ export type Mutation = {
   createModulesDocument: ModulesDocument;
   updateExercisesDocument: ExercisesDocument;
   createExercisesDocument: ExercisesDocument;
+  updateResourcesDocument: ResourcesDocument;
+  createResourcesDocument: ResourcesDocument;
 };
 
 
@@ -461,11 +510,24 @@ export type MutationCreateExercisesDocumentArgs = {
   params: ExercisesMutation;
 };
 
+
+export type MutationUpdateResourcesDocumentArgs = {
+  relativePath: Scalars['String'];
+  params: ResourcesMutation;
+};
+
+
+export type MutationCreateResourcesDocumentArgs = {
+  relativePath: Scalars['String'];
+  params: ResourcesMutation;
+};
+
 export type DocumentMutation = {
   materials?: InputMaybe<MaterialsMutation>;
   cases?: InputMaybe<CasesMutation>;
   modules?: InputMaybe<ModulesMutation>;
   exercises?: InputMaybe<ExercisesMutation>;
+  resources?: InputMaybe<ResourcesMutation>;
 };
 
 export type MaterialsObjectivesMutation = {
@@ -534,6 +596,13 @@ export type ExercisesMutation = {
   body?: InputMaybe<Scalars['String']>;
 };
 
+export type ResourcesMutation = {
+  title?: InputMaybe<Scalars['String']>;
+  date?: InputMaybe<Scalars['String']>;
+  summary?: InputMaybe<Scalars['String']>;
+  body?: InputMaybe<Scalars['String']>;
+};
+
 export type MaterialsPartsFragment = { __typename?: 'Materials', title?: string | null, linktitle?: string | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | { __typename: 'MaterialsComponentsExercise', title?: string | null, filename?: { __typename?: 'ExercisesDocument', id: string } | null } | null> | null };
 
 export type CasesPartsFragment = { __typename?: 'Cases', style?: string | null, short?: string | null, reporter?: string | null, tags?: Array<string | null> | null, public?: boolean | null, body?: string | null, sources?: Array<{ __typename: 'CasesSources', source_name?: string | null, license?: string | null, attribution?: string | null } | null> | null };
@@ -541,6 +610,8 @@ export type CasesPartsFragment = { __typename?: 'Cases', style?: string | null, 
 export type ModulesPartsFragment = { __typename?: 'Modules', title?: string | null, short?: string | null, tags?: Array<string | null> | null, body?: string | null };
 
 export type ExercisesPartsFragment = { __typename?: 'Exercises', title?: string | null, short?: string | null, tags?: Array<string | null> | null, body?: string | null };
+
+export type ResourcesPartsFragment = { __typename?: 'Resources', title?: string | null, date?: string | null, summary?: string | null, body?: string | null };
 
 export type GetMaterialsDocumentQueryVariables = Exact<{
   relativePath: Scalars['String'];
@@ -589,6 +660,18 @@ export type GetExercisesListQueryVariables = Exact<{ [key: string]: never; }>;
 
 
 export type GetExercisesListQuery = { __typename?: 'Query', getExercisesList: { __typename?: 'ExercisesConnection', totalCount: number, edges?: Array<{ __typename?: 'ExercisesConnectionEdges', node?: { __typename?: 'ExercisesDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Exercises', title?: string | null, short?: string | null, tags?: Array<string | null> | null, body?: string | null } } | null } | null> | null } };
+
+export type GetResourcesDocumentQueryVariables = Exact<{
+  relativePath: Scalars['String'];
+}>;
+
+
+export type GetResourcesDocumentQuery = { __typename?: 'Query', getResourcesDocument: { __typename?: 'ResourcesDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Resources', title?: string | null, date?: string | null, summary?: string | null, body?: string | null } } };
+
+export type GetResourcesListQueryVariables = Exact<{ [key: string]: never; }>;
+
+
+export type GetResourcesListQuery = { __typename?: 'Query', getResourcesList: { __typename?: 'ResourcesConnection', totalCount: number, edges?: Array<{ __typename?: 'ResourcesConnectionEdges', node?: { __typename?: 'ResourcesDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Resources', title?: string | null, date?: string | null, summary?: string | null, body?: string | null } } | null } | null> | null } };
 
 export const MaterialsPartsFragmentDoc = gql`
     fragment MaterialsParts on Materials {
@@ -660,6 +743,14 @@ export const ExercisesPartsFragmentDoc = gql`
   title
   short
   tags
+  body
+}
+    `;
+export const ResourcesPartsFragmentDoc = gql`
+    fragment ResourcesParts on Resources {
+  title
+  date
+  summary
   body
 }
     `;
@@ -827,6 +918,47 @@ export const GetExercisesListDocument = gql`
   }
 }
     ${ExercisesPartsFragmentDoc}`;
+export const GetResourcesDocumentDocument = gql`
+    query getResourcesDocument($relativePath: String!) {
+  getResourcesDocument(relativePath: $relativePath) {
+    sys {
+      filename
+      basename
+      breadcrumbs
+      path
+      relativePath
+      extension
+    }
+    id
+    data {
+      ...ResourcesParts
+    }
+  }
+}
+    ${ResourcesPartsFragmentDoc}`;
+export const GetResourcesListDocument = gql`
+    query getResourcesList {
+  getResourcesList {
+    totalCount
+    edges {
+      node {
+        id
+        sys {
+          filename
+          basename
+          breadcrumbs
+          path
+          relativePath
+          extension
+        }
+        data {
+          ...ResourcesParts
+        }
+      }
+    }
+  }
+}
+    ${ResourcesPartsFragmentDoc}`;
 export type Requester<C= {}> = <R, V>(doc: DocumentNode, vars?: V, options?: C) => Promise<R>
   export function getSdk<C>(requester: Requester<C>) {
     return {
@@ -853,6 +985,12 @@ export type Requester<C= {}> = <R, V>(doc: DocumentNode, vars?: V, options?: C) 
       },
     getExercisesList(variables?: GetExercisesListQueryVariables, options?: C): Promise<{data: GetExercisesListQuery, variables: GetExercisesListQueryVariables, query: string}> {
         return requester<{data: GetExercisesListQuery, variables: GetExercisesListQueryVariables, query: string}, GetExercisesListQueryVariables>(GetExercisesListDocument, variables, options);
+      },
+    getResourcesDocument(variables: GetResourcesDocumentQueryVariables, options?: C): Promise<{data: GetResourcesDocumentQuery, variables: GetResourcesDocumentQueryVariables, query: string}> {
+        return requester<{data: GetResourcesDocumentQuery, variables: GetResourcesDocumentQueryVariables, query: string}, GetResourcesDocumentQueryVariables>(GetResourcesDocumentDocument, variables, options);
+      },
+    getResourcesList(variables?: GetResourcesListQueryVariables, options?: C): Promise<{data: GetResourcesListQuery, variables: GetResourcesListQueryVariables, query: string}> {
+        return requester<{data: GetResourcesListQuery, variables: GetResourcesListQueryVariables, query: string}, GetResourcesListQueryVariables>(GetResourcesListDocument, variables, options);
       }
     };
   }
