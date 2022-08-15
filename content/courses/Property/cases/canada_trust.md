@@ -12,13 +12,12 @@ tags:
   - racism
 sources:
   - source_name: CanLII
-    license: >-
-      https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
+    license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: >-
       Case excerpted from [CanLII](https://www.canlii.org/en/),
-      https://canlii.ca/t/g186s. © Queen’s Printer for Ontario, 1990. Not an
-      official version.
+      https://canlii.ca/t/g186s.
 ---
+
 
 
 
