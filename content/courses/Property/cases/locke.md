@@ -8,7 +8,9 @@ tags:
   - racism
   - first possession
   - possession
+public: true
 ---
+
 
 
 
