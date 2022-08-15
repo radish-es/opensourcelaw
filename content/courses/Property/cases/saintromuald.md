@@ -9,7 +9,14 @@ tags:
   - acquired rights
   - land use controls
   - land use
+sources:
+  - source_name: CanLII
+    license: 'https://www.canlii.org/en/info/terms.html#license'
+    attribution: >-
+      Case excerpted from [CanLII](https://www.canlii.org/en/),
+      https://canlii.ca/t/51z2. Not an official version.
 ---
+
 
 
 ### Binnie J. (McLachlin C.J.C., Major, Arbour JJ. concurring) —
