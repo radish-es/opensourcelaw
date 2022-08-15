@@ -8,7 +8,9 @@ tags:
   - colonialism
   - hunting
   - treaties
+public: true
 ---
+
 
 ### Patterson (Acting) Co. Ct. J. —
 
