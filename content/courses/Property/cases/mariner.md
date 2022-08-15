@@ -10,7 +10,11 @@ tags:
   - expropriation
   - land use control
   - land uses
+sources:
+  - source_name: courts.ns.ca
+    license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 ---
+
 
 {{< figure src="/media/hurtles.jpg" caption="Hurtles, near Kingsburg Beach" >}}
 
