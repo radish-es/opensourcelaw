@@ -5,7 +5,9 @@ tags:
   - colonialism
   - hunting
   - treaties
+public: true
 ---
+
 
 [*The following text is quoted in R v Simon, [1985] 2 SCR 387 at para 6.*]
 
