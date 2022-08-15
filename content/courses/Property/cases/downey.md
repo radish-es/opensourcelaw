@@ -9,7 +9,11 @@ tags:
   - adverse possession
   - possession
   - title
+sources:
+  - source_name: courts.ns.ca
+    license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 ---
+
 
 
 
