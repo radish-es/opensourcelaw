@@ -9,7 +9,14 @@ tags:
   - estates
   - bequests
   - wills
+sources:
+  - source_name: CanLII
+    license: 'https://www.canlii.org/en/info/terms.html#license'
+    attribution: >-
+      Case excerpted from [CanLII](https://www.canlii.org/en/),
+      https://canlii.ca/t/g8sgm.
 ---
+
 
 [*Harry McCorkill died in 2004, leaving his entire estate valued at over $200,000 as an unconditional gift to the National Alliance, a neo-Nazi group based in the United States. McCorkill's sister challenged the bequest as contrary to public policy.*]
 
