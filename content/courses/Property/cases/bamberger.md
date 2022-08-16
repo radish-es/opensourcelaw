@@ -9,13 +9,15 @@ tags:
   - homelessness
   - right to shelter
 sources:
-  - source_name: 'bccourts.ca '
+  - source_name: the Supreme Court of British Columbia
+    source_url: 'https://www.bccourts.ca/jdb-txt/sc/22/00/2022BCSC0049.htm'
     license: 'https://www.bccourts.ca/Privacy%20Statement.html'
     attribution: >-
       This case is an unofficial reproduction of a British Columbia Supreme
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
 ---
+
 
 
 ### Kirchner J. —
