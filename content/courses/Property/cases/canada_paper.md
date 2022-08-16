@@ -1,7 +1,7 @@
 ---
 style: Canada Paper Co v Brown
 short: Canada Paper
-reporter: '[1922] 63 SCR 243'
+reporter: '1922 CanLII 585 (SCC), [1922] 63 SCR 243'
 tags:
   - classical style
   - industry
@@ -10,7 +10,12 @@ tags:
   - nuisance
   - exclusion
 public: true
+sources:
+  - source_name: CanLII
+    source_url: 'https://canlii.ca/t/gw7qw'
+    license: 'https://www.canlii.org/en/info/terms.html#license'
 ---
+
 
 
 
