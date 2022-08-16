@@ -1,7 +1,7 @@
 ---
 style: Monsanto Canada Inc v Schmeiser
 short: Monsanto
-reporter: 2004 SCC 34
+reporter: 2004 SCC 34 (CanLII)
 tags:
   - contemporary style
   - exclusion
@@ -10,11 +10,11 @@ tags:
   - patents
 sources:
   - source_name: CanLII
+    source_url: 'https://canlii.ca/t/1h3pt'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: >-
-      Case excerpted from [CanLII](https://www.canlii.org/en/),
-      https://canlii.ca/t/1h3pt. Not an official version.
+    attribution: Not an official version.
 ---
+
 
 
 ### McLachlin C.J.C. and Fish J. —
