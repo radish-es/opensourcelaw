@@ -47,6 +47,7 @@ fragment CasesParts on Cases {
   sources {
     __typename
     source_name
+    source_url
     license
     attribution
   }

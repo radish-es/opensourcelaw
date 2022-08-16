@@ -146,6 +146,7 @@ type MaterialsConnection implements Connection {
 
 type CasesSources {
   source_name: String
+  source_url: String
   license: String
   attribution: String
 }
@@ -324,6 +325,7 @@ input MaterialsMutation {
 
 input CasesSourcesMutation {
   source_name: String
+  source_url: String
   license: String
   attribution: String
 }

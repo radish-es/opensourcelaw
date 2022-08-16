@@ -173,6 +173,11 @@ export default defineSchema({
             type: "string"
           },
           {
+            label: "Source URL",
+            name: "source_url",
+            type: "string"
+          },
+          {
             label: "License URL",
             name: "license",
             type: "string"
