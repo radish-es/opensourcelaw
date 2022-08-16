@@ -16,7 +16,7 @@ sources:
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 1990. Not an official version. '
   - source_name: CanLII
-    source_url: 'https://canlii.ca/t/g186s.'
+    source_url: 'https://canlii.ca/t/g186s'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: ''
 ---
