@@ -1,7 +1,7 @@
 ---
 style: Downey v Nova Scotia (Attorney General)
 short: Downey
-reporter: 2020 NSSC 201
+reporter: 2020 NSSC 201 (CanLII)
 tags:
   - racism
   - colonialism
@@ -10,9 +10,11 @@ tags:
   - possession
   - title
 sources:
-  - source_name: courts.ns.ca
+  - source_name: Nova Scotia Supreme Court
+    source_url: 'https://decisia.lexum.com/nsc/nssc/en/item/482093/index.do'
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 ---
+
 
 
 
