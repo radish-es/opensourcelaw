@@ -1,7 +1,7 @@
 ---
-style: Re Noble and Wolf v Alley
+style: Noble et al v Alley
 short: Noble
-reporter: '[1951] SCR 64'
+reporter: '1950 CanLII 13 (SCC), [1951] SCR 64'
 tags:
   - modern style
   - racism
@@ -9,7 +9,12 @@ tags:
   - restrictive covenants
   - public policy
 public: true
+sources:
+  - source_name: CanLII
+    source_url: 'https://canlii.ca/t/1ttv5'
+    license: 'https://www.canlii.org/en/info/terms.html#license'
 ---
+
 
 
 ### The judgment of Kerwin and Taschereau J.J. was delivered by Kerwin J. —
