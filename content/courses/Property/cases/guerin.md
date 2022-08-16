@@ -1,7 +1,7 @@
 ---
 style: Guerin v R
 short: Guerin
-reporter: '[1984] 2 SCR 335'
+reporter: '1984 CanLII 25 (SCC), [1984] 2 SCR 335'
 tags:
   - modern style
   - reserve lands
@@ -13,11 +13,11 @@ tags:
   - Aboriginal title
 sources:
   - source_name: CanLII
+    source_url: 'https://canlii.ca/t/1lpfn'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: >-
-      Case excerpted from [CanLII](https://www.canlii.org/en/),
-      https://canlii.ca/t/1lpfn. Not an official version.
+    attribution: Not an official version.
 ---
+
 
 
 
