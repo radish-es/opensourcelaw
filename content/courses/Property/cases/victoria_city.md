@@ -9,6 +9,9 @@ tags:
   - homelessness
   - right to shelter
 sources:
+  - source_name: CanLII
+    source_url: 'https://canlii.ca/t/215hs'
+    license: 'https://www.canlii.org/en/info/terms.html#license'
   - source_name: the British Columbia Supreme Court
     source_url: 'https://www.bccourts.ca/Jdb-txt/SC/08/13/2008BCSC1363.htm'
     license: 'https://www.bccourts.ca/Privacy%20Statement.html'
