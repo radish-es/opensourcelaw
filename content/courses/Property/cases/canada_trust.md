@@ -1,7 +1,7 @@
 ---
 style: Canada Trust Co v Ontario (Human Rights Commission)
 short: Canada Trust
-reporter: '[1990] 74 OR (2d) 481 (CA)'
+reporter: '1990 CanLII 6849 (ON CA), [1990] 74 OR (2d) 481 (CA)'
 tags:
   - modern style
   - bequests
@@ -16,11 +16,11 @@ sources:
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 1990. Not an official version. '
   - source_name: CanLII
+    source_url: 'https://canlii.ca/t/g186s.'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: >-
-      Case excerpted from [CanLII](https://www.canlii.org/en/),
-      https://canlii.ca/t/g186s.
+    attribution: ''
 ---
+
 
 
 
