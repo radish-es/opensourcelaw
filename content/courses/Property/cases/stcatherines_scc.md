@@ -1,6 +1,6 @@
 ---
-style: St. Catherines Milling & Lumber Co. v R (SCC)
-short: St. Catherine's (SCC)
+style: St. Catharines Milling and Lumber Co. v. R. (SCC)
+short: St. Catharines (SCC)
 reporter: '1887 CanLII 3 (SCC), [1887] 13 SCR 577'
 tags:
   - classical style
@@ -17,6 +17,7 @@ sources:
     source_url: 'https://canlii.ca/t/1ttxl'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 ---
+
 
 [*Chief Justice Ritchie, writing for a majority of the Supreme Court, affirmed Chancellor Boyd's decision at trial. Justice Strong, whose judgement is below, wrote a dissent from the majority, arguing that Chancellor Boyd's decision should be overturned.*]
 
