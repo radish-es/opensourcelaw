@@ -1,7 +1,7 @@
 ---
 style: Harrison v Carswell
 short: Harrison
-reporter: '[1976] 2 SCR 200'
+reporter: '1975 CanLII 160 (SCC), [1976] 2 SCR 200'
 tags:
   - modern style
   - classical style
@@ -11,11 +11,11 @@ tags:
   - one
 sources:
   - source_name: CanLII
+    source_url: 'https://canlii.ca/t/1z6gp'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: >-
-      Case excerpted from [CanLII](https://www.canlii.org/en/),
-      https://canlii.ca/t/1z6gp. Not an official version.
+    attribution: Not an official version.
 ---
+
 
 
 ### Dickson J. —
