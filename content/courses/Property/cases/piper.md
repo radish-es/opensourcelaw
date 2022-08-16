@@ -9,14 +9,10 @@ tags:
 public: true
 sources:
   - source_name: CanLII
+    source_url: 'https://canlii.ca/t/gw5tl'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: >-
-      Case excerpted from [CanLII](https://www.canlii.org/en/),
-      https://canlii.ca/t/gw5tl.
+    attribution: ''
 ---
-
-
-Case adapted from [CanLII](https://www.canlii.org/en/), https://canlii.ca/t/gw5tl. 
 
 ### E. D. Armour, K.C., for the defendant – 
 argued that in the judgment appealed from the distinction between trespass on land and occupation of it had not been observed. The mere putting of a fence round land, and getting a servant to spread manure upon it, does not constitute occupation: *Coffin v. North American Land Co.* (1891), 21 O.R. 80; *McConaghy v. Denmark* (1880), 4 S.C.R. 609. The occupation necessary to bar the title of the true owner must be actual and visible, by some individual whom one can see, not by an inanimate object such as a fence, or a load of manure, of which no questions can be asked. The doctrine of constructive possession cannot be invoked on behalf of a trespasser: *Glynn v. Howell*, [1909] 1 Ch. 6.66, per Eve, J., at pp. 677, 678; *Trustees Executors and Agency Co. v. Short* (1888), 13 App. Cas. 793; *Robinson v. Osborne* (1912), 27 O.L.R. 248; *Bentley v. Peppard* (1903), 33 S.C.R. 444; *McIntyre v. Thompson* (1901), 1 O.L.R. 163, per Osler, J.A., at pp. 166, 167; *Harris v. Mudie* (1882), 7 A.R. 414; *Campeau v. May* (1911), 2 O.W.N. 1420; *Wright v. Olmstead* (1911), 3 O.W.N. 434; *Fox v. Ross* (1912), 3 D.L.R. 878, 3 O.W.N. 1347. The plaintiff has failed in her proof, and the evidence does not disclose when the alleged adverse possession began. 
