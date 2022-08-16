@@ -1,6 +1,6 @@
 ---
-style: St. Catherine’s Milling & Lumber Co. v R (JCPC)
-short: St. Catherine's (JCPC)
+style: St. Catharines Milling and Lumber Co. v R. (JCPC)
+short: St. Catharines (JCPC)
 reporter: '[1888] UKPC 70 (JCPC)'
 tags:
   - classical style
@@ -12,6 +12,7 @@ tags:
   - possession
 public: true
 ---
+
 
 
 
