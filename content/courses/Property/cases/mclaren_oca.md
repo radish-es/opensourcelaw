@@ -1,14 +1,19 @@
 ---
-style: McLaren v Caldwell et al (CA)
+style: McLaren v Caldwell et al (Court of Appeal)
 short: McLaren (CA)
-reporter: '(1881), 6 OAR 456 (CA)'
+reporter: '1880 CanLII 12 (ON CA), (1881), 6 OAR 456 (CA)'
 tags:
   - exclusion
   - classical style
   - industry
   - expropriation
 public: true
+sources:
+  - source_name: CanLII
+    source_url: 'https://canlii.ca/t/1vp07'
+    license: 'https://www.canlii.org/en/info/terms.html#license'
 ---
+
 
 
 
