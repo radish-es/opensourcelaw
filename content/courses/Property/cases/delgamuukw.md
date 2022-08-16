@@ -1,7 +1,7 @@
 ---
 style: Delgamuukw v British Columbia
 short: Delgamuukw
-reporter: '[1997] 3 SCR 1010'
+reporter: '1997 CanLII 302 (SCC), [1997] 3 SCR 1010'
 tags:
   - contemporary style
   - underlying title
@@ -13,11 +13,11 @@ tags:
   - colonialism
 sources:
   - source_name: CanLII
+    source_url: 'https://canlii.ca/t/1fqz8'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: >-
-      Case excerpted from [CanLII](https://www.canlii.org/en/),
-      https://canlii.ca/t/1fqz8. Not an official version.
+    attribution: Not an official version.
 ---
+
 
 
 ### II. Facts
