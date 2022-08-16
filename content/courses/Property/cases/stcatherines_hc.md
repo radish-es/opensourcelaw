@@ -1,6 +1,6 @@
 ---
-style: St. Catherine’s Milling Co v R (HC)
-short: St. Catherine's (HC)
+style: St. Catharines Milling and Lumber Co. v R (HC)
+short: St. Catharines (HC)
 reporter: '(1886), 10 OR 196 (HC)'
 tags:
   - classical style
@@ -12,11 +12,6 @@ tags:
   - possession
 public: true
 ---
-
-
-
-
-
 
 This was an action brought by Her Majesty the Queen, on the information of the Attorney General for the Province of Ontario against the St. Catharines Milling and Lumber Company, claiming amongst other things, an injunction restraining the cutting of timber by the defendants upon certain lands lying south of Wabigoon Lake, in the district of Algoma.
 
