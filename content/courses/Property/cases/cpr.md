@@ -1,7 +1,7 @@
 ---
-style: Canadian Pacific Railway v Vancouver (City)
+style: Canadian Pacific Railway Co. v Vancouver (City)
 short: CPR
-reporter: '[2006] 1 SCR 227'
+reporter: 2006 SCC 5 (CanLII)
 tags:
   - contemporary style
   - public property
@@ -14,11 +14,11 @@ tags:
   - expropriation
 sources:
   - source_name: CanLII
+    source_url: 'https://canlii.ca/t/1mm2r'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: >-
-      Case excerpted from [CanLII](https://www.canlii.org/en/),
-      https://canlii.ca/t/1mm2r. Not an official version.
+    attribution: Not an official version.
 ---
+
 
 
 
