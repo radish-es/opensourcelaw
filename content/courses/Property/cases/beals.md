@@ -9,10 +9,14 @@ tags:
   - possession
   - title
 sources:
+  - source_name: CanLII
+    source_url: 'https://canlii.ca/t/j58p8'
+    license: 'https://www.canlii.org/en/info/terms.html#license'
   - source_name: the Nova Scotia Supreme Court
     source_url: 'https://decisia.lexum.com/nsc/nssc/en/item/461507/index.do'
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 ---
+
 
 
 
