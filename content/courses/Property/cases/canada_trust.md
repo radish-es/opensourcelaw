@@ -11,7 +11,7 @@ tags:
   - trusts
   - racism
 sources:
-  - source_name: Queen's Printer for Ontario
+  - source_name: the Queen's Printer for Ontario
     license: >-
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 1990. Not an official version. '
