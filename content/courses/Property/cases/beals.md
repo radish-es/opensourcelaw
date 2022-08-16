@@ -1,7 +1,7 @@
 ---
 style: Beals v Nova Scotia (Attorney General)
 short: Beals
-reporter: ' 2020 NSSC 60'
+reporter: ' 2020 NSSC 60 (CanLII)'
 tags:
   - racism
   - colonialism
@@ -16,6 +16,7 @@ sources:
     source_url: 'https://decisia.lexum.com/nsc/nssc/en/item/461507/index.do'
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 ---
+
 
 
 
