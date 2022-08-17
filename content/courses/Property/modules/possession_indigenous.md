@@ -15,7 +15,8 @@ The common law approach to possession and communicating possession is not a univ
 Henderson also offers a specific example of how this kind of belonging is communicated as part of the Mi'kmaw system of land tenure: 
 > Renewal ceremonies also emphasize the relationship between space and claims in the indigenous Mikmaw worldview. The places of certain ceremonies are bounded to a specific location and can be transported. They symbolically reiterated and renewed the ancient relationships between a particular family and people and a particular ecosystem. The grounding in a particular ecosystem has been categorized as "geopiety". 
 > In the renewal ceremonies, various family claims are continually being asserted and adjusted. While each renegotiation affects family allegiance and identity, this is seen as relatively unimportant; the crucial factor is the periodic equalization of shared rights among the collective families.[^henderson2] 
- We will return to the Henderson's writing on the Mi'kmaw system of land tenure later in the course when we turn to the Peace and Friendship Treaties. For now, keep in mind how Henderson's description of renewal ceremonies relates to (or conflicts with) ways of communicating possession within the common law tradition. 
+
+We will return to the Henderson's writing on the Mi'kmaw system of land tenure later in the course when we turn to the Peace and Friendship Treaties. For now, keep in mind how Henderson's description of renewal ceremonies relates to (or conflicts with) ways of communicating possession within the common law tradition. 
  
 [^henderson1]: James [sákéj] Youngblood Henderson, “Mikmaw Tenure in Atlantic Canada” (1995) 18(2) _Dalhousie Law Journal_ 196 at 219
 [^henderson2]: James [sákéj] Youngblood Henderson, “Mikmaw Tenure in Atlantic Canada” (1995) 18(2) _Dalhousie Law Journal_ 196 at 234
