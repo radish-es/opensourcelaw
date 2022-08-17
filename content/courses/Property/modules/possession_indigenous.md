@@ -8,6 +8,7 @@ tags:
   - colonialism
 ---
 
+ASDF ASDF ASDF
 
 The common law approach to possession and communicating possession is not a universal one. Revisit the James (sákéj) Youngblood Henderson Henderson quote you read on belonging and obligations in week 1, excerpted below. This time, notice how Henderson inverts the common law's concept of "possession" as he describes an Indigenous conception of belonging *to* land. In addition, consider the way Henderson engages with some of the common law rationales for property rights regimes we looked at previously... <!--this idea probably needs to be expanded or made more specific but I wasn't sure how to do it without knowing how we'll describe the rationales.-->
 > [A]n Aboriginal worldview is a spatial consciousness rather than material consciousness. Sharing and mobility discourages the accumulation of inessential resources. The sharing of space, then, is the meaning for all of Aboriginal life. The relations contained in those spaces shape both choice and placement and ultimately group life. Aboriginal people do not speak of living "there"; rather, each family or person "belongs" to the space. Belonging, then, is directly tied both linguistically and experientially to a space as well as to shared knowledge of a series of common places. Belonging to a space is more than just living in a place or using its resources; it is attendant with benefits and obligations. Belonging is viewed as a special responsibility.[^henderson1] 
