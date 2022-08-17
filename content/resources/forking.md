@@ -6,6 +6,7 @@ summary: >-
   version.
 ---
 
+
 ### Creating a Fork
 
 In order to make your own copy of any opensourcelaw course, or to suggest changes for any opensourcelaw course, you'll need to create a fork of the opensourcelaw repository in GitHub. This repository stores all the content for the courses. 
@@ -47,14 +48,14 @@ If you make changes to a course that you think would be helpful to include in th
 
 GitHub houses the inner workings or "back end" of your casebook. To create the final product--the viewable, readable online casebook--you'll need to deploy your GitHub repository using Netlify. 
 
-1. Sign up for netlify with your GitHub account. Go to [netlify.com](https://www.netlify.com/) and hit the "Start building for free" button. 
+1. Sign up for Netlify with your GitHub account. Go to [netlify.com](https://www.netlify.com/) and hit the "Start building for free" button. 
 2. Netlify will prompt you to "sign up with one of the following". Select the "GitHub" option. 
 3. If you aren't already logged into GitHub, you'll be prompted to log into your GitHub account on the next screen. Once you're logged in, select the green button that says "Authorize netlify." 
 4. A "Get started" page will pop up. In order to continue, you'll have to select whether you're using Netlify for Work, Client, Personal, or School. There's also some optional information you can choose to fill out. 
 5. Once you're done filling out your information, hit the "Set up and continue" button at the bottom of the page. 
 6. A "Deploy your first project" page will pop up. Select the option on the left-hand side that says "Import and existing project" and click the button that says "Import from Git."
 7. A "Connect to Git provider" page will pop up. Select the "GitHub" option. You may have to authorize Netlify again to continue--if so, select the green button labelled "Authorize Netlify".
-8. A page called "Install Netlify" will pop up. You have the option to choose to install netlify on "All repositories" or "Only select repositories". Choose "Only select repositories" and select your opensourcelaw repository. Then scroll down and hit the green button which says "Install."
+8. A page called "Install Netlify" will pop up. You have the option to choose to install Netlify on "All repositories" or "Only select repositories". Choose "Only select repositories" and select your opensourcelaw repository. Then scroll down and hit the green button which says "Install."
 9. You may be prompted to select a repository again on the next page. Again, select your opensourcelaw repository. 
 10. A page will pop up that allows you to select which branch you want to deploy. If you copied all the branches of opensourcelaw when you were making your fork, make sure you choose the branch you want to deploy. Then, click the green "Deploy site" button at the bottom of the page. 
 11. Your site will begin deploying. This process can take a while.
