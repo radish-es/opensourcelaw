@@ -6,10 +6,27 @@ summary: >-
   version.
 ---
 
+The opensourcelaw.ca project is designed to make the process of creating open casebooks more like open source software development. This means that in order to create your own version of a casebook hosted on this site, or to suggest changes to an existing version, you'll need to use some software that might be unfamiliar to you: GitHub and Netlify. 
+
+GitHub is an open-source web development platform. It has many different features, but for our purposes GitHub does two important things:
+1. It hosts all of the code and content of opensourcelaw.ca (including all the casebooks) in an easily and publicly accessible way. In GitHub, this code and content is referred to as a "Repository." You can view the opensourcelaw repository [here.](https://github.com/radish-es/opensourcelaw)
+2. It allows for easy "version control." Basically, this means GitHub makes it possible to create and maintain multiple versions of a casebook at once, and provide feedback between the versions. 
+
+Version control requires a bit more explanation. There are three important aspects of "version control" to understand for our purposes.
+* First, version control allows us to sustain multiple versions of opensourcelaw.ca. So, for example, if we want to create a revised version of the opensourcelaw.ca, we can store both the original and revised version in the same GitHub repository. In GitHub, these versions are called "branches." If you go to the [opensourcelaw repository](https://github.com/radish-es/opensourcelaw) and click the button labelled "main" on the top left of your screen, you can view all the different branches of opensourcelaw.  
+* Second, version control allows anyone--including you--to create your own version of a casebook and modify it however you like. This involves creating a duplicate version all the code and content in the opensourcelaw repository. In GitHub, this duplication process is called "forking," and your version of the casebook is called a "fork" of the original. 
+* Third, version control allows for feedback between the original version of opensourcelaw.ca and different forks. This feedback can go both ways: if you make a change to your version of a casebook, you can suggest that change be incorporated in the original version of the casebook. In GitHub, this is called making a "pull request". At the same time, GitHub allows you to incorporate changes we make to an opensourcelaw.ca casebook into your own version.[^1]
+
+You can think of GitHub as the "back end" of opensourcelaw.ca: it's the filing cabinet that has all the raw content of the casebook, as well as instructions for how to put the casebook together. But in order to get the finished version of the casebook, you'll need to use another software called Netlify. 
+
+Netlify is a website building platform. If we're continuing with the filing cabinet metaphor, Netlify takes the content from the GitHub filing cabinet and follows GitHub's instructions to compile, layout, and publish the casebook in website form. It's the "front end" software for opensourcelaw.ca. Using Netlify is free, although you do have to pay if you want to customize your domain name. 
+
+The instructions below will walk you through how to create a fork of opensourcelaw on GitHub, how to modify casebook content on GitHub, how to submit a pull request, and how to publish your modified casebook online using Netlify. 
+
+[^1]: The process for incorporating changes to the original repository into forks of the repository isn't currently included in this write-up, but will be added at a later date. 
+
 
 ### Creating a Fork
-
-In order to make your own copy of any opensourcelaw course, or to suggest changes for any opensourcelaw course, you'll need to create a fork of the opensourcelaw repository in GitHub. This repository stores all the content for the courses. 
 
 1. Go to [github.com](https://github.com/) and sign up for an account. 
 2. Go to radish-es/opensourcelaw repository on GitHub. You can click [this hyperlink](https://github.com/radish-es/opensourcelaw)  or type in "radish-es/opensourcelaw" into the searchbar at the top of the GitHub homepage.
@@ -18,9 +35,7 @@ In order to make your own copy of any opensourcelaw course, or to suggest change
 5. Once you're ready, hit the green "Create fork" button at the bottom of the page. 
 6. Your new fork will appear. You can always find your fork again by clicking on your profile image at the top left of all GitHub pages and selecting "My Repositories" from the dropdown menu. 
 
-### Modifying Content 
-
-Now that you've made your own fork, you can freely modify any course content in GitHub.
+### Modifying Content in GitHub
 
 1. Navigate to your fork of the opensourcelaw repository on GitHub (see step 4 of "Creating a Fork").
 2. If you forked multiple branches of the repository, make sure you have the right branch selected. Click the button on the left hand side of the page, under the "Code" tab, and select the branch you want to work on from the dropdown menu. 
@@ -44,9 +59,7 @@ If you make changes to a course that you think would be helpful to include in th
 6. In the text field that pops up, you can add a title and any comments about your changes that you'd like us to know. 
 7. Once you've finished adding any comments, click the green button at the bottom of the text box that says "Create pull request." Now we'll be able to see your suggested changes.
 
-### Deploying Your Version of the Casebook Using Netlify
-
-GitHub houses the inner workings or "back end" of your casebook. To create the final product--the viewable, readable online casebook--you'll need to deploy your GitHub repository using Netlify. 
+### Publishing Your Version of the Casebook Using Netlify
 
 1. Sign up for Netlify with your GitHub account. Go to [netlify.com](https://www.netlify.com/) and hit the "Start building for free" button. 
 2. Netlify will prompt you to "sign up with one of the following". Select the "GitHub" option. 
