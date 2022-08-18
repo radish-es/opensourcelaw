@@ -44,7 +44,7 @@ components:
 ---
 
 
-{{% figure src="/media/kaleidoscope.jpg" caption="Source: Malcolm Lightbody on Unsplash"  link="https://unsplash.com/photos/TC2f02Iq8lE" %}} 
+[{{< figure src="/media/kaleidoscope.jpg" caption="Source: Malcolm Lightbody on Unsplash" >}}](https://unsplash.com/photos/TC2f02Iq8lE) 
 
 For first-year law students, property can be a kaleidoscopic subject: fragmentary, blinkered, disorienting. The field offers up a disorderly patchwork of principles, rules and norms. It is full of contradictions, real and apparent. It presents a space of dispossession and disadvantage for some, prosperity and security for others. 
 
