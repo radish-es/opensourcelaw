@@ -1,7 +1,7 @@
 ---
 style: Mariner Real Estate Ltd v Nova Scotia (Attorney General)
 short: Mariner
-reporter: 1999 NSCA 98
+reporter: 1999 NSCA 98 (CanLII)
 tags:
   - modern style
   - zoning
@@ -11,9 +11,14 @@ tags:
   - land use control
   - land uses
 sources:
-  - source_name: courts.ns.ca
+  - source_name: CanLII
+    source_url: 'https://canlii.ca/t/1f0z9'
+    license: 'https://www.canlii.org/en/info/terms.html#license'
+  - source_name: the Nova Scotia Court of Appeal
+    source_url: 'https://decisia.lexum.com/nsc/nsca/en/item/13502/index.do'
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 ---
+
 
 
 {{< figure src="/media/hurtles.jpg" caption="Hurtles, near Kingsburg Beach" >}}

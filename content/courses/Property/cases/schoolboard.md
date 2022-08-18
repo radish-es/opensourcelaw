@@ -1,7 +1,9 @@
 ---
-style: Toronto Roman Catholic Separate School Board v Toronto (City)
+style: >-
+  City of Toronto v Board of Trustees of R.C. Separate Schools for City of
+  Toronto
 short: School Board
-reporter: '[1925] 3 DLR 880 (JCPC)'
+reporter: '1925 CanLII 326 (UK JCPC), [1925] 3 DLR 880 '
 tags:
   - modern style
   - zoning
@@ -9,7 +11,12 @@ tags:
   - land use controls
   - land use
 public: true
+sources:
+  - source_name: CanLII
+    source_url: 'https://canlii.ca/t/gw88h'
+    license: 'https://www.canlii.org/en/info/terms.html#license'
 ---
+
 
 
 ### Viscount Cave L.C. —

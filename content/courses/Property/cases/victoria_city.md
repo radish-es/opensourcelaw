@@ -1,7 +1,7 @@
 ---
 style: Victoria (City) v Adams
 short: Victoria (City)
-reporter: 2008 BCSC 1363
+reporter: 2008 BCSC 1363 (CanLII)
 tags:
   - modern style
   - exclusion
@@ -9,13 +9,18 @@ tags:
   - homelessness
   - right to shelter
 sources:
-  - source_name: 'bccourts.ca '
+  - source_name: CanLII
+    source_url: 'https://canlii.ca/t/215hs'
+    license: 'https://www.canlii.org/en/info/terms.html#license'
+  - source_name: the British Columbia Supreme Court
+    source_url: 'https://www.bccourts.ca/Jdb-txt/SC/08/13/2008BCSC1363.htm'
     license: 'https://www.bccourts.ca/Privacy%20Statement.html'
     attribution: >-
       This case is an unofficial reproduction of a British Columbia Supreme
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
 ---
+
 
 
 

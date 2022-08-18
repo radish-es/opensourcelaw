@@ -4,6 +4,12 @@ linktitle: Land Use Control II
 type: book
 weight: 12
 components:
+  - title: 'Cobalt v Coleman '
+    filename: content/courses/Property/cases/cobalt.md
+    _template: case
+  - title: Extinguishing Acquired Rights
+    filename: content/courses/Property/modules/extinguishing_acquired_rights.md
+    _template: module
   - title: 'Mini-Lecture: Recap from Week 11'
     filename: content/courses/Property/modules/w11recap_lecture.md
     _template: module
@@ -26,6 +32,7 @@ components:
     filename: content/courses/Property/cases/saintromuald.md
     _template: case
 ---
+
 
 
 

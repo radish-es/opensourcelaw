@@ -1,7 +1,7 @@
 ---
 style: Stuartburn (Municipality) v Kiansky
 short: Stuartburn
-reporter: 2001 MBQB 94
+reporter: 2001 MBQB 94 (CanLII)
 tags:
   - title
   - possession
@@ -10,11 +10,11 @@ tags:
   - estates
 sources:
   - source_name: CanLII
+    source_url: 'https://canlii.ca/t/4vq5.'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: >-
-      Case excerpted from [CanLII](https://www.canlii.org/en/),
-      https://canlii.ca/t/4vq5.
+    attribution: 'Not an official version. '
 ---
+
 
 
 ### Wright J. —

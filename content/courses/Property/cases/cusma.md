@@ -7,12 +7,16 @@ tags:
   - de facto expropriation
   - expropriation
 sources:
-  - source_name: canada.ca
+  - source_name: The Government of Canada
+    source_url: >-
+      https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cusma-aceum/text-texte/toc-tdm.aspx?lang=eng.
     license: 'https://www.canada.ca/en/transparency/terms.html'
     attribution: >-
       This excerpt is a reproduction of the original version available at
       https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cusma-aceum/text-texte/toc-tdm.aspx?lang=eng.
 ---
+
+
 
 
 #### Article 14.8: Expropriation and Compensation

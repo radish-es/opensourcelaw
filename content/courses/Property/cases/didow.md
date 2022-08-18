@@ -1,7 +1,7 @@
 ---
 style: Didow v Alberta Power Ltd
 short: Didow
-reporter: 1988 ABCA 257
+reporter: 1988 ABCA 257 (CanLII)
 tags:
   - contemporary style
   - possession
@@ -12,11 +12,11 @@ tags:
   - public property
 sources:
   - source_name: CanLII
+    source_url: 'https://canlii.ca/t/2dm47'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: >-
-      Case excerpted from [CanLii](https://www.canlii.org/en/),
-      https://canlii.ca/t/2dm47.
+    attribution: Not an official version.
 ---
+
 
 
 

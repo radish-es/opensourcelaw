@@ -1,7 +1,7 @@
 ---
 style: Saint-Romuald (City) v Olivier
 short: Saint-Romuald
-reporter: '[2001] 2 SCR 898'
+reporter: '2001 SCC 57 (CanLII), [2001] 2 SCR 898'
 tags:
   - modern style
   - balancing rights
@@ -11,11 +11,11 @@ tags:
   - land use
 sources:
   - source_name: CanLII
+    source_url: 'https://canlii.ca/t/51z2'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: >-
-      Case excerpted from [CanLII](https://www.canlii.org/en/),
-      https://canlii.ca/t/51z2. Not an official version.
+    attribution: Not an official version.
 ---
+
 
 
 

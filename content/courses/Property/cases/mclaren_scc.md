@@ -1,7 +1,7 @@
 ---
-style: McLaren v Caldwell et al (SCC)
+style: McLaren v Caldwell et al (Supreme Court of Canada)
 short: McLaren (SCC)
-reporter: '[1882] 8 SCR 435'
+reporter: '1882 CanLII 3 (SCC), [1882] 8 SCR 435'
 tags:
   - public property
   - classical style
@@ -10,7 +10,12 @@ tags:
   - expropriation
   - exclusion
 public: true
+sources:
+  - source_name: CanLII
+    source_url: 'https://canlii.ca/t/1tsg6'
+    license: 'https://www.canlii.org/en/info/terms.html#license'
 ---
+
 
 
 

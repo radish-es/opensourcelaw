@@ -10,11 +10,14 @@ tags:
   - title
 sources:
   - source_name: nslegislature.ca
+    source_url: >-
+      https://nslegislature.ca/sites/default/files/legc/statutes/land%20titles%20clarification.pdf
     license: 'https://nslegislature.ca/legal/copyright'
     attribution: >-
       Copyright for Nova Scotia statutes rests with the Crown in right of the
       Province of Nova Scotia
 ---
+
 
 
 

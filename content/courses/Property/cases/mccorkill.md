@@ -1,7 +1,9 @@
 ---
-style: McCorkill v McCorkill Estate
-short: McCorkill
-reporter: 2014 NBBR 148 (QB)
+style: >-
+  McCorkill v. Streed, Executor of the Estate of Harry Robert McCorkill (aka
+  McCorkell), Deceased
+short: McCorkill v McCorkill (Estate)
+reporter: 2014 NBQB 148 (CanLII)
 tags:
   - modern style
   - racism
@@ -11,11 +13,11 @@ tags:
   - wills
 sources:
   - source_name: CanLII
+    source_url: 'https://canlii.ca/t/g8sgm'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: >-
-      Case excerpted from [CanLII](https://www.canlii.org/en/),
-      https://canlii.ca/t/g8sgm.
+    attribution: Not an official version.
 ---
+
 
 
 [*Harry McCorkill died in 2004, leaving his entire estate valued at over $200,000 as an unconditional gift to the National Alliance, a neo-Nazi group based in the United States. McCorkill's sister challenged the bequest as contrary to public policy.*]

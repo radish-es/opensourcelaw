@@ -1,7 +1,7 @@
 ---
 style: Tsilhqot’in Nation v. British Columbia
 short: Tsilhqot'in
-reporter: 2014 SCC 44
+reporter: 2014 SCC 44 (CanLII)
 tags:
   - contemporary style
   - underlying title
@@ -14,11 +14,11 @@ tags:
   - colonialism
 sources:
   - source_name: CanLII
+    source_url: 'https://canlii.ca/t/g7mt9'
     license: 'https://www.canlii.org/en/info/terms.html#license'
-    attribution: >-
-      Case excerpted from [CanLII](https://www.canlii.org/en/),
-      https://canlii.ca/t/g7mt9. Not an official version.
+    attribution: Not an official version.
 ---
+
 
 
 ### McLachlin C.J.C. —

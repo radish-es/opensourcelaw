@@ -6,12 +6,15 @@ tags:
   - de facto expropriation
   - expropriation
 sources:
-  - source_name: canada.ca
+  - source_name: The Government of Canada
+    source_url: >-
+      https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/nafta-alena/fta-ale/index.aspx?lang=eng&_ga=2.58667178.1230028791.1660227712-1402126720.1660227712
     license: 'https://www.canada.ca/en/transparency/terms.html'
     attribution: >-
       This excerpt is a reproduction of the original version available at
       https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/nafta-alena/fta-ale/index.aspx?lang=eng&_ga=2.58667178.1230028791.1660227712-1402126720.1660227712
 ---
+
 
 
 #### Article 1110: Expropriation and Compensation
