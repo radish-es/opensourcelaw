@@ -2,7 +2,7 @@
 title: Openly Licensed Canadian Legal Journals
 summary: >-
   List of Canadian legal journals that are openly licensed or publish some
-  openly licensed articles
+  openly licensed articles.
 ---
 
 
