@@ -2,6 +2,7 @@
 title: Openly Licensed Canadian Legal Journals
 ---
 
+
 _These lists of Canadian legal journals and their licenses are not intended as, and are not a substitute for, legal advice. Since much of this information is about online sources which are frequently updated and changed, you’re encouraged to refer to the original source referenced whenever possible to ensure you are looking at the most up-to-date information._
 
 ## Openly licensed journals
@@ -44,6 +45,6 @@ The following Canadian legal journals are not openly licensed, but do publish *c
 * Check a specific article's copyright status by going to the journal's article repository on [brill.com](https://brill.com/view/journals/melg/melg-overview.xml) and finding the article, then find the CC license type (under the Online Publication Date). You can also see a list of open access articles in this journal at [this link](https://brill.com/browse?submittedFilterId=by-access&pageSize=10&sort=first-page-sort-option&source=%2Fjournals%2Fmelg%2Fmelg-overview.xml&access_5=open). 
 
 **Osgoode Hall Law Journal**
-* Check a specific article's copyright status by going to the journal's article repository on [Osgoode's digital commons](https://digitalcommons.osgoode.yorku.ca/ohlj/) and finding the article, then scrolling down to view the copyright statement under the abstract. 
+* Check a specific article's copyright status by going to the journal's article repository on Osgoode's [digital commons](https://digitalcommons.osgoode.yorku.ca/ohlj/) and finding the article, then scrolling down to view the copyright statement under the abstract. 
 
 *Note that these lists may not be exhaustive--it might be worth checking a journal article's copyright information, even if you don't see the journal article listed here. Journal's copyright policies can often be found in the front or back matter of issues, or on pages labelled "Policies", "Submission Guidelines," and "Author Information."* 
