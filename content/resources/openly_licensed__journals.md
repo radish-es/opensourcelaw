@@ -18,7 +18,7 @@ The following Canadian legal journals indicate that they are openly licensed und
 * **[Constitutional Forum](https://www.canlii.org/en/commentary/journals/66/)**: CC-BY-NC-ND 4.0[^acknowledgement]
 * **[Dalhousie Journal of Legal Studies](https://digitalcommons.schulichlaw.dal.ca/djls/policies.html)**: CC-BY-4.0[^check]
 * **[Dalhousie Law Journal](https://digitalcommons.schulichlaw.dal.ca/dlj/policies.html#copyright)**: CC-BY-4.0[^check]
-* **[Journal of Law & Equality](https://jps.library.utoronto.ca/index.php/utjle/about/submissions)**: CC-BY-NC 4.0
+* **[Journal of Law and Equality](https://jps.library.utoronto.ca/index.php/utjle/about/submissions)**: CC-BY-NC 4.0
 * **[Lex Electronica](https://www.lex-electronica.org/credits/)**: CC-BY-NC-ND 4.0
 * **[Osgoode Hall Review of Law and Policy](https://digitalcommons.osgoode.yorku.ca/ohrlp/)**: CC-BY-NC-ND 3.0
 * **[Supreme Court Law Review](https://www.canlii.org/en/commentary/journals/52/)**: CC-BY-NC-ND 4.0
