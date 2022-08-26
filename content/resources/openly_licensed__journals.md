@@ -1,9 +1,10 @@
 ---
-title: Openly Licensed Canadian Legal Journals
+title: Openly licensed Canadian legal journals
 summary: >-
   List of Canadian legal journals that are openly licensed or publish some
   openly licensed articles.
 ---
+
 
 
 _These lists of Canadian legal journals and their licenses are not intended as, and are not a substitute for, legal advice. Since much of this information is about online sources which are frequently updated and changed, you’re encouraged to refer to the original source referenced whenever possible to ensure you are looking at the most up-to-date information._
