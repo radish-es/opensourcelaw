@@ -4,6 +4,7 @@ date: '2022-08-14'
 summary: Frequently asked questions regarding copyright relevant to open casebooks.
 ---
 
+
 *These frequently asked questions are not intended as, and are not a substitute for, legal advice. Since much of this information is about online sources which are frequently updated and changed, you're encouraged to refer to the original source referenced whenever possible to ensure you are looking at the most up-to-date information.*
 
 ## What is an "open casebook", and how does it relate to copyright?
@@ -148,7 +149,7 @@ Some publishers, such as the [University of Chicago Law Review](https://lawrevie
 
 ### See if the journal and journal article are published under an open license. 
 
-Some journal articles are published under open licenses, such as Creative Commons licenses. This means sharing and/or adapting these articles in your casebook *could be* permitted without needing to ask for permission. For example, the [Dalhousie Law Journal](https://digitalcommons.schulichlaw.dal.ca/dlj/policies.html#copyright) states that their articles are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en_US), which allows free re-use and re-mixing of materials (with credit). Similarly, the [Supreme Court Law Review](https://www.canlii.org/en/commentary/journals/52/) archives hosted on CanLII are under a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license, which permits free sharing of materials for non-commercial purposes (with credit), but does not permit publication of derivative works.
+Some journal articles are published under open licenses, such as Creative Commons licenses. This means sharing and/or adapting these articles in your casebook *could be* permitted without needing to ask for permission. We have a list of openly licensed Canadian legal journals under the "[Resources](https://dev2.opensourcelaw.ca/resources/)" tab of this website. Even if the journal isn't on that list, though, it might be worth checking the journal article's copyright to see what the copyright and licenses terms are. Journal's copyright policies can often be found in the front or back matter of issues, or on pages labelled "Policies", "Submission Guidelines," and "Author Information." 
 
 ### If all else fails, contact the journal directly. 
 
