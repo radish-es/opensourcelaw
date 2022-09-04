@@ -5,11 +5,11 @@ short: hansard
 
 
 
-In October 2003, the Government of Nova Scotia introduced a bill with proposed amendments to automobile insurance laws in the province. The bill was drafted in response to recent increases in the cost of automobile insurance, which in Nova Scotia is provided through private firms. Some of the proposed amendments included a temporary cap on insurance rates, a requirement that the Nova Scotia Insurance Review Board approve all insurers' risk-classification systems, and a cap on the amount of non-monetary loss (such as pain and suffering) that insurees can claim for minor injuries.
+In October 2003, the Government of Nova Scotia introduced a bill with proposed amendments to automobile insurance laws in the province. The bill was drafted to address the growing cost of automobile insurance for people who own and drive cars. In Nova Scotia, automobile insurance is provided by private firms. Some of the proposed amendments included a temporary cap on insurance rates, a requirement that the Nova Scotia Insurance Review Board approve the way that insurers classify risk (which determines how much individuals in each class pay for insurance), and a cap on the amount of non-monetary loss (such as for pain and suffering) that insured people can claim for minor injuries.
 
-Below is an excerpt from the House of Assembly debates (Hansard) containing MLA Kevin Deveaux's response to the bill. The bill was introduced by the Progressive Conservative government; Deveaux was a member of the New Democratic Party. 
+Below is an excerpt from the official report of the House of Assembly debates (called *[Hansard](https://nslegislature.ca/legislative-business/hansard-debates)*) that contains MLA Kevin Deveaux's response to the bill when it was introduced. The bill was introduced by the Progressive Conservative government; Deveaux was a member of the New Democratic Party. 
 
-As you read the excerpt below, can you identify the three common assumptions about law and the market economy in Deveaux's comments? To what extent does Deveaux portray the automobile insurance market as natural, neutral and necessary? Can you find anything in Deveaux's speech that contradicts these assumptions? Are there any rules about property hiding behind these debates?
+As you read the excerpt below, try to identify the three key assumptions about law and the market economy in Deveaux's comments. To what extent does Deveaux portray the market for automobile insurance as natural, neutral and necessary? Can you find anything in Deveaux's speech that contradicts these assumptions? What rules about property, if any, do you think might be hiding behind these debates?
 
 ---
 
