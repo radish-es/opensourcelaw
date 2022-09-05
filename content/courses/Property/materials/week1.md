@@ -41,6 +41,9 @@ components:
   - title: Anti-colonialism Framework
     filename: content/courses/Property/modules/anticolonialism_framework.md
     _template: module
+  - title: Land Acknowledgements in New Brunswick
+    filename: content/courses/Property/exercises/nb_land_acknowledgement.md
+    _template: exercise
 ---
 
 

@@ -37,6 +37,16 @@ There are many ways that we might try to decipher the causal connections between
 
 {{% /callout %}}
 
+### Territorial Land Acknowledgements
+
+Our class meetings take place on the lands of the Mi'kmaq. Many of you will be familiar with the concept of a *land acknowledgement* — the practice of acknowledging the Indigenous territory on which a class, event or meeting is taking place and recognizing or reaffirming the treaty relationships that govern in that territory. A land acknowledgement often used at Dalhousie looks similar to or builds on this statement:
+
+> *Dalhousie University is located in Mi'kma'ki, the ancestral and unceded territory of the Mi'kmaq. We are all Treaty people.*
+
+Statements like these play a crucial role in building awareness and renewing ongoing relationships between settler and Indigenous communities. They are especially important for our course, where we will aim for a deeper understanding of legal concepts like "unceded territory" and "Treaty".
+
+One challenge associated with land acknowledgements is that they do not always give the impression of being meaningful or genuine—especially if they come across as formulaic or fail to address the ongoing injustices faced by Indigenous people. That is not a criticism of the practice of land acknowledgements itself. Instead, it is motivation to reflect on the more personal question: *what does acknowledging Mi'kmaw territory at the beginning of our property law course mean to you?*
+
 [^atleo2022]: Clifford Atleo and Jonathan Boron, "Land Is Life: Indigenous Relationships to Territory and Navigating Settler Colonial Property Regimes in Canada," Land 11, no. 5 (May 2022): 609, 610.
 
 [^liboiron2021]: Max Liboiron, “Pollution Is Colonialism,” (Duke University Press, 2021).
