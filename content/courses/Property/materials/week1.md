@@ -1,6 +1,7 @@
 ---
 title: Introduction
 linktitle: Introduction
+published: true
 type: book
 weight: 1
 objectives:
@@ -44,13 +45,14 @@ components:
   - title: Land Acknowledgements in New Brunswick
     filename: content/courses/Property/exercises/nb_land_acknowledgement.md
     _template: exercise
-  - title: Obligations and Incommensurability 
+  - title: Obligations and Incommensurability
     filename: content/courses/Property/modules/obligations_incommensurability.md
     _template: module
   - title: Identifying Obligations
     filename: content/courses/Property/exercises/obligations.md
     _template: exercise
 ---
+
 
 
 [{{< figure src="/media/kaleidoscope.jpg" caption="Source: Malcolm Lightbody on Unsplash" >}}](https://unsplash.com/photos/TC2f02Iq8lE) 
