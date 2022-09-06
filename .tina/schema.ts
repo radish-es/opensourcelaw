@@ -16,6 +16,11 @@ export default defineSchema({
           type: "string",
         },
         {
+          label: 'Published',
+          name: 'published',
+          type: 'boolean'
+        },
+        {
           label: "Type",
           name: "type",
           type: "string",

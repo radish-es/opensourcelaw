@@ -253,6 +253,7 @@ export type Materials = {
   __typename?: 'Materials';
   title?: Maybe<Scalars['String']>;
   linktitle?: Maybe<Scalars['String']>;
+  published?: Maybe<Scalars['Boolean']>;
   type?: Maybe<Scalars['String']>;
   weight?: Maybe<Scalars['Float']>;
   objectives?: Maybe<Array<Maybe<MaterialsObjectives>>>;
@@ -560,6 +561,7 @@ export type MaterialsComponentsMutation = {
 export type MaterialsMutation = {
   title?: InputMaybe<Scalars['String']>;
   linktitle?: InputMaybe<Scalars['String']>;
+  published?: InputMaybe<Scalars['Boolean']>;
   type?: InputMaybe<Scalars['String']>;
   weight?: InputMaybe<Scalars['Float']>;
   objectives?: InputMaybe<Array<InputMaybe<MaterialsObjectivesMutation>>>;
@@ -605,7 +607,7 @@ export type ResourcesMutation = {
   body?: InputMaybe<Scalars['String']>;
 };
 
-export type MaterialsPartsFragment = { __typename?: 'Materials', title?: string | null, linktitle?: string | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | { __typename: 'MaterialsComponentsExercise', title?: string | null, filename?: { __typename?: 'ExercisesDocument', id: string } | null } | null> | null };
+export type MaterialsPartsFragment = { __typename?: 'Materials', title?: string | null, linktitle?: string | null, published?: boolean | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | { __typename: 'MaterialsComponentsExercise', title?: string | null, filename?: { __typename?: 'ExercisesDocument', id: string } | null } | null> | null };
 
 export type CasesPartsFragment = { __typename?: 'Cases', style?: string | null, short?: string | null, reporter?: string | null, tags?: Array<string | null> | null, public?: boolean | null, body?: string | null, sources?: Array<{ __typename: 'CasesSources', source_name?: string | null, source_url?: string | null, license?: string | null, attribution?: string | null } | null> | null };
 
@@ -620,12 +622,12 @@ export type GetMaterialsDocumentQueryVariables = Exact<{
 }>;
 
 
-export type GetMaterialsDocumentQuery = { __typename?: 'Query', getMaterialsDocument: { __typename?: 'MaterialsDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Materials', title?: string | null, linktitle?: string | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | { __typename: 'MaterialsComponentsExercise', title?: string | null, filename?: { __typename?: 'ExercisesDocument', id: string } | null } | null> | null } } };
+export type GetMaterialsDocumentQuery = { __typename?: 'Query', getMaterialsDocument: { __typename?: 'MaterialsDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Materials', title?: string | null, linktitle?: string | null, published?: boolean | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | { __typename: 'MaterialsComponentsExercise', title?: string | null, filename?: { __typename?: 'ExercisesDocument', id: string } | null } | null> | null } } };
 
 export type GetMaterialsListQueryVariables = Exact<{ [key: string]: never; }>;
 
 
-export type GetMaterialsListQuery = { __typename?: 'Query', getMaterialsList: { __typename?: 'MaterialsConnection', totalCount: number, edges?: Array<{ __typename?: 'MaterialsConnectionEdges', node?: { __typename?: 'MaterialsDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Materials', title?: string | null, linktitle?: string | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | { __typename: 'MaterialsComponentsExercise', title?: string | null, filename?: { __typename?: 'ExercisesDocument', id: string } | null } | null> | null } } | null } | null> | null } };
+export type GetMaterialsListQuery = { __typename?: 'Query', getMaterialsList: { __typename?: 'MaterialsConnection', totalCount: number, edges?: Array<{ __typename?: 'MaterialsConnectionEdges', node?: { __typename?: 'MaterialsDocument', id: string, sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string }, data: { __typename?: 'Materials', title?: string | null, linktitle?: string | null, published?: boolean | null, type?: string | null, weight?: number | null, body?: string | null, objectives?: Array<{ __typename: 'MaterialsObjectives', objective?: string | null, explanation?: string | null } | null> | null, components?: Array<{ __typename: 'MaterialsComponentsModule', title?: string | null, filename?: { __typename?: 'ModulesDocument', id: string } | null } | { __typename: 'MaterialsComponentsCase', title?: string | null, filename?: { __typename?: 'CasesDocument', id: string } | null } | { __typename: 'MaterialsComponentsExercise', title?: string | null, filename?: { __typename?: 'ExercisesDocument', id: string } | null } | null> | null } } | null } | null> | null } };
 
 export type GetCasesDocumentQueryVariables = Exact<{
   relativePath: Scalars['String'];
@@ -679,6 +681,7 @@ export const MaterialsPartsFragmentDoc = gql`
     fragment MaterialsParts on Materials {
   title
   linktitle
+  published
   type
   weight
   objectives {

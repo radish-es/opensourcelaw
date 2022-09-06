@@ -1,6 +1,7 @@
 fragment MaterialsParts on Materials {
   title
   linktitle
+  published
   type
   weight
   objectives {
