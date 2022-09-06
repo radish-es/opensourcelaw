@@ -1,6 +1,6 @@
 ---
 title: Identifying Obligations
-short: ''
+short: 'Identifying Obligations'
 ---
 
 For this exercise, start by taking some time to think of the obligations you bring to this property law course. You might want to start by thinking about what obligations bring you to class each week--what gets you out of your home and into the law school? There are some questions below to help guide your thinking. Take around ten minutes to write down all the obligations you can think of. 

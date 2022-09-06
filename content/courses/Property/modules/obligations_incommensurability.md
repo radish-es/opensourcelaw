@@ -1,6 +1,6 @@
 ---
 title: Developing an Anti-Colonial Approach
-short: ''
+short: 'Anti-Colonial Approach'
 ---
 
 Once we start to identify some prominent features of colonialism in law, what tools are available to address them and, more broadly, to pursue an anti-colonial approach to the study of property?  
