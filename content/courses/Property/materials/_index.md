@@ -7,4 +7,5 @@ icon_pack: fas
 type: book 
 ---
 
-In this section you will find the weekly reading materials for the course. They are organized by week and, with only a few exceptions, are designed to be read as a whole before our first class meeting each week. 
+In this section of the casebook you will find all the reading materials for the course, organized by chapter. With a few exceptions, each chapter is designed to be read as a whole *before* our first class meeting each week (consult the [Course Schedule](../admin/schedule) for details). 
+

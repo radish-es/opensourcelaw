@@ -18,4 +18,4 @@ design:
        #  padding: ["20px", "0", "20px", "0"]
 ---
 
-[{{< figure src="/media/cover.jpg" caption="Cover Photo: Elyse Loewen, CC BY NC SA 4.0" >}}](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
+[{{< figure src="/media/cover.jpg" caption="Cover Photo: Elyse Loewen, CC BY NC SA 4.0" >}}](../courses/property) 
