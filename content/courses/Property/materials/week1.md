@@ -39,6 +39,9 @@ components:
   - title: Auto Insurance
     filename: content/courses/Property/exercises/auto_insurance.md
     _template: exercise
+  - title: Pause!
+    filename: content/courses/Property/modules/pause.md
+    _template: module
   - title: Anti-colonialism Framework
     filename: content/courses/Property/modules/anticolonialism_framework.md
     _template: module
@@ -52,6 +55,7 @@ components:
     filename: content/courses/Property/exercises/obligations.md
     _template: exercise
 ---
+
 
 
 
