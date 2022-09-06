@@ -1,6 +1,7 @@
 ---
 title: Possession I
 linktitle: Possession I
+published: false
 type: book
 weight: 4
 components:
@@ -26,6 +27,7 @@ components:
     filename: content/courses/Property/cases/clift.md
     _template: case
 ---
+
 
 
 
