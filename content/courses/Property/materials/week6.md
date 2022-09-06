@@ -1,6 +1,7 @@
 ---
 title: Possession III
 linktitle: Possession III
+published: false
 type: book
 weight: 6
 components:

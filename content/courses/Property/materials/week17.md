@@ -1,6 +1,7 @@
 ---
 title: Reserve Lands
 linktitle: Reserve Lands
+published: false
 type: book
 weight: 17
 components:

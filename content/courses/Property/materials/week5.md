@@ -1,6 +1,7 @@
 ---
 title: Possession II
 linktitle: Possession II
+published: false
 type: book
 weight: 5
 objectives:

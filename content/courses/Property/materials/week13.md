@@ -1,6 +1,7 @@
 ---
 title: Homelessness and the Right to Shelter
 linktitle: Homelessness and the Right to Shelter
+published: false
 type: book
 weight: 13
 components:
