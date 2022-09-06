@@ -12,19 +12,19 @@ We will meet in Weldon Room 207 throughout the year.
 
 ## Unit 1: Basics of Common Law Argument
 
-### [Week 1 (Sept 13/15)](../../readings/week1)
+### [Week 1 (Sept 12/14)](../../materials/week1)
 
-**Introduction to the Course** - In our first week of class, we will cover course logistics, expectations and some core principles and practices for the year. We will then move on to our first case, *Harrison v Carswell*. 
+**Introduction to the Course** - In our first week of class, we will cover course logistics, expectations and some core principles and practices for the year. We will then move on to look at the central framing question for the course. Finally, we will engage with the challenge of adopting an anti-colonial approach to learning and teaching property law. 
 
-### [Week 2 (Sept 20/22)](../../readings/week2)
+### [Week 2 (Sept 19/21)](../../materials/week2)
 
-**Patterns of Common Law Argument** -  Having completed an initial read of *Harrison v Carswell* in Week 1, we will revisit this case using a more detailed framework for analyzing the typical patterns of common law argument. Notice that we're still working on understanding a single case. The aim at this point is to read deeply, not broadly.
+**Patterns of Common Law Argument I** - We will undertake a close reading of our first case, *Harrison v Carswell*, from the perspective of the judges who seem to be engaged in a nuanced conversation and debate with one another. 
 
-### [Week 3 (Sept 27/29)](../../readings/week3)
+### [Week 3 (Sept 26/28)](../../materials/week3)
 
-**Practicing the Analysis** - In this final week of Unit 1, we will practice applying to method for analyzing common law arguments in previous weeks. Our case study here, a case called *Moore*, takes us back to an initial question about property and one's body from Week 1.
+**Patterns of Common Law Argument II** - In this final week of Unit 1, we will continue to investigate patterns of common law argument in a second case: *Moore*. 
 
-## Unit 2: Classical Common Law Thought
+<!--## Unit 2: Classical Common Law Thought
 
 ### [Week 4 (Oct 4/6)](../../readings/week4)
 
@@ -92,7 +92,7 @@ We will meet in Weldon Room 207 throughout the year.
 
 
 
-
+-->
 
 
 
