@@ -1,6 +1,7 @@
 ---
 title: Working with Patterns of Argument
 linktitle: Working with Arguments
+published: true
 type: book
 weight: 3
 objectives:
@@ -14,6 +15,7 @@ components:
     filename: content/courses/Property/cases/moore.md
     _template: case
 ---
+
 
 
 
