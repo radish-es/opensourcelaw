@@ -44,6 +44,12 @@ components:
   - title: Land Acknowledgements in New Brunswick
     filename: content/courses/Property/exercises/nb_land_acknowledgement.md
     _template: exercise
+  - title: Obligations and Incommensurability 
+    filename: content/courses/Property/modules/obligations_incommensurability.md
+    _template: module
+  - title: Identifying Obligations
+    filename: content/courses/Property/exercises/obligations.md
+    _template: exercise
 ---
 
 
