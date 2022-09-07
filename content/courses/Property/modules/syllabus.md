@@ -16,6 +16,6 @@ Aim to begin this week with a good understanding of:
 
 - How you will be [evaluated]({{< ref "/courses/property/admin/syllabus#evaluation" >}}) in the course; and
 
-- Your rights and responsibilities related to [accommodations, plagiarism and maintaining an inclusive classroom.]({{< ref "/courses/property/admin/syllabus#accommodations" >}})
+- Your rights and responsibilities related to [accessibility and accommodations]({{< ref "courses/property/admin/syllabus#accessibility-and-accommodations" >}}).
 
 I will highlight some key points from these materials at the beginning of this week's class meeting and will make time for your questions about the syllabus. If questions arise as you read the syllabus for the first time, you can submit them to me (anonymously) ahead of time using the form below. 
