@@ -1,13 +1,13 @@
 ---
-title: Developing an Anti-Colonial Approach
+title: Building an Anti-Colonial Approach
 short: 'Anti-Colonial Approach'
 ---
 
 Once we start to identify some prominent features of colonialism in law, what tools are available to address them and, more broadly, to pursue an anti-colonial approach to the study of property?  
 
-One approach is to begin a course like property by identifying and thinking critically about what *obligations* arise from teaching and learning about property law in Mi'kma'ki--a place with a long and persistent history of colonial abuses, many of which have been perpetuated through the Canadian legal system. 
+One way is to begin a course like property by identifying and thinking critically about what *obligations* arise from teaching and learning about property law in Mi'kma'ki--a place with a long and persistent history of colonial abuses, many of which have been perpetuated through the Canadian legal system. 
 
-Why focus on obligations? The core idea here is that we are more likely to recognize and grapple with colonialism in law school if we engage seriously with what Tuck and Yang call an "ethic of incommensurability",[^tuck2012] meaning an emphasis on the contradictions and conflicts that exist within a particular context rather than uncritical attempts to reconcile them. Max Liboiron, a Red River Métis/Michif scholar, offers one way to understand this ethic of incommensurability in terms of conflicting obligations.[^liboiron2021] As Liborion points out, we all bring a web of different obligations to any pursuit, but some of those obligations "do not share a common ground for judgement or comparison" as the basis for reconciling one obligation with the other. According to an ethic of incommensurability, these conflicting obligations should be pursued, but not smoothed over. 
+Why focus on obligations? The core idea here is that we are more likely to recognize and confront colonialism in law school if we engage seriously with what Tuck and Yang call an "ethic of incommensurability"[^tuck2012]--meaning an emphasis on the contradictions and conflicts that exist within a particular context, rather than first making uncritical attempts to reconcile them. Max Liboiron, a Red River Métis/Michif scholar, offers one way to understand this ethic of incommensurability in terms of conflicting obligations. As Liborion points out, we all carry a web of different obligations to any pursuit, but some of those obligations "do not share a common ground for judgement or comparison" as the basis for reconciling one obligation with the other.[^liboiron2021] According to an ethic of incommensurability, these conflicting obligations should be considered and pursued, but not simply smoothed over in a rush to avoid uncomfortable realities. 
 
 <!--James (sákéj) Youngblood Henderson, a member of the Chickasaw Nation and Cheyenne Nation and a legal scholar, writes about the connection between place, belonging, and obligations from an Indigenous worldview: 
 

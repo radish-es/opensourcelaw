@@ -1,7 +1,7 @@
 ---
 title: Patterns of Common Law Argument
 linktitle: Patterns of Argument
-published: true
+published: false
 type: book
 weight: 2
 objectives:

@@ -1,7 +1,7 @@
 ---
 title: Working with Patterns of Argument
 linktitle: Working with Arguments
-published: true
+published: false
 type: book
 weight: 3
 objectives:
