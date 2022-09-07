@@ -8,7 +8,7 @@ title: About the Course
 type: book
 ---
 
-In this section you will find all the information you'll need about course details, procedures and expectations, as well as how to get help from me or others at the law school or the university. The main docs are the *Syllabus*, *Schedule* and *User Guide* -- please make sure that you read each of these carefully before our first meeting.  
+In this section you will find all the information you will need about course details, procedures and expectations, as well as how to get help from me or others at the law school or the university. The main docs are the *Syllabus*, *Schedule* and *User Guide* -- please make sure that you read each of these carefully before our first meeting.  
 
 ## Course Syllabus
 
