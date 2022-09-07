@@ -15,9 +15,9 @@ One of consequences of this move from "land" to "property" is to dissociate law 
 
 {{% callout info %}} 
 
-### Three influences of colonialism in law to watch out for
+### Three Themes of Colonialism in Law
 
-There are many ways that we might try to decipher the causal connections between colonialism and law. Below are three recurring influences or themes that often stand out quite clearly in the move from land to property, once we take the opportunity to identify and acknowledge them. Keep these in mind as you complete the exercise that follows and as you begin to read the cases in Unit 2. 
+There are many ways that we might try to decipher the causal connections between colonialism and law. Below are three recurring themes that often stand out quite clearly in the move from land to property, once we take the opportunity to identify and acknowledge them. Keep these in mind as you complete the exercise that follows and as you begin to read the cases in Unit 2. 
 
 - ***Ahistoricism***. Jurists often demonstrate a distinctive lack of concern for the history of land and of the legal rules, principles and doctrines applied to land. The common law's tendency to transform "land" into "property" can have the direct effect of dissociating the land from its history and drawing attention away from historical claims and relationships.[^tuck2014a] When we cover over the history behind a legal concept like "possession" or "title", it is much easier to cast that concept as natural and legitimate and fail to ask who experiences their benefits and harms.
 
@@ -39,7 +39,7 @@ There are many ways that we might try to decipher the causal connections between
 
 ### Territorial Land Acknowledgements
 
-Our class meetings take place in Mi'kma'ki, the lands of the Mi'kmaq. Beginning in 1725, the Mi’kmaq and the British entered into and then periodically renewed a series of nation-to-nation agreements—the Peace and Friendship Treaties—that remain in force today.
+Our class meetings take place in Mi'kma'ki, the lands of the Mi'kmaq. Beginning in 1725, the Mi’kmaq and the British entered into, and  periodically renewed, a series of nation-to-nation agreements—the *Peace and Friendship Treaties*—that remain in force today.
 
 Many of you will be familiar with the concept of a *land acknowledgement* — the practice of acknowledging the Indigenous territory on which a class, event or meeting is taking place and recognizing or reaffirming the treaty relationships in that territory. A land acknowledgement often used at Dalhousie looks similar to or builds on this statement:
 
@@ -47,7 +47,7 @@ Many of you will be familiar with the concept of a *land acknowledgement* — th
 
 Statements like these play a crucial role in building awareness and renewing ongoing relationships between settler and Indigenous communities. They are especially important for our course, where we will aim for a nuanced and detailed understanding of legal concepts like "unceded territory".
 
-One challenge associated with land acknowledgements is that they do not always give the impression of being meaningful or genuine—especially if they come across as formulaic or fail to address the ongoing injustices faced by Indigenous people. That is not a criticism of the practice of land acknowledgements itself. Instead, it is motivation to reflect on the more personal question: *what does acknowledging Mi'kmaw territory at the beginning of our property law course mean for how we learn and teach in the course?* 
+One challenge associated with land acknowledgements is that they do not always give the impression of being meaningful or genuine—especially if they come across as formulaic or fail to address the ongoing injustices faced by Indigenous people. That is not a criticism of the practice of land acknowledgements itself. Instead, it is motivation to reflect on the question: *what does acknowledging Mi'kmaw territory at the beginning of our property law class mean for how we learn and teach in the course?* 
 
 [^atleo2022]: Clifford Atleo and Jonathan Boron, "Land Is Life: Indigenous Relationships to Territory and Navigating Settler Colonial Property Regimes in Canada," Land 11, no. 5 (May 2022): 609, 610.
 
