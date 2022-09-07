@@ -16,13 +16,13 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Introduction to the Course** - In our first week of class, we will cover course logistics, expectations and some core principles and practices for the year. We will then move on to look at the central framing question for the course. Finally, we will engage with the challenge of adopting an anti-colonial approach to learning and teaching property law. 
 
-### [Week 2 (Sept 19/21)](../../materials/week2)
+<!-- ### [Week 2 (Sept 19/21)](../../materials/week2)
 
 **Patterns of Common Law Argument I** - We will undertake a close reading of our first case, *Harrison v Carswell*, from the perspective of the judges who seem to be engaged in a nuanced conversation and debate with one another. 
 
 ### [Week 3 (Sept 26/28)](../../materials/week3)
 
-**Patterns of Common Law Argument II** - In this final week of Unit 1, we will continue to investigate patterns of common law argument in a second case: *Moore*. 
+**Patterns of Common Law Argument II** - In this final week of Unit 1, we will continue to investigate patterns of common law argument in a second case: *Moore*.-->
 
 <!--## Unit 2: Classical Common Law Thought
 
