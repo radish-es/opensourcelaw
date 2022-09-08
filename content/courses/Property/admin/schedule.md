@@ -18,7 +18,7 @@ We will meet in Weldon Room 207 throughout the year.
 
  ### [Week 2 (Sept 19/21)](../../materials/week2)
 
-**Common Law Arguments I** - We will undertake a close reading of our first case, *Harrison v Carswell*, from the perspective of the judges who seem to be engaged in a nuanced conversation and debate with one another. 
+**Patterns of Common Law Argument I** - We will undertake multiple readings of our first case, *Harrison v Carswell* to gain some experience with the basic structure of common law arguments in terms of symmetric "argument pairs". *Harrison* is an ideal case to illustrate this structure of argument by two leading jurists on the Supreme Court. 
 
 <!-- ### [Week 3 (Sept 26/28)](../../materials/week3)
 
