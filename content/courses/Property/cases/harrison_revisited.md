@@ -1,6 +1,6 @@
 ---
-style: Harrison v Carswell
-short: Harrison
+style: Harrison v Carswell (revisited)
+short: Harrison (revisited)
 reporter: '1975 CanLII 160 (SCC), [1976] 2 SCR 200'
 tags:
 sources:
@@ -12,9 +12,11 @@ sources:
 
 
 
-### Dickson J. —
+### Dickson J. ---
 
 The respondent, Sophie Carswell, was charged under *The Petty Trespasses Act*, R.S.M. 1970, c. P50, with four offences (one on each of four days) of unlawfully trespassing upon the premises of the Fairview Corporation Limited, trading under the firm name and style of Polo Park Shopping Centre, located in the City of Winnipeg, after having been requested by the owner not to enter on or come upon the premises. The appellant, Peter Harrison, manager of Polo Park Shopping Centre, swore the informations. The charges were dismissed by the Provincial Judge but on a trial de novo in the County Court Mrs. Carswell was convicted and fined $10 on each of the charges. The convictions were set aside by the Manitoba Court of Appeal [1974] 4 W.W.R. 394 (Freedman C.J.M. and Matas J.A., with Guy J.A. dissenting) and the present appeal followed by leave of this Court.
+
+<div id="red"><span id="red_1"></span>
 
 With great respect, I am unable to agree with the majority reasons, delivered in the Court of Appeal by Freedman C.J.M., for I find it difficult, indeed impossible, to make any well-founded distinction between this case and *Peters v. The Queen* (1971), 2 C.C.C. (2d) 339n, 17 D.L.R. (3d) 128, decided by this Court four years ago in a unanimous decision of the full bench. The constitutional issue raised in *Peters* no longer concerns us; the only other issue was whether the owner of a shopping plaza had sufficient control or possession of the common areas, having regard to the unrestricted invitation to the public to enter upon the premises, as to enable it to invoke the remedy of trespass. The Court decided it did. That case and the present case came to us on much the same facts; picketing within a shopping centre in connection with a labour dispute. In *Peters* the picketing was carried out by the president of the Brampton Labour Council and seven other persons, carrying placards and distributing leaflets in front of a Safeway store, seeking a boycott of Safeway for selling California grapes. In the present case the picketing was carried out by Mrs. Carswell and 11 other persons carrying placards and distributing leaflets in front of the premises of their employer, Dominion Stores. In both instances the picketing was peaceful. Although the question posed in *Peters* did not recite the facts upon which the case rested, the question was worded thus:
 
@@ -42,6 +44,12 @@ The evidence discloses that distribution of pamphlets or leaflets in the mall of
 
 > … while public authorities may, on behalf of the community, strike a reasonable balance between traffic and picketing on public sidewalks and streets, the shopping centre owner can hardly be expected to make such a choice; he has no authority to speak for the community; to grant picketing or parading privileges to all would invite chaos, while to do so selectively would invite commercial reprisals. He is thus driven to adopt a highly restrictive approach to granting permission to groups who wish to parade or picket in the shopping centre.
 
+{{< cta cta_text="Jump to Laskin’s Counter-Argument" cta_link="#red_2" cta_new_tab="false" >}}
+
+</div>
+
+<div id="purple"><span id="purple_1"></span>
+
 It is urged on behalf of Mrs. Carswell that the right of a person to picket peacefully in support of a lawful strike is of greater social significance than the proprietary rights of an owner of a shopping centre and that the rights of the owner must yield to those of the picketer. The American example has been cited but I cannot say that I find the American cases to which we have been referred of great help. The facts in *Schwartz-Torrance Investment Corpn. v. Bakery and Confectionery Workers' Union, Local 31* (1964), 394 P. 2d 921, 85 S. Ct. 888, decided by the Supreme Court of California, are almost identical with those in *Grosvenor Park* but I think it not unimportant to note that in *Schwartz-Torrance* Tobriner J., early in his judgment, drew attention to the fact that the Legislature of the State of California had expressly declared that the public policy of the state favoured concerted activities of employees for the purpose of collective bargaining and had enacted the policy into an exception to the criminal trespass law. Construing that exception, the California Supreme Court in a case antedating *Schwartz-Torrance* had concluded that the Legislature, in dealing with trespasses, had specifically subordinated the rights of the property owner to those of persons engaged in lawful labour activities. *Schwartz-Torrance* is, therefore, of small aid in this case and indeed can be said to support, in a negative sense, a position inimical to that of Mrs. Carswell. And one need only read *Amalgamated Food Employees' Union, Local 590 v. Logan Valley Plaza Inc.* (1968), 391 U.S. 308, and then read *Lloyd Corpn. v. Tanner* (1972), 407 U.S. 551, 92 S. Ct. 2219, to apprehend the uncertainties and very real difficulties which emerge when a court essays to legislate as to what is and what is not a permissible activity within a shopping centre.
 
 The submission that this Court should weigh and determine the respective values to society of the right to property and the right to picket raises important and difficult political and socio-economic issues, the resolution of which must, by their very nature, be arbitrary and embody personal economic and social beliefs. It raises also fundamental questions as to the role of this Court under the Canadian constitution. The duty of the court, as I envisage it, is to proceed in the discharge of its adjudicative function in a reasoned way from principled decision and established concepts. I do not for a moment doubt the power of the court to act creatively --- it has done so on countless occasions; but manifestly one must ask: what are the limits of the judicial function? There are many and varied answers to this question. Holmes J. said in *Southern Pacific Co. v. Jensen* (1917), 244 U.S. 205 at 221, 37 S. Ct. 524, 61 L. Ed. 1086.
@@ -64,7 +72,13 @@ Anglo-Canadian jurisprudence has traditionally recognized, as a fundamental free
 
 I would allow the appeal, set aside the judgment of the Court of Appeal for Manitoba and restore the judgment of the County Court Judge.
 
-### Laskin C.J.C. (dissenting)--
+{{< cta cta_text="Jump to Laskin’s Counter-Argument" cta_link="#purple_2" cta_new_tab="false" >}}
+
+</div>
+
+### Laskin C.J.C. (dissenting) ---
+
+<div id="red"><span id="red_2"></span>
 
 I would be content to adopt the reasons of Freedman C.J.M. [1974] 4 W.W.R. 394 and, accordingly, to dismiss this appeal without more if I did not feel compelled, in view of the course of argument, to add some observations bearing on the decision of this Court in *Peters v. The Queen* (1971), 2 C.C.C. (2d) 339n, 17 D.L.R. (3d) 128, dismissing an appeal from the judgment of the Ontario Court of Appeal, [1971] 1 O.R. 597, 2 C.C.C. (2d) 336, 16 D.L.R. (3d) 143. The observations I am about to make about the *Peters* case carry into two areas of concern respecting the role of this Court as the final Court in this country in both civil and criminal causes. Those areas are, first, whether this Court must pay mechanical deference to stare decisis and, second, whether this Court has a balancing role to play, without yielding place to the Legislature, where an ancient doctrine, in this case trespass, is invoked in a new setting to suppress a lawful activity supported both by legislation and by a well-understood legislative policy.
 
@@ -95,6 +109,12 @@ This Court, above all others in this country, cannot be simply mechanistic about
 I do not have to call upon pronouncements of members of this Court that we are free to depart from previous decisions in order to support the pressing need to examine the present case on its merits. Pressing, because there are probably many hundreds of shopping centres in this country where similar issues have arisen and will arise. The Saskatchewan Court of Appeal has dealt with a picketing situation in a shopping centre in a different way than did the Ontario Court of Appeal in the *Peters* case, albeit on different facts and in respect of civil action rather than in a penal proceeding: see *Grosvenor Park Shopping Centre Ltd. v. Waloshin* (1964), 49 W.W.R. 237, 46 D.L.R. (2d) 750 (Sask. C.A.). There are judgments in related cases, that were cited to us in argument, that need to be taken into consideration in order to enable this Court to begin to draw lines which courts are habitually called upon to do. There should be, at least, some indication that the Court has addressed itself to the difficult issues that reside in the competing contentions that were made in this case and to which I will refer later on in these reasons. But, above all, this Court has not shown itself to be timorous in tackling important issues where it could be said, with some justification, that an important consideration was absent from an earlier judgment, even a recent one, upon which reliance was placed to foreclose examination of a similar issue in a subsequent case.
 
 I refer to the judgment of this Court in *Augustine's Farm Dairy v. Milk Commn. of Ont.*, [1973] S.C.R. 131, as evidence of the approach which I think is compelled in the present case. Of course, it was a different case and turned on the neglect of this Court to consider earlier conflicting decisions when deciding the case that was pressed as an authority to conclude the decision in the *Augustine's Farm Dairy* care itself. What is important, however, is not whether we have a previous decision involving a "brown horse" by which to judge a pending appeal involving a "brown horse", but rather what were the principles and, indeed, the facts, upon which the previous case, now urged as conclusive, was decided. I need only add that there can be no doubt on the question whether the present case provides a developed set of facts that raise the important issues of law that require decision here. It certainly does.
+
+{{< cta cta_text="Jump to Dickson's Counter-Argument" cta_link="#red_1" cta_new_tab="false" >}}
+
+</div>
+
+<div id="purple"><span id="purple_2"></span>
 
 I come then to those issues, and they can only be understood if we look at the present case not only from the position asserted by the shopping centre owner but as well from the position asserted by the lawful picketer. An ancient legal concept, trespass, is urged here in all its pristine force by a shopping centre owner in respect of areas of the shopping centre which have been opened by him to public use, and necessarily so because of the commercial character of the enterprise based on tenancies by operators of a variety of businesses. To say in such circumstances that the shopping centre owner may, at his whim, order any member of the public out of the shopping centre on penalty or liability for trespass if he refuses to leave does not make sense if there is no proper reason in that member's conduct or activity to justify the order to leave.
 
@@ -127,5 +147,9 @@ See also Bohlen, "Incomplete Privilege to Inflict Intentional Invasions of Inter
 > The liability for a harmless invasion of either an interest of personality or property is either punitive or compensatory. In so far as it is punitive, there is no reason why, if the good likely to result from an act is greater than the harm it is intended to cause, the actor should be punished either criminally by fine or imprisonment, or by damages, whether labelled punitive or not, imposed in a civil action. And clearly there is no more reason for imposing either punishment because the harm intended and done is a harmless invasion of a dignitary interest of personality rather than a harmless invasion of a similar interest of property.
 
 Illustrations were given during the course of argument of situations which might put the respondent's activity in a different light relative to the place of picketing and to the object of picketing and which, correlatively, might provide some redeeming interest of the shopping centre owner in exercising control over the public areas. The character of a shopping centre, such as the one involved here, is one thing, and the nature and place of activities carried on there are something else. I would agree that it does not follow that because unrestricted access is given to members of the public to certain areas of the shopping centre during business hours, those areas are available at all times during those hours and in all circumstances to any kind of peaceful activity by members of the public, regardless of the interest being prompted by that activity and regardless of the numbers of members of the public who are involved. The Court will draw lines here as it does in other branches of the law as may be appropriate in the light of the legal principle and particular facts. In the present case it is the respondent who has been injured rather than the shopping centre owner.
+
+{{< cta cta_text="Jump to Dickson's Counter-Argument" cta_link="#purple_1" cta_new_tab="false" >}}
+
+</div>
 
 I would dismiss the appeal.

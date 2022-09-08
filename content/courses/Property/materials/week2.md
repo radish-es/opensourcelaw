@@ -1,18 +1,33 @@
 ---
-title: Common Law Arguments I
-linktitle: Arguments I
+title: Week 2 - Patterns of Common Law Argument I
+linktitle: Patterns I
 published: true
 type: book
 weight: 2
 objectives:
-  - objective: Argumentative patterns
-    explanation: Begin to identify patterns of common law argument
+  - objective: Demonstrate a working knowledge of Harrison v Carswell 
+    explanation: including the facts and basic legal principles of trespass and possession.
+  - objective: Explain the significance of "argument pairs"
+    explanation: i.e. as the basic structure of common law arguments.
+  - objective: Identify the two main argument pairs in Harrison v Carswell
+    explanation: and be able to describe these in everyday language.
+  - objective: Express an initial view on which judge in Harrison v Carswell is more convincing (persuasive)
+    explanation: and explain why.
 components:
   - title: Reading Harrison
     filename: content/courses/Property/modules/reading_harrison.md
     _template: module
   - title: Harrison v Carswell
     filename: content/courses/Property/cases/harrison.md
+    _template: case
+  - title: Harrison Review
+    filename: content/courses/Property/exercises/harrison_review.md
+    _template: exercise
+  - title: Re-Reading Harrison
+    filename: content/courses/Property/modules/rereading_harrison.md
+    _template: module
+  - title: Harrison v Carswell (revisited)
+    filename: content/courses/Property/cases/harrison_revisited.md
     _template: case
 ---
 
