@@ -1,12 +1,19 @@
 ---
-title: Working with Patterns of Argument
-linktitle: Working with Arguments
+title: Week 3 - Patterns of Common Law Argument II
+linktitle: Patterns II
 published: false
 type: book
 weight: 3
 objectives:
-  - objective: Connections between cases
-    explanation: Identify and explain connections between cases.
+  - objective: Compare "everyday" arguments with "legal" arguments
+    explanation: on the issue of property in your cells.
+  - objective: Identify one or more patterned common law arguments
+    explanation: between the bases we read in Unit 1, namely Harrison v Carswell and Moore v Reagents of the University of California
+  - objective: Critically analyze the Court's understanding of the relationship between property and the market for biological cells
+    explanation: in Moore.
+  - objective: Articulate and compare your assessment of which judge offers the more persuasive set of arguments
+    explanation: between Moore and Harrison.
+
 components:
   - title: Property in Your Cells
     filename: content/courses/Property/modules/property_cells.md
@@ -16,7 +23,13 @@ components:
     _template: case
 ---
 
+{{% callout warning %}} 
 
+### Review
+
+This week, we will continue to practice analyzing the patterns of common law argument that we started to see last week in *Harrison v Carswell*. Before jumping into the material for this week, it worth taking a moment to refresh your memory about [why we are reading these cases](../week2/#key-point) in Unit 1. 
+
+{{% /callout %}}
 
 
 

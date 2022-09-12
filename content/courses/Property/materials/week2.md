@@ -11,7 +11,7 @@ objectives:
     explanation: i.e. as the basic structure of common law arguments.
   - objective: Identify the two main argument pairs in Harrison v Carswell
     explanation: and be able to describe these in everyday language.
-  - objective: Express an initial view on which judge in Harrison v Carswell is more convincing (persuasive)
+  - objective: Craft an initial view on which judge in Harrison v Carswell is more convincing (persuasive)
     explanation: and explain why.
 components:
   - title: Reading Harrison
