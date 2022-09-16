@@ -19,12 +19,12 @@ h2 {
 
 h3 {
   font-weight: 500;
-  font-size: 1.10em;
+  font-size: 1.4em;
 }
 
 h4 {
-  font-weight: 400;
-  font-size: 1em;
+  font-weight: 500;
+  font-size: 1.25em;
 }
 
 ul {
@@ -274,7 +274,7 @@ h2#quiz-header {
 
 /* For colour-coding sections of text */
 
-#red .btn-primary, #orange .btn-primary, #green .btn-primary, #purple .btn-primary, #lightpurple .btn-primary {color:white;}
+#red .btn-primary, #orange .btn-primary, #green .btn-primary, #purple .btn-primary, #lightpurple .btn-primary, #blue .btn-primary {color:white;}
 
 #red, #red blockquote, #red .comment, #red .comment h4  {color:#800000;}
 
@@ -295,6 +295,10 @@ h2#quiz-header {
 #lightpurple, #lightpurple blockquote, #lightpurple .comment, #lightpurple .comment h4 {color:#990099;}
 
 #lightpurple .btn-primary {background-color:#990099;}
+
+#blue, #blue blockquote, #blue .comment, #blue .comment h4 {color:#130070;}
+
+#blue .btn-primary {background-color:#130070;}
 
 /* IFrame Settings */
 

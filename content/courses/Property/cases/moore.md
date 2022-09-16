@@ -2,15 +2,9 @@
 style: Moore v Regents of the University of California
 short: Moore
 reporter: '[1990] 51 Cal.3d 120'
-tags:
-  - courts vs legislature
-  - property in cells
-  - types of argument
-  - argument bites
-  - body
-  - conversion
 public: true
 ---
+
 
 
 
@@ -40,7 +34,7 @@ Sometime before August 1979, Golde established a cell line from Moore’s T-lymp
 
 The Regent’s patent also covers various methods for using the cell line to produce lymphokines. Moore admits in his complaint that “the true clinical potential of each of the lymphokines ... [is] difficult to predict, [but] ... competing commercial firms in these relevant fields have published reports in biotechnology industry periodicals predicting a potential market of approximately $3.01 Billion Dollars by the year 1990 for a whole range of [such lymphokines]....”
 
-With the Regents’ assistance, Golde negotiated agreements for commercial development of the cell line and products to be derived from it. Under an agreement with Genetics Institute, Golde “became a paid consultant” and “acquired the rights to 75,000 shares of common stock.” Genetics Institute also agreed to pay Golde and the Regents “at least $330,000 over three years, including a pro-rata share of [Golde’s] salary and fringe benefits, in exchange for ... exclusive access to the materials and research performed” on the cell line and products derived from it. On June 4, 1982, Sandoz “was added to the agreement,” and compensation payable to Golde and the Regents was increased by $110,000. “[T]hroughout this period, ... Quan spent as much as 70 [percent] of her time working for [the] Regents on research” related to the cell line.
+With the Regents’ assistance, Golde negotiated agreements for commercial development of the cell line and products to be derived from it. Under an agreement with Genetics Institute, Golde “became a paid consultant” and “acquired the rights to 75,000 shares of common stock.” Genetics Institute also agreed to pay Golde and the Regents “at least $330,000 over three years, including a pro-rata share of [Golde’s] salary and fringe benefits, in exchange for ... exclusive access to the materials and research performed” on the cell line and products derived from it. On June 4, 1982, Sandoz “was added to the agreement,” and compensation payable to Golde and the Regents was increased by $110,000. “[T]hroughout this period, ... Quan spent as much as 70 [percent] of her time working for [the] Regents on research” related to the cell line."
 
 Based upon these allegations, Moore attempted to state 13 causes of action. Each defendant demurred to each purported cause of action. The superior court, however, expressly considered the validity of only the first cause of action, conversion. Reasoning that the remaining causes of action incorporated the earlier, defective allegations, the superior court sustained a general demurrer to the entire complaint with leave to amend. In a subsequent proceeding, the superior court sustained Genetics Institute’s and Sandoz’s demurrers without leave to amend on the grounds that Moore had not stated a cause of action for conversion and that the complaint’s allegations about the entities’ secondary liability were too conclusory. In accordance with its earlier ruling that the defective allegations about conversion rendered the entire complaint insufficient, the superior court took the remaining demurrers off its calendar.
 
@@ -50,7 +44,11 @@ With one justice dissenting, the Court of Appeal reversed, holding that the comp
 
 ##### A. Breach of Fiduciary Duty and Lack of Informed Consent
 
-[*The Court first discusses Moore's claim that Dr. Golde breached his fiduciary duty to Moore because the doctor failed to disclose his economic interests in obtaining the cells. So, although Golde obtained Moore's consent to conduct the medical procedures he underwent, he failed to obtain Moore's informed consent. This portion of the judgement is omitted.*]
+{{% callout alert %}}
+
+*The Court first discusses Moore's claim that Dr. Golde breached his fiduciary duty to Moore because the doctor failed to disclose his economic interests in obtaining the cells. So, although Golde obtained Moore's consent to conduct the medical procedures he underwent, he failed to obtain Moore's informed consent. This portion of the judgement is omitted.*
+
+{{% /callout %}}
 
 ##### B. Conversion
 
@@ -64,29 +62,49 @@ Accordingly, we first consider whether the tort of conversion clearly gives Moor
 
 ###### (1) Moore’s Claim Under Existing Law
 
+<div id="red"><span id="red_1"></span>
+
 “To establish a conversion, plaintiff must establish an actual interference with his *ownership or right of possession*…. Where plaintiff neither has title to the property alleged to have been converted, nor possession thereof, he cannot maintain an action for conversion.”(*Del E. Webb Corp. v. Structural Materials Co.* (1981) 123 Cal.App.3d 593, 610–611, 176 Cal.Rptr. 824, emphasis added. See also *General Motors A. Corp. v. Dallas* (1926) 198 Cal. 365, 370, 245 P. 184.)
 
 Since Moore clearly did not expect to retain possession of his cells following their removal, to sue for their conversion he must have retained an ownership interest in them. But there are several reasons to doubt that he did retain any such interest. First, no reported judicial decision supports Moore’s claim, either directly or by close analogy. Second, California statutory law drastically limits any continuing interest of a patient in excised cells. Third, the subject matters of the Regents’ patent—the patented cell line and the products derived from it—cannot be Moore’s property.
 
 Neither the Court of Appeal’s opinion, the parties’ briefs, nor our research discloses a case holding that a person retains a sufficient interest in excised cells to support a cause of action for conversion. We do not find this surprising, since the laws governing such things as human tissues,transplantable organs, blood, fetuses, pituitary glands, corneal tissue, and dead bodies deal with human biological materials as objects sui generis, regulating their disposition to achieve policy goals rather than abandoning them to the general law of personal property. It is these specialized statutes, not the law of conversion, to which courts ordinarily should and do look for guidance on the disposition of human biological materials.
 
-Lacking direct authority for importing the law of conversion into this context, Moore relies, as did the Court of Appeal, primarily on decisions addressing privacy rights. One line of cases involves un wanted publicity. (*Lugosi v. Universal Pictures* (1979) 25 Cal.3d 813, 160 Cal.Rptr. 323, 603 P.2d 425; *Motschenbacher v. R.J. Reynolds Tobacco Company* (9th Cir.1974) 498 F.2d 821 [interpreting Cal. law].) These opinions hold that every person has a proprietary interest in his own likeness and that unauthorized, business use of a likeness is redressible as a tort. But in neither opinion did the authoring court expressly base its holding on property law. (*Lugosi v. Universal Pictures*, *supra*, 25 Cal.3d at pp. 819, 823–826, 160 Cal.Rptr. 323, 603 P.2d 425; *Motschenbacher v. R.J. Reynolds Tobacco Company*, *supra*, 498 F.2d at pp. 825–826.) Each court stated, following Prosser, that it was “pointless” to debate the proper characterization of the proprietary interest in a likeness. (*Motschenbacher v. R.J. Reynolds Tobacco Company*, *supra*, 498 F.2d at p. 825, quoting Prosser, Law of Torts (4th ed. 1971) at p. 807; *Lugosi v. Universal Pictures*, *supra*, 25 Cal.3d at pp. 819, 824, 160 Cal.Rptr. 323, 603 P.2d 425.) For purposes of determining whether the tort of conversion lies, however, the characterization of the right in question is far from pointless. Only property can be converted.
+Lacking direct authority for importing the law of conversion into this context, Moore relies, as did the Court of Appeal, primarily on decisions addressing privacy rights. One line of cases involves unwanted publicity. (*Lugosi v. Universal Pictures* (1979) 25 Cal.3d 813, 160 Cal.Rptr. 323, 603 P.2d 425; *Motschenbacher v. R.J. Reynolds Tobacco Company* (9th Cir.1974) 498 F.2d 821 [interpreting Cal. law].) These opinions hold that every person has a proprietary interest in his own likeness and that unauthorized, business use of a likeness is redressible as a tort. But in neither opinion did the authoring court expressly base its holding on property law. (*Lugosi v. Universal Pictures*, *supra*, 25 Cal.3d at pp. 819, 823–826, 160 Cal.Rptr. 323, 603 P.2d 425; *Motschenbacher v. R.J. Reynolds Tobacco Company*, *supra*, 498 F.2d at pp. 825–826.) Each court stated, following Prosser, that it was “pointless” to debate the proper characterization of the proprietary interest in a likeness. (*Motschenbacher v. R.J. Reynolds Tobacco Company*, *supra*, 498 F.2d at p. 825, quoting Prosser, Law of Torts (4th ed. 1971) at p. 807; *Lugosi v. Universal Pictures*, *supra*, 25 Cal.3d at pp. 819, 824, 160 Cal.Rptr. 323, 603 P.2d 425.) For purposes of determining whether the tort of conversion lies, however, the characterization of the right in question is far from pointless. Only property can be converted.
 
 Not only are the wrongful-publicity cases irrelevant to the issue of conversion, but the analogy to them seriously misconceives the nature of the genetic materials and research involved in this case. Moore, adopting the analogy originally advanced by the Court of Appeal, argues that “[i]f the courts have found a sufficient proprietary interest in one’s persona, how could one not have a right in one’s own genetic material, something far more profoundly the essence of one’s human uniqueness than a name or a face?” However, as the defendants’ patent makes clear—and the complaint, too, if read with an understanding of the scientific terms which it has borrowed from the patent—the goal and result of defendants’ efforts has been to manufacture lymphokines. Lymphokines, unlike a name or a face, have the same molecular structure in every human being and the same, important functions in every human being’s immune system. Moreover, the particular genetic material which is responsible for the natural production of lymphokines, and which defendants use to manufacture lymphokines in the laboratory, is also the same in every person; it is no more unique to Moore than the number of vertebrae in the spine or the chemical formula of hemoglobin.
 
 Another privacy case offered by analogy to support Moore’s claim establishes only that patients have a right to refuse medical treatment. (*Bouvia v. Superior Court* (1986) 179 Cal.App.3d 1127, 225 Cal.Rptr. 297.) In this context the court in *Bouvia* wrote that “ ‘[e]very human being of adult years and sound mind has a right to determine what shall be done with his own body....’ ” (Id., at p. 1139, 225 Cal.Rptr. 297, quoting from *Schloendorff v. Society of New York Hospital*, *supra*, 211 N.Y. 125, 105 N.E. at p. 93.) Relying on this language to support the proposition that a patient has a continuing right to control the use of excised cells, the Court of Appeal in this case concluded that “[a] patient must have the ultimate power to control what becomes of his or her tissues. To hold otherwise would open the door to a massive invasion of human privacy and dignity in the name of medical progress.” Yet one may earnestly wish to protect privacy and dignity without accepting the extremely problematic conclusion that interference with those interests amounts to a conversion of personal property. Nor is it necessary to force the round pegs of “privacy” and “dignity” into the square hole of “property” in order to protect the patient, since the fiduciary-duty and informed-consent theories protect these interests directly by requiring full disclosure.
 
+{{< cta cta_text="Jump to Mosk's Counter-Argument" cta_link="#red_2" cta_new_tab="false" >}}
+
+</div>
+
+<div id="purple"><span id="purple_1"></span>
+
 The next consideration that makes Moore’s claim of ownership problematic is California statutory law, which drastically limits a patient’s control over excised cells. Pursuant to Health and Safety Code section 7054.4,“[n]otwithstanding any other provision of law, recognizable anatomical parts, human tissues, anatomical human remains, or infectious waste following conclusion of scientific use shall be disposed of by interment, incineration, or any other method determined by the state department [of health services] to protect the public health and safety.” Clearly the Legislature did not specifically intend this statute to resolve the question of whether a patient is entitled to compensation for the nonconsensual use of excised cells. A primary object of the statute is to ensure the safe handling of potentially hazardous biological waste materials. Yet one cannot escape the conclusion that the statute’s practical effect is to limit, drastically, a patient’s control over excised cells. By restricting how excised cells may be used and requiring their eventual destruction, the statute eliminates so many of the rights ordinarily attached to property that one cannot simply assume that what is left amounts to “property” or “ownership” for purposes of conversion law.
 
 It may be that some limited right to control the use of excised cells does survive the operation of this statute. There is, for example, no need to read the statute to permit “scientific use” contrary to the patient’s expressed wish. A fully informed patient may always withhold consent to treatment by a physician whose research plans the patient does not approve. That right, however, as already discussed, is protected by the fiduciary-duty and informed-consent theories.
 
+{{< cta cta_text="Jump to Mosk's Counter-Argument" cta_link="#purple_2" cta_new_tab="false" >}}
+
+</div>
+
+<div id="orange"><span id="orange_1"></span>
+
 Finally, the subject matter of the Regents’ patent—the patented cell line and the products derived from it—cannot be Moore’s property. This is because the patented cell line is both factually and legally distinct from the cells taken from Moore’s body.Federal law permits the patenting of organisms that represent the product of “human ingenuity,” but not naturally occurring organisms. (*Diamond v. Chakrabarty* (1980) 447 U.S. 303, 309–310, 100 S.Ct. 2204, 2208, 65 L.Ed.2d 144.)Human cell lines are patentable because “[l]ong-term adaptation and growth of human tissues and cells in culture is difficult—often considered an art ...,” and the probability of success is low. (OTA Rep., *supra*, at p. 33; see fn. 2, ante.) It is this *inventive effort* that patent law rewards, not the discovery of naturally occurring raw materials. Thus, Moore’s allegations that he owns the cell line and the products derived from it are inconsistent with the patent, which constitutes an authoritative determination that the cell line is the product of invention. Since such allegations are nothing more than arguments or conclusions of law, they of course do not bind us. (*Daar v. Yellow Cab Co.*, *supra*, 67 Cal.2d at p. 713, 63 Cal.Rptr. 724, 433 P.2d 732.)
+
+{{< cta cta_text="Jump to Mosk's Counter-Argument" cta_link="#orange_2" cta_new_tab="false" >}}
+
+</div>
 
 ###### (2) Should Conversion Liability Be Extended?
 
 As we have discussed, Moore’s novel claim to own the biological materials at issue in this case is problematic, at best. Accordingly, his attempt to apply the theory of conversion within this context must frankly be recognized as a request to extend that theory. While we do not purport to hold that excised cells can never be property for any purpose whatsoever, the novelty of Moore’s claim demands express consideration of the policies to be served by extending liability (cf. *Nally v. Grace Community Church*, *supra*, 47 Cal.3d at pp. 291–300, 253 Cal.Rptr. 97, 763 P.2d 948; *Foley v. Interactive Data Corp.*, *supra*, 47 Cal.3d at pp. 694–700, 254 Cal.Rptr. 211, 765 P.2d 373; *Brown v. Superior Court*, *supra*, 44 Cal.3d at pp. 1061–1066, 245 Cal.Rptr. 412, 751 P.2d 470) rather than blind deference to a complaint alleging as a legal conclusion the existence of a cause of action.
 
 There are three reasons why it is inappropriate to impose liability for conversion based upon the allegations of Moore’s complaint. First, a fair balancing of the relevant policy considerations counsels against extending the tort. Second, problems in this area are better suited to legislative resolution. Third, the tort of conversion is not necessary to protect patients’ rights. For these reasons, we conclude that the use of excised human cells in medical research does not amount to a conversion.
+
+<div id="green"><span id="green_1"></span>
 
 Of the relevant policy considerations, two are of overriding importance. The first is protection of a competent patient’s right to make autonomous medical decisions. That right, as already discussed, is grounded in well-recognized and long-standing principles of fiduciary duty and informed consent.(See, e.g., *Cobbs v. Grant*, *supra*, 8 Cal.3d at pp. 242–246, 104 Cal.Rptr. 505, 502 P.2d 1; *Bowman v. McPheeters*, *supra*, 77 Cal.App.2d at p. 800, 176 P.2d 745.)This policy weighs in favor of providing a remedy to patients when physicians act with undisclosed motives that may affect their professional judgment. The second important policy consideration is that we not threaten with disabling civil liability innocent parties who are engaged in socially useful activities, such as researchers who have no reason to believe that their use of a particular cell sample is, or may be, against a donor’s wishes.
 
@@ -112,9 +130,25 @@ As in *Brown*, the theory of liability that Moore urges us to endorse threatens 
 
 Indeed, this is a far more compelling case for limiting the expansion of tort liability than *Brown*. In *Brown*, eliminating strict liability made it more difficult for plaintiffs to recover actual damages for serious physical injuries resulting from their mothers’ prenatal use of the drug diethylstilbestrol (DES). (*Brown v. Superior Court*, *supra*, 44 Cal.3d at pp. 1054–1055, 245 Cal.Rptr. 412, 751 P.2d 470.) In this case, by comparison, limiting the expansion of liability under a conversion theory will only make it more difficult for Moore to recover a highly theoretical windfall. Any injury to his right to make an informed decision remains actionable through the fiduciary-duty and informed-consent theories.
 
+{{< cta cta_text="Jump to Mosk's Counter-Argument" cta_link="#green_2" cta_new_tab="false" >}}
+
+</div>
+
+<div id="blue"><span id="blue_1"></span>
+
 If the scientific users of human cells are to be held liable for failing to investigate the consensual pedigree of their raw materials, we believe the Legislature should make that decision. Complex policy choices affecting all society are involved, and “[l]egislatures, in making such policy decisions, have the ability to gather empirical evidence, solicit the advice of experts, and hold hearings at which all interested parties present evidence and express their views....” (*Foley v. Interactive Data Corp.*, *supra*, 47 Cal.3d at p. 694, fn. 31, 254 Cal.Rptr. 211, 765 P.2d 373.) Legislative competence to act in this area is demonstrated by the existing statutes governing the use and disposition of human biological materials. Legislative interest is demonstrated by the extensive study recently commissioned by the United States Congress. (OTA Rep., *supra*.) Commentators are also recommending legislative solutions. (See Danforth, *Cells, Sales, and Royalties: The Patient’s Right to a Portion of the Profits* (1988) 6 Yale L. & Pol’y Rev. 179, 198–201; Note, Source Compensation, *supra*, 64 Notre Dame L.Rev. at pp. 643–645.)
 
+{{< cta cta_text="Jump to Mosk's Counter-Argument" cta_link="#blue_2" cta_new_tab="false" >}}
+
+</div>
+
+<div id="lightpurple"><span id="lightpurple_1"></span>
+
 Finally, there is no pressing need to impose a judicially created rule of strict liability,since enforcement of physicians’ disclosure obligations will protect patients against the very type of harm with which Moore was threatened. So long as a physician discloses research and economic interests that may affect his judgment, the patient is protected from conflicts of interest. Aware of any conflicts, the patient can make an informed decision to consent to treatment, or to withhold consent and look elsewhere for medical assistance. As already discussed, enforcement of physicians’ disclosure obligations protects patients directly, without hindering the socially useful activities of innocent researchers.
+
+{{< cta cta_text="Jump to Mosk's Counter-Argument" cta_link="#lightpurple_2" cta_new_tab="false" >}}
+
+</div>
 
 For these reasons, we hold that the allegations of Moore’s third amended complaint state a cause of action for breach of fiduciary duty or lack of informed consent, but not conversion.
 
@@ -124,15 +158,13 @@ The decision of the Court of Appeal is affirmed in part and reversed in part. Th
 
 [...]
 
-<span id="mosk"></span>
-
 ### Mosk J., dissenting —
 
 I dissent.
 
 Contrary to the principal holding of the Court of Appeal, the majority conclude that the complaint does not—in fact cannot—state a cause of action for conversion. I disagree with this conclusion for all the reasons stated by the Court of Appeal, and for additional reasons that I shall explain. For convenience I shall discuss the six premises of the majority’s conclusion in the order in which they appear.
 
-#### 1.
+<div id="red"><span id="red_2"></span>
 
 The majority first take the position that Moore has no cause of action for conversion under existing law because he retained no “ownership interest” in his cells after they were removed from his body. (Maj. opn., *ante*, p. 156 of 271 Cal.Rptr., p. 489 of 793 P.2d.) To state a conversion cause of action a plaintiff must allege his “ownership or right to possession of the property at the time of the conversion” (*Baldwin v. Marina City Properties, Inc.* (1978) 79 Cal.App.3d 393, 410, 145 Cal.Rptr. 406). Here the complaint defines Moore’s “Blood and Bodily Substances” to include inter alia his blood, his bodily tissues, his cells, and the cell lines derived therefrom. Moore thereafter alleges that “he is the owner of his Blood and Bodily Substances and of the by-products produced therefrom....” And he further alleges that such blood and bodily substances “are his tangible personal property, and the activities of the defendants as set forth herein constitute a substantial interference with plaintiff’s possession or right thereto, as well as defendants’ wrongful exercise of dominion over plaintiff’s personal property rights in his Blood and Bodily Substances.”
 
@@ -148,7 +180,11 @@ Especially is this true in the field of torts. I need not review the many instan
 
 The case at bar, of course, does not involve a drug-induced injury. Yet it does present a claim arising, like Sindell’s, from “advances in science and technology” that could not have been foreseen when traditional tort doctrine here, the law of conversion—was formulated. My point is that if the cause of action for conversion is otherwise an appropriate remedy on these facts, we should not refrain from fashioning it simply because another court has not yet so held or because the Legislature has not yet addressed the question. We need not wait on either event, because neither is a precondition to an exercise of our long-standing “power to insure the just and rational development of the common law in our state” (*Rodriguez v. Bethlehem Steel Corp.*, *supra*, 12 Cal.3d 382, 394, 115 Cal.Rptr. 765, 525 P.2d 669).
 
-#### 2. 
+{{< cta cta_text="Jump to Panelli's Counter-Argument" cta_link="#red_1" cta_new_tab="false" >}}
+
+</div>
+
+<div id="purple"><span id="purple_2"></span>
 
 The majority’s second reason for doubting that Moore retained an ownership interest in his cells after their excision is that “California statutory law ... drastically limits a patient’s control over excised cells.” (Maj. opn., *ante*, p. 158 of  271 Cal.Rptr., p. 491 of 793 P.2d.) For this proposition the majority rely on Health and Safety Code section 7054.4 (hereafter section 7054.4),set forth in the margin.The majority concede that the statute was not meant to directly resolve the question whether a person in Moore’s position has a cause of action for conversion, but reason that it indirectly resolves the question by limiting the patient’s control over the fate of his excised cells: “By restricting how excised cells may be used and requiring their eventual destruction, the statute eliminates so many of the rights ordinarily attached to property that one cannot simply assume that what is left amounts to ‘property’ or ‘ownership’ for purposes of conversion law.” (Maj. opn., *ante*, pp. 158–159 of 271 Cal.Rptr., pp. 491–492 of 793 P.2d.) As will appear, I do not believe section 7054.4 supports the just quoted conclusion of the majority.
 
@@ -166,7 +202,11 @@ Being broad, the concept of property is also abstract: rather than referring dir
 
 In each of the foregoing instances, the limitation or prohibition diminishes the bundle of rights that would otherwise attach to the property, yet what remains is still deemed in law to be a protectable property interest. “Since property or title is a complex bundle of rights, duties, powers and immunities, the pruning away of some or a great many of these elements does not entirely destroy the title....” (*People v. Walker* (1939) 33 Cal.App.2d 18, 20, 90 P.2d 854 [even the possessor of contraband has certain property rights in it against anyone other than the state].) The same rule applies to Moore’s interest in his own body tissue: even if we assume that section 7054.4 limited the use and disposition of his excised tissue in the manner claimed by the majority, Moore nevertheless retained valuable rights in that tissue. Above all, at the time of its excision he at least had *the right to do with his own tissue whatever the defendants did with it*: i.e., he could have contracted with researchers and pharmaceutical companies to develop and exploit the vast commercial potential of his tissue and its products. Defendants certainly believe that *their* right to do the foregoing is not barred by section 7054.4 and is a significant property right, as they have demonstrated by their deliberate concealment from Moore of the true value of his tissue, their efforts to obtain a patent on the Mo cell line, their contractual agreements to exploit this material, their exclusion of Moore from any participation in the profits, and their vigorous defense of this lawsuit. The Court of Appeal summed up the point by observing that “Defendants’ position that plaintiff cannot own his tissue, but that they can, is fraught with irony.” It is also legally untenable. As noted above, the majority cite no case holding that an individual’s right to develop and exploit the commercial potential of his own tissue is *not* a right of sufficient worth or dignity to be deemed a protectable property interest. In the absence of such authority—or of legislation to the same effect—the right falls within the traditionally broad concept of property in our law.
 
-#### 3. 
+{{< cta cta_text="Jump to Panelli's Counter-Argument" cta_link="#purple_1" cta_new_tab="false" >}}
+
+</div>
+
+<div id="orange"><span id="orange_2"></span>
 
 The majority’s third and last reason for their conclusion that Moore has no cause of action for conversion under existing law is that “the subject matter of the Regents’ patent—the patented cell line and the products derived from it—cannot be Moore’s property.” (Maj. opn., *ante*, p. 159 of  271 Cal.Rptr., p. 492 of 793 P.2d.) The majority then offer a dual explanation: “This is because the patented cell line is *factually and legally* distinct from the cells taken from Moore’s body.” (*Ibid.*, italics added.) Neither branch of the explanation withstands analysis.
 
@@ -182,7 +222,11 @@ Nevertheless the majority conclude that the patent somehow cut off all Moore’s
 
 Under this reasoning, which I find persuasive, the law of patents would not be a bar to Moore’s assertion of an ownership interest in his cells and their products sufficient to warrant his sharing in the proceeds of their commercial exploitation.
 
-#### 4. 
+{{< cta cta_text="Jump to Panelli's Counter-Argument" cta_link="#orange_1" cta_new_tab="false" >}}
+
+</div>
+
+<div id="green"><span id="green_2"></span>
 
 Having concluded—mistakenly, in my view—that Moore has no cause of action for conversion under existing law, the majority next consider whether to “extend” the conversion cause of action to this context. Again the majority find three reasons not to do so, and again I respectfully disagree with each.
 
@@ -214,7 +258,11 @@ There will be such equitable sharing if the courts recognize that the patient ha
 
 "Societal notions of equity and fairness demand recognition of property rights. There are bountiful benefits, monetary and otherwise, to be derived from human biologics. To deny the person contributing the raw material a fair share of these ample benefits is both unfair and morally wrong.” (*Toward the Right of Commerciality*, *supra*, 34 UCLA L.Rev. at p. 229.) Recognizing a donor’s property rights would prevent unjust enrichment by giving monetary rewards to the donor and researcher proportionate to the value of their respective contributions. Biotechnology depends upon the contributions of both patients and researchers. If not for the patient’s contribution of cells with unique attributes, the medical value of the bioengineered cells would be negligible. But for the physician’s contribution of knowledge and skill in developing the cell product, the commercial value of the patient’s cells would also be negligible. Failing to compensate the patient unjustly enriches the researcher because only the researcher’s contribution is recognized.” (*Id.* at p. 230.) In short, as the Court of Appeal succinctly put it, “If this science has become science for profit, then we fail to see any justification for excluding the patient from participation in those profits.”
 
-#### 5. 
+{{< cta cta_text="Jump to Panelli's Counter-Argument" cta_link="#green_1" cta_new_tab="false" >}}
+
+</div>
+
+<div id="blue"><span id="blue_2"></span>
 
 The majority’s second reason for declining to extend the conversion cause of action to the present context is that “the Legislature should make that decision.” (Maj. opn., *ante*, p. 163 of 271 Cal.Rptr., p. 496 of 793 P.2d.) I do not doubt that the Legislature is competent to act on this topic. The fact that the Legislature may intervene if and when it chooses, however, does not in the meanwhile relieve the courts of their duty of enforcing—or if need be, fashioning—an effective judicial remedy for the wrong here alleged. As I observed above (pt. 1, *ante*), if a conversion cause of action is otherwise an appropriate remedy on these facts we should not refrain from recognizing it merely because the Legislature has not yet addressed the question. To do so would be to abdicate pro tanto our responsibility over a body of law—torts—that is particularly a creature of the common law. And such reluctance to act would be especially unfortunate at the present time, when the rapid expansion of biotechnological science and industry makes resolution of these issues an increasingly pressing need.
 
@@ -228,7 +276,11 @@ With respect to the sale of human blood the matter is much simpler: there is in 
 
 It follows that the statutes regulating the transfers of human organs and blood do not support the majority’s refusal to recognize a conversion cause of action for commercial exploitation of human blood cells without consent. On the contrary, because such statutes treat both organs and blood as property that can legally be sold in a variety of circumstances, they impliedly support Moore’s contention that his blood cells are likewise property for which he can and should receive compensation, and hence are protected by the law of conversion.
 
-#### 6. 
+{{< cta cta_text="Jump to Panelli's Counter-Argument" cta_link="#blue_1" cta_new_tab="false" >}}
+
+</div>
+
+<div id="lightpurple"><span id="lightpurple_2"></span>
 
 The majority’s final reason for refusing to recognize a conversion cause of action on these facts is that “there is no pressing need” to do so because the complaint also states another cause of action that is assertedly adequate to the task (maj. opn., *ante*, p. 163 of 271 Cal.Rptr., p. 496 of 793 P.2d); that cause of action is “the breach of a fiduciary duty to disclose facts material to the patient’s consent or, alternatively, ... the performance of medical procedures without first having obtained the patient’s informed consent” (*id.* at p. 150 of 271 Cal.Rptr., at p. 483 of 793 P.2d). Although last, this reason is not the majority’s least; in fact, it underlies much of the opinion’s discussion of the conversion cause of action, recurring like a leitmotiv throughout that discussion.
 
@@ -236,11 +288,17 @@ The majority hold that a physician who intends to treat a patient in whom he has
 
 I disagree, however, with the majority’s further conclusion that in the present context a nondisclosure cause of action is an adequate—in fact, a superior—substitute for a conversion cause of action. In my view the nondisclosure cause of action falls short on at least three grounds.
 
-[*In his final set of arguments, Justice Mosk addresses the majority's position that the availability of a claim for breach of fiduciary duty is sufficient to vindicate Moore's interests in the case. You do not need to read this aspect of Justice Mosk's judgement in detail — it wades into a thicket of tort law consideration that don't concern us here. The summative paragraph 156 is sufficient for you to understand Justice Mosk's position in this aspect of the argument.*]
+{{% callout alert %}}
 
-[...]
+*In his final set of arguments, Justice Mosk addresses the majority's position that the availability of a claim for breach of fiduciary duty is sufficient to vindicate Moore's interests in the case. You do not need to read this aspect of Justice Mosk's judgement in detail — it wades into a thicket of tort law consideration that don't concern us here. The summative paragraph below is sufficient for you to understand Justice Mosk's position in this aspect of the argument.*
+
+{{% /callout %}}
 
 In sum, the nondisclosure cause of action (1) is unlikely to be successful in most cases, (2) fails to protect patients’ rights to share in the proceeds of the commercial exploitation of their tissue, and (3) may allow the true exploiters to escape liability. It is thus not an adequate substitute, in my view, for the conversion cause of action.
+
+{{< cta cta_text="Jump to Panelli's Counter-Argument" cta_link="#lightpurple_1" cta_new_tab="false" >}}
+
+</div>
 
 [...]
 
