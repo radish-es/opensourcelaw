@@ -5,13 +5,15 @@ published: true
 type: book
 weight: 2
 objectives:
-  - objective: Demonstrate a working knowledge of Harrison v Carswell 
+  - objective: Demonstrate a working knowledge of Harrison v Carswell
     explanation: including the facts and basic legal principles of trespass and possession.
   - objective: Explain the significance of "argument pairs"
     explanation: i.e. as the basic structure of common law arguments.
   - objective: Identify the two main argument pairs in Harrison v Carswell
     explanation: and be able to describe these in everyday language.
-  - objective: Craft an initial view on which judge in Harrison v Carswell is more convincing (persuasive)
+  - objective: >-
+      Craft an initial view on which judge in Harrison v Carswell is more
+      convincing (persuasive)
     explanation: and explain why.
 components:
   - title: Reading Harrison
@@ -31,7 +33,8 @@ components:
     _template: case
 ---
 
-[{{< figure src="/media/patterns.jpg" caption="Cover Photo: Elyse Loewen, CC BY NC SA 4.0" >}}](../courses/property) 
+
+[{{< figure src="/media/patterns.jpg" caption="Elyse Loewen, CC BY NC SA 4.0" >}}](../courses/property) 
 
 So often in law school or in legal practice we are presented with two opposing arguments and asked to explain why one side of the argument is better, or correct, or more persuasive. Sometimes there is a clear answer to this question. Some arguments are simply right or wrong on the facts or law. But probably more often the answer requires an understanding of nuance, style and judgement--and an appreciation for the historical context in which those arguments are made. That context will be a main focus of our course this year. But before we engage with history we will spend a few weeks trying to understand why this historical context actually matters for legal analysis. 
 

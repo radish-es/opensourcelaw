@@ -3,7 +3,8 @@ title: Reading Our First Case
 short: Reading
 ---
 
-{{< figure src="/media/polo_park.jpg" caption="Cover Photo: Elyse Loewen, CC BY NC SA 4.0" >}}
+
+{{< figure src="/media/polo_park.jpg" caption="By Elyse Loewen, CC BY NC SA 4.0" >}}
 
 The first case we’ll read in this course--the Supreme Court of Canada’s decision in *Harrison v Carswell*--is about a labour dispute at the Polo Park shopping mall in Winnipeg in the mid-1970s. That setting may not strike you as obviously important or exciting, but *Harrison* is arguably one of the Supreme Court's most important decisions for what it reveals about the central problems and debates in property law, and--more important still--for what it shows us about *how* judges and lawyers engage in those debates using the patterns and practices of common law legal argument.
 
