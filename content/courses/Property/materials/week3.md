@@ -1,7 +1,7 @@
 ---
 title: Week 3 - Patterns of Common Law Argument II
 linktitle: Patterns II
-published: false
+published: true
 type: book
 weight: 3
 objectives:
