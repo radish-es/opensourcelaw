@@ -5,20 +5,24 @@ published: true
 type: book
 weight: 3
 objectives:
-  - objective: Compare "everyday" arguments with "legal" arguments
-    explanation: on the issue of property in your cells.
-  - objective: Identify one or more patterned common law arguments
+  - objective: Compare the nature of "legal" arguments with "everyday" arguments
     explanation: >-
-      between the cases we read in Unit 1, namely Harrison v Carswell and Moore
-      v Reagents of the University of California
+      this week, we will draw this comparison on the issue of property in
+      biological cells removed from a person's body.
+  - objective: Identify patterned common law argument pairs
+    explanation: >-
+      both in a given case (Moore v Reagents of the University of California)
+      and across cases (Moore and Harrison).
   - objective: >-
-      Critically analyze the Court's understanding of the relationship between
+      Critically analyze judicial interpretations of the relationship between
       property and the market for biological cells
-    explanation: in Moore.
+    explanation: >-
+      based on an ability to identify how the three core assumptions operated in
+      Moore.
   - objective: >-
-      Articulate and compare your assessment of which judge offers the more
-      persuasive set of arguments
-    explanation: between Moore and Harrison.
+      Articulate and compare your assessment of how judges make persuasive legal
+      arguments across cases
+    explanation: using Moore and Harrison as comparators.
 components:
   - title: Property in Your Cells
     filename: content/courses/Property/exercises/property_cells.md
@@ -29,7 +33,16 @@ components:
   - title: Moore
     filename: content/courses/Property/cases/moore.md
     _template: case
+  - title: The Market for Biological Cells
+    filename: content/courses/Property/exercises/market_cells.md
+    _template: exercise
+  - title: Looking Ahead to Unit 2
+    filename: content/courses/Property/modules/looking_ahead_unit2.md
+    _template: module
 ---
+
+
+
 
 
 
