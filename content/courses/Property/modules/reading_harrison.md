@@ -22,7 +22,7 @@ To begin, read the first version of *Harrison* with the following questions in m
 
 - What do the judges mean by "trespass"? What do they mean by "possession"? How are these two concepts related?
 
-Note that, at this point, I am specifically *not* asking you to focus on the reasoning behind the two judges decisions, or about which set of reasons you agree or disagree with. We will address those important questions later. 
+Note that, at this point, I am specifically *not* asking you to focus on the reasoning behind the two judges' decisions, or about which set of reasons you agree or disagree with. We will address those important questions later. 
 
 <!--
 
