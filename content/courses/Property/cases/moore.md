@@ -144,7 +144,7 @@ If the scientific users of human cells are to be held liable for failing to inve
 
 <div id="lightpurple"><span id="lightpurple_1"></span>
 
-Finally, there is no pressing need to impose a judicially created rule of strict liability,since enforcement of physicians’ disclosure obligations will protect patients against the very type of harm with which Moore was threatened. So long as a physician discloses research and economic interests that may affect his judgment, the patient is protected from conflicts of interest. Aware of any conflicts, the patient can make an informed decision to consent to treatment, or to withhold consent and look elsewhere for medical assistance. As already discussed, enforcement of physicians’ disclosure obligations protects patients directly, without hindering the socially useful activities of innocent researchers.
+Finally, there is no pressing need to impose a judicially created rule of strict liability, since enforcement of physicians’ disclosure obligations will protect patients against the very type of harm with which Moore was threatened. So long as a physician discloses research and economic interests that may affect his judgment, the patient is protected from conflicts of interest. Aware of any conflicts, the patient can make an informed decision to consent to treatment, or to withhold consent and look elsewhere for medical assistance. As already discussed, enforcement of physicians’ disclosure obligations protects patients directly, without hindering the socially useful activities of innocent researchers.
 
 {{< cta cta_text="Jump to Mosk's Counter-Argument" cta_link="#lightpurple_2" cta_new_tab="false" >}}
 
