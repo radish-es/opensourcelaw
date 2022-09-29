@@ -2,18 +2,18 @@
 style: 'Clift v Kane '
 short: Clift
 reporter: '(1870), 5 Nfld LR (en banc)'
-tags:
-  - classical style
-  - hunting
-  - first possession
-  - possession
 public: true
 ---
 
 
 
 
-### Hoyles C.J. (Hayward J. concurring) —
+
+
+
+
+
+### Hoyles C.J.  —
 
 This was an action in trover brought to recover the value of a thousand seals, alleged by the plaintiffs to have been wrongfully taken from the crew of their vessel, the Brothers, at the ice in the spring of 1869, by the defendants, Kane and his crew, and subsequently sold by Kane to the other defendants, Baine, Johnston & Co.
 
@@ -33,28 +33,23 @@ A rule *nisi*, founded on the above exceptions, was heard and argued during the 
 
 As regards all of these exceptions after the first the judges are *unanimous* in holding that they cannot be sustained. The sale of the seals by Kane to Baine, Johnston & Co. was a joint act of the defendants, inasmuch as there could be no vendor without a vendee, and this joint act being an illegal dealing with the property of another, was a joint conversion—*see Roscoe, 612*; the evidence of custom, except so much as established what was not disputed, that a seal abandoned at the ice might be taken possession of by the finder, only went to show the illegal and conflicting practice of two or three sealing masters—the value of the seals was rightly estimated as that which prevailed at the time of the conversion—*Read vs B. Fairbanks,. 16 B, 692*; there was no evidence to raise the question of loss of property by intermixture, and the plaintiffs being the absolute owners of one-half of the seals and having a special property in the crew's half, and a right of present possession of the whole, if only for the purpose of distribution, had a right of action for the recovery of all that were taken.
 
-{{< spoiler text="An overview of the majority's decision" >}}
+{{% callout alert %}}
 
-In paragraph 10, Justice Hoyles for the majority gives a succinct overview of the issue and his conclusions. In effect, that issue is: *what acts of control are necessary to bring a wild animal into legal possession?*. 
+In the next paragraph, Chief Justice Hoyles, writing for the majority, gives a succinct overview of the issue and his conclusions. In effect, that issue is: *what acts of control are necessary to bring a wild animal into legal possession?* Be careful to note how Chief Justice Hoyles describes the salient acts of control here: "killing, seizing and dealing with the seals". 
 
-Be careful to note how Justice Hoyles describes the salient acts of control here: "killing, seizing and dealing with the seals". 
-
-{{< /spoiler >}}
+{{% /callout %}}
 
 The first exception, as involving a principle of great practical importance in the prosecution of the seal fishery, and as one upon which a diversity of opinion appears to exist, requires a more particular consideration. It maintains that the jury should have been told, in opposition to the ruling at the trial, that if, after killing the seals and dealing with them in the manner described, the crew of the Brothers had, by the shifting of the ice or the chances of wind or weather, been prevented from finally getting them on board their vessel, the seals returned to the common stock and became the property of the first finder who chose to appropriate them. To this position I am unable to subscribe as it is, in my opinion, unsound in principle and unsupported by authority, and I am constrained to hold, after much consideration and some research, that the direction given to the jury on this point is the only one that can be sustained. This direction was in effect that by killing the seals and reducing them into possession in the manner described, the plaintiffs, through their crew, had obtained an absolute property in them, and would be entitled, subject in a certain event to the payment of salvage, to recover them from any person into whose hands they might afterwards come. This statement, comprises two positions: first, that the killing, seizing and dealing with the seals by piling, sculping, etc., in other words, reducing them into possession vested an absolute property in them in the party so killing and dealing with the seals; and secondly, that the property once absolutely vested could not lie divested out of the owner without his consent, except by certain exceptional causes having no application here.
 
-{{< spoiler text="On Wild Animals" >}}
+{{% callout alert %}}
 
-In the following paragraph, Chief Justice Hoyles points to a long-held distinction in the common law on wild animals: whereas live domestic animals (dogs, sheep, etc.) can be owned absolutely, this is impossible with live wild animals (*ferae naturae*). In legal terms, wild animals always have the possibility of returning to the wild and therefore any property rights in them are qualified or contingent. If the wild animal escapes, for example, all property rights are lost. As Chief Justice Hoyles observes, it is only once there is no possibility that the wild animal will escape that property rights vest absolutely. 
+Below, Chief Justice Hoyles points to a long-held distinction in the common law on wild animals: whereas live domestic animals (dogs, sheep, etc.) can be owned absolutely, this is impossible with live wild animals (*ferae naturae*). In legal terms, wild animals always have the possibility of returning to the wild and therefore any property rights in them are qualified or contingent. If the wild animal escapes, for example, all property rights are lost. As Chief Justice Hoyles observes, it is only once there is no possibility that the wild animal will escape that property rights vest absolutely. This distinction is crucial for Chief Justice Hoyles, because, for him, the death of a wild animal clearly demarcates the fundamental shift from qualified to absolute property. But notice how this "bright line" gets muddied as the judge proceeds through his reasons. 
 
-This distinction is crucial for Chief Justice Hoyles, because, for him, the death of a wild animal clearly demarcates the fundamental shift from qualified to absolute property. But notice how this "bright line" gets muddied as the judge proceeds through his reasons. 
-
-{{< /spoiler >}}
+{{% /callout %}}
 
 For the first position I cite the following authorities. In *2 St. Com. p 81*, it is said:—"With regard to animals *ferae naturae*, all mankind had by original grant of the Creator a right to pursue and take any fowl or insect of the air, any fish or inhabitant of the waters; and this natural right still continues in every individual, unless when it is restrained by the civil laws of the country. By the laws of this realm accordingly, all persons may on their own lands or *in the seas* in general, exercise this right, and when a man has once seized animals of this description they become, if reclaimed or confined according to the doctrine laid down in a previous chapter, his *qualified* property, *or if dead are absolutely his own*, so that to steal them or otherwise to invade this property is, according to the nature of the sometimes a criminal offence, sometimes only a civil injury." So in *Blackstone, vol. 2, p 403*, "and when a man has once so seized them, (i.e., animals *ferae naturae*) they become while living his *qualified* property, or *if dead* are absolutely his own"—*5O, 2 Tomlin's Law Dictionary*, citing under the head "Property," *Dalton 371-Finch 176-11 Reports, 50 Raym, 16*—"one may have an absolute property in things of a base nature, as dogs, but not in things *ferae naturae*, unless dead," and in *Bacon's Abridgement, vol. 4, p. 1, Title "Game,"* it is laid down generally, that animals *ferae naturae*, belong to the parties taking and killing them in the same manner as any other chattels.
 
-2ndly,—As regards the divesting of the property, once absolutely vested—to contend that a person would lose or be deprived of his right of property in dead seals which he had piled on the ice, while awaiting an opportunity to take them on board his vessel, by a whirl of the ice or a change in the wind or the weather, carrying them out of his reach, is to say that any accident which may happen to deprive him of the *possession* of his property will deprive him of all *right to it*. For such a position I venture to think no authority can he found in the books. If a man lose his purse or his coat (and I have shown that as regards the *right of property*, no difference exists between one inanimate chattel and another) he is thus deprived of the possession, the profitable use, and beneficial enjoyment of it, but his right of property in it remains unaltered, and any one who finds it must restore it. Where is the authority which declares that with the possession, or the power of recovering possession, the right of property also departs? On the contrary, the authorities are the other way, thus in *2 Bl. p. 9 & 1 St., Co. p. 149*, it is thus laid down: "Property both in lands and moveables being thus originally acquired by the first taker it remains in him by the principles of universal law, till such time *as he does some other act which shows an intention to abandon it*, for then it becomes *publici juris* once more. So if one is possessed of a jewel and casts it into the sea, or a highway, this is such an express dereliction that the property will be vested in the first 
-finder—not so if he hides it and it is discovered, there the finder acquires no property, and if *he loses* or drops it by accident, it cannot be collected from thence, that he designed to quit the possession, and, therefore, in such a case, *the property still remains in the loser, who may claim it against of the finder.*
+2ndly,—As regards the divesting of the property, once absolutely vested—to contend that a person would lose or be deprived of his right of property in dead seals which he had piled on the ice, while awaiting an opportunity to take them on board his vessel, by a whirl of the ice or a change in the wind or the weather, carrying them out of his reach, is to say that any accident which may happen to deprive him of the *possession* of his property will deprive him of all *right to it*. For such a position I venture to think no authority can he found in the books. If a man lose his purse or his coat (and I have shown that as regards the *right of property*, no difference exists between one inanimate chattel and another) he is thus deprived of the possession, the profitable use, and beneficial enjoyment of it, but his right of property in it remains unaltered, and any one who finds it must restore it. Where is the authority which declares that with the possession, or the power of recovering possession, the right of property also departs? On the contrary, the authorities are the other way, thus in *2 Bl. p. 9 & 1 St., Co. p. 149*, it is thus laid down: "Property both in lands and moveables being thus originally acquired by the first taker it remains in him by the principles of universal law, till such time *as he does some other act which shows an intention to abandon it*, for then it becomes *publici juris* once more. So if one is possessed of a jewel and casts it into the sea, or a highway, this is such an express dereliction that the property will be vested in the first finder—not so if he hides it and it is discovered, there the finder acquires no property, and if *he loses* or drops it by accident, it cannot be collected from thence, that he designed to quit the possession, and, therefore, in such a case, *the property still remains in the loser, who may claim it against of the finder.*"
 
 Further, in the second vol. of the same work, where it treats of the various modes by which property may be acquired, I find none enumerated except such as depend upon the will of the owner (assignment, for instance), and those already referred to as inapplicable, namely, by operation of law, as by forfeiture, seizure under proces, sale in market overt, etc. I find no head of title by finding, except in cases of abandonment,—abandonment not, be it observed, of the search or of the hope of recovery, but of the right of property. In the present case, however, there was not only no evidence of abandonment, but the whole of the plaintiffs' case went to show there was no abandonment. The only questions, therefore, for the jury, as regards the plaintiffs' right of recovery, were: 1st--had the property in these seals vested in the plaintiffs, a compound question of law and fact, to be determined by the application of the law as stated by the court to the facts, of killing, sculping, piling, etc., if found by the jury; and 2nd--had the defendants taken them? If so, the probability that the plaintiffs could not have recovered them from the ice became immaterial except in considering the amount of damages where it received full effect, in the direction to allow salvage, and this exception, consequently fails.
 
@@ -74,13 +69,11 @@ Much reliance was placed by Mr. Pinsent upon the alleged fact that in actions he
 
 Had the question now under consideration ever been formally raised, argued and determined before the full court, and decided as Mr. Pinsent contends it ought now to be, it would even in such case, having regard to the important effect such a decision would have on the right of property in one of the great staples of our industry, be a very grave question whether if clearly erroneous it ought not to be over-ruled, as in a matter of such moment, where a sound *ratio decidendi* would be of more importance than uniformity in error, it would certainly be our duty rather to correct than follow the mistakes of our predecessors, if such they were.
 
-{{< spoiler text="Judicial Experience" >}}
+{{% callout alert %}}
 
-In the course of discussing legal precedents on the issue of acquiring possession in seals, Chief Justice Hoyles next makes some observations "judging from my own experience". He seems to be relying here on his personal experience about how similar cases have been resolved, rather than strictly reported legal decisions. Note that Justice Robinson engages in a similar (though contrasting) set of observations at paragraphs 44-45, below.
+In the course of discussing legal precedents on the issue of acquiring possession in seals, Chief Justice Hoyles next makes some observations "judging from my own experience". He seems to be relying here on his personal experience about how similar cases have been resolved, rather than strictly reported legal decisions. Note that Justice Robinson engages in a similar (though contrasting) set of observations below. Do these moves raise the same concerns we discussed with respect of Justice Laskin's "invalid" reliance on subjective interpretation of precedent in *Harrison v Carswell*? What might be different about the context in *Clift v Kane*? 
 
-Do these moves raise the same concerns we discussed with respect of Justice Laskin's "invalid" reliance on subjective interpretation of precedent in *Harrison v Carswell*? What might be different about the context in *Clift v Kane*? 
-
-{{< /spoiler >}}
+{{% /callout %}}
 
 No such decision of the full court, however, can be cited, and I am of opinion, judging from my own experience, which though differing I believe from my learned brother judge, Robinson's, seems to me to be confirmed by the only reported cases I have been able to see, that Mr. Pinsent's statement in this respect was much too broad.
 
@@ -120,7 +113,7 @@ As a matter of equity the plaintiff's better position cannot I think be question
 
 Judge Hayward concurring in opinion with me, this rule must be discharged.
 
-### Robinson J. (dissenting)—
+### Robinson J. —
 
 After the best consideration I can give this subject, I cannot arrive at any other conclusion than that the rule for a new trial should be made absolute on the ground of misdirection in two particulars, and on the ground that one of the principal issues raised by the pleadings, viz., whether the plaintiffs had property in the seals, was determined by the Court and was not submitted to the jury.
 
@@ -184,7 +177,11 @@ By the 2nd plea the fact of ownership was expressly denied, it is the province o
 
 Ships from the United Kingdom, from the United States and Newfoundland are now engaged in the seal-fishery, and it is very desirable that the rule of law which governs the practice of such fishery should be well defined, and as I am so unfortunate as to differ in opinion from my brother judges, as they do from their predecessors, I wish to explain the ground upon which my judgment rests. It seems to me a radical error to place wild animals and domestic animals in the same legal category, because the distinctions between them are many and material, and arise from the fact that the latter are the absolute property of some person indefeasible except by his own act, whilst the former are, by nature's law, common to all, and are only the subject of a qualified property dependant for its acquisition upon special circumstances, and liable to be lost by accidental causes.
 
-{{< spoiler text="On Wild Animals (Revisited)" >}}Next, Justice Robinson describes the common law principles governing wild animals discussed by the Chief Justice at paragraph 11. But his description of these principles leaves out the crucial "bright line" between qualified and absolute possession of the animal that was so important to Chief Justice Hoyles. Why is this omission significant for Justice Robinson's arguments? {{< /spoiler >}}
+{{% callout alert %}}
+
+Next, Justice Robinson describes the common law principles governing wild animals discussed by the Chief Justice above. But his description of these principles leaves out the crucial "bright line" between qualified and absolute possession of the animal that was so important to Chief Justice Hoyles. Why is this omission significant for Justice Robinson's arguments?
+
+ {{% /callout %}}
 
 I find the law upon the subject thus laid down in *2 Black C—389*, and adopted by the recent and very learned commentator Mr. Serjeant Stephen: "In animals of a tame nature such as horses, sheep, &c., &c., a man may have an absolute property as in any inanimate thing, but in animals *ferae naturae*, a man can have no absolute property," "he may be invested with a qualified, but not an absolute property in all creatures that are ferae naturae, by reclaiming or so confining them within his own immediate power that they cannot escape and use their natural liberty,"—*p. 390*. "These are no longer the property of a man than while they continue in his keeping or actual possession," and the author gives an example in the case of bees, "which are ferae naturae, but, when hived a man may have a qualified property in them," and Bracton adds it is occupation, i.e., hiving and including them that gives the property in bees, "though a swarm lights upon my tree, I have no property in them till I have hived them, a swarm which flies out of my hive is mine, so long as I can keep it in sight, and have power to pursue it." Substitute the word "seals" for "bees" and the word "vessel" for "hive" and we have the present case, *mutado nomine, de te fabula narratur*.
 
