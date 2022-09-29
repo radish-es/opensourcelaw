@@ -20,17 +20,17 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Patterns of Common Law Argument I** - We will undertake multiple readings of our first case, *Harrison v Carswell* to gain some experience with the basic structure of common law arguments in terms of symmetric "argument pairs". *Harrison* is an ideal case to illustrate this structure of argument by two leading jurists on the Supreme Court. 
 
-### [Week 3 (Sept 26/28)](../../materials/week3)
+### [Week 3 (Sept 28)](../../materials/week3)
 
 **Patterns of Common Law Argument II** - In this final week of Unit 1, we will continue to investigate patterns of common law argument in a second case: *Moore*. We continue to practice identifying the "argument pairs" that lie at the heart of common law reasoning and try to link these ot the *Harrison* case we read in Week 2. 
 
-<!--## Unit 2: Classical Common Law Thought
+## Unit 2: Classical Common Law Thought
 
-### [Week 4 (Oct 4/6)](../../readings/week4)
+### [Week 4 (Oct 3/5)](../../materials/week4)
 
 **Possession I** - This week, we begin to develop the historical thread of the course, starting with an introduction to the framework we will use to study property law as a aspect of political economy in Canada over the past few hundred years. Starting in the classical style of common law thought, we will read some of the liberal beginnings of possession in Locke and see their application to the seal fishery in Newfoundland in *Clift v Kane*.
 
-### [Week 5 (Oct 18/20)](../../readings/week5)
+<!--### [Week 5 (Oct 18/20)](../../readings/week5)
 
 **Possession II** - Building on our introduction to possession, we take up a case study of unclear land titles in African Nova Scotian communities. This case study will help us to see the significances of legal distinctions between possession and title, and link the liberal foundations of possession and competition to the context of systemic discrimination and anti-Black racism in Nova Scotia today. 
 
