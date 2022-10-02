@@ -17,4 +17,4 @@ The following prompts might also help the focus your analysis:
 
 - **Subsumation**: In what ways does Locke portray his treatise as universal, despite being rooted in seventeenth-century British Christianity? What contradictions might this supposed universality obscure? 
 
-Keep these questions and you answers in mind when we return to these topics next week. 
+Keep these questions and your answers in mind when we return to these topics next week. 
