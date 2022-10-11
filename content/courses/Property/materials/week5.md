@@ -4,60 +4,45 @@ linktitle: Possession II
 published: true
 type: book
 weight: 5
-objectives:
-  - objective: 'Understand the difference between "possession" and "title" '
-    explanation: as well as the historical role of "seisen.
-  - objective: Briefly describe the history of African Nova Scotian land settlement
-    explanation: >-
-      especially the significance of possessory interests and the context around
-      the denial of formal titles.
-  - objective: Explain the "relative" nature of common law possession
-  - objective: Identify and interpret the common law rule of possession in land
-    explanation: and link this to the relative nature of possession and title.
-  - objective: Discuss the basis for claims to adverse possession
-    explanation: and link this to the relationship between possession and title.
 components:
-  - title: Land Title and Possession in African Nova Scotian Communities
-    filename: content/courses/Property/modules/ANS_title_possession.md
+  - title: Royal Proclamation
+    filename: content/courses/Property/cases/royal_proclamation.md
+    _template: case
+  - title: The *St Catherine's Milling* Case
+    filename: content/courses/Property/modules/st_catherines_milling_intro.md
     _template: module
-  - title: Land Titles Clarification Act
-    filename: content/courses/Property/cases/ltca.md
+  - title: St Catherine's Milling HC
+    filename: content/courses/Property/cases/stcatherines_hc.md
     _template: case
-  - title: Beals v Nova Scotia
-    filename: content/courses/Property/cases/beals.md
+  - title: St Catherine's Milling SCC
+    filename: content/courses/Property/cases/stcatherines_scc.md
     _template: case
-  - title: Rights of Possessors
-    filename: content/courses/Property/modules/possessors_rights.md
-    _template: module
-  - title: Asher v Whitlock
-    filename: content/courses/Property/cases/asher.md
-    _template: case
-  - title: Parking Chairs
-    filename: content/courses/Property/exercises/parking_chairs.md
-    _template: exercise
-  - title: Adverse Possession
-    filename: content/courses/Property/modules/adverse_possession.md
-    _template: module
-  - title: Lessees of Lawson et al v Whitman
-    filename: content/courses/Property/cases/lawson.md
-    _template: case
-  - title: Downey v Nova Scotia
-    filename: content/courses/Property/cases/downey.md
+  - title: St Catherine's Milling JCPC
+    filename: content/courses/Property/cases/stcatherines_jcpc.md
     _template: case
 ---
 
 
 
 
-[{{< figure src="/media/ltca.jpg" caption="Edited from *Plan Showing LTCA Land Title Clarification Areas*">}}](https://novascotia.ca/natr/titles-clarification/pdf/NovaScotiaLTCA.pdf)
 
-As we saw in Week 4, the act of physical control—as a crucial element of legal possession—is afforded special priority by the common law. In the case of "unowned" things, like the wild seals we studied in *[Clift v Kane,](../week4/#clift-v-kane-1870-5-nfld-lr-nfld-en-banc)* showing physical control (plus an intention to control) amounts not only to legal possession for a period of time but also to absolute ownership—at least, if the animal can no longer "escape". Exactly *how* one can show sufficient physical control is, as we saw, often difficult to define and heavily dependent on the circumstances. 
+In Weeks 4 and 5, we looked at the essential role that possession plays in common law thinking about property. We now turn to the doctrine of Aboriginal title and examine how the common law began to interpret Indigenous land rights in the classical style.
 
-Now we turn our attention to possession of land. Recall that, according to Locke, his theory of first possession through labour applies equally to personal and real property (i.e., to "things" and "land"). We will see some important consequences of this and other ideas in Locke next week when we begin to look at Indigenous land rights. This week, our focus will be on the relationship between *possession* and *title*—two related but distinct common law concepts. The title holder is often referred to as the "true" or "absolute" owner of the land, and they continue to hold title even when someone else is in possession of the land (with or without the owner's permission). At the same time, someone in possession of land may enjoy certain property rights that are enforceable against other non-possessors. From the perspective of classical liberalism, possession arises from the dynamics of free competition between individuals, while title is a means to limit and stabilize that competition by granting possession the *imprimatur* of the state. 
+In relationship to the other material we have covered so far in Unit 2 of the course, consider the following two problems regarding Indigenous land rights—set in the context of Mi'kmaw land rights and laws. We will aim to address both of these problems this week and next:
 
 {{% callout warning %}} 
 
-### Key Distinction: Title vs Possession
+### Two Critical Problems
 
-From the common law's perspective, "legal title" and "legal possession" are distinct concepts. One might hold title without being in possession, or one might be in possession without title. Sometimes, possession can serve as the basis for (or "ripen" into) title, and in exceptional cases a possessor can displace the holder of legal title altogether.
+- Mi'kmaw people have lived on and held established relationships with the lands that now comprise Eastern Canada for thousands of years. They did so long before colonial settlement. Because Mi'kma'ki is unceded territory, if we apply the common law principles of first possession we have learned about so far, the Mi'kmaq continue to hold title. Yet that title was effectively denied by the common law courts in the classical period. Why?
+
+- Mi'kmaw people not only occupied Mi'kma'ki long before colonization, they also governed their relationships with the land according to Mi'kmaw law. They continue to do so. Why should Anglo-Canadian law be the system (or the only system) that determines questions of possession, title and other legal dimensions of lands governance, as the common law courts have long assumed?
 {{% /callout %}}
+
+We might think of the first problem above as addressing the "internal" perspective of the common law. What *is* Aboriginal title according to the common law's own logic? The second problem requires an "external" perspective. From the standpoint of a relationship between nations that co-exist with one another, whose system of law can legitimately provide an answer the first problem about the content of Indigenous land rights? This second problem rests on the issue of *sovereignty*, i.e. how and when law-making authority is asserted as between nations. 
+
+We will take the first of these problems as our starting point. We begin with the *Royal Proclamation of 1763*—a document in which King George III of England set out the terms of colonial settlement in British North America after the Seven Years War. In doing so, the British Crown articulated its contemporary interpretation of Aboriginal title and laid the groundwork for subsequent development of that doctrine in the common law courts.
+
+The Royal Proclamation of 1763 includes several key ideas that come to play a pivotal role in future cases. Among these are the assertion or assumption of sovereignty in the British Crown, the acknowledgement of Indigenous land rights in land "not having been ceded to or purchased", and a direct prohibition on the private sale and purchase of Indigenous land rights (otherwise referred to as a "restraint on alienation"). 
+
+While the Proclamation uses words and phrases like "Possession", "for the use of" and "lands reserved", it is important to place these terms in context of actual practices and the way the were used at the time. This approach is a central feature of Justice Strong's judgement in *St. Catherine's Milling*, below.
