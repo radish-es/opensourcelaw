@@ -1,22 +1,10 @@
 ---
-style: St. Catharines Milling and Lumber Co. v R. (JCPC)
-short: St. Catharines (JCPC)
+style: St. Catherines Milling and Lumber Co. v R. (JCPC)
+short: St. Catherines (JCPC)
 reporter: '[1888] UKPC 70 (JCPC)'
 tags:
-  - classical style
-  - racism
-  - colonialism
-  - underlying title
-  - Aboriginal title
-  - title
-  - possession
 public: true
 ---
-
-
-
-
-
 
 ### Lord Watson —
 

@@ -1,7 +1,7 @@
 ---
 title: Possession II
 linktitle: Possession II
-published: false
+published: true
 type: book
 weight: 5
 objectives:
@@ -45,6 +45,7 @@ components:
     filename: content/courses/Property/cases/downey.md
     _template: case
 ---
+
 
 
 

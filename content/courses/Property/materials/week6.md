@@ -1,7 +1,7 @@
 ---
 title: Possession III
 linktitle: Possession III
-published: false
+published: true
 type: book
 weight: 6
 components:
@@ -21,6 +21,7 @@ components:
     filename: content/courses/Property/cases/stcatherines_jcpc.md
     _template: case
 ---
+
 
 
 
