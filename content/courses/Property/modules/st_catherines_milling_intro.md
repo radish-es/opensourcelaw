@@ -1,8 +1,8 @@
 ---
 title: Overview - The St. Catherine's Milling Case
 short: St Catherine's Milling
-tags:
 ---
+
 
 For more than a hundred years after it was enacted, the Royal Proclamation of 1763 stood as the British Crown's most authoritative statement on Aboriginal title. But during this period the Proclamation itself received little to no scrutiny in the common law courts. This changed dramatically when the Chancery Division of the High Court of Ontario issued its decision in *St. Catherine's Milling and Lumber Co. v R* in 1886, followed by subsequent appeals all the way to the Judicial Committee of the Privy Council—at that time, Canada's highest court of appeal. The case would chart the course for the common law doctrine of Aboriginal title in Canada for well into the next century.
 
@@ -16,15 +16,15 @@ To understand *St. Catherine's Milling* and is implications, it is important to 
 
 ### The Facts and Law in *St. Catherine's Milling*
 
-The facts and law in this case are reasonably complicated. Essentially, the case involves an underlying dispute between the Province of Ontario and the Dominion Government (Canada) about title in public lands within the political boundaries of Ontario. Understanding the factual and legal context of the case is a useful exercise in learning how to make sense of a complex legal setting across multiple judicial decisions. Here, I will aim to sketch the outlines of that context to help you interpret the case.
+The facts and law in this case are reasonably complicated. Essentially, the case involves an underlying dispute between the Province of Ontario and the Dominion Government (Canada) about who is entitled to use and gain revenue from public lands within the political boundaries of Ontario. Understanding the factual and legal context of the case is a useful exercise in learning how to make sense of a complex legal setting across multiple judicial decisions. Here, I will aim to sketch the outlines of that context to help you interpret the case.
 
 For our purposes, the main legal dispute in *St. Catherine's Milling* turns on the interpretation of Section 109 of the *Constitution Act, 1867*. That provision reads:
 
 > 109. All Lands, Mines, Minerals, and Royalties belonging to the several Provinces of Canada, Nova Scotia, and New Brunswick at the Union, and all Sums then due or payable for such Lands, Mines, Minerals, or Royalties, shall belong to the several Provinces of Ontario, Quebec, Nova Scotia, and New Brunswick in which the same are situate or arise, subject to any Trusts existing in respect thereof, and to any Interest other than that of the Province in the same.
 
-In effect, Section 109 says that title in any lands "belonging to" the British Crown in right of the former Province of Canada prior to 1867 (i.e. lands not held by private interests or otherwise taken up) passed to the Province of Ontario at Confederation. The question in *St. Catherine's Milling* was therefore whether or not the lands at issue--those that would be subject to Treaty 3 after 1873--"belonged to" the Crown before 1867. 
+In effect, Section 109 says that any legal entitlements "belonging to" the former Province of Canada prior to 1867 (i.e. in lands not held by private interests or otherwise taken up) passed to the Province of Ontario at Confederation. The question in *St. Catherine's Milling* was therefore whether or not the rights in land at issue--those that would be subject to Treaty 3 after 1873--"belonged to" the the former Province of Canada before 1867. Lord Watson, in his decision for the Privy Council, refers to these rights as the "beneficial interest" (or "beneficial title") in the lands, as distinguished from the underlying or radical title (*plenum dominium*), which is held by the Crown. 
 
-St. Catherine's Milling and Lumber Company, the defendant, argued that these lands did *not* "belong" to the Crown prior to 1867, because title to those lands was held by the *Nahkawininiwak* (Salteaux) as Aboriginal title--a form of title recognized in and by the Royal Proclamation. The fact of Aboriginal title meant that the lands did not "belong" to the Crown and therefore could not have passed to Ontario by virtue of Section 109. It was this Aboriginal title, according to the defendant's view, that was later ceded to the Crown through Treaty 3. On the basis of the "beneficial interest" acquired by Canada through Treaty 3, it granted licenses to the company to engage in forestry on the lands. 
+St. Catherine's Milling and Lumber Company, the defendant, argued that these land rights did *not* "belong" to the Province of Canada prior to 1867, because title to those lands was held by the *Nahkawininiwak* (Salteaux) as Aboriginal title--a form of title recognized in and by the Royal Proclamation. The fact of Aboriginal title meant that the land rights did not "belong" to the Province of Canada and therefore could not have passed to Ontario by virtue of Section 109. It was this Aboriginal title, according to the defendant's view, that was later ceded to the Crown through Treaty 3. On the basis of the "beneficial interest" acquired by Canada through Treaty 3, it granted licenses to the company to engage in forestry on the lands. 
 
 The defendant bolstered its argument about Section 109 of the *Constitution Act, 1867* by citing another provision in that same *Act*, namely Section 91(24) which refers to Canada's jurisdiction over "lands reserved for the Indians". The basic argument here is that lands subject to Aboriginal title fall within Section 91(24) and are consequently excluded from Section 109. 
 
