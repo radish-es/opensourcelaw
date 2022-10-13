@@ -1,7 +1,7 @@
 ---
-title: Possession III
+title: Possession III - Role of Title
 linktitle: Possession III
-published: false
+published: true
 type: book
 weight: 6
 objectives:
