@@ -2,12 +2,6 @@
 style: Beals v Nova Scotia (Attorney General)
 short: Beals
 reporter: ' 2020 NSSC 60 (CanLII)'
-tags:
-  - racism
-  - colonialism
-  - African Nova Scotians
-  - possession
-  - title
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/j58p8'
@@ -17,12 +11,6 @@ sources:
     license: 'https://courts.ns.ca/General_Content/copyright_pop_up.htm'
 ---
 
-
-
-
-
-
-[This case addresses the interpretation of the *Land Titles Clarification Act*, successor legislation to the *Community Land Titles Clarification Act*, which was enacted in 1964 to address the problem of unclear land titles in African Nova Scotian communities. We will not address the specific facts in *Beals*, but read the case to understand some of the relevant historical background.]
 
 ### Bodurtha J. —
 
@@ -83,19 +71,5 @@ The Report of the Working Group of Experts on People of African Descent on its m
 > 60. The Working Group is concerned about the lack of implementation of the Land Titles Clarification Act in Nova Scotia, which should assist people of African descent in obtaining titles to the lands on which they live. The Act was passed in Nova Scotia in 1963 to create a process to assist with the clarification of land title and land ownership issues for residents living in 13 specific communities in Nova Scotia. For historic and systemic reasons, there was a lack of land ownership documentation for the residents of those areas and communities, many of whom are African Nova Scotian. The Act was intended to provide a simpler and inexpensive mechanism to obtain clarification of land titles. Under the Act, a certificate of title is issued to applicants who can show that they used and occupied the land claimed for at least 20 years. The process provides for notice to be given to the community and issues such as competing ownership claims and unsettled boundaries to be resolved before a certificate can be issued.
 
 > 61. Civil society informed the Working Group that the system in place under the Act was not working as hoped. The process is reportedly unjust and discriminatory, and many have had their claims rejected. Residents must bear the burden for submitting all the documentation, as well as the application, lawyer and surveyor fees necessary to have the land title clarified. In May 2015, the Department of Natural Resources, which is responsible for processing the applications, acknowledged that the process was unclear and stated they were attempting to pilot a project to assist residents in the community to obtain the title to their property. It was recognized that there were financial and logistical hurdles for some residents wishing to obtain a certificate of title, as residents were responsible for all the costs of the process, include [sic] surveying and legal fees. However, an interdepartmental committee was currently considering various options for removing or reducing those barriers and providing support to African Nova Scotians to help them clarify titles to their properties. The Working Group emphasized that the Act must be implemented in collaboration with, and for the benefit of, the affected population group. All resources should be made available, fees should be waived and remedies should be provided for any discriminatory policies relating to the process of granting a certificate of title.
-
-The final source is *This Land is Our Land: African Nova Scotian Voices from the Preston Area Speak Up*, a report prepared by then Schulich School of Law student Angela Simmonds. Ms. Simmonds explains at p. 3 that the report contains the results from a series of interviews she conducted during the months of June, July and August 2014, with “African Nova Scotian community members who are well-informed of African Nova Scotian historical land ownership”. Interviews focused on three topics:
-
-1. What are the historical challenges and barriers faced by African Nova Scotian people when dealing with land ownership;
-
-2. In what ways has the Land Titles Clarification Act been used in the process to acquire title to land from government; and
-
-3. In what ways can we move forward to address future land ownership, acquisition and community education around the process of land ownership.
-
-The report contains some of the same historical information on the migration of black families to Nova Scotia discussed in the other sources, obtained by the author from the Nova Scotia Archives website. Unlike the other sources, however, the report contains firsthand accounts from African Nova Scotians of their negative experiences dealing with government and the LTCA. The only portion of the report relied on by the applicant in his brief relates to the reason that some community members do not believe in writing wills:
-
-> During this process of interviewing members in the community I inquired about the lack of wills for some community members. Community members explained that elders in the community affiliate death with wills. To many in the community, wills represent death and with such strong religious beliefs and faith it is not something that is discussed in the home.
-
-> Culturally it is known that the land would go to the youngest child of the family or the child who was residing in the home when the parents pass away. Without a will this becomes difficult and can result in conflict.
 
 […]

@@ -2,7 +2,6 @@
 title: Land Title and Possession in African Nova Scotian Communities
 short: ANS Title and Possession
 tags:
-  - Week 5
 ---
 
 This week, we will explore a contemporary case study of possession and title to understand how these concepts were developed in the classical legal style and the continuing influence of that way of thinking. Several African Nova Scotian communities today are experiencing the consequences of unclear legal title to community members' lands. These circumstances "stem from a history fraught with racism, oppression and inequity"[^cameron2014]. As Justice Campbell observes at paragraphs 4-5 in *[Downey v Nova Scotia,](#downey-v-nova-scotia-attorney-general-2020-nssc-201)* below:

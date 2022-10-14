@@ -1,32 +1,33 @@
 ---
-title: Possession III - Role of Title
+title: Week 6 - Possession III
 linktitle: Possession III
 published: true
 type: book
 weight: 6
 objectives:
-  - objective: 'Understand the difference between "possession" and "title" '
-    explanation: as well as the historical role of "seisen.
+  - objective: >-
+      Deepen your understanding of the differences between "possession" and
+      "title" 
+    explanation: and link these to the historical role of "seisen".
   - objective: Briefly describe the history of African Nova Scotian land settlement
     explanation: >-
       especially the significance of possessory interests and the context around
       the denial of formal titles.
   - objective: Explain the "relative" nature of common law possession
-  - objective: Identify and interpret the common law rule of possession in land
-    explanation: and link this to the relative nature of possession and title.
+    explanation: and its significant to legal entitlements in land.
   - objective: Discuss the basis for claims to adverse possession
     explanation: and link this to the relationship between possession and title.
 components:
-  - title: Land Title and Possession in African Nova Scotian Communities
-    filename: content/courses/Property/modules/ANS_title_possession.md
-    _template: module
-  - title: Land Titles Clarification Act
-    filename: content/courses/Property/cases/ltca.md
+  - title: Case Study - Land Title Clarification
+    filename: content/courses/Property/exercises/ANS_title_clarification.md
+    _template: exercise
+  - title: Downey v Nova Scotia
+    filename: content/courses/Property/cases/downey.md
     _template: case
   - title: Beals v Nova Scotia
     filename: content/courses/Property/cases/beals.md
     _template: case
-  - title: Rights of Possessors
+  - title: The Relative Nature of Possession
     filename: content/courses/Property/modules/possessors_rights.md
     _template: module
   - title: Asher v Whitlock
@@ -41,24 +42,29 @@ components:
   - title: Lessees of Lawson et al v Whitman
     filename: content/courses/Property/cases/lawson.md
     _template: case
-  - title: Downey v Nova Scotia
-    filename: content/courses/Property/cases/downey.md
-    _template: case
 ---
 
 
 
 
 
-[{{< figure src="/media/ltca.jpg" caption="Edited from *Plan Showing LTCA Land Title Clarification Areas*">}}](https://novascotia.ca/natr/titles-clarification/pdf/NovaScotiaLTCA.pdf)
 
-As we saw in Week 4, the act of physical control—as a crucial element of legal possession—is afforded special priority by the common law. In the case of "unowned" things, like the wild seals we studied in *[Clift v Kane,](../week4/#clift-v-kane-1870-5-nfld-lr-nfld-en-banc)* showing physical control (plus an intention to control) amounts not only to legal possession for a period of time but also to absolute ownership—at least, if the animal can no longer "escape". Exactly *how* one can show sufficient physical control is, as we saw, often difficult to define and heavily dependent on the circumstances. 
 
-Now we turn our attention to possession of land. Recall that, according to Locke, his theory of first possession through labour applies equally to personal and real property (i.e., to "things" and "land"). We will see some important consequences of this and other ideas in Locke next week when we begin to look at Indigenous land rights. This week, our focus will be on the relationship between *possession* and *title*—two related but distinct common law concepts. The title holder is often referred to as the "true" or "absolute" owner of the land, and they continue to hold title even when someone else is in possession of the land (with or without the owner's permission). At the same time, someone in possession of land may enjoy certain property rights that are enforceable against other non-possessors. From the perspective of classical liberalism, possession arises from the dynamics of free competition between individuals, while title is a means to limit and stabilize that competition by granting possession the *imprimatur* of the state. 
 
-{{% callout warning %}} 
 
-### Key Distinction: Title vs Possession
+[{{< figure src="/media/ltca.jpg" caption="Excerpted from *Plan Showing LTCA Land Title Clarification Areas* in Nova Scotia">}}](https://novascotia.ca/natr/titles-clarification/pdf/NovaScotiaLTCA.pdf)
 
-From the common law's perspective, "legal title" and "legal possession" are distinct concepts. One might hold title without being in possession, or one might be in possession without title. Sometimes, possession can serve as the basis for (or "ripen" into) title, and in exceptional cases a possessor can displace the holder of legal title altogether.
+Over the past few weeks, we have studied the special role that common law property affords to possession and the relationship of that concept to legal title. In the case of "unowned" things--like the wild seals we studied in *Clift v Kane*--showing physical control (plus an intention to control) amounts not only to possession while such control is sustained, but also to title as legally-recognized ownership—at least, if the animal can no longer "escape". Exactly *how* one can establish sufficient control is, as we saw, often difficult to define and heavily dependent on the circumstances. 
+
+Last week, we turned out attention more squarely to possession and title in land. Recalling that Locke applied his labour theory of first possession equally to personal and real property (i.e., to "things" and "land"), we saw how that application of that principle was long denied to Indigenous peoples as the original inhabitants of the Americas by characterizing their relationships to land to as a "personal and usufructuary right" in the eyes of common law judges. 
+
+This week, we continue to build our understanding of the relationship between *possession* and *title*. Our overarching question in Week 6 is as follows:
+
+{{% callout question %}}
+
+Why is title in land--as distinguished from "mere possession" of land--important? What are its justifications and consequences as part of the basic structure of a liberal market economy?
+
 {{% /callout %}}
+
+We start by taking up this question in a particular place and context: contemporary movements toward "clarification" of land titles in African Nova Scotian communities as a means to address historical discrimination and anti-Black racism in the distribution of land in Nova Scotia. These movements have placed heavy emphasis on the regularization and formalization of land titles for individuals and families in possession of land, and can help us to understand--and develop a critical perspective on--the social role of legal title. With this case study and the questions it raises in mind, we then move on to two crucial doctrinal points. The first of these addresses the fundamentally *relative* nature of possession and the entitlements afforded to those in possession but lacking title. The second returns to Locke's idea of possession as the basis for title in a the context of *adverse possession*. 
+
