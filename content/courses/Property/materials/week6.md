@@ -1,7 +1,7 @@
 ---
 title: Week 6 - Possession III
 linktitle: Possession III
-published: true
+published: false
 type: book
 weight: 6
 objectives:
