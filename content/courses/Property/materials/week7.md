@@ -1,42 +1,51 @@
 ---
-title: Treaties and Indigenous Legal Orders
-linktitle: Treaties and Indigenous Legal Orders
-published: false
+title: Week 7 - Exclusion I
+linktitle: Exclusion I
+published: true
 type: book
-weight: 7
+weight: 8
 components:
-  - title: Peace and Friendship Treaties
-    filename: content/courses/Property/modules/peace_friendship_treaties.md
+  - title: Nuisance Law in an Industrializing Canada
+    filename: content/courses/Property/modules/nuisance_industrial_canada.md
     _template: module
-  - title: Treaty of 1725
-    filename: content/courses/Property/cases/treaty1725.md
+  - title: Shelfer v City of London Electrical Lighting Co
+    filename: content/courses/Property/cases/shelfer.md
     _template: case
-  - title: The British Settlement of Halifax (1749)
-    filename: content/courses/Property/modules/british_settlement_halifax.md
+  - title: Remedying Nuisance in the Classical Style
+    filename: content/courses/Property/modules/nuisance_classical_style.md
     _template: module
-  - title: 1752 Treaty of Peace and Friendship
-    filename: content/courses/Property/cases/treaty1752.md
+  - title: Black v Canadian Copper Co
+    filename: content/courses/Property/cases/black.md
     _template: case
-  - title: Early Interpretation of the 1752 Treaty
-    filename: content/courses/Property/modules/interpretation_1752_treaty.md
-    _template: module
-  - title: R v Syliboy
-    filename: content/courses/Property/cases/syliboy.md
+  - title: Canada Paper Co v Brown
+    filename: content/courses/Property/cases/canada_paper.md
     _template: case
-  - title: Mi’kmaw Land Tenure
-    filename: content/courses/Property/modules/mikmaw_land_tenure.md
-    _template: module
-  - title: Check Out
-    filename: content/courses/Property/modules/w7_checkout.md
-    _template: module
 ---
 
 
 
-Last week we studied the historical roots of the common law doctrine of Aboriginal title and saw, in *St. Catherine's Milling*, how classical legal thought framed the courts' conclusion that Indigenous land rights were "personal" rather than "proprietary". We left off with the observation that beneath the issue of Aboriginal title foregrounded in *St. Catherine's Milling* was the doctrine of *terra nullius* ("land belonging to no one"). Aspects of *terra nullius*—paired with the doctrine of discovery—undergird courts' continued assumption of Crown sovereignty and the exclusion of Indigenous sovereignties up to the present day. One consequence of this doctrine has been to largely exclude Indigenous legal orders from the consciousness of the common law.
 
-The path charted by the courts at the end of the nineteenth century, however, was not the only possibility. An alternative to *terra nullius*, we might say, is *treaty*—a legal relationship between nations defining their scope of authority and mutual obligations. Such relationships are based on the shared recognition that each party to the treaty holds authority to govern according to their own systems of law.
+[{{< figure src="/media/fence.jpg" caption="Source: Simon Maage on Unsplash">}}](https://unsplash.com/photos/xw-vvvXq3rA)
 
-Treaty relationships between Indigenous nations and the Crown are widespread in Canada, but they are also diverse and difficult to generalize. This week we will focus on the treaty context in Mi'kma'ki / Atlantic Canada to understand how the Peace and Friendship Treaties were established in the mid-eighteenth century and then interpreted in the classical period. We will see that, with the Nova Scotia County Court's decision in *R v Syliboy*, common law treaty interpretation in the region became highly restrictive and was based on a rejection of the idea of nation-to-nation relationships and of Mi'kmaw systems of law and governance. 
+So far in Unit 2 we have been focused on how classical legal thought addressed questions of possession and title. We now turn to a second prominent topic in the classical period—one that mainly addresses the *content* of property rights held by owners or those in possession. 
 
-Nevertheless, Mi'kmaq people have continued to use and develop these systems of law and governance. We will look at one description of Mi'kmaw land tenure and ask how we might understand this system in comparison to the structures of common law reasoning we have studied so far in the course. 
+One right in particular, some argue, is fundamental to private property: the *right to exclude* others from interfering with the owner's use and enjoyment of their land, other tangible things and even intangibles like knowledge goods. The common law has devised several remedies to enforce owners' right to exclude. We have already seen two examples in Unit 1. In *Harrison v Carswell*, the mall owner brought an action in *trespass* against the picketer Sophie Carswell to exclude her from the mall sidewalk, while the plaintiff in *Moore* made a claim in *conversion* in his attempt to exclude the defendants from using his cells after they were extracted from his body. Both of these are causes of action in tort designed to protect the right to exclude.
+
+This week, we will look at a third type of tort action that engages owners' rights to exclude, but also—reciprocally—other owners' rights to use their property as they wish: an action in *nuisance*. I know that you are currently studying nuisance doctrine more fully in your torts class this term. Our focus here will be somewhat narrower. We will explore nuisance law as a "property tort" for what it can tell us about how judges in the mode of classical legal thought address the clash of private property rights between neighbours and to what extent courts were willing to enforce an owner's right to exclude. The material we cover will largely be distinct from—but mutually reinforcing with—the material you study in torts this term.
+
+Our focus is on just one aspect of nuisance doctrine: the question of *remedy*. Once a nuisance has been established on the facts (as it is in all the cases we'll study in this course), should courts grant an injunction to prevent the nuisance-causing activity or should courts award damages to compensate the plaintiff for their losses? The former option most effectively enforces the owner's right to exclude, while the latter forces the owner to accept payment for an ongoing violation of that right.
+
+
+{{% callout warning %}} 
+
+### The Bundle of Sticks
+
+{{< figure src="/media/sticks.jpg" caption="[Source: Wikimedia, Stephhzz - Own work, CC BY-SA 3.0.](https://commons.wikimedia.org/w/index.php?curid=11728347)" link="">}}
+
+When trying to explain the common law's particular (and sometimes idiosyncratic) understanding of "ownership", lawyers and judges frequently invoke the "bundle of sticks" metaphor—as in, "ownership is like a bundle of sticks"—the "sticks" being the various property rights that make up the ownership "bundle". 
+
+The idea behind the metaphor is that ownership is not really a uniform collection of rights that one either has (ownership) or does not (no ownership). Instead, ownership is a malleable legal concept, difficult to pin down to any particular arrangement or bundle. One landowner might have an unrestricted right to use their land in any way they like, while another might have certain use rights taken out of their ownership bundle—say, by public land use regulations restricting what they can build. We would likely call both an "owner", even though they hold different sets of legal entitlements. 
+
+This "bundle" view of property of course raises the question: if stick after stick is eliminated from the ownership bundle, at what point does one cease to become an "owner" at all (recall that this was one of the fundamental disagreements between the judges in *Moore*)? 
+{{% /callout %}}
+
