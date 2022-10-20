@@ -12,9 +12,10 @@ sources:
 ---
 
 
+
 ### Bodurtha J. —
 
-#### The *LTCA* [*Land Titles Clarification Act*] - Historical background
+[...]
 
 The *Community Land Titles Clarification Act*, the predecessor to the *LTCA*, was assented to on March 18, 1964. On second reading of the proposed legislation, the Honourable W. S. Kennedy Jones stated:
 
