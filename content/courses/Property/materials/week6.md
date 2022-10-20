@@ -36,13 +36,18 @@ components:
   - title: Asher v Whitlock
     filename: content/courses/Property/cases/asher.md
     _template: case
-  - title: Adverse Possession
-    filename: content/courses/Property/modules/adverse_possession.md
-    _template: module
   - title: Parking Chairs
     filename: content/courses/Property/exercises/parking_chairs.md
     _template: exercise
+  - title: Adverse Possession
+    filename: content/courses/Property/modules/adverse_possession.md
+    _template: module
+  - title: Piper
+    filename: content/courses/Property/cases/piper.md
+    _template: case
 ---
+
+
 
 
 
