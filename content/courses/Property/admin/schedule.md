@@ -34,10 +34,12 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Possession II** - In this portion of the course, we explore some of the bases of Aboriginal title and look at how common law courts in the classical mode interpreted Indigenous land rights. This week also introduces the distinction between different forms of title. 
 
-<!--
-### [Week 6 (Oct 25/27)](../../readings/week6)
+### [Week 6 (Oct 24/26)](../../readings/week6)
 
-**Possession II** - Building on our introduction to possession, we take up a case study of unclear land titles in African Nova Scotian communities. This case study will help us to see the significances of legal distinctions between possession and title, and link the liberal foundations of possession and competition to the context of systemic discrimination and anti-Black racism in Nova Scotia today. 
+**Possession II** - Building on our discussion of possession and title so far, we take up a case study of unclear land titles in African Nova Scotian communities. This case study will help us to understand some of the rationales offered for the formalization of titled based on possession and introduce a critical perspective on the issues. Based on the case study, we will then explore some of the further background common law doctrine on the relative nature of possession and claims to adverse possession. 
+
+
+<!--
 
 ### [Week 7 (Nov 1/3)](../../readings/week7)
 
