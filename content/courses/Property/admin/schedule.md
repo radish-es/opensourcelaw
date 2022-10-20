@@ -36,7 +36,7 @@ We will meet in Weldon Room 207 throughout the year.
 
 ### [Week 6 (Oct 24/26)](../../materials/week6)
 
-**Possession II** - Building on our discussion of possession and title so far, we take up a case study of unclear land titles in African Nova Scotian communities. This case study will help us to understand some of the rationales offered for the formalization of titled based on possession and introduce a critical perspective on the issues. Based on the case study, we will then explore some of the further background common law doctrine on the relative nature of possession and claims to adverse possession. 
+**Possession III** - Building on our discussion of possession and title so far, we take up a case study of unclear land titles in African Nova Scotian communities. This case study will help us to understand some of the rationales offered for the formalization of titled based on possession and introduce a critical perspective on the issues. Based on the case study, we will then explore some of the further background common law doctrine on the relative nature of possession and claims to adverse possession. 
 
 
 <!--
