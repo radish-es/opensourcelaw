@@ -1,15 +1,24 @@
 {
-    "name": "my-tina-content-api",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "dev": "yarn tinacms server:start"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "@tinacms/cli": "0.60.12"
-    }
+  "name": "opensourcelaw",
+  "version": "1.0.0",
+  "description": "Opensourcelaw.ca is an experimental platform to host open-source legal casebooks based on the Jamstack standard using [Hugo](https://gohugo.io) and [Wowchemy](https://wowchemy.com/?utm_campaign=poweredby). The goal is to build a framework for online casebook publishing that not only creates free learning materials for law students but also supports collaboration, flexibility, adaptation and creative freedom among authors and teachers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radish-es/opensourcelaw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radish-es/opensourcelaw/issues"
+  },
+  "homepage": "https://github.com/radish-es/opensourcelaw#readme",
+  "dependencies": {
+    "@tinacms/cli": "^0.61.25",
+    "tinacms": "^0.69.19"
   }
+}
