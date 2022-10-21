@@ -6,17 +6,23 @@ type: book
 weight: 6
 objectives:
   - objective: >-
-      Deepen your understanding of the differences between "possession" and
-      "title" 
-    explanation: and link these to the historical role of "seisen".
-  - objective: Briefly describe the history of African Nova Scotian land settlement
+      Critically analyze the role of land title clarification in African Nova
+      Scotia communities
     explanation: >-
-      especially the significance of possessory interests and the context around
-      the denial of formal titles.
+      and link this analysis to your growing understanding of the relationship
+      between possession and title.
   - objective: Explain the "relative" nature of common law possession
-    explanation: and its significant to legal entitlements in land.
-  - objective: Discuss the basis for claims to adverse possession
-    explanation: and link this to the relationship between possession and title.
+    explanation: >-
+      and discuss how competing claims to possession are resolved according to
+      the rule in Asher v Whitlock.
+  - objective: 'Describe the legal structure of a claim in adverse possession '
+    explanation: >-
+      based on limiting the title holder's right to exclude the party in
+      possession.
+  - objective: Identify the emerging test for adverse possession
+    explanation: >-
+      and the underlying rationales for this test linked to the classical style
+      of common law thought.
 components:
   - title: Case Study - Land Title Clarification
     filename: content/courses/Property/exercises/ANS_title_clarification.md
@@ -46,6 +52,7 @@ components:
     filename: content/courses/Property/cases/piper.md
     _template: case
 ---
+
 
 
 
