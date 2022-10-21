@@ -1,7 +1,7 @@
 ---
 title: Week 7 - Exclusion I
 linktitle: Exclusion I
-published: true
+published: false
 type: book
 weight: 8
 components:
