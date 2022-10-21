@@ -27,7 +27,7 @@ components:
 
 [{{< figure src="/media/fence.jpg" caption="Source: Simon Maage on Unsplash">}}](https://unsplash.com/photos/xw-vvvXq3rA)
 
-So far in Unit 2, we have focused on issues of possession and title and their interpretation in the classical style. Those issues mainly addressed the question of how property is established and given recognition. We now turn to a second set of issues that deal with the *content* of property rights held by owners or those in possession. 
+So far in Unit 2, we have focused on issues of possession and title and their interpretation in the classical style. Those issues mainly addressed the question of how property is established and given recognition. We now turn to a second set of issues that deal with the *content* of property rights held by owners or those in possession.  
 
 One right in particular, some argue,[^exclude] is fundamental to property: the *right to exclude* others from interfering with the owner's use and enjoyment of their land, other tangible things and even intangibles like knowledge goods. For better or for worse, this notion that a right to exclude defines--at least in part--the concept of property probably fits with the everyday experiences of many people. It was at the heart of the disputes in both *[Harrison v Carswell](../week2/#Harrison)* (right to exclude from the mall side walk) and *[Moore v Regents of the University of California](../week3/#Moore)* (right to exclude from the cells of one's body).
 
