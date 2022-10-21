@@ -2,19 +2,13 @@
 style: Canada Paper Co v Brown
 short: Canada Paper
 reporter: '1922 CanLII 585 (SCC), [1922] 63 SCR 243'
-tags:
-  - classical style
-  - industry
-  - land uses
-  - remedies
-  - nuisance
-  - exclusion
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw7qw'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 ---
+
 
 
 
@@ -52,7 +46,11 @@ I cannot see why the power of a municipality to act, but which yet fails to act,
 
 The municipality is not given and, I respectfully submit, should not be given power to take away unless upon due compensation the rights of the owner to enjoy his property which carries with it pure air, light and pure water.
 
-{{< spoiler text="A Mass of Irrelevant Evidence" >}}Why does Justice Idington think that so much evidence adduced in the case is "irrelevant"? What evidence is he referring to? {{< /spoiler >}}
+{{% callout alert %}}
+
+Why does Justice Idington think that so much evidence adduced in the case is "irrelevant"? What evidence is he referring to?
+
+{{% /callout %}}
 
 The argument, that because the exercise by appellant of powers it arrogates to itself but are non-existent in law, may conduce to the prosperity of the little town or village in which the appellants’ works are situated, seems to have led to a mass of irrelevant evidence being adduced, and as a result thereof the confusion of thought that produces the remarkable conclusion that because the prosperity of said town or village would be enhanced by the use of the new process therefore the respondent has no rights upon which to rest his rights of property.
 
@@ -64,7 +62,11 @@ The invasion of rights incidental to the ownership of property, or the confiscat
 
 Progress may be legislatively made in that direction by many means offering due compensation to the owners, but we must abide by the fundamental law as we find it until changed.
 
-{{< spoiler text="The Question of Expropriation" >}}The issue of "due compensation" — or what we will next week call "expropriation" (i.e. the power of the state to take property in return for compensation) — seems to play a role here. What is that role? Why is it relevant to the determination of remedy in nuisance?  {{< /spoiler >}}
+{{% callout alert %}}
+
+The issue of "due compensation" — or what we will next week call "expropriation" (i.e. the power of the state to take property in return for compensation) — seems to play a role here. What is that role? Why is it relevant to the determination of remedy in nuisance?
+
+{{% /callout %}}
 
 And I cannot find that in France or Quebec any such legal theory as that argument rests upon has any foundation.
 
@@ -102,7 +104,11 @@ The substantial question for consideration is whether or not the respondent is e
 
 I am far from accepting the contention put forward on behalf of the respondent that considerations touching the effect of granting the injunction upon the residents of the neighbourhood and indeed upon the interests of the appellant company itself are not considerations properly to be taken into account in deciding the question whether or not the remedy by injunction should be accorded the plaintiff under the law of Quebec. The court in granting that remedy exercises a judicial discretion not, that is to say, an arbitrary choice or a choice based upon the personal views of the judge, but a discretion regulated in accordance with judicial principles as illustrated by the practice of the courts in giving and withholding the remedy. An injunction will not be granted where, having regard to all the circumstances, to grant it would be unjust; and the disparity between the advantage to the plaintiff to be gained by the granting of that remedy and the inconvenience and disadvantage which the defendant and others would suffer in consequence thereof may be a sufficient ground for refusing it. Where the injury to the plaintiff’s legal rights is small and is capable of being estimated in money, and can be adequately compensated by a money payment, and where on the other hand the restraining or mandatory order of the court, if made, would bear oppressively upon the defendant and upon innocent persons, then although the plaintiff has suffered and is suffering an injury in his legal rights the court may find and properly find in these circumstances a reason for declining to interfere by exercising its powers in *personam*. This is not, as was suggested in argument, equivalent to subjecting the plaintiff to a process of expropriation, it is merely applying the limitations and restrictions which the law imposes in relation to the pursuit of this particular form of remedy in order to prevent it becoming an instrument of injustice and oppression.
 
-{{< spoiler text="Applying Shelfer" >}}In the paragraph above, Justice Duff appears to apply the test for remedy from *Shelfer*. Is Justice Duff's reasoning consistent with the classical style of common law thought? {{< /spoiler >}}
+{{% callout alert %}}
+
+In the paragraph above, Justice Duff appears to apply the test for remedy from *Shelfer*. Is Justice Duff's reasoning consistent with the classical style of common law thought? 
+
+{{% /callout %}}
 
 These last mentioned considerations, however, are not those which govern the disposition of the present appeal; the respondent’s injury is substantial, is continuing, and there is no satisfactory ground for thinking that any kind of disproportionate injury to the appellant company or to others will ensue from putting into execution the remedy granted by the court below.
 
@@ -124,11 +130,11 @@ Three difficulties are suggested by the learned Chief Justice: (1) The nuisance 
 
 Mr. Justice Guerin’s view is that the injunction is too radical and too heroic a remedy under the circumstances, viz. the impossibility of operating the sulphate process without emitting the odors and gases complained of, and the non-interference of the municipal authorities — and that damages would be the appropriate legal remedy.
 
-{{< spoiler text="The Issue of Public Nuisance" >}}In the following paragraph, Justice Anglin addresses a question that arose in the Court of Appeal but is not addressed by the other judges at the Supreme Court. This is the issue of "public nuisance".
+{{% callout alert %}}
 
-Here, the essential argument by the defendant is that the plaintiff's claim is in the nature of a "public" rather than "private" nuisance. Defendants to nuisance in some past cases had successfully argued that because certain activities impacted the public at large rather than one landowner specifically or uniquely, those activities could only be prosecuted by the Attorney General in the public interest—private actions in nuisance were barred in these circumstances. Such cases came to be known as causes of action in "public nuisance".
+In the following paragraph, Justice Anglin addresses a question that arose in the Court of Appeal but is not addressed by the other judges at the Supreme Court. This is the issue of "public nuisance". Here, the essential argument by the defendant is that the plaintiff's claim is in the nature of a "public" rather than "private" nuisance. Defendants to nuisance in some past cases had successfully argued that because certain activities impacted the public at large rather than one landowner specifically or uniquely, those activities could only be prosecuted by the Attorney General in the public interest—private actions in nuisance were barred in these circumstances. Such cases came to be known as causes of action in "public nuisance". Does Justice Anglin accept the argument of public nuisance in this case? What can the structure of such a claim tell us about reasoning in the classical style?
 
-Does Justice Anglin accept the argument of public nuisance in this case? What can the structure of such a claim tell us about reasoning in the classical style?{{< /spoiler >}}
+{{% /callout %}}
 
 The nuisance caused by the defendants no doubt affects the entire neighbouring population and other persons who have occasion to come within the sphere of its annoyance. But the injury to the plaintiff’s property is different in kind from the inconvenience suffered by the inhabitants at large — most of whom, moreover, are so dependent upon the operation of the defendants’ mills for their support that they are quite prepared to submit to some personal annoyance rather than jeopardize their means of livelihood. The inaction of the municipal authorities is no doubt ascribable to similar influences. By the nuisance of which he complains the plaintiff’s property is practically rendered uninhabitable and useless for the purposes for which he holds it. In my opinion he suffers an injury sufficiently distinct in character from that common to the inhabitants at large to warrant his maintaining this action. *Adami v. City of Montreal*; *Barthélémy c. Sénès*; *Derosne c. Puzin et al*; *Polsue & Alfieri, Ltd. v. Rushmer*; *Francklyn v. Peoples Heat & Light Co.*; Joyce on Nuisances s. 14. The fact that the making of soda-sulphate pulp at Windsor Mills is not essential to the manufacture of the products which the defendant’s mills turn out is an answer to the objection based on balance of convenience — if indeed mere balance of convenience would be a sufficient ground under the civil law of Quebec for refusing to enjoin the use of a process which necessarily entails an unjustifiable invasion of the plaintiff’s legal right to the enjoyment of his property. Art. 1065 C.C.; Fuz. Herman, Code Annoté, Art. 544, Nos. 3 & 39; ibid. Arts. 1382-3, Nos. 105, 109, 244 bis; 16 Laurent, No. 199; 24 Demolombe, Nos. 503-5; *Décarie et vir v. Lyall & Sons*.
 

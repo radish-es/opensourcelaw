@@ -2,15 +2,9 @@
 style: 'Black v Canadian Copper Co. '
 short: Black
 reporter: '(1917), Archives of Ontario, RG 80-6-0-22'
-tags:
-  - classical style
-  - industry
-  - land uses
-  - remedies
-  - nuisance
-  - exclusion
 public: true
 ---
+
 
 
 
@@ -20,28 +14,30 @@ public: true
 A large number of actions were brought, and many others threatened against the Canadian Copper Company, for damages supposed to have been sustained from vapours contained in metallurgical smoke issuing from the roast beds and smelter stacks of that company at Copper Cliff, near Sudbury. A motion was made to consolidate these actions resulting in the choice of four cases which were to proceed and to be regarded as test actions, the others remaining in abeyance in the meantime.
 
 The actions chosen were:
-
-1.	An action by J. F Black a florist having a greenhouse and number of small plots upon which market garden produce was grown
-
-2. An action by Jos.  Belanger, a farmer, upon a somewhat larger scale than usual for this district, who had claims for damage done to two farms. 
-
-3.	An action by Mona Taillifer, a woman who worked also upon two farms not at all comparable to Belanger's farms, and in a much humbler way. 
-
-4. 	An action by the Sudbury Dairy Company, milk dealers, who have a farm upon which their dairy herd was pastured quite close to Copper Cliff.
+>
+> An action by J. F Black a florist having a greenhouse and number of small plots upon which market garden produce was grown
+>
+> An action by Jos.  Belanger, a farmer, upon a somewhat larger scale than usual for this district, who had claims for damage done to two farms. 
+>
+> An action by Mona Taillifer, a woman who worked also upon two farms not at all comparable to Belanger's farms, and in a much humbler way. 
+>
+> An action by the Sudbury Dairy Company, milk dealers, who have a farm upon which their dairy herd was pastured quite close to Copper Cliff.
 
 Two actions were also pending against the Mond Nickel Company and It was arranged that those should be dealt with at the same time.
 
 All evidence taken in the first four actions was to be available in any of them and so far as it might be of value in the actions against the Mond Company, but the parties to the actions against that Company were to give such further evidence as they might desire. Subsequently it was arranged that certain evidence taken in the Mond cases should be used in the Copper Company cases. The actions against the Mond Company are:
 
-1. An action by Mr. Clary, a member of the bar, who practises at Sudbury and who owns a farm in the Township of Dill, some 12 miles away. 
-
-2.  An action by a man named Ostroski and his wife who own a small farm near the town of Coniston, where the Mond smelter Is situated. Ostroski and his wife kept a boarding house for men employed at the Mond works and this farm was originally intended mainly to supply vegetables for use at their boarding house.
+> An action by Mr. Clary, a member of the bar, who practises at Sudbury and who owns a farm in the Township of Dill, some 12 miles away. 
+>
+> An action by a man named Ostroski and his wife who own a small farm near the town of Coniston, where the Mond smelter Is situated. Ostroski and his wife kept a boarding house for men employed at the Mond works and this farm was originally intended mainly to supply vegetables for use at their boarding house.
 
 In all these actions claims were originally made for an injunction but at different times this claim has been abandoned and now the cases resolve themselves mainly, if not altogether, into assessments of damages. The difficulty is to ascertain what damage, if any, has been done by the omission of the smoke vapours from the roast beds and smelter stacks. While the admission of counsel makes my task easy so far as the granting of an injunction is concerned, I may say that in view of all that has occurred, I should not have granted an injunction interfering with the carrying on of the works in question.
 
-{{< spoiler text="Justice Middleton's Emphasis on Remedy" >}}As Justice Middleton explains in the paragraph above, the parties to this action actually agreed on the issue of remedy—damages, rather than an injunction, should be awarded. Much of the decision (which I have omitted) therefore concerns the quantum of damages to be awarded. What reasons do you think the parties had for agreeing to the form of remedy in this case?
+{{% callout alert %}}
 
-Despite this agreement by the parties, Justice Middleton devotes considerable space in his judgement to why he thinks damages in lieu of an injunction are appropriate in this case. He is clearly aware of this as a live issue in the courts at the time, as well as the challenge of providing a clear rationale for choosing between one option or the other against the background of *Shelfer*. {{< /spoiler >}}
+As Justice Middleton explains in the paragraph above, the parties to this action actually agreed on the issue of remedy—damages, rather than an injunction, should be awarded. Much of the decision (which I have omitted) therefore concerns the quantum of damages to be awarded. Despite this agreement by the parties, Justice Middleton devotes considerable space in his judgement to why he thinks damages in lieu of an injunction are appropriate in this case. He is clearly aware of this as a live issue in the courts at the time, as well as the challenge of providing a clear rationale for choosing between one option or the other against the background of *Shelfer*. 
+
+{{% /callout %}}
 
 Smelter smoke may, no doubt, be a nuisance, and in addition to being disagreeable it may cause injury to vegetation and in some circumstances I have no doubt an injunction ought to be granted. For reasons which will appear later, I am of the opinion that the mines cannot be operated without the production of smoke from the roast yards and smelters which contains very large quantities of sulphur dioxide.
 
