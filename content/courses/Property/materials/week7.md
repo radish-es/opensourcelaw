@@ -1,7 +1,7 @@
 ---
 title: Week 7 - Exclusion I
 linktitle: Exclusion I
-published: false
+published: true
 type: book
 weight: 8
 components:
@@ -21,6 +21,7 @@ components:
     filename: content/courses/Property/cases/canada_paper.md
     _template: case
 ---
+
 
 
 
