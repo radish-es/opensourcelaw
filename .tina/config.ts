@@ -6,8 +6,8 @@ const branch = process.env.HEAD || "main";
 
 export default defineStaticConfig({
   branch,
-  clientId: "e02174a7-4087-4351-bc95-af6ebabac0c7",   // Get this from tina.io
-  token: "3eb177ea43fec7f046e0878c885c4d96997101a5",      // Get this from tina.io
+  clientId: 'e02174a7-4087-4351-bc95-af6ebabac0c7',   // Get this from tina.io
+  token: '3eb177ea43fec7f046e0878c885c4d96997101a5',      // Get this from tina.io
   build: {
     outputFolder: "admin",
     publicFolder: "static",
