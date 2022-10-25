@@ -9,6 +9,7 @@ public: true
 
 
 
+
 ### Middleton J. —
 
 A large number of actions were brought, and many others threatened against the Canadian Copper Company, for damages supposed to have been sustained from vapours contained in metallurgical smoke issuing from the roast beds and smelter stacks of that company at Copper Cliff, near Sudbury. A motion was made to consolidate these actions resulting in the choice of four cases which were to proceed and to be regarded as test actions, the others remaining in abeyance in the meantime.
@@ -35,7 +36,7 @@ In all these actions claims were originally made for an injunction but at differ
 
 {{% callout alert %}}
 
-As Justice Middleton explains in the paragraph above, the parties to this action actually agreed on the issue of remedy—damages, rather than an injunction, should be awarded. Much of the decision (which I have omitted) therefore concerns the quantum of damages to be awarded. Despite this agreement by the parties, Justice Middleton devotes considerable space in his judgement to why he thinks damages in lieu of an injunction are appropriate in this case. He is clearly aware of this as a live issue in the courts at the time, as well as the challenge of providing a clear rationale for choosing between one option or the other against the background of *Shelfer*. 
+As Justice Middleton explains in the paragraph above, the parties to this action actually agreed on the issue of remedy—damages, rather than an injunction, should be awarded. Much of the decision (which I have omitted) therefore concerns the quantum of damages. Despite the agreement on remedy among the parties, Justice Middleton devotes considerable space in his judgement to why he thinks damages in lieu of an injunction are appropriate in this case. He is clearly aware of this as a live issue in the courts at the time and is sensitive to the challenge of providing a clear rationale for choosing between one option or the other against the background of *Shelfer*. 
 
 {{% /callout %}}
 

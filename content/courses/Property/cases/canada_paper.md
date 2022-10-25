@@ -14,6 +14,7 @@ sources:
 
 
 
+
 ### The Chief Justice —
 
 For the reasons stated by my brother Anglin, I am of the opinion that this appeal should be dismissed with costs.
@@ -106,7 +107,7 @@ I am far from accepting the contention put forward on behalf of the respondent t
 
 {{% callout alert %}}
 
-In the paragraph above, Justice Duff appears to apply the test for remedy from *Shelfer*. Is Justice Duff's reasoning consistent with the classical style of common law thought? 
+In the paragraph above, Justice Duff appears to apply the test for remedy from *Shelfer*. Is Justice Duff's reasoning consistent with the general features of the classical style we have studied so far? 
 
 {{% /callout %}}
 
