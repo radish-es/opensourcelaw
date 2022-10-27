@@ -1,5 +1,5 @@
 ---
-title: 'Duchman v Oakland Dairy, '
+title: 'Duchman v Oakland Dairy, [1929] 63 OLR 111'
 short: Duchman
 ---
 
