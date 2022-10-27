@@ -38,7 +38,7 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Possession III** - Building on our discussion of possession and title so far, we take up a case study of unclear land titles in African Nova Scotian communities. This case study will help us to understand some of the rationales offered for the formalization of titled based on possession and introduce a critical perspective on the issues. Based on the case study, we will then explore some of the further background common law doctrine on the relative nature of possession and claims to adverse possession. 
 
-### [Week 7 (Nov 1/3)](../../readings/week7)
+### [Week 7 (Nov 1/3)](../../materials/week7)
 
 **Exclusion I** - The course now moves away from a focus on possession and into one of the key "sticks" in the common law ownership bundle: the right to exclude. Our entry point in the law of nuisance, and specifically the question of remedy (injunction vs damages). 
 
