@@ -50,6 +50,7 @@ components:
 
 
 
+
 [{{< figure src="/media/fence.jpg" caption="Source: Simon Maage on Unsplash">}}](https://unsplash.com/photos/xw-vvvXq3rA)
 
 So far in Unit 2, we have focused on issues of possession and title and their interpretation in the classical style. Those issues mainly addressed the question of how property is established and given recognition. We now turn to a second set of issues that deal with the *content* of property rights held by owners or those in possession.  
