@@ -5,6 +5,8 @@ published: false
 type: book
 weight: 7
 objectives:
+  - objective: Identify and apply the legal test for choice of remedy in nuisance
+    explanation: based on the decision in Shelfer v City of London
   - objective: Explain the "bundle of sticks" metaphor
     explanation: >-
       and use this idea to interpret course concepts and support your
