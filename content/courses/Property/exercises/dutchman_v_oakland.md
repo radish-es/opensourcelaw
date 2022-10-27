@@ -3,7 +3,9 @@ title: 'Duchman v Oakland Dairy (1928), 63 OLR 111 (CA)'
 short: Duchman
 ---
 
-Writing over a decade after his decision in *Black v Canadian Copper Co.*, Justice Middleton--now at the Ontario Court of Appeal--took a different approach to the question of remedy for nuisance in *Duchman v Oakland Dairy*. In Duchman, the plaintiffs brought an action against a neighbouring dairy operation for noise caused in the early mornings interfering with plaintiffs' and their families' sleep. On the evidence, the dairy had been operating more or less continuously from 1897. Having found the existence of nuisance, the trial judge awarded damages in lieu of an injunction. The plaintiff's appealed this aspect of the decision on remedy. 
+Writing over a decade after his decision in *Black v Canadian Copper Co.*, Justice Middleton--now at the Ontario Court of Appeal--took a different approach to the question of remedy for nuisance in *Duchman v Oakland Dairy*. In Duchman, the plaintiffs brought an action against a neighbouring dairy operation in Toronto, claiming that the noise caused in the early mornings interfered with plaintiffs' and their families' sleep. The plaintiffs complained of "the constant noise resulting from the loading and unloading of the defendants' wagons and motor-trucks; the stamp- ing and kicking of the defendants' horses; the rattling of the wagons and trucks and their contents; and the yelling of the defendant company's servants and employees while engaged in their duties."
+
+On the evidence, the dairy had been operating more or less continuously from 1897. Having found the existence of nuisance, the trial judge awarded damages in lieu of an injunction. The plaintiff's appealed this aspect of the decision on remedy. 
 
 The Ontario Court of Appeal split on their reasons for allowing the plaintiffs' appeal. In the course of his judgement, Justice Middleton addressed directly the application of the *Shelfer* test in the Canadian context:
 
@@ -11,3 +13,4 @@ The Ontario Court of Appeal split on their reasons for allowing the plaintiffs' 
 (1895), 22 A.E. 89.
 
 > It has been suggested that our Courts are more free than the English Courts in substituting damages for an injunction. I do not agree with this proposition. Both in England and in this country there was a period of time in which the Courts had no settled policy as to the application of the Act in question. Each Judge did that which was right in his own eyes without recognising any guiding principle, but as the law came to be settled, the principle crystallised in the *Shelfer* case gradually emerged, and this has been accepted everywhere as a sound guiding principle, and I think it should not be departed from.
+
