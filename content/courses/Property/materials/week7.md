@@ -17,6 +17,10 @@ objectives:
     explanation: >-
       including to what extent the decisions we study are influenced by the
       classical style. 
+  - objective: 'Identify a cause of action in public nuisance '
+    explanation: >-
+      and explain why this framing of relevant issues matters in Canada Paper Co
+      v Brown.
 components:
   - title: Nuisance Law in an Industrializing Canada
     filename: content/courses/Property/modules/nuisance_industrial_canada.md
