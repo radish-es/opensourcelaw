@@ -11,6 +11,12 @@ objectives:
       interpretation of the materials.
   - objective: Identify the legal test for choice of remedy in nuisance
     explanation: based on the decision in Shelfer v City of London
+  - objective: >-
+      Critically analyze how the courts apply the Shelfer test to enforce
+      owners' rights to exclude in cases of industrial pollution 
+    explanation: >-
+      including to what extent the decisions we study are influenced by the
+      classical style. 
 components:
   - title: Nuisance Law in an Industrializing Canada
     filename: content/courses/Property/modules/nuisance_industrial_canada.md
