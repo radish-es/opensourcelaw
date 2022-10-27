@@ -37,7 +37,11 @@ components:
   - title: Canada Paper Co v Brown
     filename: content/courses/Property/cases/canada_paper.md
     _template: case
+  - title: Duchman v Oakland Dairy
+    filename: content/courses/Property/exercises/dutchman_v_oakland.md
+    _template: exercise
 ---
+
 
 
 
