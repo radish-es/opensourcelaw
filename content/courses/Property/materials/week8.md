@@ -1,9 +1,9 @@
 ---
-title: Exclusion II
+title: Week 8 - Exclusion II
 linktitle: Exclusion II
 published: false
 type: book
-weight: 9
+weight: 8
 components:
   - title: Water Rights and Expropriation on the Mississipi (Ontario) River
     filename: content/courses/Property/modules/water_rights_canada_rivers.md
