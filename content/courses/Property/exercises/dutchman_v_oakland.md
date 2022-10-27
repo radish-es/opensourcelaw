@@ -14,3 +14,4 @@ The Ontario Court of Appeal split on their reasons for allowing the plaintiffs' 
 
 > It has been suggested that our Courts are more free than the English Courts in substituting damages for an injunction. I do not agree with this proposition. Both in England and in this country there was a period of time in which the Courts had no settled policy as to the application of the Act in question. Each Judge did that which was right in his own eyes without recognising any guiding principle, but as the law came to be settled, the principle crystallised in the *Shelfer* case gradually emerged, and this has been accepted everywhere as a sound guiding principle, and I think it should not be departed from.
 
+**Can you explain how *Shelfer* operated as a "sound working rule" to resolve the question of when damages ought to be awarded in lieu of an injunction? What distinguishes *Duchman v Oakland Dairy* from *Black v Canadian Copper Co.*?**
