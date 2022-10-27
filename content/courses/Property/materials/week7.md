@@ -4,6 +4,11 @@ linktitle: Exclusion I
 published: false
 type: book
 weight: 7
+objectives:
+  - objective: Explain the "bundle of sticks" metaphor
+    explanation: >-
+      and use this idea to interpret course concepts and support your
+      interpretation of the materials.
 components:
   - title: Nuisance Law in an Industrializing Canada
     filename: content/courses/Property/modules/nuisance_industrial_canada.md
