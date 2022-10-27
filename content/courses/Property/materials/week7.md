@@ -1,7 +1,7 @@
 ---
 title: Week 7 - Exclusion I
 linktitle: Exclusion I
-published: false
+published: true
 type: book
 weight: 7
 objectives:
@@ -41,6 +41,7 @@ components:
     filename: content/courses/Property/exercises/dutchman_v_oakland.md
     _template: exercise
 ---
+
 
 
 
