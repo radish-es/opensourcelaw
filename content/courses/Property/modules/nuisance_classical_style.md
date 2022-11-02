@@ -1,6 +1,6 @@
 ---
 title: Remedying Nuisance in the Classical Style
-short: ''
+short: 'Remedying Nuisance'
 ---
 
 
