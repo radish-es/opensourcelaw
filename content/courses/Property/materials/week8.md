@@ -1,7 +1,7 @@
 ---
 title: Week 8 - Exclusion II
 linktitle: Exclusion II
-published: true
+published: false
 type: book
 weight: 8
 components:
@@ -21,6 +21,7 @@ components:
     filename: content/courses/Property/cases/house_debates.md
     _template: case
 ---
+
 
 
 
