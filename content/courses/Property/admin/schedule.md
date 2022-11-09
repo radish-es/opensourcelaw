@@ -42,11 +42,11 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Exclusion I** - The course now moves away from a focus on possession and into one of the key "sticks" in the common law ownership bundle: the right to exclude. Our entry point in the law of nuisance, and specifically the question of remedy (injunction vs damages). 
 
+### [Week 9 (Nov 22/24)](../../materials/week8)
+
+**Exclusion II** - Our second set of topics on exclusion concerns the right to exclude the *state* (or other private parties under state sanction). This week we introduce the concept of "expropriation" (also called *eminent domain*) and the ways in which courts from a classical perspective approached cases where governments "infringed" or took away private rights without paying owners compensation. 
+
 <!--
-
-### [Week 9 (Nov 22/24)](../../readings/week9)
-
-**Exclusion II** - Our second set of topics on exclusion concerns the right to exclude the *state* (or other private parties under state sanction). This engages the concept of "expropriation" (or *eminent domain*) and the ways in which this concept challenges the classical division between private right and public control. 
 
 ### [Week 10 (Nov 29/Dec 1)](../../readings/week10)
 
