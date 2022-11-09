@@ -2,17 +2,13 @@
 style: McLaren v Caldwell et al (Court of Appeal)
 short: McLaren (CA)
 reporter: '1880 CanLII 12 (ON CA), (1881), 6 OAR 456 (CA)'
-tags:
-  - exclusion
-  - classical style
-  - industry
-  - expropriation
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1vp07'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 ---
+
 
 
 
@@ -42,5 +38,11 @@ In *Boale v. Dickson* the opinion is expressed, "that this right so given extend
 No such qualification of the right given by section 15 is to be found in the Act, nor in any of the previous Acts thereby consolidated. There is nothing in the context of any of these Acts shewing or tending to shew that such qualification was intended; and we know, from what we find in the evidence taken in this cause, that confining the right given by section 15 to such streams as are described in the passage I have quoted from *Boale, v. Dickson*, would go far to defeat the avowed policy of the Legislature. Evidence was offered that in none of the streams in the province, in their natural state, at the date of the passing of these Acts, could saw-logs, timber, &c, be floated down without improvements, even during freshets. The evidence was stopped by the learned Vice-Chancellor upon the objection of the plaintiff's counsel after some evidence in that direction had been given. But from the evidence that was given in the cause, it is apparent that if section 15 is to be read with the qualification given to it by *Boale v. Dickson*, a very large number of the streams of the province would be excluded from its operation.
 
 […]
+
+{{% callout alert %}}
+
+Based on the observations above, the Court of Appeal concluded that the legislative provisions under consideration  could not be interpreted to include the qualification give to it by the Court in *Boale*, and therefore the decision in *Boale* could not operate to exclude from the reach of the legislation "the very large number of streams" noted above--including, of course, the steam on which McLaren had built his improvements. 
+
+{{% /callout %}}
 
 *Appeal allowed*.
