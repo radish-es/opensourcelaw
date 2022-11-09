@@ -28,7 +28,7 @@ components:
 
 
 
-Last week, we saw that remedies in nuisance are one legal tool used by property owners—with mixed success—to stop their neighbours from adversely affecting use and enjoyment of the owner's land. Nuisance, in other words, is one legal means to *exclude* others from doing something that limits owners' freedom related to property. This means of exclusion, however, unavoidably limits the freedom of others to use their land as they choose. In these situations, the courts must choose whose rights should win out. In doing so, they struggle to address the fundamental dilemma of conflicting freedoms inherent in legal liberalism. 
+Last week, we saw that remedies in nuisance are one legal tool used by property owners—with mixed success—to stop their neighbours from adversely affecting use and enjoyment of the owner's land. Nuisance, in other words, is one legal means to *exclude* others from doing something that limits owners' freedom related to property. This means of exclusion, however, unavoidably limits the freedom of others to use their land as they choose. In these situations, the courts must choose whose rights should win out. In doing so, they struggle to address the fundamental dilemma of conflicting freedoms inherent in legal liberalism.  
 
 Other cases—like the one we will study this week—raise a different aspect of the right to exclude. These cases concern the legal protections afforded to landowners in excluding the state itself from various types of "infringements" on an owner's property. They engage the state's power of *expropriation* (governmental power to take away property rights), which in some contexts is called the power of *eminent domain*.  
 
