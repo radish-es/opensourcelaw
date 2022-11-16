@@ -41,7 +41,7 @@ No such qualification of the right given by section 15 is to be found in the Act
 
 {{% callout alert %}}
 
-Based on the observations above, the Court of Appeal concluded that the legislative provisions under consideration could not be interpreted to include the qualification given to it by the Court in *Boale*, and therefore the decision in *Boale* could not operate to exclude from the reach of the legislation "the very large number of streams" noted above--including, of course, the steam on which McLaren had built his improvements. 
+Based on the observations above, the Court of Appeal concluded that the legislative provisions under consideration could not be interpreted to include the qualification given to it by the Court in *Boale*, and therefore the decision in *Boale* could not operate to exclude from the reach of the legislation "the very large number of streams" noted above--including, of course, the stream on which McLaren had built his improvements. 
 
 {{% /callout %}}
 
