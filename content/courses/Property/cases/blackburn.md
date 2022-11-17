@@ -2,12 +2,6 @@
 style: Blackburn v McCallum
 short: Blackburn
 reporter: '1903 CanLII 68 (SCC), [1903] 33 SCR 65'
-tags:
-  - classical style
-  - restraints on alienation
-  - alienation
-  - estates
-  - wills
 public: true
 sources:
   - source_name: CanLII
@@ -15,6 +9,7 @@ sources:
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: ''
 ---
+
 
 
 

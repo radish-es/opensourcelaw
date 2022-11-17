@@ -1,12 +1,7 @@
 ---
-style: Tenures and Estates
-short: ''
+style: Tenure and Estates
+short: tenures
 reporter: ''
-tags:
-  - underlying title
-  - title
-  - estates
-  - wills
 sources:
   - source_name: 'Open Source Property: A Free Casebook'
     source_url: opensourceproperty.org
@@ -19,8 +14,11 @@ sources:
 ---
 
 
+{{% callout alert %}}
 
-*From Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., [Open Source Property: A Free Casebook](https://opensourceproperty.org) (2015).*
+*Excerpted from Jeremy Sheff, "Estates and Future Interests" in Stephen Clowney, James Grimmelmann, Michael Grynberg, Jeremy Sheff, and Rebecca Tushnet, eds., [Open Source Property: A Free Casebook](https://opensourceproperty.org) (2015).*
+
+{{% /callout %}}
 
 [According to the common law doctrine of tenure] all land under the dominion of the English crown is held “mediately or immediately, of the king”—that is, the crown has “radical title” to all land under its political dominion. William the Conqueror declared that all land in England was literally the king’s property; everyone else had to settle for the privilege of holding it for him—the privilege of *tenure* (from the Norman French word “tenir”—to hold). Tenurial rights were intensely personal in early feudal society: the right to hold land was a privilege granted by the crown in exchange for an oath of allegiance and a promise of military service by the tenant—the oath of homage. The word homage derives from the French word *homme*—literally “man”—precisely because the ceremony surrounding the oath created not only the right of tenure, but a political and military relationship between “lord and man.”  In exchange for the tenant’s loyal support, or *fealty*, the lord warranted the tenant’s right to hold a plot of land, called a fief, or *fee*.
 
@@ -32,16 +30,15 @@ Descendibility of the fee simple having been settled early in the history of Eng
 
 Various other statutes and common-law developments over the centuries culminated in the system of possessory estates and future interests that were imported into the North American English colonies, and thus into the independent American states (excluding Louisiana). Underlying them all is a fundamental distinction that traces back to the “radical title” asserted by William the Conqueror in 1066: there is a conceptual difference between the ownership of land and the ownership of a legal interest in that land […]
 
-{{% callout warning %}} 
+{{% callout alert %}} 
 
-### Ownership and Common Law Estates in Land
+The excerpt above describing the long feudal history of tenures and estates identifies a key premise of common law property in land. There is, in essence, no place in the common law for the idea of *absolute, private landownership*—either in the sense of owning the land directly or in the sense of owning underlying or radical title. At most, private owners can hold an *estate in land*—that is, a legal interest interposed between the owner and the land subject to the owner's property rights. An estate in land can, and often does, give private owners the entire beneficial interest in the land. But this is not the same thing, from a legal perspective, as *absolute* ownership of the land. Recall [the significance of this distinction](../week5/#the-many-forms-of-title) between underlying (or radical) title and a beneficial interest in the dispute surrounding Aboriginal title in the *St. Catherine's Milling case*.
 
-The excerpt above describing the feudal history of tenures and estates identifies a key premise of common law property in land. There is, in essence, no room in the common law for the idea of *absolute, private landownership*—neither in the sense of owning the land itself directly nor in the sense of owning underlying or radical title. At most, private owners can hold an *estate in land*—that is, a legal interest interposed between the owner and the land subject to the owner's property rights. 
 {{% /callout %}}
 
 ### Basic Estates and Future Interests
 
-We will begin by examining two possessory estates—the **fee simple absolute** and the **life estate**—and two future interests (one of which you have already encountered)—the **reversion** and the **remainder**.
+We will begin by examining two possessory estates—the **fee simple absolute** and the **life estate**—and two future interests ... —the **reversion** and the **remainder**.
 
 #### The Fee Simple Absolute
 
@@ -51,7 +48,7 @@ At common law, as previously noted, the fee simple absolute was created by the f
 
 #### The Life Estate
 
-The life estate is just what it sounds like: an estate that confers a right to possession for the life of its owner. The owner of a life estate is referred to as a life tenant. The life estate terminates by operation of law upon the owner’s death (i.e., it ceases to exist). It is created by the formula: “to A for life.” Because it must by definition end—we all have to die sometime—any land held by a life tenant must also be subject to a future interest in some other person. We’ll explore what those future interests might be shortly.
+The life estate is just what it sounds like: an estate that confers a right to possession for the life of its owner. The owner of a life estate is referred to as a life tenant. The life estate terminates by operation of law upon the owner’s death (i.e., it ceases to exist). It is created by the formula: “to A for life.” Because it must by definition end—we all have to die sometime—any land held by a life tenant must also be subject to a future interest in some other person. 
 
 […]
 
@@ -71,4 +68,3 @@ A reversion can of course also be created explicitly, for example, if O conveys 
 
 A remainder is a type of future interest created in someone other than the grantor. The distinguishing characteristic of the remainder is that—like a reversion—it cannot cut short or divest any possessory estate. (We will later encounter other future interests that can.) A remainder simply “remains,” sitting around and waiting for the natural termination of the preceding possessory estate (be it a life estate or a lease), at which point the remainder will become possessory by operation of law. Suppose that O, owning a fee simple absolute in Blackacre, conveys Blackacre “to A for life, and then to B.” Again, A would have a life estate, but now O has also affirmatively created a future interest in B. Because the future interest is created in someone other than the grantor, it isn’t a reversion. And because it cannot cut short A’s life estate (note the “and then” language), it must therefore be a remainder. Due to the persistence of dated gendered terms in legal discourse, you will often see the holder of a remainder referred to as a “remainderman,” even today, regardless of that person’s gender.
 
-[…]
