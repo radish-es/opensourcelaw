@@ -46,11 +46,11 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Exclusion II** - Our second set of topics on exclusion concerns the right to exclude the *state* (or other private parties under state sanction). This week we introduce the concept of "expropriation" (also called *eminent domain*) and the ways in which courts from a classical perspective approached cases where governments "infringed" or took away private rights without paying owners compensation. 
 
+### [Week 9 (Nov 21/Nov 23)](../../materials/week9)
+
+**Exit I** - This week we turn our attention to the right to alienate (sell or other transfer) property and the degree to which restraints on alienation have been permitted or prohibited by common law courts. 
+
 <!--
-
-### [Week 10 (Nov 29/Dec 1)](../../readings/week10)
-
-**Alienation** - Our final topic for the term is the right to alienate (sell or other transfer) property and the degree to which restraints on alienation have been permitted or prohibited by common law courts. 
 
 ## Unit 3: Modern Common Law Thought
 
