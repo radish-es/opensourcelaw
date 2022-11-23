@@ -1,0 +1,104 @@
+fragment MaterialsParts on Materials {
+  title
+  linktitle
+  published
+  type
+  weight
+  objectives {
+    __typename
+    objective
+    explanation
+  }
+  body
+  components {
+    __typename
+    ... on MaterialsComponentsModule {
+      title
+      filename {
+        ... on Modules {
+          title
+          short
+          tags
+          body
+        }
+        ... on Document {
+          id
+        }
+      }
+    }
+    ... on MaterialsComponentsCase {
+      title
+      filename {
+        ... on Cases {
+          style
+          short
+          reporter
+          tags
+          public
+          sources {
+            __typename
+            source_name
+            source_url
+            license
+            attribution
+          }
+          body
+        }
+        ... on Document {
+          id
+        }
+      }
+    }
+    ... on MaterialsComponentsExercise {
+      title
+      filename {
+        ... on Exercises {
+          title
+          short
+          tags
+          body
+        }
+        ... on Document {
+          id
+        }
+      }
+    }
+  }
+}
+
+fragment CasesParts on Cases {
+  style
+  short
+  reporter
+  tags
+  public
+  sources {
+    __typename
+    source_name
+    source_url
+    license
+    attribution
+  }
+  body
+}
+
+fragment ModulesParts on Modules {
+  title
+  short
+  tags
+  body
+}
+
+fragment ExercisesParts on Exercises {
+  title
+  short
+  tags
+  body
+}
+
+fragment ResourcesParts on Resources {
+  title
+  date
+  summary
+  body
+}

@@ -140,7 +140,7 @@ Does the common law right to alienate property (A) create wealth by encouraging 
 
 ### Remainder
 
-#### A grants: "To B for life and then to C." 
+#### A grants: "To B for life and then to C and their heirs." 
 
 
 
