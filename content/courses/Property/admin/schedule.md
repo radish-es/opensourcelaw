@@ -50,6 +50,10 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Exit I** - This week we turn our attention to the right to alienate (sell or other transfer) property and the degree to which restraints on alienation have been permitted or prohibited by common law courts. 
 
+### [Week 10 (Nov 30)](../../materials/week10)
+
+**Review** - We'll address a series of "rapid review" questions to help you identify gaps and areas of focus to plan your studying for the Winter exam.
+
 <!--
 
 ## Unit 3: Modern Common Law Thought
