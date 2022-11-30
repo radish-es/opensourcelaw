@@ -8,7 +8,7 @@ weight: 10
 
 For our penultimate class this term, we will use our time in class to do a help you identify key gaps in your knowledge and understanding in advance of the Winter exam. To that end, I have provided a list of "rapid review" questions for you to read and consider. I don’t suggest that you address them all in full detail. Instead, read each and consider your answer for no more than a minute or two. You can come back to these questions in more detail as part of your exam preparation--their purpose at this point is only to provide a check on what you've learned so far and to help you to discover where you can most effectively focus your studying.
 
-### [Unit 1 (Weeks 2 and 3): Patterns of Common Law Argument](../materials/week2)
+### [Unit 1 (Weeks 2 and 3): Patterns of Common Law Argument](../week2)
 
 - Why do we read *Harrison v Carswell* and *Moore v Regents of the University of California* as the first two cases in our course? 
 
@@ -16,7 +16,7 @@ For our penultimate class this term, we will use our time in class to do a help 
 
 - Use the reasoning in *Moore* to illustrate and explain the three key assumptions about the relationship between law and the economy (natural, neutral, necessary).
 
-### [Week 4: Possession I](../materials/week4)
+### [Week 4: Possession I](../week4)
 
 - How does Locke say that one comes to own a wild acorn? Do his ideas help the judges in *Clift v Kane* to resolve the question of who owns the wild seals? 
 
@@ -26,7 +26,7 @@ For our penultimate class this term, we will use our time in class to do a help 
 
 - What does one need to do in order to abandon property? 
 
-### [Week 5: Possession II](../materials/week5)
+### [Week 5: Possession II](../week5)
 
 - How can the three themes of colonialism in property law help us to understand the influence of Locke's *Second Treatise* on the judgments in *St. Catherine's Milling*?
 
@@ -36,7 +36,7 @@ For our penultimate class this term, we will use our time in class to do a help 
 
 - Why is it significant that the courts in *St. Catherine's Milling* assume Aboriginal title is a "private" rather than "public" interest? 
 
-### [Week 6: Possession III](../materials/week6)
+### [Week 6: Possession III](../week6)
 
 - Discuss the role of the land titles clarification process as a response to the history of land-based anti-Black racism in Nova Scotia.
 
@@ -44,7 +44,7 @@ For our penultimate class this term, we will use our time in class to do a help 
 
 - According to the doctrine in *Piper v Stevenson*, how does constructing a fence benefit an adverse possessor's claim? What else is required? 
 
-### [Week 7: Exclusion I](../materials/week7)
+### [Week 7: Exclusion I](../week7)
 
 - How do the courts in *Canadian Copper Co.* and *Canadian Paper Co.* apply to the *Shelfer* test to resolve the question of the appropriate remedy in nuisance?
 
@@ -52,7 +52,7 @@ For our penultimate class this term, we will use our time in class to do a help 
 
 - How do Justice Idington in *Canadian Paper Co.* and Justice Middleton in *Canadian Copper Co.* differ in their understanding of "relevant" evidence? Are their approaches to this evidence both consistent with the classical style? 
 
-### [Week 8: Exclusion II](../materials/week8)
+### [Week 8: Exclusion II](../week8)
 
 - When do riparian owners in Canada hold common law property rights in rivers and streams? 
 
@@ -62,7 +62,7 @@ For our penultimate class this term, we will use our time in class to do a help 
 
 - What can the *McLaren v Caldwell* case and surrounding legal developments tell us about arguments over the institutional role of courts versus legislatures in *Harrison v Carswell* and *Moore v Regents of the University of California*? 
 
-### [Week 9: Exit I](../materials/week9)
+### [Week 9: Exit I](../week9)
 
 - What is the function of the doctrine of estates and how does that function relate to the fundamental dilemma of legal liberalism we have studied this term? 
 
