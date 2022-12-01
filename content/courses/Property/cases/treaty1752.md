@@ -1,15 +1,15 @@
 ---
 style: 1752 Treaty of Peace and Friendship
 short: 1752 Treaty
-tags:
-  - colonialism
-  - hunting
-  - treaties
 public: true
 ---
 
 
-[*The following text is quoted in R v Simon, [1985] 2 SCR 387 at para 6.*]
+{{% callout alert %}}
+
+*The following text is quoted in R v Simon, [1985] 2 SCR 387 at para 6.*
+
+{{% /callout %}}
 
 Treaty or Articles of Peace and Friendship Renewed between His Excellency Peregrine Thomas Hopson Esquire Captain General and Governor in Chief in and over His Majesty's Province of Nova Scotia or Acadie. Vice Admiral of the same & Colonel of one of His Majesty's Regiments of Foot, and His Majesty's Council on behalf of His Majesty and Major Jean Baptiste Cope, chief Sachem of the Tribe of Mick Mack Indians Inhabiting the Eastern Coast of the said Province, and Andrew Hadley Martin, Gabriel Martin & Francis Jeremiah, Members and Delegates of the said Tribe, for themselves and their said Tribe their Heirs, and the Heirs of their Heirs forever, Begun made and concluded in the manner, form and Tenor following, vizt:
 
@@ -30,5 +30,3 @@ Treaty or Articles of Peace and Friendship Renewed between His Excellency Peregr
 8. That all Disputes whatsoever that may happen to arise between the Indians now at Peace, and others His Majesty's Subjects in this Province shall be tryed in His Majesty's Courts of Civil Judicature, where the Indians shall have the same benefit, Advantages and Priviledges, as any others of His Majesty's Subjects.
 
 In Faith and Testimony whereof, the Great Seal of the Province is hereunto Appended, and the party's to these presents have hereunto interchangeably Set their Hands in the Council Chamber at Halifax this 22nd day of Nov. 1752, in the Twenty sixth year of His Majesty's Reign.
-
-{{< figure src="/media/treaty1752.jpg" caption="Peace and Friendship Treaty, 1752. Source: Nova Scotia Archives, RG 1, Vol. 430, No. 2." >}}

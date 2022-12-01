@@ -1,10 +1,8 @@
 ---
 title: Mi'kmaw Land Tenure
-tags:
-  - Week 7
 ---
 
-If effective recognition for and implementation of the Peace and Friendship Treaties was set on poor footing in the *Syliboy* decision, how might we understand the possibilities for an alternative path forward for Indigenous-Crown relationships? Any answer to that question must start with engaging Indigenous legal orders as diverse systems of law forming part of Canada's multi-juridical landscape. Building an authentic, comparative understanding across legal systems is clearly a big undertaking (consider how much effort and energy you are currently expending to learn just the basics of the Anglo-Canadian common law). But it is just as clearly an achievable goal—and one that is increasingly within reach, led by a growing body of Indigenous legal scholarship, research and teaching. 
+The Court in *Syliboy* deployed each of the core themes of colonialism in property law on the interpretation of the 1752 Peace and Friendship Treaty. That decision offered a bad footing on which to set treaty rights against the developing common law doctrine of Aboriginal title. But despite the *Syliboy* decision's long influence on treaty interpretation in Mi'kma'ki, Mi'kmaw jurists continued to offer alternative interpretations grounded in the Mi'kmaw legal order and worldview. 
 
 James (Sa’ke’j) Youngblood Henderson explains Mi'kmaw law in the context of treaty in the following way:[^henderson1995]
 
@@ -12,6 +10,52 @@ James (Sa’ke’j) Youngblood Henderson explains Mi'kmaw law in the context of 
 
 > For example, the Wabanaki and Mikmaq applied the customary concept of harmony and forgiveness to the English. Specifically, article 2 of the *Mikmaw Compact*, 1752, stated that "all Transactions during the Late War on both sides be buried in Oblivion with the Hatchet." This fragile quest for an explicit order between the diverse federations through consensual Treaties provided the foundation upon which developed the first British Empire and their colonies, and eventually the United Kingdom.
 
-[Please click here](https://dal.brightspace.com/d2l/le/content/186027/viewContent/2655762/View) to read Dr. Henderson's description of Mikmaw land tenure and the principle of *netukulimk* (accessible only within Dalhousie). As you do so, can you identify differences and similarities between the structure of Mi'kmaw legal thought and the structure of common law thought studied so far in this course? How might the Peace and Friendship treaties above be interpreted from the perspective of Mi'kmaw land tenure described in the article?
+Professor Youngblood Henderson goes on to describe Mi'kmaq relationships to land:
+
+> The relationship between the Mi'kmaw and the land embodies the
+essence of the intimate sacred order. As humans, they have and retain an
+obligation to protect the order and a right to share its uses, but only the
+future unborn children in the invisible sacred realm of the next seven
+generations had any ultimate ownership of the land. In the custom of the
+Mi'kmaq, the Santé Mawi'omi was and is the trustee of the sacred order and
+territory for the future generations. Part of its duty is to regulate the natural
+resources of Mi'kma'ki among the allied people and through the Nikmanen
+trading customs increase the bio-diversity. This is more of a management
+right to ensure discipline in consumption of the resources, rather than the
+concept of ownership.
+
+> Inherent in this sacred order is the conviction that the resources had to
+be renewed as well as shared. Rather than managed, which implied
+human domination, the Mikmaq developed rituals for sharing or harmonizing
+ the human and spiritual realms. These renewal rituals and
+ceremonies brought the people and the land into balance thereby 
+achieving basic subsistence and material well-being. These rituals and 
+ceremonies created a harmony which emphasized stability and the minimization
+of risk for the harvesting of the resources rather than growth and the
+accumulation of wealth. The quest for harmony also created the need for
+diversification by trade and modification of habitats, thereby 
+developing surplus capacities and sharing.
+
+> Sharing of resources is the equivalent of consensus in creating 
+governing structures. Just as the managers of shared resources sustain them, the
+leaders of communities, districts, and nations are managers of shared
+authority and spaces.' Sharing of the harvest is neither random nor
+universal, but based on patterns, kinship and correspondence. It is an
+honour, a duty and a privilege; those who have a little more to share may
+gain prestige, influence and dignity.
+
+> Managing a space and sharing is viewed as an integral part of the
+ethical development of a Mi'kmaq. It is important for the development of
+family, friendship and self. Mi'kmaq see no distinction between collective
+or individual interests. The goal of creating a sustaining space and a
+sharing and caring community in which everyone can participate and
+belong is the ultimate interest. Everyone must come to this realization;
+they must come to understand the beauty and dignity of maintaining,
+protecting, and renewing their family space and traditions. Through this
+developmental process, Mi'kmaq establish a clear understanding of
+oneself as a human and in relation to the environment. Through this
+process, Mi'kmaq understand the needs of the biological realms and the
+ethical significance of their desires, freedoms and responsibilities.
+
 
 [^henderson1995]: James [sákéj] Youngblood Henderson, "Mikmaw Tenure in Atlantic Canada" (1995) 18(2) *Dalhousie Law Journal* 196 at 241.

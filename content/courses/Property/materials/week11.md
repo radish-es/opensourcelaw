@@ -4,7 +4,46 @@ linktitle: Treaties
 published: true
 type: book
 weight: 11
+objectives:
+  - objective: Understand the historical context of the Peace and Friendship Treaties
+    explanation: >-
+      including their local significance related to the founding of Halifax and
+      its aftermath.
+  - objective: >-
+      Describe the legal relationship between the common law doctrine of
+      Aboriginal title and treaty
+    explanation: in the context of Mi'kma'ki and Atlantic Canada.
+  - objective: >-
+      Apply the anti-colonialism framework to critically analyze the reasoning
+      and result in R v Syliboy
+  - objective: >-
+      Identify features of a Mi'kmaw approach to the interpretation of the
+      historical treaties and to land relations
+    explanation: >-
+      and compare to common law approaches and principles we have studied so far
+      in the course.
+components:
+  - title: Peace and Friendship Treaties
+    filename: content/courses/Property/modules/peace_friendship_treaties.md
+    _template: module
+  - title: Halifax
+    filename: content/courses/Property/modules/british_settlement_halifax.md
+    _template: module
+  - title: Treaty 1752
+    filename: content/courses/Property/cases/treaty1752.md
+    _template: case
+  - title: Interpretation 1752
+    filename: content/courses/Property/modules/interpretation_1752_treaty.md
+    _template: module
+  - title: Syliboy
+    filename: content/courses/Property/cases/syliboy.md
+    _template: case
+  - title: Mikmaw Land Tenure
+    filename: content/courses/Property/modules/mikmaw_land_tenure.md
+    _template: module
 ---
+
+{{< figure src="/media/treaty1752.jpg" caption="Peace and Friendship Treaty, 1752. Source: Nova Scotia Archives, RG 1, Vol. 430, No. 2." >}}
 
 In our final class this term, we return to the context of treaty to develop a perspective on the material we have studied so far. In Week 5 we studied the historical roots of the common law doctrine of Aboriginal title and saw, in *St. Catherine’s Milling*, how classical legal thought framed the courts' conclusion that Indigenous land rights were “personal” rather than “proprietary”. We left off with the observation that beneath the issue of Aboriginal title foregrounded in St. Catherine’s Milling was the doctrine of terra nullius (“land belonging to no one”). Aspects of terra nullius—paired with the doctrine of discovery—undergird courts' continued assumption of Crown sovereignty and the exclusion of Indigenous sovereignties up to the present day. One consequence of this doctrine has been to largely exclude Indigenous legal orders and legal interpretations from the consciousness of the common law.
 

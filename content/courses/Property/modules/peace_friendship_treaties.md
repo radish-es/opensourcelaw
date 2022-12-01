@@ -1,10 +1,6 @@
 ---
 title: Peace and Friendship Treaties
-tags:
-  - Week 7
 ---
-
-{{< iframe src="https://native-land.ca/wp-content/themes/Native-Land-Theme/embed/embed.html?maps=territories,treaties&name=peaceAndFriendship" caption="Peace and Friendship Treaty, 1752. Source: [native-land.ca](http://www.native-land.ca)." >}}
 
 The early eighteenth-century in what is today Eastern Canada was characterized by political and military struggles and alliances between three powers in the region: the Wabanaki (a political alliance of Mi'kmaw, Wolastoqiyik, and Passamaquoddy peoples, and a separate alliance of communities known as the Abenaki), the British, and the French. 1726 saw the end of a three-year war between New England and the Wabanaki, which had been grounded in concerns about colonial expansion northward (including incursions on Indigenous fishing territories and colonial land settlement). In turn, the British were becoming increasingly motivated to forge friendly relationships with the Wabanaki as counter-weight to French power. This period culminated in the signing of the Treaty of 1725 by various parties between that year and 1726.
 
@@ -32,9 +28,5 @@ Keep these points in mind as you read the treaty texts below, as well as the dec
 
 
 {{% /callout %}}
-
-As a starting point for this week's readings, please watch the following talk about the Peace and Friendship Treaties delivered by Assembly of First Nations Regional Chief Paul J. Prosper and published by the National Centre for Truth and Reconciliation.
-
-{{< youtube id="PLoKB4_-df8" >}}
 
 [^wicken2002]: William Wicken, *Mi'kmaq Treaties on Trial: History, Land and Donald Marshall Junior* (Toronto: University of Toronto Press, 2002).

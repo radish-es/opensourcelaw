@@ -2,18 +2,13 @@
 style: R v Syliboy
 short: Syliboy
 reporter: '1928 CanLII 352 (NS SC), [1929] 1 DLR 307'
-tags:
-  - classical style
-  - racism
-  - colonialism
-  - hunting
-  - treaties
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw8w1'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 ---
+
 
 
 
@@ -80,4 +75,8 @@ On no ground that has been advanced, and I am sure everything has been said or d
 
 I have no doubt whatever that defendant honestly believed that the treaty was valid and that he was entitled under it to kill muskrat or have their pelts in his possession at any time, and as I pointed out, a year ago or rather in 1926 it was no offence on November 4 to have green muskrat pelts in one’s possession. While everyone is presumed to know the law and to know the exact limits of the close season, it is more than likely — is it not a certainty — that the untutored mind of the defendant was not aware that in 1927 the close season had been lengthened to November 15? Of course, ignorance of the law excuses no one, but surely ignorance of the law under such circumstances can be urged as a plea for most lenient treatment — for in such a case as this waiving both penalty and costs.
 
-[*Unlike in *St. Catherine's Milling*, the trial court in *Syliboy* had before it considerable first-hand oral evidence from Grant Chief Syliboy and others as to their interpretations of the 1752 treaty. Those perspectives are almost entirely discounted or ignored in Justice Patterson's decision—a move that is underwritten by the judge's insistence on seeing the Indigenous signatories as individuals entering into an agreement or contract with the British state, rather than as representatives of sovereign power.*]
+{{% callout alert %}}
+
+*Unlike in *St. Catherine's Milling*, the trial court in *Syliboy* had before it considerable first-hand oral evidence from Grant Chief Syliboy and others as to their interpretations of the 1752 treaty. Those perspectives are almost entirely discounted or ignored in Justice Patterson's decision—a move that is underwritten by the judge's insistence on seeing the Indigenous signatories as individuals entering into an agreement or contract with the British state, rather than as representatives of sovereign power.*
+
+{{% /callout %}}
