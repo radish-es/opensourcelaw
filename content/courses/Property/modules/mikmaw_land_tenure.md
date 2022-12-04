@@ -2,7 +2,7 @@
 title: Mi'kmaw Land Tenure
 ---
 
-The Court in *Syliboy* deployed each of the core themes of colonialism in property law on the interpretation of the 1752 Peace and Friendship Treaty. That decision offered a bad footing on which to set treaty rights against the developing common law doctrine of Aboriginal title. But despite the *Syliboy* decision's long influence on treaty interpretation in Mi'kma'ki, Mi'kmaw jurists continued to offer alternative interpretations grounded in the Mi'kmaw legal order and worldview. 
+The Court in *Syliboy* deployed each of the core themes of colonialism in property law we introduced in Week 1 in order to interpret the 1752 Peace and Friendship Treaty. The *Syliboy* decision provided a deeply problematic footing on which to set the common law's understanding treaty rights and in some significant ways tracked the developing common law doctrine of Aboriginal title. But despite the *Syliboy* decision's long influence on treaty interpretation in Mi'kma'ki, in its aftermath Mi'kmaw jurists continued to offer alternative interpretations grounded in the Mi'kmaw legal order and worldview. 
 
 James (Sa’ke’j) Youngblood Henderson explains Mi'kmaw law in the context of treaty in the following way:[^henderson1995]
 
@@ -56,6 +56,8 @@ developmental process, Mi'kmaq establish a clear understanding of
 oneself as a human and in relation to the environment. Through this
 process, Mi'kmaq understand the needs of the biological realms and the
 ethical significance of their desires, freedoms and responsibilities.
+
+**Compare and contrast the principles described by Professor Youngblood Henderson with (1) the interpretation of the 1752 Treaty in *R v Syliboy* and (2) the interpretation of Aboriginal title in *St. Catherine's Milling*.**
 
 
 [^henderson1995]: James [sákéj] Youngblood Henderson, "Mikmaw Tenure in Atlantic Canada" (1995) 18(2) *Dalhousie Law Journal* 196 at 241.
