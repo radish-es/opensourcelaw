@@ -54,6 +54,10 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Review** - We'll address a series of "rapid review" questions to help you identify gaps and areas of focus to plan your studying for the Winter exam.
 
+### [Week 11 (Dec 5)](../../materials/week11)
+
+**Treaties** - In this final class of the term we will circle back to core questions of the relationship between land and property through the lens of the Peace & Friendship Treaties. 
+
 <!--
 
 ## Unit 3: Modern Common Law Thought
