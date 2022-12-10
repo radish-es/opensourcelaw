@@ -1,5 +1,5 @@
 ---
-title: Week 11 - Land Use Control I
+title: Week 12 - Land Use Control I
 linktitle: Land Use Control I
 published: true
 type: book
