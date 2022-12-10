@@ -3,13 +3,6 @@ style: Mariner Real Estate Ltd v Nova Scotia (Attorney General)
 short: Mariner
 reporter: 1999 NSCA 98 (CanLII)
 tags:
-  - modern style
-  - zoning
-  - bundle of rights
-  - de facto expropriation
-  - expropriation
-  - land use control
-  - land uses
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1f0z9'

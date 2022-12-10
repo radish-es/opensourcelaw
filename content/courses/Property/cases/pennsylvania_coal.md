@@ -3,16 +3,11 @@ style: Pennsylvania Coal Co. v Mahon
 short: Pennsylvania Coal
 reporter: ' 260 US 393 (1922)'
 tags:
-  - modern style
-  - police power
-  - industry
-  - land use control
-  - land uses
 public: true
 ---
 
 
-### Mr. Justice Holmes delivered the opinion of the Court —
+### Holmes J. —
 
 This is a bill in equity brought by the defendants in error to prevent the Pennsylvania Coal Company from mining under their property in such way as to remove the supports and cause a subsidence of the surface and of their house. The bill sets out a deed executed by the Coal Company in 1878, under which the plaintiffs claim. The deed conveys the surface, but, in express terms, reserves the right to remove all the coal under the same, and the grantee takes the premises with the risk, and waives all claim for damages that may arise from mining out the coal. But the plaintiffs say that, whatever may have been the Coal Company's rights, they were taken away by an Act of Pennsylvania, approved May 27, 1921, P.L. 1198, commonly known there as the Kohler Act. The Court of Common Pleas found that, if not restrained, the defendant would cause the damage to prevent which the bill was brought, but denied an injunction, holding that the statute, if applied to this case, would be unconstitutional. On appeal, the Supreme Court of the State agreed that the defendant had contract and property rights protected by the Constitution of the United States, but held that the statute was a legitimate exercise of the police power, and directed a decree for the plaintiffs. A writ of error was granted bringing the case to this Court.
 
@@ -36,9 +31,9 @@ We assume, of course, that the statute was passed upon the conviction that an ex
 
 *Decree reversed.*
 
-### Mr. Justice Brandeis, dissenting —
+### Brandeis J. (dissenting) —
 
-The Kohler Act prohibits, under certain conditions, the mining of anthracite coal within the limits of a city in such a manner or to such an extent 
+The *Kohler Act* prohibits, under certain conditions, the mining of anthracite coal within the limits of a city in such a manner or to such an extent 
 
 > "as to cause the . . .subsidence of . . . any dwelling or other structure used as a human habitation, or any factory, store, or other industrial or mercantile establishment in which human labor is employed."
 

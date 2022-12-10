@@ -3,7 +3,6 @@ style: 'Oliver Wendell Holmes, “The Path of Law”'
 short: Holmes
 reporter: (1897) 10 Harvard Law Review 457
 tags:
-  - modern style
 public: true
 ---
 
