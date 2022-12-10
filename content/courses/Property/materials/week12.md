@@ -1,7 +1,7 @@
 ---
 title: Week 11 - Land Use Control I
 linktitle: Land Use Control I
-published: false
+published: true
 type: book
 weight: 12
 components:
