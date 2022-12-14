@@ -16,7 +16,7 @@ Remember *[McLaren v Caldwell](../week8/#Water%20Rights%20and%20Expropriation)*,
 
 - Could we use this principle to resolve the issue of *de facto* expropriation in the Blue Mountain-Birch Cove problem?
  
-{{< spoiler text="What's next" >}}
+{{< spoiler text="What's next" id="review" >}}
 
 Next, we'll compare this classical approach to one that employs the modern style of common law thought.
 

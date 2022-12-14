@@ -1,7 +1,7 @@
 ---
 title: Week 12 - Land Use Control I
 linktitle: Land Use Control I
-published: false
+published: true
 type: book
 weight: 12
 components:
@@ -35,7 +35,7 @@ You made it to Winter term! This week, we'll begin to revisit some of last term'
 
 **Where we're headed:** compared to *[McLaren v Caldwell](../week8/#Water%20Rights%20and%20Expropriation)*, judges working in the modern style take a very different approach when government "removes" sticks from a landowner's bundle of rights without paying them compensation. We want to understand how those differences drive decisions in the cases. 
 
-{{< spoiler text="Learn more" >}}
+{{< spoiler text="Learn more" id="main" >}}
 
 As we move forward in studying the history of property law, our learning methods in the course will also start to shift. 
 

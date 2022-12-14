@@ -14,7 +14,7 @@ Nevertheless, other than a small handful of cases prior to the 1990s, the domest
 
 - What elements of a legal test for *de facto* expropriation emerge from the case?
 
-{{< spoiler text="What's next" >}}
+{{< spoiler text="What's next" id="canadian" >}}
 
 Once you have read *Mariner*, return to the [Blue Mountain-Birch Cove problem](#problem-blue-mountain-birch-cove-lakes) and consider how this problem might be resolved based on the law you've learned this week. We will take this up together in our class meeting. 
 
