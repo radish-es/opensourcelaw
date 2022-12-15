@@ -1,9 +1,9 @@
 ---
-title: Homelessness and the Right to Shelter
-linktitle: Homelessness and the Right to Shelter
+title: Week 14 - The Right to Shelter
+linktitle: Right to Shelter
 published: false
 type: book
-weight: 13
+weight: 14
 components:
   - title: the Right to Shelter in Halifax
     filename: content/courses/Property/exercises/halifax_right_to_shelter.md
@@ -24,13 +24,6 @@ components:
     filename: content/courses/Property/cases/bamberger.md
     _template: case
 ---
-
-{{% callout exercise %}} 
-
-### Mini-Lecture: Recap from Week 12
-
-{{< vimeo 668841917 >}}
-{{% /callout %}}
 
 In our discussion of acquired rights and the problem of regulating short-term rentals last week, we touched on the idea that a central issue for the Halifax Regional Municipality (HRM) and other municipal governments in Canada is access to affordable housing. There is growing awareness that Halifax is facing a crisis in housing affordability and a [dramatic rise in the number of people who experience chronic homelessness](https://www.cbc.ca/news/canada/nova-scotia/homeless-report-2020-covid-19-affordable-housing-association-of-nova-scotia-1.5805458).
 

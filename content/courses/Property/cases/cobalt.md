@@ -2,11 +2,6 @@
 style: Cobalt (Town) v Coleman (Township)
 short: Cobalt
 reporter: 2019 ONCA 134 (CanLII)
-tags:
-  - zoning
-  - land use controls
-  - land use
-  - acquired rights
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/hxn9j'
@@ -16,6 +11,7 @@ sources:
       https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario#section-1
     attribution: '© Queen’s Printer for Ontario, 2019. Not an official version. '
 ---
+
 
 
 ### Trotter J.A. – 

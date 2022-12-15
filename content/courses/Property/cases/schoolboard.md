@@ -4,19 +4,12 @@ style: >-
   Toronto
 short: School Board
 reporter: '1925 CanLII 326 (UK JCPC), [1925] 3 DLR 880 '
-tags:
-  - modern style
-  - zoning
-  - acquired rights
-  - land use controls
-  - land use
 public: true
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/gw88h'
     license: 'https://www.canlii.org/en/info/terms.html#license'
 ---
-
 
 
 ### Viscount Cave L.C. —
@@ -53,7 +46,7 @@ With the greatest respect for the opinion of the learned judges composing the ma
 
 For these reasons their Lordships are of opinion that this appeal should be allowed, and that the order of the Supreme Court of Canada should be set aside and the order of the Appellate Division of the Supreme Court of Ontario restored, and they will humbly advise His Majesty accordingly. The appellants will have their costs in the Supreme Court, but, in accordance with their undertaking, they will pay the costs of this appeal.
 
-{{< spoiler text="Acquired Rights to Operate the School" >}}<audio controls><source src="https://www.dropbox.com/s/vfebw76c1jbagmn/week12_minilecture03.mp3?raw=1" type="audio/mpeg"></audio>
+{{< spoiler text="An unresolved issue" id="school" >}}<audio controls><source src="https://www.dropbox.com/s/vfebw76c1jbagmn/week12_minilecture03.mp3?raw=1" type="audio/mpeg"></audio>
 
 
 {{< /spoiler >}}
