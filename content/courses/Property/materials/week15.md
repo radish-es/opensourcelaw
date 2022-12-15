@@ -1,47 +1,48 @@
 ---
-title: Qualified Interests
-linktitle: Qualified Interests
+title: Restrictive Covenants
+linktitle: Restrictive Covenants
 published: false
 type: book
-weight: 15
+weight: 14
 components:
-  - title: A Testamentary Bequest
-    filename: content/courses/Property/exercises/testamentary_bequest.md
+  - title: Restrictive Covenants
+    filename: content/courses/Property/exercises/restrictive_covenants.md
     _template: exercise
-  - title: Stuartburn (Municipality) v Kiansky
-    filename: content/courses/Property/cases/stuartburn.md
-    _template: case
-  - title: Types of Interests
-    filename: content/courses/Property/modules/interests_types.md
+  - title: Covenants “Running with the Land”
+    filename: content/courses/Property/modules/covenants_running_with_land.md
     _template: module
-  - title: Identifying Estates in Land
-    filename: content/courses/Property/exercises/estates.md
-    _template: exercise
-  - title: Public Policy Revisited
-    filename: content/courses/Property/modules/public_policy_revisited.md
+  - title: Tulk v Moxhay
+    filename: content/courses/Property/cases/tulk.md
+    _template: case
+  - title: Covenants Running in Equity
+    filename: content/courses/Property/modules/courts_of_equity.md
     _template: module
-  - title: 'Canada Trust Co v Ontario '
-    filename: content/courses/Property/cases/canada_trust.md
+  - title: Public Policy
+    filename: content/courses/Property/modules/public_policy.md
+    _template: module
+  - title: Re Drummond Wren
+    filename: content/courses/Property/cases/drummond.md
     _template: case
-  - title: McCorkill v McCorkill Estate
-    filename: content/courses/Property/cases/mccorkill.md
+  - title: Re Noble and Wolf v Alley
+    filename: content/courses/Property/cases/noble.md
     _template: case
+  - title: Sources of Public Policy
+    filename: content/courses/Property/modules/public_policy_sources.md
+    _template: module
 ---
-
-
 
 
 {{% callout exercise %}} 
 
-### Mini-Lecture: Recap from Week 14
+### Mini-Lecture: Recap from Week 13
 
-{{< vimeo 673820548 >}}
+{{< vimeo 671491998 >}}
 {{% /callout %}}
 
-Last week, we asked whether the doctrine of *public policy* could be applied to invalidate a restrictive covenant that imposed minimum lot and building sizes on the servient tenement, with consequences for urban affordable housing development. In the context of last week's materials, the public policy doctrine served to limit the enforcement of agreements between neighbours as durable property rights and restrictions incident to title—that is, rights and restrictions that "run with the land". 
+For the past three weeks we have examined, from various angles, the way public authorities—mainly, local governments in the urban context—regulate and control the use of both private and public land. We noted, at the beginning of [Week 11](../week11/), that modern, forward-looking land use planning and zoning regimes emerged in Canada by the mid-20th century to replace more decentralized and reactive forms of land-use control, such as private nuisance actions adjudicated by the common law courts (which we studied in [Week 8](../week8/) of the course).
 
-This week we will continue to unpack and examine the public policy doctrine in a different context, namely that of bequests in a will (*testamentary transfers*). We ask the question: to what extent can and should the doctrine place limits on the freedom of owners to do what they want with their property after they die? 
+This story about the move from private nuisance actions to public land-use controls, however, needs to be complicated a little further. Certain "private" forms of land-use regulation are still in widespread use. One of the most pervasive—but often least noticed—is the *restrictive covenant*. 
 
-The material we study this week will take us back to the concept of *estates in land* introduced in Week 10 when we looked at restraints on alienation. I suggest that you briefly review the [section on tenures and estates from Week 10](../week10/#tenures--and-estates) before jumping into the readings for this week. 
+From one point of view, restrictive covenants look like a fairly straightforward promise by one landowner to another—a promise to refrain from doing something on one's own land. One landowner might promise not to cut down the trees in their yard, for example, or promise not to paint their house a garish shade of bright green. But from a legal perspective, restrictive covenants are much more than this. Not only do covenants represent a sort of contractual promise between parties, they help to define the durable "bundle of rights" in the land itself—that is, covenants are said to *run with the land* and can, at least in theory, long outlast the original parties to the covenant. As discussed below, this possibility raises some difficult questions for courts in how they define the basic character of covenants along with their consequences.
 
-*Stuartburn v Kiansky*, next, brings us back to the idea of life estates and remainder interests, raising the question of whether one can be considered an "owner" of land if they hold only a remainder in fee simple (a "remainderman interest"). The case draws an important distinction between an interest in *possession* and a *future* interest in land and tees up a further distinction between *vested* and *contingent* interests crucial for understanding *Canada Trust Co* and *McCorkill* below. 
+This week, we will study one specific issue with respect to restrictive covenants: what distinguishes a valid, enforceable covenant from an invalid (and therefore unenforceable) one? Part of this determination, as we will see, turns on a set of formal criteria for establishing a valid covenant. But validity can also be determined through an analysis of the various extrinsic reasons why courts might refuse to enforce an otherwise valid covenant. Here, we will focus mainly on the grounds of "public policy" as a reason for refusing to enforce covenants found to be discriminatory or against other foundational values. 

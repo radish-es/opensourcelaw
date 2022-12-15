@@ -1,24 +1,48 @@
 ---
-title: Back to the Beginning
-linktitle: Back to the Beginning
+title: 'Revisiting Exclusion: Expropriation and Patent'
+linktitle: Revisiting Exclusion
 published: false
 type: book
-weight: 21
+weight: 20
 components:
-  - title: Harrison v Carswell
-    filename: content/courses/Property/cases/harrison.md
+  - title: De Facto Expropriation
+    filename: content/courses/Property/modules/defacto_expropriation_contemporary.md
+    _template: module
+  - title: Revisiting Blue Mountain-Birch Cove
+    filename: content/courses/Property/exercises/blue_mountain_revisited.md
+    _template: exercise
+  - title: 'Mini-Lecture: Canadian Pacific Railway v Vancouver'
+    filename: content/courses/Property/modules/cpr_lecture.md
+    _template: module
+  - title: Canadian Pacific Railway v Vancouver
+    filename: content/courses/Property/cases/cpr.md
     _template: case
+  - title: 'Mini-Lecture: De Facto Expropriation and International Trade'
+    filename: >-
+      content/courses/Property/modules/expropriation_international_trade_lecture.md
+    _template: module
+  - title: NAFTA
+    filename: content/courses/Property/cases/nafta.md
+    _template: case
+  - title: Metalclad Corporation v The United Mexican States
+    filename: content/courses/Property/cases/metalclad.md
+    _template: case
+  - title: CUSMA
+    filename: content/courses/Property/cases/cusma.md
+    _template: case
+  - title: Patent as Exclusion
+    filename: content/courses/Property/modules/patent_as_exclusion.md
+    _template: module
+  - title: Monsanto Canada Inc v Schmeiser
+    filename: content/courses/Property/cases/monsanto.md
+    _template: case
+  - title: Patents in Hollywood
+    filename: content/courses/Property/modules/patents_hollywood.md
+    _template: module
 ---
 
 
-[{{< figure src="/media/begin.jpg" caption="Source: Jon Tyson on Unsplash">}}](https://unsplash.com/photos/srDKOjF3rSY)
 
-In our final week of the course, our aim is to revisit where we started by way of review, synopsis, and an attempt to gauge what we have learned. 
+This week we cover two topics that link back issues of exclusion we've studied throughout the course. The first topic provides a contemporary perspective on the question of *de facto* expropriation, which we first addressed in [Week 9](../week9/) and then revisited in [Week 11](../week11/). The second topic concerns the right to exclude in the context of intellectual property—namely patent rights acquired by inventors and used to exclude others from making or using that invention for some period of time. 
 
-Recall that, when we first read the Supreme Court's decision in *Harrison v Carswell* in Weeks 1 and 2, we analyzed the case in terms of its "vocabulary"—that is, the structure of argument and counter-argument used explicitly by the judges to justify their legal conclusions on the facts. Left unanswered in that analysis was the question of how we know which judge's decision, as a whole, is more persuasive from a legal perspective. 
-
-We can now return to that question and apply the tools for analyzing the "grammar" of common law thought that we have developed throughout the course. 
-
-In Unit 4, we have seen that a hallmark of the contemporary style of common law thought is for judges to draw on the assumptions and techniques of both classical and modern styles to arrive at a pragmatic resolution of the case. In several examples, we have seen these styles mixed and used together in course of a single decision.
-
-*Harrison v Carswell* presents an alternative result born out of the tendency for contemporary courts to abandon any unified consensus around whether to foreground competition or control, whether to reinforce or collapse the distinction between public and private, or whether to embrace formalism versus functionalism. Instead, in *Harrison*, Justices Dickson and Laskin engage in a kind of direct clash between classical and modern styles. As you re-read the judgment, consider what this structure implies for answering the question: whose judgement is the correct one?
+Through both of these topics, we continue to see the courts' turn toward a contemporary style of common law reasoning that rests on a pragmatic combination of elements from both the classical and modern perspectives. As you work through the materials this week, aim to identify where these elements of earlier styles appear and ask yourself whether their combination results in a coherent framework for legal reasoning. 

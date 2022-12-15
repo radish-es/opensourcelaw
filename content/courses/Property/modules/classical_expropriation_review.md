@@ -18,7 +18,7 @@ Remember *[McLaren v Caldwell](../week8/#Water%20Rights%20and%20Expropriation)*,
  
 {{< spoiler text="What's next" id="review" >}}
 
-Next, we'll compare this classical approach to one that employs the modern style of common law thought.
+We are going to compare this classical approach from *McLaren v Caldwell* to one that employs the modern style of common law thought.
 
 **Develop the theme:** the excerpt below from Oliver Wendell Holmes' *Path of Law* lays the conceptual foundation for the modern style. 
 

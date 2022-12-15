@@ -1,39 +1,40 @@
 ---
-title: Contemporary Aboriginal Title
-linktitle: Contemporary Aboriginal Title
+title: Back to Possession
+linktitle: Back to Possession
 published: false
 type: book
-weight: 19
+weight: 18
 components:
-  - title: Aboriginal Title Doctrine
-    filename: content/courses/Property/modules/aboriginal_title_four_dimensions.md
-    _template: module
-  - title: Elsipogtog First Nation’s Claim to Aboriginal Title
-    filename: content/courses/Property/exercises/elsipogtog_aboriginal_title.md
+  - title: Problems of Possession
+    filename: content/courses/Property/exercises/possession_problems.md
     _template: exercise
-  - title: 'Constitution Act, 1982'
-    filename: content/courses/Property/cases/constitution_act_s35.md
-    _template: case
-  - title: Mapping the Doctrine
-    filename: content/courses/Property/modules/mapping_aboriginal_title_doctrine.md
+  - title: First Possession Revisited
+    filename: content/courses/Property/modules/first_possession_revisited.md
     _template: module
-  - title: Delgamuukw v. British Columbia
-    filename: content/courses/Property/cases/delgamuukw.md
+  - title: Popov v Hayashi
+    filename: content/courses/Property/cases/popov.md
     _template: case
-  - title: Tsilhqot’in Nation v British Columbia
-    filename: content/courses/Property/cases/tsilhqotin.md
-    _template: case
-  - title: Duty to Consult
-    filename: content/courses/Property/modules/duty_to_consult.md
+  - title: Airspace Rights
+    filename: content/courses/Property/modules/airspace_rights.md
     _template: module
-  - title: 'Litigation, Negotiation, and Reconciliation'
-    filename: content/courses/Property/modules/litigation_negotiation_reconciliation.md
+  - title: Didow v Alberta Power Ltd
+    filename: content/courses/Property/cases/didow.md
+    _template: case
+  - title: 'Mini-Lecture: Popov, Didow and the Contemporary Style'
+    filename: content/courses/Property/modules/popov_didow_contemporary_style_lecture.md
     _template: module
 ---
 
 
-This week, we complete our study of Indigenous land rights, with a focus on the common law doctrine of Aboriginal title. We have traced the evolution of that doctrine from the Royal Proclamation in 1763, through *St. Catherine's Milling* in the late nineteenth century and *Calder* and *Guerin* in the late twentieth century. The contemporary path of the Aboriginal title doctrine since those cases has been charted through a combination of constitutional reform, litigation in the courts, and negotiation between Indigenous nations and the Crown. 
 
-The Supreme Court of Canada's landmark ruling in *Delgamuukw* in 1997—building on the constitutional recognition of Aboriginal and treaty rights in section 35 of the *Constitution Act, 1982*—laid much of the jurisprudential groundwork for the contemporary doctrine. But it was not until several years later, with the Court's decision in *Tsilhqot'in*, that a claim for recognition of Aboriginal title was successfully made out. In the intervening years, the Supreme Court also established the basis for the Crown's constitutional duty to consult with Indigenous communities where state action was contemplated that might infringe on Aboriginal title before it was proven in court.
+[{{< figure src="/media/baseball.jpg" caption="Source: Damir Spanic on Unsplash">}}](https://unsplash.com/photos/nRd4uayGSK8)
 
-The contemporary doctrine of common law Aboriginal title is complex—made even more so by the web of legal and political relationships that form the importance context in which critical issues around the doctrine must be addressed. Our goal this week is the understand the crucial elements of this doctrine that build on material we have developed through our course and to identify key unanswered questions for this area of law going forward.
+This week we begin the last unit of the course, Unit 4. 
+
+Our final unit offers an opportunity to revisit not only some of the substantive legal concepts we've studied throughout the course, but also to ask the question: *How can we make sense of our current moment in common law thought? Is there a "contemporary" legal style, and if so what are its features?*
+
+As Justin Desautels-Stein has observed, the contemporary style of common law thought is not so much a third alternative to the *classical* and *modern* styles we studied in Units 2 and 3, as it is a "pragmatic" response by jurists to the shortcomings of these two styles that preceded it.[^stein2018] Unfortunately, the result is not a very satisfying one in terms of coherence or predictability. Whatever their shortcomings, both the classical and modern styles offered internally consistent (if ultimately incomplete) approaches to address the fundamental dilemma of liberalism with which we started our exploration of common law thought. By contrast, the pragmatism embraced in the contemporary style points to a willingness by jurists to draw on, mix and match features of the classical and modern styles—sometimes in the course of a single decision. The result, as Desautels-Stein suggests, is often a kind of "whatever works" response to the question of what makes the outcome in any given case a persuasive one. 
+
+To be clear, such a result does not mean that judicial decisions in the contemporary style are devoid of legal reasoning or logic. It does, however, suggest that courts in the current moment have largely abandon any concerted attempt to resolve the basic liberal dilemma from a consistent perspective.
+
+[^stein2018]: Desautels-Stein, Justin. *The Jurisprudence of Style: A Structuralist History of American Pragmatism and Liberal Legal Thought*. Cambridge University Press, 2018.

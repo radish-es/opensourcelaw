@@ -1,40 +1,32 @@
 ---
-title: Back to Possession
-linktitle: Back to Possession
+title: Reserve Lands
+linktitle: Reserve Lands
 published: false
 type: book
-weight: 18
+weight: 17
 components:
-  - title: Problems of Possession
-    filename: content/courses/Property/exercises/possession_problems.md
+  - title: the Membertou First Nation’s Transition to the FNLMA
+    filename: content/courses/Property/exercises/membertou_FNLMA.md
     _template: exercise
-  - title: First Possession Revisited
-    filename: content/courses/Property/modules/first_possession_revisited.md
+  - title: Reserve Land Rights and Governance
+    filename: content/courses/Property/modules/reserve_land_rights_governance.md
     _template: module
-  - title: Popov v Hayashi
-    filename: content/courses/Property/cases/popov.md
+  - title: Indian Act
+    filename: content/courses/Property/cases/indian_act.md
     _template: case
-  - title: Airspace Rights
-    filename: content/courses/Property/modules/airspace_rights.md
+  - title: Guerin v R
+    filename: content/courses/Property/cases/guerin.md
+    _template: case
+  - title: Indigenous Legal Orders and Housing on Reserve
+    filename: content/courses/Property/modules/reserve_housing.md
     _template: module
-  - title: Didow v Alberta Power Ltd
-    filename: content/courses/Property/cases/didow.md
-    _template: case
-  - title: 'Mini-Lecture: Popov, Didow and the Contemporary Style'
-    filename: content/courses/Property/modules/popov_didow_contemporary_style_lecture.md
+  - title: Aboriginal Title in the Modern Style
+    filename: content/courses/Property/modules/aboriginal_title_modern_style.md
     _template: module
 ---
 
 
 
-[{{< figure src="/media/baseball.jpg" caption="Source: Damir Spanic on Unsplash">}}](https://unsplash.com/photos/nRd4uayGSK8)
+This week, we return to the context of Indigenous land rights and governance. In [Week 6](../week6/) we studied the common law origins of the doctrine of Aboriginal title, and in [Week 7](../week7/) we examined treaty interpretation in Mi'kma'ki and its relationship to Mi'kmaw land tenure. For Week 17, we take as our focus property rights and title in reserve lands governed under the federal *Indian Act* and recent initiatives by some Indigenous communities to address longstanding barriers posed by that regime. 
 
-This week we begin the last unit of the course, Unit 4. 
-
-Our final unit offers an opportunity to revisit not only some of the substantive legal concepts we've studied throughout the course, but also to ask the question: *How can we make sense of our current moment in common law thought? Is there a "contemporary" legal style, and if so what are its features?*
-
-As Justin Desautels-Stein has observed, the contemporary style of common law thought is not so much a third alternative to the *classical* and *modern* styles we studied in Units 2 and 3, as it is a "pragmatic" response by jurists to the shortcomings of these two styles that preceded it.[^stein2018] Unfortunately, the result is not a very satisfying one in terms of coherence or predictability. Whatever their shortcomings, both the classical and modern styles offered internally consistent (if ultimately incomplete) approaches to address the fundamental dilemma of liberalism with which we started our exploration of common law thought. By contrast, the pragmatism embraced in the contemporary style points to a willingness by jurists to draw on, mix and match features of the classical and modern styles—sometimes in the course of a single decision. The result, as Desautels-Stein suggests, is often a kind of "whatever works" response to the question of what makes the outcome in any given case a persuasive one. 
-
-To be clear, such a result does not mean that judicial decisions in the contemporary style are devoid of legal reasoning or logic. It does, however, suggest that courts in the current moment have largely abandon any concerted attempt to resolve the basic liberal dilemma from a consistent perspective.
-
-[^stein2018]: Desautels-Stein, Justin. *The Jurisprudence of Style: A Structuralist History of American Pragmatism and Liberal Legal Thought*. Cambridge University Press, 2018.
+Building on our discussions about housing issues throughout Unit 3, our case study this week addresses the context of housing and business development on reserve lands. This case study offers the chance to gain a better understanding of the comparative—and often complex—set of options available to Indigenous communities to govern their reserve lands in a multi-juridical context. 
