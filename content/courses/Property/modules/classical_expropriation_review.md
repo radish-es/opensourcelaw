@@ -1,10 +1,10 @@
 ---
 title: 'Review: Classical Approach to Expropriation'
 short: Classical Expropriation
-tags:
 ---
 
-Remember *[McLaren v Caldwell](../week8/#Water%20Rights%20and%20Expropriation)*, the case about riparian rights in "non-navigable" steams that were crucial to the lumber industry in Northern Ontario?  
+
+Remember *[McLaren v Caldwell](../week8/#Water%20Rights%20and%20Expropriation)*, the case about riparian rights in "non-navigable" steams that were central to the growing lumber industry in Northern Ontario?  
 
  **Refresh your memory:** Justice Ritchie (SCC) expressed a key principle of statutory interpretation in *McLaren v Caldwell*, which he used to resolve the issue of constructive expropriation.  
 
