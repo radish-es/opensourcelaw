@@ -2,13 +2,6 @@
 style: Saint-Romuald (City) v Olivier
 short: Saint-Romuald
 reporter: '2001 SCC 57 (CanLII), [2001] 2 SCR 898'
-tags:
-  - modern style
-  - balancing rights
-  - zoning
-  - acquired rights
-  - land use controls
-  - land use
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/51z2'
@@ -19,7 +12,8 @@ sources:
 
 
 
-### Binnie J. (McLachlin C.J.C., Major, Arbour JJ. concurring) —
+
+### Binnie J.  —
 
 The Court’s objective on this appeal is to find the proper balance between an individual’s right to the continued use and enjoyment of his or her property and the power of the community, expressed through the local municipality, to enhance, by changing the land use regulations, the amenities of surrounding and other affected landowners. As the case arises in Quebec, the specific issue raised is the limitation of previously acquired rights under the *Civil Code*. However, as this is a *public* law matter, the principles of land use regulation applicable in the common law provinces concerning legal non-conforming uses are also relevant.
 
@@ -165,7 +159,7 @@ If nude dancing is thought to be objectionable on moral or other grounds, the to
 
 I would therefore dismiss the appeal with costs to the respondents.
 
-### Gonthier J. (dissenting) (L’Heureux-Dubé, Bastarache J.J. concurring) —
+### Gonthier J. (dissenting)  —
 
 #### I. Introduction
 

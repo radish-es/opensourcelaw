@@ -1,48 +1,37 @@
 ---
-title: Restrictive Covenants
-linktitle: Restrictive Covenants
-published: false
+title: Week 14 - The Right to Shelter
+linktitle: Right to Shelter
+published: true
 type: book
 weight: 14
 components:
-  - title: Restrictive Covenants
-    filename: content/courses/Property/exercises/restrictive_covenants.md
+  - title: the Right to Shelter in Halifax
+    filename: content/courses/Property/exercises/halifax_right_to_shelter.md
     _template: exercise
-  - title: Covenants “Running with the Land”
-    filename: content/courses/Property/modules/covenants_running_with_land.md
+  - title: Section 7 of the Charter and the Right to Shelter
+    filename: content/courses/Property/modules/section_7_right_to_shelter.md
     _template: module
-  - title: Tulk v Moxhay
-    filename: content/courses/Property/cases/tulk.md
+  - title: 'Mini-Lecture: the Right to Shelter in Adams'
+    filename: content/courses/Property/modules/adams_right_to_shelter_lecture.md
+    _template: module
+  - title: Victoria (City) v Adams
+    filename: content/courses/Property/cases/victoria_city.md
     _template: case
-  - title: Covenants Running in Equity
-    filename: content/courses/Property/modules/courts_of_equity.md
+  - title: The Evolving Right to Shelter
+    filename: content/courses/Property/modules/evolving_right_to_shelter.md
     _template: module
-  - title: Public Policy
-    filename: content/courses/Property/modules/public_policy.md
-    _template: module
-  - title: Re Drummond Wren
-    filename: content/courses/Property/cases/drummond.md
+  - title: 'Bamberger v Vancouver '
+    filename: content/courses/Property/cases/bamberger.md
     _template: case
-  - title: Re Noble and Wolf v Alley
-    filename: content/courses/Property/cases/noble.md
-    _template: case
-  - title: Sources of Public Policy
-    filename: content/courses/Property/modules/public_policy_sources.md
-    _template: module
 ---
 
+{{< figure src="/media/cridge.jpg" caption="Cridge Park, Victoria. Photo by Elyse Loewen" >}}
 
-{{% callout exercise %}} 
+In our discussion of acquired rights and the problem of regulating short-term rentals last week, we touched on the idea that a central issue for the Halifax Regional Municipality (HRM) and other municipal governments in Canada is access to affordable housing. There is growing awareness that Halifax is facing a crisis in housing affordability and a [dramatic rise in the number of people who experience chronic homelessness](https://www.cbc.ca/news/canada/nova-scotia/homeless-report-2020-covid-19-affordable-housing-association-of-nova-scotia-1.5805458).
 
-### Mini-Lecture: Recap from Week 13
+Addressing homelessness and access to housing engages a complex set of legal and policy issues, actors and decision-making networks. One aspect of this context in which Canadian courts have been especially active is the constitutional right of homeless persons to access and shelter in public spaces—namely, municipal parks—in order to meet their immediate needs. As the problem below describes, the role of these rights and challenges to their realization gained national attention in Halifax in summer 2021, after a series of forced evictions of people living in temporary and emergency shelters on municipal lands.
 
-{{< vimeo 671491998 >}}
-{{% /callout %}}
+Our goal this week is to explore how rights to access public property in the shelter context have emerged and evolved in the common law courts, primarily through a series of cases in British Columbia since the mid-2000s. We will aim to understand the changing scope of these rights over time, and grapple with the implications of courts' heavy reliance on a functionalist approach to the right to shelter in this context.
 
-For the past three weeks we have examined, from various angles, the way public authorities—mainly, local governments in the urban context—regulate and control the use of both private and public land. We noted, at the beginning of [Week 11](../week11/), that modern, forward-looking land use planning and zoning regimes emerged in Canada by the mid-20th century to replace more decentralized and reactive forms of land-use control, such as private nuisance actions adjudicated by the common law courts (which we studied in [Week 8](../week8/) of the course).
 
-This story about the move from private nuisance actions to public land-use controls, however, needs to be complicated a little further. Certain "private" forms of land-use regulation are still in widespread use. One of the most pervasive—but often least noticed—is the *restrictive covenant*. 
 
-From one point of view, restrictive covenants look like a fairly straightforward promise by one landowner to another—a promise to refrain from doing something on one's own land. One landowner might promise not to cut down the trees in their yard, for example, or promise not to paint their house a garish shade of bright green. But from a legal perspective, restrictive covenants are much more than this. Not only do covenants represent a sort of contractual promise between parties, they help to define the durable "bundle of rights" in the land itself—that is, covenants are said to *run with the land* and can, at least in theory, long outlast the original parties to the covenant. As discussed below, this possibility raises some difficult questions for courts in how they define the basic character of covenants along with their consequences.
-
-This week, we will study one specific issue with respect to restrictive covenants: what distinguishes a valid, enforceable covenant from an invalid (and therefore unenforceable) one? Part of this determination, as we will see, turns on a set of formal criteria for establishing a valid covenant. But validity can also be determined through an analysis of the various extrinsic reasons why courts might refuse to enforce an otherwise valid covenant. Here, we will focus mainly on the grounds of "public policy" as a reason for refusing to enforce covenants found to be discriminatory or against other foundational values. 

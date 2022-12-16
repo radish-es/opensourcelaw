@@ -2,10 +2,10 @@
 name = "custom"
 
 # Optional Google font URL
-google_fonts = "Cardo:400,700|Lato:200,300|Jost:200,300,400,500,600,700,800,900|Inter:200,300,400,500|Lora:300,400,500,600,700"
+google_fonts = "family=Lora&family=Crimson+Text&family=Inter"
 
 # Font families
 heading_font = "Lora"
-body_font = "Inter"
+body_font = "Crimson Text"
 nav_font = "Inter"
 mono_font = "Inter"

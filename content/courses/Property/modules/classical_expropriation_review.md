@@ -1,10 +1,10 @@
 ---
 title: 'Review: Classical Approach to Expropriation'
 short: Classical Expropriation
-tags:
 ---
 
-Remember *[McLaren v Caldwell](../week8/#Water%20Rights%20and%20Expropriation)*, the case about riparian rights in "non-navigable" steams that were crucial to the lumber industry in Northern Ontario?  
+
+Remember *[McLaren v Caldwell](../week8/#Water%20Rights%20and%20Expropriation)*, the case about riparian rights in "non-navigable" steams that were central to the growing lumber industry in Northern Ontario?  
 
  **Refresh your memory:** Justice Ritchie (SCC) expressed a key principle of statutory interpretation in *McLaren v Caldwell*, which he used to resolve the issue of constructive expropriation.  
 
@@ -16,9 +16,9 @@ Remember *[McLaren v Caldwell](../week8/#Water%20Rights%20and%20Expropriation)*,
 
 - Could we use this principle to resolve the issue of *de facto* expropriation in the Blue Mountain-Birch Cove problem?
  
-{{< spoiler text="What's next" >}}
+{{< spoiler text="What's next" id="review" >}}
 
-Next, we'll compare this classical approach to one that employs the modern style of common law thought.
+We are going to compare this classical approach from *McLaren v Caldwell* to one that employs the modern style of common law thought.
 
 **Develop the theme:** the excerpt below from Oliver Wendell Holmes' *Path of Law* lays the conceptual foundation for the modern style. 
 

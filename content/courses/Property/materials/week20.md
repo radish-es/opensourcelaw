@@ -1,48 +1,39 @@
 ---
-title: 'Revisiting Exclusion: Expropriation and Patent'
-linktitle: Revisiting Exclusion
+title: Contemporary Aboriginal Title
+linktitle: Contemporary Aboriginal Title
 published: false
 type: book
-weight: 20
+weight: 19
 components:
-  - title: De Facto Expropriation
-    filename: content/courses/Property/modules/defacto_expropriation_contemporary.md
+  - title: Aboriginal Title Doctrine
+    filename: content/courses/Property/modules/aboriginal_title_four_dimensions.md
     _template: module
-  - title: Revisiting Blue Mountain-Birch Cove
-    filename: content/courses/Property/exercises/blue_mountain_revisited.md
+  - title: Elsipogtog First Nation’s Claim to Aboriginal Title
+    filename: content/courses/Property/exercises/elsipogtog_aboriginal_title.md
     _template: exercise
-  - title: 'Mini-Lecture: Canadian Pacific Railway v Vancouver'
-    filename: content/courses/Property/modules/cpr_lecture.md
+  - title: 'Constitution Act, 1982'
+    filename: content/courses/Property/cases/constitution_act_s35.md
+    _template: case
+  - title: Mapping the Doctrine
+    filename: content/courses/Property/modules/mapping_aboriginal_title_doctrine.md
     _template: module
-  - title: Canadian Pacific Railway v Vancouver
-    filename: content/courses/Property/cases/cpr.md
+  - title: Delgamuukw v. British Columbia
+    filename: content/courses/Property/cases/delgamuukw.md
     _template: case
-  - title: 'Mini-Lecture: De Facto Expropriation and International Trade'
-    filename: >-
-      content/courses/Property/modules/expropriation_international_trade_lecture.md
+  - title: Tsilhqot’in Nation v British Columbia
+    filename: content/courses/Property/cases/tsilhqotin.md
+    _template: case
+  - title: Duty to Consult
+    filename: content/courses/Property/modules/duty_to_consult.md
     _template: module
-  - title: NAFTA
-    filename: content/courses/Property/cases/nafta.md
-    _template: case
-  - title: Metalclad Corporation v The United Mexican States
-    filename: content/courses/Property/cases/metalclad.md
-    _template: case
-  - title: CUSMA
-    filename: content/courses/Property/cases/cusma.md
-    _template: case
-  - title: Patent as Exclusion
-    filename: content/courses/Property/modules/patent_as_exclusion.md
-    _template: module
-  - title: Monsanto Canada Inc v Schmeiser
-    filename: content/courses/Property/cases/monsanto.md
-    _template: case
-  - title: Patents in Hollywood
-    filename: content/courses/Property/modules/patents_hollywood.md
+  - title: 'Litigation, Negotiation, and Reconciliation'
+    filename: content/courses/Property/modules/litigation_negotiation_reconciliation.md
     _template: module
 ---
 
 
+This week, we complete our study of Indigenous land rights, with a focus on the common law doctrine of Aboriginal title. We have traced the evolution of that doctrine from the Royal Proclamation in 1763, through *St. Catherine's Milling* in the late nineteenth century and *Calder* and *Guerin* in the late twentieth century. The contemporary path of the Aboriginal title doctrine since those cases has been charted through a combination of constitutional reform, litigation in the courts, and negotiation between Indigenous nations and the Crown. 
 
-This week we cover two topics that link back issues of exclusion we've studied throughout the course. The first topic provides a contemporary perspective on the question of *de facto* expropriation, which we first addressed in [Week 9](../week9/) and then revisited in [Week 11](../week11/). The second topic concerns the right to exclude in the context of intellectual property—namely patent rights acquired by inventors and used to exclude others from making or using that invention for some period of time. 
+The Supreme Court of Canada's landmark ruling in *Delgamuukw* in 1997—building on the constitutional recognition of Aboriginal and treaty rights in section 35 of the *Constitution Act, 1982*—laid much of the jurisprudential groundwork for the contemporary doctrine. But it was not until several years later, with the Court's decision in *Tsilhqot'in*, that a claim for recognition of Aboriginal title was successfully made out. In the intervening years, the Supreme Court also established the basis for the Crown's constitutional duty to consult with Indigenous communities where state action was contemplated that might infringe on Aboriginal title before it was proven in court.
 
-Through both of these topics, we continue to see the courts' turn toward a contemporary style of common law reasoning that rests on a pragmatic combination of elements from both the classical and modern perspectives. As you work through the materials this week, aim to identify where these elements of earlier styles appear and ask yourself whether their combination results in a coherent framework for legal reasoning. 
+The contemporary doctrine of common law Aboriginal title is complex—made even more so by the web of legal and political relationships that form the importance context in which critical issues around the doctrine must be addressed. Our goal this week is the understand the crucial elements of this doctrine that build on material we have developed through our course and to identify key unanswered questions for this area of law going forward.
