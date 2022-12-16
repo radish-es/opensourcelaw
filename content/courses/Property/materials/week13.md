@@ -25,7 +25,7 @@ components:
     _template: module
 ---
 
-{{< figure src="/media/halifax_zoning.jpg" caption="Excerpt from Halifax Regional Municipality Mainland Land Use By-Law Zoning Map" >}}
+{{< figure src="/media/nonconforming.jpg" >}}
 
 This week we continue our study of issues related to land use control from the perspective of the modern style. Our topic this week is the **acquired rights** of landowners under changing land use planning and zoning regimes.
 

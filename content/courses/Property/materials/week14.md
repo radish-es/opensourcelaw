@@ -1,7 +1,7 @@
 ---
 title: Week 14 - The Right to Shelter
 linktitle: Right to Shelter
-published: false
+published: true
 type: book
 weight: 14
 components:

@@ -3,7 +3,7 @@ title: Source of Acquired Rights
 short: Source
 ---
 
-[{{< figure src="/media/dig.jpg" caption="Photo by Anaya Katlego on Unsplash" >}}](https://unsplash.com/photos/c23Lv2fzEyo)
+[{{< figure src="/media/dig.jpg" caption="Photo by Lucas van Oort on Unsplash" >}}](https://unsplash.com/photos/8TwqUG16oIw)
 
 The first question in acquired rights cases is always: **did the landowner acquire any durable use rights in the first place?**
 

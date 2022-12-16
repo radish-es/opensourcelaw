@@ -49,6 +49,12 @@ main li {
 margin-bottom: 1rem;
 }
 
+/* Nav bar */
+
+.navbar .navbar-nav .nav-link.active {
+  color: #0044cc !important
+}
+
 /* Audio controls */
 
 audio {
@@ -419,6 +425,11 @@ font-size: 0.75em;
   content: counter(paragraph);
   counter-increment: paragraph;
   font-size: 0.75em;
+}
+
+.case blockquote p:before, .case ul li p:before, div.spoiler p:before {
+  content: none;
+  counter-increment: none;
 }
 
 /* Case headings (style of cause) */

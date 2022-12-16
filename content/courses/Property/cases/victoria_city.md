@@ -2,12 +2,6 @@
 style: Victoria (City) v Adams
 short: Victoria (City)
 reporter: 2008 BCSC 1363 (CanLII)
-tags:
-  - modern style
-  - exclusion
-  - constitution
-  - homelessness
-  - right to shelter
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/215hs'
@@ -24,6 +18,7 @@ sources:
 
 
 
+
 ### Ross J. —
 
 #### I Introduction
@@ -32,7 +27,9 @@ This litigation arises from what Senior District Judge Atkins in *Pottinger v. M
 
 > ... an inevitable conflict between the need of homeless individuals to perform essential, life-sustaining acts in public and the responsibility of the government to maintain orderly, aesthetically pleasing public parks and streets.
 
-{{< spoiler text="How the Court Frames this Case" >}}<audio controls><source src="https://www.dropbox.com/s/npydmccut0i5of1/week13_minilecture03.mp3?raw=1" type="audio/mpeg"></audio>
+{{< spoiler text="The court's framing" id="frame-case" >}}
+
+<audio controls><source src="https://www.dropbox.com/s/npydmccut0i5of1/week13_minilecture03.mp3?raw=1" type="audio/mpeg"></audio>
 
 {{< /spoiler >}}
 
@@ -163,9 +160,9 @@ The City has enacted Parks Regulation Bylaw No. 07-059. Under the provisions of 
 > (a) cut, break, injure, remove, climb, or in any way destroy or damage
 
 >> (i) a tree, shrub, plant, turf, flower, or seed, or
-
+>>
 >> (ii) a building or structure, including a fence, sign, seat, bench, or ornament of any kind;
-
+>
 > (b) foul or pollute a fountain or natural body of water;
 
 > (c) paint, smear, or otherwise deface or mutilate a rock in a park;
@@ -278,17 +275,17 @@ The Mayor’s Task Force Report contained a Report of the Expert Panel. The Repo
 The Report of the Gap Analysis Team described the number and distribution of shelter beds in Victoria at p. 15:
 
 > There are 141 permanent shelter beds in Victoria:
-
+>
 > - 10 beds for youth
-
+>
 > - 131 beds for adults
-
+>
 > - 20 beds for women only
-
+>
 > - 21 beds for men only
-
+>
 > - 90 beds for both men and women
-
+>
 > An additional 30 emergency youth mats are provided through the Out of the Rain Shelter during the colder months. When the Extreme Weather Protocol is activated, there are an additional five beds for women and 130 mats available across a number of locations. Of the 135 Extreme Weather spaces, 110 are located in Victoria and 25 are located in Saanich. At the height of extreme weather, 326 residents can be sheltered, leaving the remaining 1,200 plus homeless residents out in the rain.
 
 It is clear that even including the Extreme Weather Protocol shelter spaces, the number of homeless people in Victoria substantially exceeds available shelter space. In addition, shelters have restrictions on the number of nights a person can stay and often bar those who are addicted to alcohol or drugs.
