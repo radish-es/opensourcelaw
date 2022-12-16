@@ -3,6 +3,8 @@ title: Scope of Acquired Rights
 short: Scope
 ---
 
+{{< figure src="/media/halifax_harbour.jpg" caption="Photo by Elyse Loewen" >}}
+
 A second question that often arises in acquired rights cases is: **what is the *scope* of the rights acquired?**
 
 - This question assumes that some rights have been acquired based on pre-existing use of the land, while recognizing that this use might change and evolve over time.
