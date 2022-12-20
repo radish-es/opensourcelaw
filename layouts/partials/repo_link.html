@@ -1,0 +1,5 @@
+{{ $current_page := . }}
+
+{{ $url := (print "https://github.com/radish-es/opensourcelaw/blob/main/content/" ($.Page.File.Path)) }}
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{$url}}"  target="_blank" rel="noopener">Suggest Edits on Github</a>
