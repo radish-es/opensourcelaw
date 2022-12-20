@@ -57,7 +57,7 @@ components:
 ---
 
 
-
+{{% repolink %}}
 
 [{{< figure src="/media/kaleidoscope.jpg" caption="Source: Malcolm Lightbody on Unsplash" >}}](https://unsplash.com/photos/TC2f02Iq8lE) 
 
