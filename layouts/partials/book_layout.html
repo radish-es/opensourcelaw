@@ -65,6 +65,8 @@
               </div></div>
             {{ end }}
 
+            {{ partial "repo_link" . }}
+
             <!-- OSLAW get case -->
             
             {{ $headless_case := .Site.GetPage "/courses/Property/cases" }}
@@ -87,7 +89,7 @@
 
                 {{ range $reusablePages }}{{ range .Params.tags }}<a class="badge badge-light">{{ . }}</a>{{ end }}{{ end }}
 
-                {{ range $reusablePages }}<div class="case-wrap"><div class="case">{{ .Content }}</div></div>{{ end }}
+                {{ range $reusablePages }}<div class="case-wrap"><div class="case">{{ .Content }}{{ partial "repo_link" . }}</div></div>{{ end }}
             
               {{else if eq ._template "module" }}
 
@@ -99,7 +101,7 @@
 
                 {{ range $reusablePages }}{{ range .Params.tags }}<a class="badge badge-light">{{ . }}</a>{{ end }}{{ end }}
 
-                {{ range $reusablePages }}{{ .Content }}{{ end }}
+                {{ range $reusablePages }}{{ .Content }}{{ partial "repo_link" . }}{{ end }}
 
               {{else if eq ._template "exercise" }}
 
@@ -113,7 +115,7 @@
 
                 {{ range $reusablePages }}{{ range .Params.tags }}<a class="badge badge-light">{{ . }}</a>{{ end }}{{ end }}
 
-                {{ range $reusablePages }}{{ .Content }}{{ end }}
+                {{ range $reusablePages }}{{ .Content }}{{ partial "repo_link" . }}{{ end }}
 
                 <!--<p>Having trouble viewing this component? Click here</p>-->
                 
