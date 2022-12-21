@@ -1,7 +1,7 @@
 ---
 title: Week 14 - The Right to Shelter
 linktitle: Right to Shelter
-published: true
+published: false
 type: book
 weight: 14
 components:
@@ -24,6 +24,7 @@ components:
     filename: content/courses/Property/cases/bamberger.md
     _template: case
 ---
+
 
 {{< figure src="/media/cridge.jpg" caption="Cridge Park, Victoria. Photo by Elyse Loewen" >}}
 

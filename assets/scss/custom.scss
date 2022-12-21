@@ -455,3 +455,17 @@ li.toc-list-item {
 .footnotes {font-size: 0.6em;}
 
 section.footnotes hr {height: 1px; margin-right: 75%; background-image: none;}
+
+/* Survey link button */
+
+div.survey-button {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.survey-button a {
+  border: 1px solid #000;
+  padding: 10px;
+  border-radius: 10px;
+  background: #fff;
+}

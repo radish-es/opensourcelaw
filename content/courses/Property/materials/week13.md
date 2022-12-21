@@ -4,6 +4,19 @@ linktitle: Land Use Control II
 published: true
 type: book
 weight: 13
+objectives:
+  - objective: 'Define acquired rights (nonconforming uses) '
+    explanation: >-
+      and describe the underlying rationales for their protection in by the
+      common law.
+  - objective: Describe the legal source of acquired rights
+    explanation: >-
+      by distinguishing between the role of local land-use bylaws and actual use
+      by the claimant.
+  - objective: Analyze the scope of acquired rights
+    explanation: based on the framework established in *Saint Romuald* case.
+  - objective: Briefly explain how acquired rights can be extinguished
+    explanation: and analyze whether or not statutory rules on extinguishment make sense.
 components:
   - title: Short-Term Rentals in HRM
     filename: content/courses/Property/exercises/hrm_short_term_rentals.md
@@ -24,6 +37,7 @@ components:
     filename: content/courses/Property/modules/extinguishing_acquired_rights.md
     _template: module
 ---
+
 
 {{< figure src="/media/nonconforming.jpg" >}}
 
