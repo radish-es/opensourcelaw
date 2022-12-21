@@ -4,6 +4,15 @@ linktitle: Land Use Control I
 published: true
 type: book
 weight: 12
+objectives:
+  - objective: 'Describe the key elements of the modern style '
+    explanation: and compare these to those of the classical style studied last term.
+  - objective: 'Compare the modern and classical approaches to constructive expropriation '
+    explanation: including both Canadian and American perspectives.
+  - objective: >-
+      Identify the core elements of the emerging legal test for constructive
+      expropriation 
+    explanation: after the Mariner Estate case.
 components:
   - title: Blue Mountain-Birch Cove Lakes
     filename: content/courses/Property/exercises/blue_mountain.md
@@ -30,6 +39,7 @@ components:
     filename: content/courses/Property/exercises/defacto_expropriation.md
     _template: exercise
 ---
+
 
 You've arrive in Winter term! This week, we'll begin to revisit some of last term's topics from the perspective of the **modern style**. The topic this week is *de facto* (constructive) expropriation.
 
