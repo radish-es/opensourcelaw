@@ -2,4 +2,8 @@
 
 {{ $url := (print "https://github.com/radish-es/opensourcelaw/blob/main/content/" ($.Page.File.Path)) }}
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="{{$url}}"  target="_blank" rel="noopener">Suggest Edits on Github</a>
+<div class="suggest_edits">
+
+    <a href="{{$url}}"  target="_blank" rel="noopener"><i class="fas fa-code-branch">&nbsp;&nbsp;</i>Suggest edits</a>
+
+</div>

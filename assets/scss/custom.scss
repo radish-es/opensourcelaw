@@ -455,3 +455,21 @@ li.toc-list-item {
 .footnotes {font-size: 0.6em;}
 
 section.footnotes hr {height: 1px; margin-right: 75%; background-image: none;}
+
+/* Suggest edits link */
+
+div.suggest_edits {
+  text-align: right;
+}
+
+div.suggest_edits a {
+  color: rgb(155, 155, 155);
+  font-size: 0.75em;
+  border: 1px solid rgb(155, 155, 155);;
+  padding: 4px 10px;
+  border-radius: 5px;
+}
+
+div.suggest_edits a:hover {
+  background: rgb(222, 222, 222);
+}
