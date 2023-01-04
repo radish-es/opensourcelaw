@@ -43,17 +43,17 @@ components:
 
 You've arrive in Winter term! This week, we'll begin to revisit some of last term's topics from the perspective of the **modern style**. The topic this week is *de facto* (constructive) expropriation.
 
-**Where we're headed:** Compared to *[McLaren v Caldwell](../week8/#Water%20Rights%20and%20Expropriation)*, judges working in the modern style take a very different approach when government "removes" sticks from a landowner's bundle of rights without paying them compensation. We want to understand how those differences drive decisions in the cases. 
+**Where we're headed:** Compared to *[McLaren v Caldwell](../week8/#Water%20Rights%20and%20Expropriation)*, judges working in the modern style take a very different approach when government "removes" sticks from a landowner's bundle of rights without paying them compensation. We want to understand how this different approach emerged and how it drives decisions in the cases. 
 
 {{< spoiler text="Learn more" id="main" >}}
 
 As we move forward in studying the history of property law, our learning methods in the course will also start to shift. 
 
-- Each week's readings will start with a fact pattern-based problem. We'll use each problem to explore relevant legal issues and guide our reading of the materials.
+- Each week's readings will start with a fact pattern-based problem. We'll use these problems to explore relevant legal issues and guide our thematic reading of the materials.
 
-- You will also find "mini lectures" (short audio recordings) peppered throughout the readings. Consider these preparation for class meetings: I won't cover this material again in class. 
+- You will also find "mini lectures" (short audio recordings) peppered throughout the readings. Consider these preparation for class meetings. 
 
-**Course themes still matter:** Just because we're putting more emphasis on applied problems doesn't mean you should ignore the big themes in the course. Understanding these themes is crucial for resolving the problems in a thoughtful, rigorous way.
+**Course themes still matter:** Just because we're putting more emphasis on applied problems this term doesn't mean you should ignore the big themes in the course. Understanding these themes is crucial for resolving the problems in a thoughtful, rigorous way and placing your answers in the appropriate context.
 
 - Before you read this week's problem, review the *[basic dilemma of liberalism](../week4/#the-basic-dilemma-of-liberalism)* and the *[Three Questions of Common Law Style](../week4/#three-questions-of-common-law-style)* from Unit 2.
 
