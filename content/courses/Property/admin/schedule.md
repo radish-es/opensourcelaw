@@ -60,11 +60,11 @@ We will meet in Weldon Room 207 throughout the year.
 
 ## Unit 3: Modern Common Law Thought
 
-### [Week 12 (Jan 16/Jan 18)](../../materials/week12)
+### [Week 12 (Jan 9/Jan 11)](../../materials/week12)
 
 **Land Use Control I** - In our first class on the modern style of common law thought, we will return to the issue of expropriation to examine how the Canadian law on *de facto* takings emerged and developed. We will use the recent controversy around the Blue Mountain-Birch Cove Wilderness area in Halifax to ground our study of the legal issues and context. 
 
-### [Week 13 (Jan 23/25)](../../materials/week13)
+### [Week 13 (Jan 16/18)](../../materials/week13)
 
 **Land Use Control II** - We continue to look at questions of land use control, this week from the perspective of the doctrine of *acquired rights*. The materials explore the question of whether acquired rights come from, and whether and how their scope can change over time.
 
