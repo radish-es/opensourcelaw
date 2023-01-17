@@ -1,8 +1,8 @@
 ---
 title: 'Covenants "Running with the Land" '
-tags:
-  - Week 14
+short: Running With Land
 ---
+
 
 {{% callout exercise %}} 
 

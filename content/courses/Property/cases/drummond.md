@@ -2,16 +2,9 @@
 style: Re Drummond Wren
 short: Drummond
 reporter: '[1945] OR 778 (HC)'
-tags:
-  - modern style
-  - human rights
-  - racism
-  - public policy
-  - land use control
-  - restraints on alienation
-  - restrictive covenants
 public: true
 ---
+
 
 
 ### Mackay J. —

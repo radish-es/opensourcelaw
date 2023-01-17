@@ -1,8 +1,8 @@
 ---
 title: 'Restrictive Covenants '
-tags:
-  - Week 14
+short: Restrictive Covenants Exercise
 ---
+
 
 
 {{< figure src="/media/housing_sign.jpg" caption="Sign on a traffic post at the Robie Street / Willow Tree intersection in Halifax." >}}

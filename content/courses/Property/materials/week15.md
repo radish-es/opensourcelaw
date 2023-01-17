@@ -3,7 +3,7 @@ title: Restrictive Covenants
 linktitle: Restrictive Covenants
 published: false
 type: book
-weight: 14
+weight: 15
 components:
   - title: Restrictive Covenants
     filename: content/courses/Property/exercises/restrictive_covenants.md
@@ -32,14 +32,9 @@ components:
 ---
 
 
-{{% callout exercise %}} 
 
-### Mini-Lecture: Recap from Week 13
 
-{{< vimeo 671491998 >}}
-{{% /callout %}}
-
-For the past three weeks we have examined, from various angles, the way public authorities—mainly, local governments in the urban context—regulate and control the use of both private and public land. We noted, at the beginning of [Week 11](../week11/), that modern, forward-looking land use planning and zoning regimes emerged in Canada by the mid-20th century to replace more decentralized and reactive forms of land-use control, such as private nuisance actions adjudicated by the common law courts (which we studied in [Week 8](../week8/) of the course).
+For the past three weeks we have examined, from various angles, the way public authorities—mainly, local governments in the urban context—regulate and control the use of both private and public land. We noted, at the beginning of [Week 12](../week12/), that modern, forward-looking land use planning and zoning regimes emerged in Canada by the mid-20th century to replace more decentralized and reactive forms of land-use control, such as private nuisance actions adjudicated by the common law courts (which we studied in [Week 7](../week7/) of the course).
 
 This story about the move from private nuisance actions to public land-use controls, however, needs to be complicated a little further. Certain "private" forms of land-use regulation are still in widespread use. One of the most pervasive—but often least noticed—is the *restrictive covenant*. 
 

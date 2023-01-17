@@ -1,9 +1,8 @@
 ---
 title: Covenants Running in Equity
 short: Courts of Equity
-tags:
-  - Week 14
 ---
+
 
 
 {{% callout warning %}} 
