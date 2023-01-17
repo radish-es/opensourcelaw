@@ -10,6 +10,9 @@ objectives:
       and distinguish between those aspects of the doctrine that are settle law
       and those that are still in flux.
   - objective: >-
+      Identify the dimensions of the emerging right to shelter being driven by
+      the the modern style
+  - objective: >-
       Critically assess how local governments are responding to the obligations
       imposed by the emerging right to shelter
     explanation: >-
