@@ -68,11 +68,12 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Land Use Control II** - We continue to look at questions of land use control, this week from the perspective of the doctrine of *acquired rights*. The materials explore the question of whether acquired rights come from, and whether and how their scope can change over time.
 
+
+### [Week 14 (Jan 23/25)](../../materials/week14)
+
+**The Right to Shelter** - The right to shelter is an emerging constitutional right in Canada protected under section 7 of the *Charter*. It is a right that continues to evolve rapidly, alongside growing numbers of people experiencing chronic homelessness in Canadian cities. The ways in which the courts have constructed the right to shelter on an empirical basis linked to the availability of shelter options and the degree to which they have considered the needs and choices of unhoused persons raises key questions about how the right to shelter has be shaped in the modern style.
+
 <!--
-
-### [Week 13 (Jan 26)](../../readings/week13)
-
-**Homelessness and the Right to Shelter** - The right to shelter is an emerging constitutional right in Canada protected under section 7 of the *Charter*. It is a right that continues to evolve rapidly, alongside growing numbers of people experiencing chronic homelessness in Canadian cities. The ways in which the courts have constructed the right to shelter on an empirical basis linked to the availability of shelter options raises key questions about this type of heavy functionalist approach.
 
 ### [Week 14 (Feb 2)](../../readings/week14)
 
