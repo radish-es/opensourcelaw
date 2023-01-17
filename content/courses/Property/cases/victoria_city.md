@@ -19,6 +19,7 @@ sources:
 
 
 
+
 ### Ross J. —
 
 #### I Introduction
@@ -336,7 +337,9 @@ Mr. Hogya’s opinion is that in addition to ground insulation, the necessary mi
 
 The point of each alternative is that it is necessary to secure overhead protection. However, the Bylaw and the operational policy prohibit the erection of even temporary overhead protection in the form of tents, tarps strung up or cardboard boxes. I find that the difference between what is prohibited and what is permitted is not string, but overhead protection, and it is in my view clear on the evidence that overhead protection is required to provide protection from the risk of exposure.
 
-{{< spoiler text="Shelter Availability and Individuals' Choices" >}}<audio controls><source src="https://www.dropbox.com/s/8jo53hk1bqs7720/week13_minilecture04.mp3?raw=1" type="audio/mpeg"></audio>
+{{< spoiler text="Shelter Availability and Individuals' Choices" id="individ-choices" >}}
+
+<audio controls><source src="https://www.dropbox.com/s/8jo53hk1bqs7720/week13_minilecture04.mp3?raw=1" type="audio/mpeg"></audio>
 
 {{< /spoiler >}}
 

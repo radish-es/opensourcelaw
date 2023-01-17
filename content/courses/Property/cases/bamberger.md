@@ -2,12 +2,6 @@
 style: Bamberger v Vancouver (Board of Parks and Recreation)
 short: Bamberger
 reporter: 2022 BCSC 49
-tags:
-  - modern style
-  - exclusion
-  - constitution
-  - homelessness
-  - right to shelter
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/jlqf6'
@@ -20,6 +14,7 @@ sources:
       Court decision. It is not made in affiliation with, or with the
       endorsement of, the British Columbia Superior Courts.
 ---
+
 
 
 

@@ -5,7 +5,8 @@ short: Section 7 Right to Shelter
 
 
 
-Canada's *Charter of Rights and Freedoms* contains no freestanding constitutional right to housing or other forms of shelter. But in considering what protections the *Charter* affords to homeless persons seeking access to public spaces to meet their immediate shelter and other basic needs, Canadian courts have developed certain limited protections under section 7 of the *Charter*, which reads:
+
+Canada's *Charter of Rights and Freedoms* contains no freestanding constitutional right to housing or other forms of shelter. But in considering what protections the *Charter* affords to unhoused persons seeking access to public spaces to meet their immediate shelter and other basic needs, Canadian courts have developed certain limited protections under section 7 of the *Charter*, which reads:
 
 > 7. Everyone has the right to life, liberty and security of the person and the right not to be deprived thereof except in accordance with the principles of fundamental justice.
 

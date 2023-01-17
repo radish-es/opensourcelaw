@@ -1,7 +1,8 @@
 ---
 title: The Evolving Right to Shelter
-short: ''
+short: Evolving Right
 ---
+
 
 {{< figure src="/media/crab_park.jpg" caption="CRAB Park, Vancouver. Photo by Elyse Loewen" >}}
 
