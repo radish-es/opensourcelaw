@@ -9,21 +9,21 @@ icon_pack: fas
 
 [{{< figure src="/media/urban_development.jpg" caption="Source: Ivan Bandura on Unsplash" >}}](https://unsplash.com/photos/0-no6ywKMPY) 
 
-[Professor Jamie Baxter](https://baxterlab.ca/authors/baxter/) from the Schulich School of Law will be in your class on February 8 to talk about the issue of ***de facto* expropriation**.
+[Professor Jamie Baxter](https://baxterlab.ca/authors/baxter/) from the Schulich School of Law will be in class on February 8 to talk about the issue of ***de facto* expropriation**.
 
-**What everyone's talking about:** *De facto* expropriation (or "regulatory takings") has been top of mind for planners and municipal governments after the Supreme Court of Canada's big decision in *Annapolis Group Inc. v Halifax Regional Municipality* last fall. 
+**What everyone's talking about:** *De facto* expropriations (or "regulatory takings") have been top of mind for planners and municipal governments recently, after the Supreme Court of Canada's big decision in *Annapolis Group Inc. v Halifax Regional Municipality* last October. 
 
-- At issue was a series of land use planning and zoning decisions made by HRM in its efforts to conserve the [Blue Mountain-Birch Cove](https://bluemountainfriends.ca) wilderness area.
+- At issue in the case was a series of land use planning and zoning decisions made by HRM in its efforts to conserve the [Blue Mountain-Birch Cove](https://bluemountainfriends.ca) wilderness area.
 
-- The Supreme Court said that HRM's efforts may have effectively "taken" a private developer's property, triggering obligations under Nova Scotia's *Expropriation Act*.
+- The Supreme Court said that HRM's efforts may have effectively "taken" a private developer's property, triggering obligations to pay compensation under Nova Scotia's *Expropriation Act*.
 
-- [Environmental groups](https://ecojustice.ca/case/preserving-governments-ability-to-regulate-land-usage-to-protect-the-environment/) worry that the *Annapolis* decision has opened the door too wide for property owners to demand **compensation** when local and provincial governments undertake public planning processes that prevent development on private land. 
+- [Environmental groups](https://ecojustice.ca/case/preserving-governments-ability-to-regulate-land-usage-to-protect-the-environment/) worry that the *Annapolis* decision has opened the door too wide for property owners to demand they get paid whenever local and provincial governments undertake public planning processes that prevent development on private land. 
 
 {{< spoiler text="Learn more" id="main" >}}
 
-In this class, Professor Baxter will work with you to identify the circumstances that give rise to a legal claim by landowners in *de facto* expropriation. 
+In this class, Professor Baxter will work with you to identify the circumstances that give rise to a legal claim by landowners based on *de facto* expropriation. 
 
-We'll then look at excerpts from two cases (*Mariner Real Estate Ltd. v Nova Scotia* and the *Annapolis* case) to understand how the law in this area is changing.
+We'll then look at excerpts from two cases (*Mariner Real Estate Ltd. v Nova Scotia* and the *Annapolis* case) to understand how the law in this area is evolving.
 
 **Why it matters:** We'll end on the question of why planners should care about all this and how the issue of *de facto* expropriation might shape urban development and regional planning in the future. 
 
@@ -31,7 +31,49 @@ We'll then look at excerpts from two cases (*Mariner Real Estate Ltd. v Nova Sco
 
 ## What is *De Facto* Expropriation?
 
-This is one
+**The basics:** Expropriation is the subfield of law that deals with government's power to take away private property from its owners. 
+
+{{< figure src="/media/expropriation.jpg" caption="Source: Jue Huang, Jared Murray and Chaewon Lee on Unsplash" >}}
+
+Common examples include taking land to build public works like a highway, or an airport, or public park. 
+
+In Canada--unlike some other countries, such as the United States and South Africa--private owners have no *constitutional* protections against the expropriation of their property. 
+
+- This means that the federal Parliament and provincial legislatures can choose whether or not to place constraints on their own power to expropriate. But those constraints are not imposed as a matter of constitutional law.
+
+**A matter of statute:** Nevertheless, every province has passed legislation that requires provincial and municipal governments to pay landowners **compensation** (generally at market value) when their property has been expropriated. For example, Nova Scotia's *Expropriation Act*, RSNS 1989, c 156 requires that:
+
+> 24 Where land is expropriated, the statutory authority **shall** pay the owner compensation as is determined in accordance with this Act.
+
+The *Expropriation Act* makes examples like taking away private land for a highway or a park relatively straightforward. The landowner loses their title to the land and they are paid the market value of their land in compensation for that loss.
+
+**Not so simple:** But when governments exercise their regulatory powers to restrict what owners can do on their land *without* actually taking away their title *per se*, questions about compensation get much more controversial. 
+
+For example, let's imagine that you own a vacant plot of land somewhere in a residential neighbourhood on the  Halifax peninsula.
+
+- Would you expect the city to compensate you for the "loss" of your property rights if passes a zoning bylaw restricting the height of any new construction to two stories?
+
+- What if the city passed a bylaw prohibiting construction of any new dwellings at all?
+
+Once we cross over into the world of "takings" short of outright expropriation of title--the world of *de facto* expropriation--the legal lines around when just compensation is required get pretty blurry. 
+
+- Justice Oliver Wendell Holmes of the United States Supreme Court might have put it best when he observed that "[g]overnment hardly could go on if, to some extent, values incident to property could not be diminished without paying for every such change in the general law... But obviously the implied limitation must have its limits..." 
+
+{{< spoiler text="Where we're headed" id="where" >}}
+
+The legal rules used by courts to identify when a *de facto* expropriation requiring compensation has taken place in Canada are relatively new. 
+
+- The *Mariner Real Estate* decision by the Nova Scotia Court of Appeal in 1999 laid the groundwork for these rules. 
+
+- The legal standard for claimants seeking compensation set by Justice Cromwell in *Mariner* was a very strict one, and therefore a very difficult one for landowners to meet. It put success in these cases beyond the reach of most claimants, most of the time.
+
+As you read the excerpt from *Mariner* below, consider the following:
+
+- What do claimants need to show in these cases to be successful? Why might this be difficult?
+
+- What justifications does Justice Cromwell offer for this strict approach? Do you agree with the result?
+
+{{< /spoiler >}}
 
 ## Mariner Real Estate Ltd v Nova Scotia, 1999 NSCA 98 (CanLII)
 
