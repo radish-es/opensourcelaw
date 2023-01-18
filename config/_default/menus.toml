@@ -11,6 +11,11 @@
   weight = 20
 
 [[main]]
+  name = "Planning Law"
+  url = "/planning"
+  weight = 30
+
+[[main]]
   name = "Resources"
   url = "/resources"
   weight = 40
