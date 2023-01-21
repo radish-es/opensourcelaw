@@ -17,7 +17,7 @@ icon_pack: fas
 
 - The Supreme Court said the HRM may have engaged in an effective "taking" of a private developer's property, triggering obligations to pay compensation under Nova Scotia's *Expropriation Act*.
 
-- Some [environmental groups](https://ecojustice.ca/case/preserving-governments-ability-to-regulate-land-usage-to-protect-the-environment/) worry that the *Annapolis* decision has opened the door too wide for property owners to demand payment whenever local or provincial governments undertake public planning processes that prevent development on private land. 
+- Some [environmental groups](https://ecojustice.ca/case/preserving-governments-ability-to-regulate-land-usage-to-protect-the-environment/) worry that the *Annapolis* decision has opened the door too wide for property owners to demand payment whenever local or provincial governments place development controls on private land. This legal liability could have huge implications for public planning. 
 
 {{< spoiler text="Learn more" id="main" >}}
 
@@ -25,7 +25,7 @@ In this class, Professor Baxter will work with you to identify the circumstances
 
 We'll then look at excerpts from two cases (***Mariner Real Estate Ltd. v Nova Scotia*** and ***Annapolis Group Inc. v Halifax Regional Municipality***) to understand how the law in this area is evolving.
 
-**Why it matters:** We'll end on the question of why planners should care about all this. Local governments' growing financial liabilities arising from shifts in the law on *de facto* expropriation may fundamentally alter the capacity of public planning to shape urban development and regional planning in the future.
+**Why it matters:** We'll end on the question of why planners should care about all this. If local and provincial governments are on the hook for the private costs of development control, regional planning and conservation initiatives, they may do much less of these activities in the future. At the very least, we might expect governments to take a much more tepid approach to planning where the costs of such processes are uncertain. 
 
 {{< /spoiler >}}
 
@@ -72,6 +72,8 @@ As you read the excerpt from *Mariner* below, consider the following:
 - What do claimants actually need to show in *de facto* expropriation cases to be successful? Why might this be difficult to do?
 
 - What justifications does Justice Cromwell offer for his strict approach? Do you agree with the reasoning and the result?
+
+{{< vimeo 791370065 >}}
 
 {{< /spoiler >}}
 
@@ -190,6 +192,8 @@ I would allow the appeal, set aside the order of the trial judge and in its plac
 </div></div>
 
 ## Annapolis Group In. v Halifax Regional Municipality, 2022 SCC 36
+
+{{< figure src="/media/blue_mountain_map.png" caption="" >}}
 
 <div class="case-wrap"><div class="case">
 
@@ -428,3 +432,45 @@ We would dismiss the appeal with costs throughout.
 *Appeal allowed.*
 
 </div></div>
+
+## Canada-United States-Mexico Agreement
+
+**One more wrinkle:** While *Mariner* and *Annapolis*, above, involved Canadian landowners, the situation may well have been different if, for example, the land in either case had been owned by a American or Mexican party. 
+
+- International trade law--and the growing thicket of bilateral and multilateral trade agreements that dominate in this area--may determine landowners' rights to claim compensation for regulatory takings in foreign jurisdictions.
+
+Article 14.8 and the associated Annex of the *Canada-United States-Mexico Agreement* (which recently replaced NAFTA as the main multilaterial agreement governing trade in North America) sets out the compensatory rights of foreign investor/owners. 
+
+- Based on these provisions, do you think the landowner in *Annapolis* would have had a better or worse chance of getting compensation if it was an American development company? 
+
+#### Article 14.8: Expropriation and Compensation
+
+> 1 No Party shall expropriate or nationalize a covered investment either directly or indirectly through measures equivalent to expropriation or nationalization (expropriation), except:
+>
+>> (a) for a public purpose;
+>>
+>> (b) in a non-discriminatory manner;
+>>
+>> (c) on payment of prompt, adequate, and effective compensation in accordance with paragraphs 2, 3, and 4; and
+>>
+>> (d) in accordance with due process of law.
+
+#### Annex 14-6 Expropriation
+
+The Parties confirm their shared understanding that:
+
+> 1 An action or a series of actions by a Party cannot constitute an expropriation unless it interferes with a tangible or intangible property right or property interest in an investment.
+> 
+> 2 Article 14.8.1 (Expropriation and Compensation) addresses two situations. The first is direct expropriation, in which an investment is nationalized or otherwise directly expropriated through formal transfer of title or outright seizure.
+> 
+> 3 The second situation addressed by Article 14.8.1 (Expropriation and Compensation) is indirect expropriation, in which an action or series of actions by a Party has an effect equivalent to direct expropriation without formal transfer of title or outright seizure.
+>
+>> (a) The determination of whether an action or series of actions by a Party, in a specific fact situation, constitutes an indirect expropriation, requires a case-by-case, fact-based inquiry that considers, among other factors:
+>>
+>>> (i) the economic impact of the government action, although the fact that an action or series of actions by a Party has an adverse effect on the economic value of an investment, standing alone, does not establish that an indirect expropriation has occurred,
+>>>
+>>> (ii) the extent to which the government action interferes with distinct, reasonable investment-backed expectations,19 and
+>>>
+>>> (iii) the character of the government action, including its object, context, and intent.
+>>
+>> (b) Non-discriminatory regulatory actions by a Party that are designed and applied to protect legitimate public welfare objectives, such as health, safety and the environment, do not constitute indirect expropriations, except in rare circumstances.
