@@ -15,9 +15,9 @@ icon_pack: fas
 
 - At issue in the case was a set of land use planning and zoning decisions taken by the Halifax Regional Municipality (HRM) to help conserve a peri-urban wilderness area called [Blue Mountain-Birch Cove](https://bluemountainfriends.ca).
 
-- The Supreme Court said in *Annapolis* that the HRM may have effectively taken away of a private developer's property by regulating it, triggering obligations to pay compensation under Nova Scotia's *Expropriation Act*.
+- The Supreme Court said in *Annapolis* that the HRM may have effectively taken a private developer's property by regulating it, triggering obligations to pay compensation under Nova Scotia's *Expropriation Act*.
 
-- Some [environmental groups](https://ecojustice.ca/case/preserving-governments-ability-to-regulate-land-usage-to-protect-the-environment/) worry that the *Annapolis* decision has opened the door too wide for private property owners to demand payment whenever public development controls impact their land. The cases's potential to raise the costs of public planning is significant. 
+- Some [environmental groups](https://ecojustice.ca/case/preserving-governments-ability-to-regulate-land-usage-to-protect-the-environment/) worry that the *Annapolis* decision has opened the door too wide for private property owners to demand payment when public development controls impact their land. The case's potential to raise the public costs of land use planning is significant. 
 
 {{< spoiler text="Learn more" id="main" >}}
 
@@ -29,17 +29,17 @@ We'll look at excerpts from two cases to understand how the law in this area is 
 
 - *Annapolis Group Inc. v Halifax Regional Municipality*
 
-**Why it matters:** We'll emphasize the question of why planners should care about all this. If local and provincial governments are on the hook for the private costs of development control, regional planning and conservation initiatives, they may do much less of all this in the future. At the very least, the  changes in the law of *de facto* expropriation we'll study this week could make planning processes considerably more uncertain, at least for now.
+**Why it matters:** We'll emphasize the question of why planners should care about all this. If local and provincial governments are on the hook for the private costs of development control, regional planning and conservation initiatives, they may do much less of all three in the future. At the very least, the  changes in the law of *de facto* expropriation we'll study this week could make planning processes considerably more uncertain, at least for now.
 
 {{< /spoiler >}}
 
 ## What is *De Facto* Expropriation?
 
-**The basics:** Expropriation is the subfield of property law that deals with government's powers and obligations when taking away private property from its owners. 
+**The basics:** Expropriation is the subfield of property law that deals with governments' powers and obligations when taking away private property from its owners. 
 
 {{< figure src="/media/expropriation.jpg" caption="Source: Jue Huang, Jared Murray and Chaewon Lee on Unsplash" >}}
 
-Common examples of so-called *de jure* expropriations include scenarios in which government takes up private land to build important public works like a highway, or an airport, or an urban park. 
+Common examples of so-called *de jure* expropriations include government taking up private land to build important public works like a highway, or an airport, or an urban park. 
 
 In Canada--unlike some other countries including the United States and South Africa--private owners have no ***constitutional*** protections against state expropriation of their property without compensation. 
 
@@ -49,29 +49,29 @@ In Canada--unlike some other countries including the United States and South Afr
 
 > 24 Where land is expropriated, the statutory authority **shall** pay the owner compensation as is determined in accordance with this Act.
 
-The *Expropriation Act* makes scenarios involving the taking away of private title for a highway or a park--i.e., *de jure* expropriations--relatively straightforward. The landowner loses their title to the land and they are paid the market value in compensation for that loss.
+The *Expropriation Act* makes cases where private title is taken for a highway or a park--i.e., *de jure* expropriations--relatively straightforward. The landowner loses their title to the land and they are paid the market value in compensation for that loss.
 
 **Not so simple:** But when governments exercise their regulatory powers to restrict what owners can do on their land *without* actually taking away the land title, does this amount to an expropriation requiring compensation?
 
-For example, let's imagine that you own a vacant plot of land somewhere in a residential neighbourhood on the  Halifax peninsula.
+For example, let's imagine that you own a vacant plot of land somewhere in a residential neighbourhood on in Halifax.
 
 - Would you expect the City to compensate you for the "loss" of your property rights if it chooses to pass a zoning bylaw that restricts the height of any new construction on your land to two stories?
 
-- What if the City passed a bylaw prohibiting construction of any new dwellings at all?
+- What if the City passed a bylaw prohibiting construction of *any* new dwellings at all?
 
-Once we cross over from the world outright expropriation of title into the world of *de facto* takings, the legal lines around when just compensation is required get pretty blurry. 
+Once we cross over from *de jure* expropriation into the world of *de facto* takings, the legal lines around when just compensation is required get pretty blurry. 
 
 - Justice Oliver Wendell Holmes of the United States Supreme Court might have put it best when he observed that "[g]overnment hardly could go on if, to some extent, values incident to property could not be diminished without paying for every such change in the general law... But obviously the implied limitation must have its limits..." 
 
 {{< spoiler text="Where we're headed" id="where" >}}
 
-**Zoom out:** The legal rules used by courts in Canada to identify when a *de facto* expropriation requiring compensation has taken place are relatively new. 
+**Zoom out:** The legal rules developed by courts in Canada to identify when a *de facto* expropriation requiring compensation has taken place are relatively new. 
 
-- The *Mariner Real Estate* decision by the Nova Scotia Court of Appeal in 1999 laid the groundwork for these rules. 
+- The *Mariner Real Estate* decision by the Nova Scotia Court of Appeal laid the groundwork for these rules in 1999. 
 
-- The legal standard for claimants seeking compensation established by Justice Cromwell in *Mariner* was a very strict one, and therefore a very difficult one for landowners to meet. Practically speaking, it put success in these cases well beyond the reach of most claimants, most of the time.
+- The legal standard for claimants seeking compensation established by Justice Cromwell in *Mariner* was a very strict one, and thus very difficult for landowners to meet. Practically speaking, it put success in these cases well beyond the reach of most claimants, most of the time.
 
-As you read the excerpt from *Mariner* below, consider points in the following mini-lecture:
+As you read the excerpt from *Mariner* below, consider the key points in this mini-lecture:
 
 {{< vimeo 791370065 >}}
 
@@ -193,11 +193,11 @@ I would allow the appeal, set aside the order of the trial judge and in its plac
 
 ## The Shifting Legal Standard
 
-The legal framework for *de facto* expropriation established in *Mariner* was largely affirmed in a later Supreme Court of Canada case, *Canadian Pacific Railway v Vancouver (City*). 
+The legal framework for *de facto* expropriation established in *Mariner* was mostly affirmed in a later Supreme Court of Canada case, *Canadian Pacific Railway v Vancouver (City*). 
 
 - As you read the *Annapolis* decision, next, you might notice that the judges seem to disagree on whether the majority judgement "changes" or "clarifies" the pre-existing law. 
 
-- This argument is mainly semantics. There is no question that the majority's decision shifts the legal test to be applied in claims for compensation based on *de facto* expropriation. The important question is about *how* the law has changed and why. 
+- This argument between the judges is mainly semantics. There is no question that the majority's decision shifts the legal test to be applied in claims for compensation based on *de facto* expropriation. The important questions are about *how* the law has changed, *why* it has changed, and *who benefits* from the shift. 
 
 ## Annapolis Group In. v Halifax Regional Municipality, 2022 SCC 36
 
@@ -485,9 +485,9 @@ The Parties confirm their shared understanding that:
 
 ## Checkout
 
-{{< flipcard front="How is a *de facto* expropriation different from a *de jure* expropriation?" >}}
+{{< flipcard front="How is *de facto* expropriation different from *de jure* expropriation?" >}}
 
-### Owner retails their formal title to the land.
+### Owner retains formal title to the land.
 
 {{< /flipcard >}}
 
@@ -499,14 +499,14 @@ The Parties confirm their shared understanding that:
 
 {{< /flipcard >}}
 
-{{< flipcard front="Why might rules around expropriation in planning cases different depending on the nationality of the claimant?" >}}
+{{< flipcard front="Why might rules around expropriation in planning cases be different depending on the nationality of the claimant?" >}}
 
-*CUSMA* provides a different legal standard to qualify for compensation that can supersede domestic law in some circumstances. 
+*CUSMA* provides a different legal standard for compensation that can supersede domestic law in some circumstances. 
 
 {{< /flipcard >}}
 
 {{< flipcard front="Why should planners and local governments care about the law on *de facto* expropriation?" >}}
 
-How the "cost" is allocated between private landowners and the public may radically shape the nature and extent of land use control going forward.
+How "cost" is allocated between private landowners and the public may radically shape the nature and extent of land use control going forward.
 
 {{< /flipcard >}}
