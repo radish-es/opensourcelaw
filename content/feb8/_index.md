@@ -489,6 +489,8 @@ The Parties confirm their shared understanding that:
 
 ### Owner retains formal title to the land.
 
+(*de facto*)
+
 {{< /flipcard >}}
 
 {{< flipcard front="Is the legal test for *de facto* expropriation in Canada strict or loose compared to other countries?" >}}
@@ -501,12 +503,14 @@ The Parties confirm their shared understanding that:
 
 {{< flipcard front="Why might rules around expropriation in planning cases be different depending on the nationality of the claimant?" >}}
 
-*CUSMA* provides a different legal standard for compensation that can supersede domestic law in some circumstances. 
+# *CUSMA* 
+
+(has its own legal standard for compensation, which can supersede domestic law) 
 
 {{< /flipcard >}}
 
 {{< flipcard front="Why should planners and local governments care about the law on *de facto* expropriation?" >}}
 
-How "cost" is allocated between private landowners and the public may radically shape the nature and extent of land use control going forward.
+How "cost" is allocated between private landowners and the public could radically reshape the nature and extent of land use control.
 
 {{< /flipcard >}}
