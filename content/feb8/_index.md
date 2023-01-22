@@ -507,7 +507,7 @@ The Parties confirm their shared understanding that:
 
 # *CUSMA* 
 
-(has its own legal standard for compensation, which can supersede domestic law) 
+(own legal standard for compensation that can supersede domestic law) 
 
 {{< /flipcard >}}
 
