@@ -81,7 +81,7 @@ As you read the excerpt from *Mariner* below, consider the key points in this mi
 
 <div class="case-wrap"><div class="case">
 
-{{< figure src="/media/hurtles.jpg" caption="Hurtles, near Kingsburg Beach" >}}
+{{< figure src="/media/hurtles.jpg" caption="Hurtles, near Kingsburg Beach. Photo by Jamie Baxter." >}}
 
 ### Cromwell J.A. --
 
@@ -201,7 +201,7 @@ The legal framework for *de facto* expropriation established in *Mariner* was mo
 
 ## Annapolis Group In. v Halifax Regional Municipality, 2022 SCC 36
 
-{{< figure src="/media/blue_mountain_map.png" caption="" >}}
+{{< figure src="/media/blue_mountain_map.jpg" caption="" >}}
 
 <div class="case-wrap"><div class="case">
 
