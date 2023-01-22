@@ -489,7 +489,7 @@ The Parties confirm their shared understanding that:
 
 {{< flipcard front="How is *de facto* expropriation different from *de jure* expropriation?" >}}
 
-### Owner retains formal title to the land.
+### Owner retains land title.
 
 (*de facto*)
 
