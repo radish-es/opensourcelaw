@@ -445,7 +445,7 @@ We would dismiss the appeal with costs throughout.
 
 [{{< figure src="/media/cusma.jpg" caption="Source: Shealah Craighead - Wikimedia Commons" >}}](https://commons.wikimedia.org/wiki/File:President_Donald_J._Trump_at_the_G20_Summit_(44300765490).jpg) 
 
-**One more wrinkle:** While *Mariner* and *Annapolis*, above, involved Canadian landowners, the situation may well have been different if, for example, the land in either case had been owned by a American or Mexican party. 
+**One more wrinkle:** While *Mariner* and *Annapolis*, above, involved Canadian landowners, the situation may well have been different if, for example, the land in either case had been owned by an American or Mexican investor. 
 
 - International trade law--and the growing thicket of bilateral and multilateral trade agreements that dominate in this area--may determine landowners' rights to claim compensation for regulatory takings in foreign jurisdictions.
 
