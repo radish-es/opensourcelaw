@@ -11,17 +11,17 @@ icon_pack: fas
 
 [Professor Jamie Baxter](https://baxterlab.ca/authors/baxter/) from the Schulich School of Law will be in class on February 8 to discuss the issue of ***de facto* expropriation**.
 
-**On the agenda:** *De facto* expropriations (or *regulatory takings*) have been top of mind for planners and municipal governments recently following the Supreme Court of Canada's big decision in *Annapolis Group Inc. v Halifax Regional Municipality* last October. 
+**On the agenda:** *De facto* expropriations (or *regulatory takings*) have been top of mind for planners and municipal governments after the Supreme Court of Canada's big decision in *Annapolis Group Inc. v Halifax Regional Municipality* last October. 
 
 - At issue in the case was a set of land use planning and zoning decisions taken by the Halifax Regional Municipality (HRM) to help conserve a peri-urban wilderness area called [Blue Mountain-Birch Cove](https://bluemountainfriends.ca).
 
-- The Supreme Court said in *Annapolis* that the HRM may have effectively taken a private developer's property by regulating it, triggering obligations to pay compensation under Nova Scotia's *Expropriation Act*.
+- The Court said that the HRM may have taken regulatory action tantamount to "expropriating" a private developer's property, triggering obligations to pay compensation under Nova Scotia's *Expropriation Act*.
 
-- Some [environmental groups](https://ecojustice.ca/case/preserving-governments-ability-to-regulate-land-usage-to-protect-the-environment/) worry that the *Annapolis* decision has opened the door too wide for private property owners to demand payment when public development controls impact their land. The case's potential to raise the public costs of land use planning is significant. 
+- Some [environmental groups](https://ecojustice.ca/case/preserving-governments-ability-to-regulate-land-usage-to-protect-the-environment/) worry that the *Annapolis* decision has opened the door too wide for private property owners to demand payment when public development controls impact their land. The case has the potential to significantly raise the public costs of land use planning. 
 
 {{< spoiler text="Learn more" id="main" >}}
 
-In this class, Professor Baxter will work with you to identify the circumstances that give rise to a legal claim by landowners based in *de facto* expropriation. 
+In this class, Professor Baxter will work with you to identify the circumstances that give rise to a legal claim based in *de facto* expropriation. 
 
 We'll look at excerpts from two cases to understand how the law in this area is evolving:
 
