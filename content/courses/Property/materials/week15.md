@@ -4,6 +4,21 @@ linktitle: Restrictive Covenants
 published: true
 type: book
 weight: 15
+objectives:
+  - objective: Explain how restrictive covenants differ from contractual promises
+    explanation: 'based on the idea that they are said to "run with the land". '
+  - objective: >-
+      Apply the criteria for the burdens of a restrictive covenant to run in
+      equity
+    explanation: 'and compare these to the criteria for benefits to run. '
+  - objective: >-
+      Describe how the doctrine of public policy developed in early cases
+      dealing with discriminatory restrictive covenants 
+    explanation: and link this development to the features of the modern style.
+  - objective: Identify potential sources of public policy
+    explanation: >-
+      that might be applicable in contemporary cases concerning the validity of
+      restrictive covenants. 
 components:
   - title: Restrictive Covenants
     filename: content/courses/Property/exercises/restrictive_covenants.md
@@ -30,6 +45,7 @@ components:
     filename: content/courses/Property/modules/public_policy_sources.md
     _template: module
 ---
+
 
 
 
