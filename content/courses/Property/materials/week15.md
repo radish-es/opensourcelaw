@@ -1,7 +1,7 @@
 ---
 title: Restrictive Covenants
 linktitle: Restrictive Covenants
-published: false
+published: true
 type: book
 weight: 15
 components:
