@@ -25,7 +25,7 @@ The provisions of the restrictive covenant at 3000 Funston Street are included o
 >
 > 6. No trailer, basement, tent, shack, garage, barn or other out-building erected in the tract shall at any time be used as a residence temporarily or permanently, nor shall any structure of a temporary character be used as a residence. 
 >
-> 7. The ground floor area on the main residence structure erected on any building plot shall not be less than 750 square feet for Lots 1 to 16 inclusive, and not less than 850 square feed for Lots 17 to 21, inclusive each being exclusion of one stray open porches and garage.
+> 7. The ground floor area on the main residence structure erected on any building plot shall not be less than 750 square feet for Lots 1 to 16, inclusive, and not less than 850 square feed for Lots 17 to 21, inclusive, each being exclusive of one story open porches and garages.
 >
 > 8. These covenants are to run with the land and shall be binding on all parts and all persons claiming under them until January 1, 1966 at which time aside covenants shall be automatically extended for successive periods of ten years unless by vote of the majority of the then owners of the lots it is agreed to change the said covenants in whole or in part. 
 >
