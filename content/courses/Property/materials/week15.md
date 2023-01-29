@@ -1,5 +1,5 @@
 ---
-title: Restrictive Covenants
+title: Week 15 - Restrictive Covenants
 linktitle: Restrictive Covenants
 published: true
 type: book
