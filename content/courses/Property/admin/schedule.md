@@ -73,11 +73,11 @@ We will meet in Weldon Room 207 throughout the year.
 
 **The Right to Shelter** - The right to shelter is an emerging constitutional right in Canada protected under section 7 of the *Charter*. It is a right that continues to evolve rapidly, alongside growing numbers of people experiencing chronic homelessness in Canadian cities. The ways in which the courts have constructed the right to shelter on an empirical basis linked to the availability of shelter options and the degree to which they have considered the needs and choices of unhoused persons raises key questions about how the right to shelter has be shaped in the modern style.
 
-<!--
-
-### [Week 14 (Feb 2)](../../readings/week14)
+### [Week 15 (Jan 30/Feb1)](../../materials/week15)
 
 **Restrictive Covenants** - This week we look an another important dimensions of local land use control—this type from the perspective of "private" planning instruments in the form of restrictive covenants. We look at key requirements for creating valid covenant, and then turn to the common law's troubled history of using discriminatory covenants to exclude certain groups and the courts' use of the public policy doctrine as a response.
+
+<!--
 
 ### [Week 15 (Feb 9)](../../readings/week15)
 
