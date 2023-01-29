@@ -15,7 +15,7 @@ The provisions of the restrictive covenant at 3000 Funston Street are included o
 >
 > 1. All lots in the tract shall be known and described as residential lots. No structures shall be erected, altered, placed or permitted to remain on any residential building plot other than one detached single family residence, or one duplex apartment, except that private garages for not more than three cars may be constructed and may be attached to or detached from the main residence structure, and servants quarters or one garage apartment may be constructed only after the main residence structure is completed.
 >
-> 2. No building shall be located on any residential building plot near than 25 ft. to the front lot line, no nearer than 12 ft. to any side street line. No building except a garage or other out-building located 90 ft. or more from the front lot line shall be located nearer than 5 ft. to any side lot line.
+> 2. No building shall be located on any residential building plot nearer than 25 ft. to the front lot line, no nearer than 12 ft. to any side street line. No building except a garage or other out-building located 90 ft. or more from the front lot line shall be located nearer than 5 ft. to any side lot line.
 >
 > 3. No residential structure shall be erected or placed on any building plot, which lot has an area of less than 5750 square ft. or a width of less than 50 ft. at the front building setback line as shown on the recorded plat.
 >
