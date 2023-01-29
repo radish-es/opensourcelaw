@@ -29,7 +29,7 @@ The provisions of the restrictive covenant at 3000 Funston Street are included o
 >
 > 8. These covenants are to run with the land and shall be binding on all parts and all persons claiming under them until January 1, 1966 at which time said covenants shall be automatically extended for successive periods of ten years unless by vote of the majority of the then owners of the lots it is agreed to change the said covenants in whole or in part. 
 >
-> 9. If the parties hereto or any of them or their heirs or assigns shall violate or attempts to violate any of the covenants herein, it shall be lawful for any other person or persons owning any real property situated in said development or subdivision to prospector any proceedings at law or in equity against the person or person violating or attempting to violate any such covenant and whether to prevent him or them from so doing or to recover damages or other dues for such violations.
+> 9. If the parties hereto or any of them or their heirs or assigns shall violate or attempt to violate any of the covenants herein, it shall be lawful for any other person or persons owning any real property situated in said development or subdivision to prospector any proceedings at law or in equity against the person or person violating or attempting to violate any such covenant and whether to prevent him or them from so doing or to recover damages or other dues for such violations.
 >
 > 10. Invalidation of any one of these covenants by judgement or court order shall in no wise affect any of the other provisions which shall remain in full force and effect. 
 
