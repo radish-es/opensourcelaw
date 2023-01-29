@@ -23,7 +23,7 @@ The provisions of the restrictive covenant at 3000 Funston Street are included o
 >
 > 5. No persons of any race other than the white race shall use or occupy any building or any lot, except that this covenant shall not prevent occupant by domestic servants of a different race domiciled with an owner or tenant.
 >
-> 6. No trailer, basement, tent, shack, garage, barn or other out-building erected in the tract shall ay any time be used as a residence temporarily or permanently, nor shall any structure of a temporary character be used as a residence. 
+> 6. No trailer, basement, tent, shack, garage, barn or other out-building erected in the tract shall at any time be used as a residence temporarily or permanently, nor shall any structure of a temporary character be used as a residence. 
 >
 > 7. The ground floor area on the main residence structure erected on any building plot shall not be less than 750 square feet for Lots 1 to 16 inclusive, and not less than 850 square feed for Lots 17 to 21, inclusive each being exclusion of one stray open porches and garage.
 >
