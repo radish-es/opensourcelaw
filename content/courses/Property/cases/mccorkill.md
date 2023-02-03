@@ -1,16 +1,7 @@
 ---
-style: >-
-  McCorkill v. Streed, Executor of the Estate of Harry Robert McCorkill (aka
-  McCorkell), Deceased
+style: McCorkill v McCorkill (Estate)
 short: McCorkill v McCorkill (Estate)
 reporter: 2014 NBQB 148 (CanLII)
-tags:
-  - modern style
-  - racism
-  - public policy
-  - estates
-  - bequests
-  - wills
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/g8sgm'
@@ -20,11 +11,11 @@ sources:
 
 
 
-[*Harry McCorkill died in 2004, leaving his entire estate valued at over $200,000 as an unconditional gift to the National Alliance, a neo-Nazi group based in the United States. McCorkill's sister challenged the bequest as contrary to public policy.*]
+> [*Harry McCorkill died in 2004, leaving his entire estate valued at over $200,000 as an unconditional gift to the National Alliance, a neo-Nazi group based in the United States. McCorkill's sister challenged the bequest as contrary to public policy.*]
 
-### William T. Grant J. —
+### Grant J. —
 
-[…]
+> […]
 
 #### Applicant’s Grounds
 
@@ -44,7 +35,7 @@ In her amended Notice of Application, Ms. McCorkill sets out the following as th
 
 #### Analysis and Decision
 
-[…]
+> […]
 
 Section 319 of the *Criminal Code of Canada* makes the public incitement of hatred a criminal offence. Section 319(2) states:
 
@@ -54,11 +45,11 @@ Section 319 of the *Criminal Code of Canada* makes the public incitement of hatr
 > 
 > (b) an offence punishable on summary conviction.
 
-[…]
+> […]
 
 This brings me to the first salient question in this application, whether or not the NA disseminates information that is in violation of public policy in Canada.
 
-[…]
+> […]
 
 In my view engaging in activity which is prohibited by Parliament through the enactment of the *Criminal Code of Canada* falls squarely within the rubric of a public policy violation. In addition, as the applicant has pointed out, the NA’s various communications and activities contravene the values set out in the *Charter of Rights*, provincial human rights legislation as well as the International Conventions which Canada has signed all of which promote equality and the dignity of the person while prohibiting discrimination based on various grounds, including race and ethnic origin.
 
@@ -102,7 +93,7 @@ The evidence before the court convinces me that in the case of the NA the purpos
 
 It is also what makes this situation comparable, in my view, to a gift to a trustee for a purpose that is contrary to public policy. The law of wills is concerned with the intent of the testator and from the very fact that Mr. McCorkill left his entire estate to the NA I infer that he intended it to be used for their clearly stated, illegal purposes. For me to find that such a gift was valid would require that I ignore an overwhelming body of evidence. The Court of Appeal has made the point on more than one occasion that trial judges must not “check their common sense at the court room door”. Allowing this bequest to stand because it doesn’t repeat those stated purposes but bestows the bequest on the organization whose very existence is dedicated to achieving them would be doing just that, in my view.
 
-[…]
+> […]
 
 CAFE further submits that decisions such as this dealing with public policy should be left to Parliament and the Legislatures and that the courts should not interfere. (See also para. 59, *supra*.) That submission ignores the fact that Parliament has spoken loudly and clearly on this very subject in s. 319(2) of the *Criminal Code* as well as the fact that the *New Brunswick Legislature* has enacted the *Human Rights Act*, R.S.N.B. 1973 c. H-11, the preamble to which states, in part:
 

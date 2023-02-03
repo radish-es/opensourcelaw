@@ -2,14 +2,6 @@
 style: Canada Trust Co v Ontario (Human Rights Commission)
 short: Canada Trust
 reporter: '1990 CanLII 6849 (ON CA), [1990] 74 OR (2d) 481 (CA)'
-tags:
-  - modern style
-  - bequests
-  - wills
-  - human rights
-  - public policy
-  - trusts
-  - racism
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/g186s'
@@ -26,11 +18,12 @@ sources:
 
 
 
-### Robins J.A. (Osler J. (ad hoc) concurring) —
+
+### Robins J.A.  —
 
 The principal question in this appeal is whether the terms of a scholarship trust established in 1923 by the late Reuben Wells Leonard are now contrary to public policy.
 
-[…]
+> […]
 
 #### The Facts
 
@@ -155,11 +148,11 @@ To give effect to these reasons, I would strike out the recitals and remove all 
 
 ### Tarnopolsky J.A. —
 
-[…]
+> […]
 
 #### (2) Is the Trust Void in Whole or in Part Either for Uncertainty or Because it Violates Public Policy
 
-[…]
+> […]
 
 Next, it is necessary to consider whether the trust could be invalid because of uncertainty. It is important to note that in analyzing the validity of the trust on this basis, the Court may refer only to the operative words, unless they are ambiguous, in which case it can refer to the recitals. Regular rules of statutory construction apply (*Re Moon; Ex parte Dawes* (1886), 17 Q.B.D. 275, 34 W.R. 753 (C.A.)). Since recitals are descriptions of motive and are normally irrelevant to determining validity, McKeown J. held that they were irrelevant and inoperative. However, it could be argued that many sections of the Indenture refer to the recitals and thereby incorporate them. In fact, McKeown J. noted eight references, after the recitals, to the definition of the class of beneficiaries but then went on to state [at 214-215]:
 
