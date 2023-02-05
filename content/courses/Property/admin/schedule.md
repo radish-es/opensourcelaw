@@ -77,11 +77,11 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Restrictive Covenants** - This week we look an another important dimensions of local land use control—this type from the perspective of "private" planning instruments in the form of restrictive covenants. We look at key requirements for creating valid covenant, and then turn to the common law's troubled history of using discriminatory covenants to exclude certain groups and the courts' use of the public policy doctrine as a response.
 
-<!--
-
-### [Week 15 (Feb 9)](../../readings/week15)
+### [Week 16 (Feb 6/8)](../../materials/week16)
 
 **Qualified Interests** - This week, we return to the doctrine of estates introduced in Week 10. Based on this prior material, we extend our terminology to classify and understand the different types of interests that may be created by *inter vivos* transfer or testamentary bequest. These aspects will then lead us back to our study of the public policy doctrine and its application to qualified interests. 
+
+<!--
 
 ### [Week 16 (Feb 16)](../../readings/week16)
 
