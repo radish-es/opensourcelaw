@@ -199,7 +199,7 @@ The legal framework for *de facto* expropriation established in *Mariner* was mo
 
 - This argument between the judges is mainly semantics. There is no question that the majority's decision shifts the legal test to be applied in claims for compensation based on *de facto* expropriation. The important questions are about *how* the law has changed, *why* it has changed, and *who benefits* from the shift. 
 
-## Annapolis Group In. v Halifax Regional Municipality, 2022 SCC 36
+## Annapolis Group Inc. v Halifax Regional Municipality, 2022 SCC 36
 
 {{< figure src="/media/blue_mountain_map.jpg" caption="" >}}
 
