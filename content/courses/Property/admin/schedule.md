@@ -81,11 +81,11 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Qualified Interests** - This week, we return to the doctrine of estates introduced in Week 10. Based on this prior material, we extend our terminology to classify and understand the different types of interests that may be created by *inter vivos* transfer or testamentary bequest. These aspects will then lead us back to our study of the public policy doctrine and its application to qualified interests. 
 
-<!--
-
-### [Week 16 (Feb 16)](../../readings/week16)
+### [Week 17 (Feb 15)](../../materials/week16)
 
 **Review** - A chance to pause the introduction of new material and review what we have covered so far in Unit 3.
+
+<!--
 
 ### [Week 17 (Mar 2)](../../readings/week17)
 
