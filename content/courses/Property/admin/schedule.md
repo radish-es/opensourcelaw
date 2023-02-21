@@ -81,15 +81,15 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Qualified Interests** - This week, we return to the doctrine of estates introduced in Week 10. Based on this prior material, we extend our terminology to classify and understand the different types of interests that may be created by *inter vivos* transfer or testamentary bequest. These aspects will then lead us back to our study of the public policy doctrine and its application to qualified interests. 
 
-### [Week 17 (Feb 15)](../../materials/week16)
+### [Week 17 (Feb 15)](../../materials/week17)
 
 **Review** - A chance to pause the introduction of new material and review what we have covered so far in Unit 3.
 
+### [Week 18 (Feb 27/Mar 1)](../../materials/week18)
+
+**Reserve Lands and Aboriginal Title** - This week we return to the materials on Indigenous land rights from Unit 2, picking up on the development of the doctrine of Aboriginal title and examining the specific structure and challenges associated with Indigenous peoples' property rights in reserve lands. 
+
 <!--
-
-### [Week 17 (Mar 2)](../../readings/week17)
-
-**Reserve Lands** - This week we return to the materials on Indigenous land rights from Unit 2, picking up on the development of the doctrine of Aboriginal title and examining the specific structure and challenges associated with Indigenous peoples' property rights in reserve lands. 
 
 ## Unit 4: Contemporary Common Law Thought
 

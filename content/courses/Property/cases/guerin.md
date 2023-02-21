@@ -2,15 +2,6 @@
 style: Guerin v R
 short: Guerin
 reporter: '1984 CanLII 25 (SCC), [1984] 2 SCR 335'
-tags:
-  - modern style
-  - reserve lands
-  - title
-  - sovereignty
-  - underlying title
-  - fiduciary relationship
-  - colonialism
-  - Aboriginal title
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1lpfn'
@@ -21,7 +12,12 @@ sources:
 
 
 
-[*This case concerns the lease of valuable reserve lands situated within the geographical boundaries of the City of Vancouver. In 1957, members of the Musqueam Indian Band voted to "surrender" 162 acres of their reserve lands to the federal Crown on the understanding that these lands would in turn be leased by the Crown to the Shaughnessy Heights Golf Club for use as a golf course. Rents and other benefits from this lease were to be paid to band. The final terms on which the Crown ultimately leased the lands to Shaughnessy Heights, however, were very unfavourable to the band. The Chief and Councillors of the Musqueam Indian Band sued the Crown for breach of trust and damages in the amount of $10,000,000.*]
+
+{{% callout alert %}}
+
+*This case concerns the lease of reserve lands situated within the geographical boundaries of the City of Vancouver. In 1957, members of the Musqueam Indian Band voted to "surrender" 162 acres of their reserve lands to the federal Crown on the understanding that these lands would in turn be leased by the Crown to the Shaughnessy Heights Golf Club for use as a golf course. Rents and other benefits from this lease were to be paid to band. The final terms on which the Crown ultimately leased the lands to Shaughnessy Heights, however, were very unfavourable to the band. The Chief and Councillors of the Musqueam Indian Band sued the Crown for breach of trust and damages in the amount of $10,000,000.*
+
+{{% /callout %}}
 
 ### Dickson J. —
 
@@ -33,7 +29,7 @@ Before adverting to the facts, reference should be made to several of the releva
 
 The gist of the present action is a claim that the federal Crown was in breach of its trust obligations in respect of the leasing of approximately 162 acres of reserve land to the Shaughnessy Heights Golf Club of Vancouver. The band alleged that a number of the terms and conditions of the lease were different from those disclosed to them before the surrender vote and that some of the lease terms were not disclosed to them at all. The band also claimed failure on the part of the federal Crown to exercise the requisite degree of care and management as a trustee.
 
-[…]
+> […]
 
 #### IV. Fiduciary Relationship
 
@@ -119,6 +115,6 @@ While the existence of the fiduciary obligation which the Crown owes to the Indi
 
 In obtaining without consultation a much less valuable lease than that promised, the Crown breached the fiduciary obligation it owed the band. It must make good the loss suffered in consequence.
 
-[…]
+> […]
 
 *Appeal allowed.*
