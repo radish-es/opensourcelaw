@@ -89,17 +89,8 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Reserve Lands and Aboriginal Title** - This week we return to the materials on Indigenous land rights from Unit 2, picking up on the development of the doctrine of Aboriginal title and examining the specific structure and challenges associated with Indigenous peoples' property rights in reserve lands. 
 
-<!--
-
 ## Unit 4: Contemporary Common Law Thought
 
-### [Week 18 (Mar 9)](../../readings/week18)
+### [Week 19 (Mar 6/8)](../../materials/week19)
 
-**Back to Possession** - In order to introduce our final unit and the contemporary style of common law thought, we review the law on possession of both things and land and study its application in two recent cases. 
-
-
-
--->
-
-
-
+**Possession IV** - In order to introduce our final unit and the contemporary style of common law thought, we review the law on possession of both things and land and study its application in two recent cases. 
