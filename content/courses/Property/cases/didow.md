@@ -37,13 +37,12 @@ A resolution of the issue before the court turns on the extent of the rights acq
 
 The jurisprudence in this area of the law has developed from early English cases, before the advent of air traffic, where decisions were influenced by the maxim *cujus est solum, ejus est usque ad coelum et ad inferos* (referred to hereafter as “the Latin maxim”) which in simple language means that the owner of a piece of land owns everything above and below it to an indefinite extent.
 
-{{< spoiler text="The Ad Coelum Rule" >}}
+{{< spoiler text="Mini-Lecture: the Ad Coelum Rule" id="ad" >}}
 
 {{% callout exercise %}} 
 
-### Mini-Lecture
-
 {{< vimeo 684773265 >}}
+
 {{% /callout %}}{{< /spoiler >}}
 
 The authorities cited can, generally speaking, be divided into two groups:

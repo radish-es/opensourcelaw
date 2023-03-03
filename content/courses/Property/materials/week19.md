@@ -20,7 +20,14 @@ components:
   - title: 'Mini-Lecture: Popov, Didow and the Contemporary Style'
     filename: content/courses/Property/modules/popov_didow_contemporary_style_lecture.md
     _template: module
+  - title: Contemporary Adverse Possession
+    filename: content/courses/Property/modules/contemporary_adverse_possession.md
+    _template: module
+  - title: Keefer v Arillotta
+    filename: content/courses/Property/cases/keefer.md
+    _template: case
 ---
+
 
 
 
