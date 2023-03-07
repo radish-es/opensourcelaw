@@ -1,9 +1,9 @@
 ---
 title: Contemporary Aboriginal Title
 linktitle: Contemporary Aboriginal Title
-published: false
+published: true
 type: book
-weight: 19
+weight: 20
 components:
   - title: Aboriginal Title Doctrine
     filename: content/courses/Property/modules/aboriginal_title_four_dimensions.md
