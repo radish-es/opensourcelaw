@@ -1,8 +1,8 @@
 ---
 title: Mapping the Doctrine
-tags:
-  - Week 19
+short: Mapping
 ---
+
 
 The contemporary doctrine of Aboriginal title is complex and contains several elements that we have not yet encountered in our historical study of this area of law. Below is a map of the caselaw materials this week to help you develop your understanding of the doctrine with an eye toward addressing this week's case study.
 
@@ -12,7 +12,7 @@ The contemporary doctrine of Aboriginal title is complex and contains several el
 
 ### Step 1: Background
 
-First, start by establishing in your own mind the context of the two leading cases on Aboriginal title. Read [Delgamuukw, paras 1-8](#delgamuukw-v-british-columbia-1997-3-scr-1010) and [Tsilhqot'in, paras 1-24](#tsilhqotin-nation-v-british-columbia-2014-scc-44) for background on the parties and a brief review of the relevant caselaw. 
+First, start by establishing in your own mind the context of the two leading cases on Aboriginal title. Read [Delgamuukw, paras 1-8](#Delgamuukw) and [Tsilhqot'in, paras 1-24](#Tsilhqot'in) for background on the parties and a brief review of the relevant caselaw. 
 
 ### Step 2: Test for Proof of Title
 

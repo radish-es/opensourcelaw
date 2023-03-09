@@ -1,9 +1,8 @@
 ---
 title: 'Elsipogtog First Nation''s Claim to Aboriginal Title '
-short: ''
-tags:
-  - Week 19
+short: Elsipogtog
 ---
+
 
 
 In November 2016, Elsipogtog First Nation filed a Notice of Action and Statement of Claim in the New Brunswick Court of Queen's Bench. The following quotes from the press release issued by Elsipogtog in advance of that filing:
@@ -18,8 +17,7 @@ In November 2016, Elsipogtog First Nation filed a Notice of Action and Statement
 >
 > The claim comes at a time when both Indigenous and non-Indigenous people in New Brunswick have repeatedly raised concerns about government decisions pertaining to the lands and waters in Mi’kmaq territory.
 >
-> “Elsipogtog intends to continue to work with our Indigenous neighbours and our Canadian allies to ensure the protection of the lands and waters that sustain us,” said Chief Sock. “As part of the Mi’kmaq Nation we have a responsibility to act as stewards of our territory. Reasserting our right to make decisions about our lands and waters is an essential part of
-safeguarding Sikniktuk for all of our long-term benefit.”
+> “Elsipogtog intends to continue to work with our Indigenous neighbours and our Canadian allies to ensure the protection of the lands and waters that sustain us,” said Chief Sock. “As part of the Mi’kmaq Nation we have a responsibility to act as stewards of our territory. Reasserting our right to make decisions about our lands and waters is an essential part of safeguarding Sikniktuk for all of our long-term benefit.”
 
 Please read the following [special report about the claim by Elsipogtog First Nation,](https://www.cbc.ca/news2/interactives/a-mikmaq-seat-at-the-table/) written by Mi'kmaw journalist Oscar Baker III. Then consider the following questions:
 

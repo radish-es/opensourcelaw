@@ -2,21 +2,13 @@
 style: Delgamuukw v British Columbia
 short: Delgamuukw
 reporter: '1997 CanLII 302 (SCC), [1997] 3 SCR 1010'
-tags:
-  - contemporary style
-  - underlying title
-  - sovereignty
-  - restraints on alienation
-  - constitution
-  - Aboriginal title
-  - title
-  - colonialism
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1fqz8'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 ---
+
 
 
 
@@ -52,11 +44,11 @@ The most significant evidence of spiritual connection between the Houses and the
 
 [*After reviewing the history of the case at trial and at the British Columbia Court of Appeal, Chief Justice Lamer went on to address a procedural defect in the appellants' pleadings. The appellants on behalf of the Gitksan and Wet’suwet’en nations had initially made a claim for recognition of "ownership" and "jurisdiction" over their territorial lands. On appeal, the claimants had changed these to claims ones for a declaration of "Aboriginal title" and "self-government" respectively. No formal amendments had ever been made to the pleadings, however—a situation which British Columbia argued introduced significant prejudice. Chief Justice Lamer agreed and therefore decline to resolve the case on its merits. Nevertheless, the Court took the opportunity in Delgamuukw to elaborate in much more detail that it had previously the common law doctrine of Aboriginal title.*]
 
-[...]
+> [...]
 
 ### V. Analysis
 
-[…]
+> […]
 
 <span id="delg-content">**C. What is the content of aboriginal title, how is it protected by s. 35(1), and what is required for its proof?**</span>
 
@@ -119,7 +111,7 @@ Although this is not determinative, the conclusion that the content of aborigina
 
 In conclusion, the content of aboriginal title is not restricted to those uses which are elements of a practice, custom or tradition integral to the distinctive culture of the aboriginal group claiming the right. However, nor does aboriginal title amount to a form of inalienable fee simple, as I will now explain.
 
-##### (c) Inherent Limit: Lands held pursuant to aboriginal title cannot be used in a manner that is irreconcilable with the nature of the attachment to the land which forms the basis of the group’s claim to aboriginal title.
+##### (c) Inherent Limit
 
 The content of aboriginal title contains an inherent limit that lands held pursuant to title cannot be used in a manner that is irreconcilable with the nature of the claimants’ attachment to those lands. This limit on the content of aboriginal title is a manifestation of the principle that underlies the various dimensions of that special interest in land -- it is a *sui generis* interest that is distinct from “normal” proprietary interests, most notably fee simple.
 
