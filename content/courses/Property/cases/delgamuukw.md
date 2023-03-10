@@ -12,6 +12,7 @@ sources:
 
 
 
+
 ### II. Facts
 
 #### A. The Claim at Trial
@@ -50,7 +51,9 @@ The most significant evidence of spiritual connection between the Houses and the
 
 > […]
 
-<span id="delg-content">**C. What is the content of aboriginal title, how is it protected by s. 35(1), and what is required for its proof?**</span>
+> <span id="delg-content"></span>
+
+#### C. What is the content of aboriginal title, how is it protected by s. 35(1), and what is required for its proof?
 
 #### (1) Introduction
 
@@ -154,9 +157,11 @@ Because aboriginal rights can vary with respect to their degree of connection wi
 
 > does not alter the fact that nomadic peoples survived through reliance on the land prior to contact with Europeans and, further, that many of the practices, customs and traditions of nomadic peoples that took place on the land were integral to their distinctive cultures.
 
-<span id = "delg-proof"> *(e) Proof of Aboriginal title* </span>
+> <span id = "delg-proof"> </span>
 
-#### (i) Introduction
+##### (e) Proof of Aboriginal title
+
+###### (i) Introduction
 
 In addition to differing in the degree of connection with the land, aboriginal title differs from other aboriginal rights in another way. To date, the Court has defined aboriginal rights in terms of *activities*. As I said in *Vanderpeet* (at para. 46):
 > in order to be an aboriginal right an activity must be an element of a practice, custom or tradition integral to the distinctive culture of the aboriginal group claiming the right. [Emphasis added.]
@@ -171,11 +176,11 @@ Since the purpose of s. 35(1) is to reconcile the prior presence of aboriginal p
 
 The adaptation of the test laid down in *Vanderpeet* to suit claims to title must be understood as the recognition of the first aspect of that prior presence. However, as will now become apparent, the tests for the identification of aboriginal rights to engage in particular activities and for the identification of aboriginal title share broad similarities. The major distinctions are first, under the test for aboriginal title, the requirement that the land be integral to the distinctive culture of the claimants is subsumed by the requirement of occupancy, and second, whereas the time for the identification of aboriginal rights is the time of first contact, the time for the identification of aboriginal title is the time at which the Crown asserted sovereignty over the land.
 
-#### (ii) The test for the proof of Aboriginal title
+######  (ii) The test for the proof of Aboriginal title
 
 In order to make out a claim for aboriginal title, the aboriginal group asserting title must satisfy the following criteria: (i) the land must have been occupied prior to sovereignty, (ii) if present occupation is relied on as proof of occupation pre-sovereignty, there must be a continuity between present and pre-sovereignty occupation, and (iii) at sovereignty, that occupation must have been exclusive.
 
-##### The land must have been occupied prior to sovereignty.
+**The land must have been occupied prior to sovereignty.**
 
 In order to establish a claim to aboriginal title, the aboriginal group asserting the claim must establish that it occupied the lands in question at the *time at which the Crown asserted sovereignty over the land subject to the title*. The relevant time period for the establishment of title is, therefore, different than for the establishment of aboriginal rights to engage in specific activities. In *Vanderpeet*, I held, at para. 60 that “[t]he time period that a court should consider in identifying whether the right claimed meets the standard of being integral to the aboriginal community claiming the right is the period prior to contact….”. This arises from the fact that in defining the central and distinctive attributes of pre-existing aboriginal societies it is necessary to look to a time prior to the arrival of Europeans. Practices, customs or traditions that arose solely as a response to European influences do not meet the standard for recognition as aboriginal rights.
 
