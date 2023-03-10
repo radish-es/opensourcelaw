@@ -94,3 +94,7 @@ We will meet in Weldon Room 207 throughout the year.
 ### [Week 19 (Mar 6/8)](../../materials/week19)
 
 **Possession IV** - In order to introduce our final unit and the contemporary style of common law thought, we review the law on possession of both things and land and study its application in two recent cases. 
+
+### [Week 20 (Mar 13/15)](../../materials/week20)
+
+**Contemporary Aboriginal Title** - We now arrive at the two contemporary cases that define the scope, source and content of the common law doctrine of Aboriginal title. We will study the reasons in these cases in depth, linking back to the historical development of the doctrine and discussing its current applications and implications. 
