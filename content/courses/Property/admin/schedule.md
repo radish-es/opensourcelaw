@@ -98,3 +98,7 @@ We will meet in Weldon Room 207 throughout the year.
 ### [Week 20 (Mar 13/15)](../../materials/week20)
 
 **Contemporary Aboriginal Title** - We now arrive at the two contemporary cases that define the scope, source and content of the common law doctrine of Aboriginal title. We will study the reasons in these cases in depth, linking back to the historical development of the doctrine and discussing its current applications and implications. 
+
+### [Week 21 (Mar 20/22)](../../materials/week21)
+
+**Contemporary Takings** - To complete our study of *de facto* expropriation we revisit our case study of the Birch Cove-Blue Mountain wilderness area in the Halifax Regional Municipality. This week we read the two seminal contemporary cases on *de facto* expropriation from the Supreme Court, including the Court's recent decision on the facts of our case study.
