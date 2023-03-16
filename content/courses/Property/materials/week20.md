@@ -1,5 +1,5 @@
 ---
-title: Contemporary Aboriginal Title
+title: Week 20 - Contemporary Aboriginal Title
 linktitle: Contemporary Aboriginal Title
 published: true
 type: book
@@ -30,6 +30,7 @@ components:
     filename: content/courses/Property/modules/litigation_negotiation_reconciliation.md
     _template: module
 ---
+
 
 
 

@@ -1,11 +1,6 @@
 ---
 style: 'Canada-United States-Mexico Agreement, Article 14'
 short: CUSMA
-tags:
-  - industry
-  - international law
-  - de facto expropriation
-  - expropriation
 sources:
   - source_name: The Government of Canada
     source_url: >-
@@ -15,6 +10,7 @@ sources:
       This excerpt is a reproduction of the original version available at
       https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cusma-aceum/text-texte/toc-tdm.aspx?lang=eng.
 ---
+
 
 
 
