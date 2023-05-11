@@ -1,8 +1,8 @@
 ---
 title: Aboriginal Title Doctrine
-tags:
-  - Week 19
+short: Aboriginal Title Doctrine
 ---
+
 
 
 {{% callout warning %}} 

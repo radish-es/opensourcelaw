@@ -58,47 +58,47 @@ We will meet in Weldon Room 207 throughout the year.
 
 **Treaties** - In this final class of the term we will circle back to core questions of the relationship between land and property through the lens of the Peace & Friendship Treaties. 
 
-<!--
-
 ## Unit 3: Modern Common Law Thought
 
-### [Week 11 (Jan 12)](../../readings/week11)
+### [Week 12 (Jan 9/Jan 11)](../../materials/week12)
 
 **Land Use Control I** - In our first class on the modern style of common law thought, we will return to the issue of expropriation to examine how the Canadian law on *de facto* takings emerged and developed. We will use the recent controversy around the Blue Mountain-Birch Cove Wilderness area in Halifax to ground our study of the legal issues and context. 
 
-### [Week 12 (Jan 19)](../../readings/week12)
+### [Week 13 (Jan 16/18)](../../materials/week13)
 
 **Land Use Control II** - We continue to look at questions of land use control, this week from the perspective of the doctrine of *acquired rights*. The materials explore the question of whether acquired rights come from, and whether and how their scope can change over time.
 
-### [Week 13 (Jan 26)](../../readings/week13)
 
-**Homelessness and the Right to Shelter** - The right to shelter is an emerging constitutional right in Canada protected under section 7 of the *Charter*. It is a right that continues to evolve rapidly, alongside growing numbers of people experiencing chronic homelessness in Canadian cities. The ways in which the courts have constructed the right to shelter on an empirical basis linked to the availability of shelter options raises key questions about this type of heavy functionalist approach.
+### [Week 14 (Jan 23/25)](../../materials/week14)
 
-### [Week 14 (Feb 2)](../../readings/week14)
+**The Right to Shelter** - The right to shelter is an emerging constitutional right in Canada protected under section 7 of the *Charter*. It is a right that continues to evolve rapidly, alongside growing numbers of people experiencing chronic homelessness in Canadian cities. The ways in which the courts have constructed the right to shelter on an empirical basis linked to the availability of shelter options and the degree to which they have considered the needs and choices of unhoused persons raises key questions about how the right to shelter has be shaped in the modern style.
+
+### [Week 15 (Jan 30/Feb1)](../../materials/week15)
 
 **Restrictive Covenants** - This week we look an another important dimensions of local land use control—this type from the perspective of "private" planning instruments in the form of restrictive covenants. We look at key requirements for creating valid covenant, and then turn to the common law's troubled history of using discriminatory covenants to exclude certain groups and the courts' use of the public policy doctrine as a response.
 
-### [Week 15 (Feb 9)](../../readings/week15)
+### [Week 16 (Feb 6/8)](../../materials/week16)
 
 **Qualified Interests** - This week, we return to the doctrine of estates introduced in Week 10. Based on this prior material, we extend our terminology to classify and understand the different types of interests that may be created by *inter vivos* transfer or testamentary bequest. These aspects will then lead us back to our study of the public policy doctrine and its application to qualified interests. 
 
-### [Week 16 (Feb 16)](../../readings/week16)
+### [Week 17 (Feb 15)](../../materials/week17)
 
 **Review** - A chance to pause the introduction of new material and review what we have covered so far in Unit 3.
 
-### [Week 17 (Mar 2)](../../readings/week17)
+### [Week 18 (Feb 27/Mar 1)](../../materials/week18)
 
-**Reserve Lands** - This week we return to the materials on Indigenous land rights from Unit 2, picking up on the development of the doctrine of Aboriginal title and examining the specific structure and challenges associated with Indigenous peoples' property rights in reserve lands. 
+**Reserve Lands and Aboriginal Title** - This week we return to the materials on Indigenous land rights from Unit 2, picking up on the development of the doctrine of Aboriginal title and examining the specific structure and challenges associated with Indigenous peoples' property rights in reserve lands. 
 
 ## Unit 4: Contemporary Common Law Thought
 
-### [Week 18 (Mar 9)](../../readings/week18)
+### [Week 19 (Mar 6/8)](../../materials/week19)
 
-**Back to Possession** - In order to introduce our final unit and the contemporary style of common law thought, we review the law on possession of both things and land and study its application in two recent cases. 
+**Possession IV** - In order to introduce our final unit and the contemporary style of common law thought, we review the law on possession of both things and land and study its application in two recent cases. 
 
+### [Week 20 (Mar 13/15)](../../materials/week20)
 
+**Contemporary Aboriginal Title** - We now arrive at the two contemporary cases that define the scope, source and content of the common law doctrine of Aboriginal title. We will study the reasons in these cases in depth, linking back to the historical development of the doctrine and discussing its current applications and implications. 
 
--->
+### [Week 21 (Mar 20/22)](../../materials/week21)
 
-
-
+**Contemporary Takings** - To complete our study of *de facto* expropriation we revisit our case study of the Birch Cove-Blue Mountain wilderness area in the Halifax Regional Municipality. This week we read the two seminal contemporary cases on *de facto* expropriation from the Supreme Court, including the Court's recent decision on the facts of our case study.

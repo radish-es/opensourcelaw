@@ -1,7 +1,7 @@
 ---
 title: Review
 linktitle: Review
-published: false
+published: true
 type: book
 weight: 16
 components:

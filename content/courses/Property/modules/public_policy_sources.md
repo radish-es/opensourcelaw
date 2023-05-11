@@ -1,8 +1,8 @@
 ---
 title: 'Sources of Public Policy '
-tags:
-  - Week 14
+short: Sources
 ---
+
 
 One of the more remarkable aspects of the decision in *Re Drummond Wren* is its reliance on different sources of domestic and international law to ground the Court's finding that the restrictive covenant in issue was contrary to public policy. As you analyze the *3000 Funston Street* problem for this week, consider what role the following sources might play. 
 

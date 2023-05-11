@@ -1,8 +1,8 @@
 ---
 title: First Possession Revisited
-tags:
-  - Week 18
+short: Revisited
 ---
+
 
 {{% callout exercise %}} 
 

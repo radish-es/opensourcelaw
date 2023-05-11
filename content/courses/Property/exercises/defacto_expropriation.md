@@ -3,7 +3,8 @@ title: Mariner's De Facto Expropriation Test
 short: Mariner Test
 ---
 
+A key learning outcome this week is to be able to identify and apply the core elements of the legal test for *de fact* expropriation that emerges from *Mariner*. After reading the case in full and trying to articulate the elements of this test for yourself, take the following quiz to evaluate what you've learned about the emerging doctrine in this area. 
 
-<iframe src="https://opensourcelaw.limesurvey.net/446224?lang=en" height="800" frameBorder="0"></iframe>
+{{< limesurvey code="446224" >}}
 
-<p><span class="not_working">Form not working? Try enabling cookies, or <a href="https://opensourcelaw.limesurvey.net/446224" target="_blank">open in a new tab</a>.</span></p>
+Once you've completed the quiz, return to the Blue Mountain-Birch Cove problem and consider how the dispute might be resolved under the test established in *Mariner*. 

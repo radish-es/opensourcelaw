@@ -1,8 +1,8 @@
 ---
 title: 'Litigation, Negotiation, and Reconciliation'
-tags:
-  - Week 19
+short: Litigation
 ---
+
 
 In concluding our study of the common law doctrine of Aboriginal title, it is useful to step back for a moment to place the instances of litigation we have explored into a broader context. As we discussed at length in Week 7, litigation to "prove" Aboriginal title comes with many legal and other risks and challenges for Indigenous nations, and is not the only—or necessarily the best—route toward recognizing and affirming Indigenous land rights and legal authorities. 
 

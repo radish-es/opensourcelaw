@@ -1,7 +1,6 @@
 ---
 title: Review Questions
 tags:
-  - Week 16
 ---
 
 

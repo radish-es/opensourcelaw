@@ -1,8 +1,8 @@
 ---
 title: Duty to Consult
-tags:
-  - Week 19
+short: Duty
 ---
+
 
 You will note that in the final paragraphs excerpted from *Tsilhqot'in Nation*, above, the Supreme Court found that the Province of British Columbia breached its duty to consult with the Tsilhqot'in Nation prior to granting forestry licences to third parties on territorial lands. That duty was engaged when the Province began the planning process for removing timber on the land. 
 

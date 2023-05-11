@@ -1,16 +1,14 @@
 ---
-style: 'Indian Act '
+style: 'Indian Act, RSC 1985, c I-5'
 short: Indian Act
-reporter: 'RSC 1985, c I-5'
-tags:
-  - reserve lands
-  - colonialism
+reporter: ''
 sources:
   - source_name: Justice Laws Website
     source_url: 'https://laws-lois.justice.gc.ca/eng/acts/i-5/'
     license: ' https://laws-lois.justice.gc.ca/eng/regulations/SI-97-5/page-1.html'
     attribution: Not an official version.
 ---
+
 
 
 

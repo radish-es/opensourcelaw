@@ -2,13 +2,9 @@
 style: Popov v Hayashi
 short: Popov
 reporter: (Cal Sup 2002)
-tags:
-  - contemporary style
-  - balancing rights
-  - first possession
-  - possession
 public: true
 ---
+
 
 
 
@@ -110,15 +106,15 @@ The opposite is true of a baseball hit into the stands of a stadium. Not only is
 
 The central tenant of Gray’s Rule is that the actor must retain control of the ball after incidental contact with people and things. Mr. Popov has not established by a preponderance of the evidence that he would have retained control of the ball after all momentum ceased and after any incidental contact with people or objects. Consequently, he did not achieve full possession.
 
-{{< spoiler text="Gray's Rule vs FInkelman/Bernhardt's Rule" >}}
+{{< spoiler text="Mini-Lecture: Gray's Rule vs FInkelman/Bernhardt's Rule" id="one" >}}
 
 {{% callout exercise %}} 
 
-### Mini-Lecture: Rule of Possession
-
 {{< vimeo 684772872 >}}
 
-{{% /callout %}}{{< /spoiler >}}
+{{% /callout %}}
+
+{{< /spoiler >}}
 
 That finding, however, does not resolve the case. The reason we do not know whether Mr. Popov would have retained control of the ball is not because of incidental contact. It is because he was attacked. His efforts to establish possession were interrupted by the collective assault of a band of wrongdoers.
 
@@ -181,9 +177,12 @@ The parties are ordered to meet and confer forthwith before Judge Richard Kramer
 The court retains jurisdiction to issue orders consistent with this decision. The ball is to remain in the custody of the court until further order.
 
 
-{{< spoiler text="The Result in Popov" >}}
+{{< spoiler text="Mini-Lecture: The Result in Popov"  id="two"  >}}
 
 {{% callout exercise %}} 
 
 {{< vimeo 684773141 >}}
-{{% /callout %}}{{< /spoiler >}}
+
+{{% /callout %}}
+
+{{< /spoiler >}}

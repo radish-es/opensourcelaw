@@ -8,7 +8,7 @@ Remember *[McLaren v Caldwell](../week8/#Water%20Rights%20and%20Expropriation)*,
 
  **Refresh your memory:** Justice Ritchie (SCC) expressed a key principle of statutory interpretation in *McLaren v Caldwell*, which he used to resolve the issue of constructive expropriation.  
 
-- What is this principle (check out paragraph 16 of Ritchie's judgement)?
+- What is this principle (check out paragraph 14 of Ritchie's judgement)?
 
 - In what way was this principle a product of the classical style?
 

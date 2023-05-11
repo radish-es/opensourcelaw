@@ -2,22 +2,13 @@
 style: Tsilhqot’in Nation v. British Columbia
 short: Tsilhqot'in
 reporter: 2014 SCC 44 (CanLII)
-tags:
-  - contemporary style
-  - underlying title
-  - terra nullius
-  - sovereignty
-  - restraints on alienation
-  - constitution
-  - Aboriginal title
-  - title
-  - colonialism
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/g7mt9'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 ---
+
 
 
 
@@ -103,7 +94,9 @@ Second, in these cases, the evidence as to how the land was used may be uncertai
 
 Third, cases such as this require an approach that results in decisions based on the best evidence that emerges, not what a lawyer may have envisaged when drafting the initial claim. What is at stake is nothing less than justice for the Aboriginal group and its descendants, and the reconciliation between the group and broader society. A technical approach to pleadings would serve neither goal. It is in the broader public interest that land claims and rights issues be resolved in a way that reflects the substance of the matter. Only thus can the project of reconciliation this Court spoke of in *Delgamuukw* be achieved.
 
-<span id="tsil-proof">**V. Is Aboriginal Title Established?**</span>
+> <span id="tsil-proof"></span>
+
+#### V. Is Aboriginal Title Established?
 
 ##### A. The Test for Aboriginal Title
 
@@ -219,22 +212,21 @@ This said, I have accepted the Province’s invitation to review the maps and th
 
 The trial judge divided the claim area into six regions and then considered a host of individual sites within each region. He examined expert archeological evidence, historical evidence and oral evidence from Aboriginal elders referring to these specific sites. At some of these sites, although the evidence did suggest a Tsilhqot’in presence, he found it insufficient to establish regular and exclusive occupancy. At other sites, he held that the evidence did establish regular and exclusive occupancy. By examining a large number of individual sites, the trial judge was able to infer the boundaries within which the Tsilhqot’in regularly and exclusively occupied the land. The trial judge, in proceeding this way, made no legal error.
 
- The Province also criticises the trial judge for offering his opinion on areas outside the claim area. This, the Province says, went beyond the mandate of a trial judge who should pronounce only on pleaded matters.
+The Province also criticises the trial judge for offering his opinion on areas outside the claim area. This, the Province says, went beyond the mandate of a trial judge who should pronounce only on pleaded matters.
 
 In my view, this criticism is misplaced. It is clear that no declaration of title could be made over areas outside those pleaded. The trial judge offered his comments on areas outside the claim area, not as binding rulings in the case, but to provide assistance in future land claims negotiations. Having canvassed the evidence and arrived at conclusions on it, it made economic and practical sense for the trial judge to give the parties the benefit of his views. Moreover, as I noted earlier in discussing the proper approach to pleadings in cases where Aboriginal title is at issue, these cases raise special considerations. Often, the ambit of a claim cannot be drawn with precision at the commencement of proceedings. The true state of affairs unfolds only gradually as the evidence emerges over what may be a lengthy period of time. If at the end of the process the boundaries of the initial claim and the boundaries suggested by the evidence are different, the trial judge should not be faulted for pointing that out.
 
 I conclude that the trial judge was correct in his assessment that the Tsilhqot’in occupation was both sufficient and exclusive at the time of sovereignty. There was ample direct evidence of occupation at sovereignty, which was additionally buttressed by evidence of more recent continuous occupation.
 
-{{< spoiler text="Mini-Lecture: Prooving Aboriginal Title" >}}
-
-{{% callout exercise %}} 
-
-### Proof of Title
+{{< spoiler text="Mini-Lecture: Proving Aboriginal Title" id="proving" >}}
 
 {{< vimeo 687181885 >}}
-{{% /callout %}}{{< /spoiler >}}
 
-<span id="tsil-content">**VI. What Rights Does Aboriginal Title Confer?**</span>
+{{< /spoiler >}}
+
+> <span id="tsil-content"></span>
+
+#### VI. What Rights Does Aboriginal Title Confer?
 
 As we have seen, *Delgamuukw* establishes that Aboriginal title “encompasses the right to exclusive use and occupation of the land held pursuant to that title for a variety of purposes” (at para. 117), including non-traditional purposes, provided these uses can be reconciled with the communal and ongoing nature of the group’s attachment to the land. Subject to this inherent limit, the title-holding group has the right to choose the uses to which the land is put and to enjoy its economic fruits (para. 166).
 
@@ -260,16 +252,15 @@ The rights and restrictions on Aboriginal title flow from the legal interest Abo
 
 The right to control the land conferred by Aboriginal title means that governments and others seeking to use the land must obtain the consent of the Aboriginal title holders. If the Aboriginal group does not consent to the use, the government’s only recourse is to establish that the proposed incursion on the land is justified under s. 35 of the *Constitution Act, 1982.*
 
-{{< spoiler text="Mini-Lecture: Content and Source" >}}
-
-{{% callout exercise %}} 
-
-### Content and Source
+{{< spoiler text="Mini-Lecture: Content and Source" id="source" >}}
 
 {{< vimeo 687182514 >}}
-{{% /callout %}}{{< /spoiler >}}
 
-<span id="tsil-infringe">***C. Justification of Infringement***</span>
+{{< /spoiler >}}
+
+> <span id="tsil-infringe"></span>
+
+##### C. Justification of Infringement
 
 To justify overriding the Aboriginal title-holding group’s wishes on the basis of the broader public good, the government must show: (1) that it discharged its procedural duty to consult and accommodate, (2) that its actions were backed by a compelling and substantial objective; and (3) that the governmental action is consistent with the Crown’s fiduciary obligation to the group: *Sparrow*.
 
@@ -299,15 +290,11 @@ Second, the Crown’s fiduciary duty infuses an obligation of proportionality in
 
 In summary, Aboriginal title confers on the group that holds it the exclusive right to decide how the land is used and the right to benefit from those uses, subject to one carve-out — that the uses must be consistent with the group nature of the interest and the enjoyment of the land by future generations. Government incursions not consented to by the title-holding group must be undertaken in accordance with the Crown’s procedural duty to consult and must also be justified on the basis of a compelling and substantial public interest, and must be consistent with the Crown’s fiduciary duty to the Aboriginal group.
 
-{{< spoiler text="Mini-Lecture: Infringement" >}}
-
-{{% callout exercise %}} 
-
-### Infringement
+{{< spoiler text="Mini-Lecture: Infringement" id="infringe" >}}
 
 {{< vimeo 687182923 >}}
 
-{{% /callout %}}{{< /spoiler >}}
+{{< /spoiler >}}
 
 ##### D. Remedies and Transition
 

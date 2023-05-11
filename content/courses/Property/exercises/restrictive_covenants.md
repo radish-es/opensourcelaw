@@ -1,8 +1,8 @@
 ---
 title: 'Restrictive Covenants '
-tags:
-  - Week 14
+short: Restrictive Covenants Exercise
 ---
+
 
 
 {{< figure src="/media/housing_sign.jpg" caption="Sign on a traffic post at the Robie Street / Willow Tree intersection in Halifax." >}}
@@ -13,9 +13,9 @@ The provisions of the restrictive covenant at 3000 Funston Street are included o
 
 > All lots in Brukenwoods Annex shall be subject to the following restrictions, covenants and conditions:
 >
-> 1. All lots in the tract shall be known and described as residential lots. No structures shall be erected, altered, placed or permitted to remain on any residential building plot other than one detached single family residence, or one duplex apartment, except that private garages for not more than three cars may be constructed and may be attached to or detached from the main residence structure, and servants quarters or one garage apartment Amy be constructed only after the main residence structure is completed.
+> 1. All lots in the tract shall be known and described as residential lots. No structures shall be erected, altered, placed or permitted to remain on any residential building plot other than one detached single family residence, or one duplex apartment, except that private garages for not more than three cars may be constructed and may be attached to or detached from the main residence structure, and servants quarters or one garage apartment may be constructed only after the main residence structure is completed.
 >
-> 2. No building shall be located on any residential building plot near than 25 ft. to the front lot line, no nearer than 12 ft. to any side street line. No building except a garage or other out-building located 90 ft. or more from the front lot line shall be located nearer than 5 ft. To any side lot line.
+> 2. No building shall be located on any residential building plot nearer than 25 ft. to the front lot line, no nearer than 12 ft. to any side street line. No building except a garage or other out-building located 90 ft. or more from the front lot line shall be located nearer than 5 ft. to any side lot line.
 >
 > 3. No residential structure shall be erected or placed on any building plot, which lot has an area of less than 5750 square ft. or a width of less than 50 ft. at the front building setback line as shown on the recorded plat.
 >
@@ -23,13 +23,13 @@ The provisions of the restrictive covenant at 3000 Funston Street are included o
 >
 > 5. No persons of any race other than the white race shall use or occupy any building or any lot, except that this covenant shall not prevent occupant by domestic servants of a different race domiciled with an owner or tenant.
 >
-> 6. No trailer, basement, tent, shack, garage, barn or other out-building erected in the tract shall ay any time be used as a residence temporarily or permanently, nor shall any structure of a temporary character be used as a residence. 
+> 6. No trailer, basement, tent, shack, garage, barn or other out-building erected in the tract shall at any time be used as a residence temporarily or permanently, nor shall any structure of a temporary character be used as a residence. 
 >
-> 7. The ground floor area on the main residence structure erected on any building plot shall not be less than 750 square feet for Lots 1 to 16 inclusive, and not less than 850 square feed for Lots 17 to 21, inclusive each being exclusion of one stray open porches and garage.
+> 7. The ground floor area on the main residence structure erected on any building plot shall not be less than 750 square feet for Lots 1 to 16, inclusive, and not less than 850 square feed for Lots 17 to 21, inclusive, each being exclusive of one story open porches and garages.
 >
-> 8. These covenants are to run with the land and shall be binding on all parts and all persons claiming under them until January 1, 1966 at which time aside covenants shall be auto magically extended for successive periods of ten years unless by vote of the majority of the then owners of the lots it is agreed to change the said covenants in whole or in part. 
+> 8. These covenants are to run with the land and shall be binding on all parts and all persons claiming under them until January 1, 1966 at which time said covenants shall be automatically extended for successive periods of ten years unless by vote of the majority of the then owners of the lots it is agreed to change the said covenants in whole or in part. 
 >
-> 9. If the parties hereto or any of them or their heirs or assigns shall violate or attempts to violate any of the covenants herein, it shall be lawful for any other person or persons owning any real property situated in said development or subdivision to prospector any proceedings at law or in equity against the person or person violating or attempting to violate any such covenant and whether to prevent him or them from so doing or to recover damages or other dues for such violations.
+> 9. If the parties hereto or any of them or their heirs or assigns shall violate or attempt to violate any of the covenants herein, it shall be lawful for any other person or persons owning any real property situated in said development or subdivision to prospector any proceedings at law or in equity against the person or person violating or attempting to violate any such covenant and whether to prevent him or them from so doing or to recover damages or other dues for such violations.
 >
 > 10. Invalidation of any one of these covenants by judgement or court order shall in no wise affect any of the other provisions which shall remain in full force and effect. 
 

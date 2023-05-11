@@ -2,22 +2,13 @@
 style: Canadian Pacific Railway Co. v Vancouver (City)
 short: CPR
 reporter: 2006 SCC 5 (CanLII)
-tags:
-  - contemporary style
-  - public property
-  - bylaws
-  - exclusion
-  - zoning
-  - land use control
-  - land uses
-  - de facto expropriation
-  - expropriation
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/1mm2r'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 ---
+
 
 
 

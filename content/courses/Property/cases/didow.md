@@ -2,20 +2,13 @@
 style: Didow v Alberta Power Ltd
 short: Didow
 reporter: 1988 ABCA 257 (CanLII)
-tags:
-  - contemporary style
-  - possession
-  - airspace
-  - balancing rights
-  - land uses
-  - trespass
-  - public property
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/2dm47'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: Not an official version.
 ---
+
 
 
 
@@ -44,13 +37,12 @@ A resolution of the issue before the court turns on the extent of the rights acq
 
 The jurisprudence in this area of the law has developed from early English cases, before the advent of air traffic, where decisions were influenced by the maxim *cujus est solum, ejus est usque ad coelum et ad inferos* (referred to hereafter as “the Latin maxim”) which in simple language means that the owner of a piece of land owns everything above and below it to an indefinite extent.
 
-{{< spoiler text="The Ad Coelum Rule" >}}
+{{< spoiler text="Mini-Lecture: the Ad Coelum Rule" id="ad" >}}
 
 {{% callout exercise %}} 
 
-### Mini-Lecture
-
 {{< vimeo 684773265 >}}
+
 {{% /callout %}}{{< /spoiler >}}
 
 The authorities cited can, generally speaking, be divided into two groups:

@@ -2,18 +2,13 @@
 style: Stuartburn (Municipality) v Kiansky
 short: Stuartburn
 reporter: 2001 MBQB 94 (CanLII)
-tags:
-  - title
-  - possession
-  - qualified interests
-  - interests
-  - estates
 sources:
   - source_name: CanLII
     source_url: 'https://canlii.ca/t/4vq5.'
     license: 'https://www.canlii.org/en/info/terms.html#license'
     attribution: 'Not an official version. '
 ---
+
 
 
 
@@ -93,7 +88,7 @@ Counsel for the Municipality referred to a tax publication, *Goodman on Estate P
 
 For all the reasons above expressed, the conclusion I have reached, therefore, is that Kiansky’s remainder interest allows him to be classified as a present owner of a freehold estate in the Municipality. This meets the requirement of s. 5(1) of the *L.A.E. Act*.
 
-[…]
+> […]
 
 In the result then, for the reasons stated, I hold that Kiansky did not become disqualified as the Municipality has alleged, and at all material times was entitled to be an elector and hold office as Reeve.
 
