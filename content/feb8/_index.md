@@ -9,7 +9,7 @@ icon_pack: fas
 
 [{{< figure src="/media/urban_development.jpg" caption="Source: Ivan Bandura on Unsplash" >}}](https://unsplash.com/photos/0-no6ywKMPY) 
 
-[Professor Jamie Baxter](https://baxterlab.ca/authors/baxter/) from the Schulich School of Law will be in class on February 8 to discuss the issue of ***de facto* expropriation**.
+[Professor Jamie Baxter](https://baxterlab.ca/authors/baxter/) from the Schulich School of Law will be in class on February 5 to discuss the issue of ***de facto* expropriation**.
 
 **On the agenda:** *De facto* expropriations (or *regulatory takings*) have been top of mind for planners and municipal governments after the Supreme Court of Canada's big decision in *Annapolis Group Inc. v Halifax Regional Municipality* last October. 
 
