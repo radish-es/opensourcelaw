@@ -9,15 +9,17 @@ icon_pack: fas
 
 [{{< figure src="/media/urban_development.jpg" caption="Source: Ivan Bandura on Unsplash" >}}](https://unsplash.com/photos/0-no6ywKMPY) 
 
-[Professor Jamie Baxter](https://baxterlab.ca/authors/baxter/) from the Schulich School of Law will be in class on February 5 to discuss the issue of ***de facto* expropriation**.
+Professor Jamie Baxter from the Schulich School of Law will be in class on January 21 to discuss the issue of ***de facto* expropriation**.
 
-**On the agenda:** *De facto* expropriations (or *regulatory takings*) have been top of mind for planners and municipal governments after the Supreme Court of Canada's big decision in *Annapolis Group Inc. v Halifax Regional Municipality* last October. 
+**On the agenda:** *De facto* expropriations (or *regulatory takings*) have been top of mind for planners and municipal governments after the Supreme Court of Canada's big decision in *Annapolis Group Inc. v Halifax Regional Municipality* a few years ago. 
 
 - At issue in the case was a set of land use planning and zoning decisions taken by the Halifax Regional Municipality (HRM) to help conserve a peri-urban wilderness area called [Blue Mountain-Birch Cove](https://bluemountainfriends.ca).
 
 - The Court said that the HRM may have taken regulatory action tantamount to "expropriating" a private developer's property, triggering obligations to pay compensation under Nova Scotia's *Expropriation Act*.
 
 - Some [environmental groups](https://ecojustice.ca/case/preserving-governments-ability-to-regulate-land-usage-to-protect-the-environment/) worry that the *Annapolis* decision has opened the door too wide for private property owners to demand payment when public development controls impact their land. The case has the potential to significantly raise the public costs of land use planning. 
+
+- In Halifax, litigation around the Blue Mountain-Birch Cove lands is ongoing, and Nova Scotia has made some [recent legal moves](https://www.cbc.ca/news/canada/nova-scotia/n-s-designates-new-special-planning-area-near-blue-mountain-birch-cove-lakes-1.7536939) to fast-track development in the area.
 
 {{< spoiler text="Learn more" id="main" >}}
 
